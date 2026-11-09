@@ -1,0 +1,37 @@
+{
+  "volledige route": {
+    "steps": 3225,
+    "chapters": 24,
+    "sections": 262,
+    "pins": 297,
+    "pin_bytes": 43860,
+    "risk_flags": 100,
+    "pin_reasons": {
+      "not_safe_to_pin": 2512,
+      "unresolved_location": 247,
+      "compound_task": 97,
+      "gecontroleerde plaatsbron": 297,
+      "safety_avoidance": 4,
+      "multiple_locations": 19,
+      "multi_sentence": 31,
+      "unspecified_bank": 5,
+      "dangerous_area": 4,
+      "sub_location_not_mapped": 7,
+      "compound_bank_action": 2
+    }
+  },
+  "endgame": {
+    "steps": 322,
+    "chapters": 12,
+    "sections": 45,
+    "pins": 0,
+    "pin_bytes": 59,
+    "risk_flags": 44,
+    "pin_reasons": {
+      "not_safe_to_pin": 318,
+      "multi_sentence": 2,
+      "unspecified_bank": 1,
+      "unresolved_location": 1
+    }
+  }
+}

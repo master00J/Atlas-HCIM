@@ -1,0 +1,17 @@
+'use strict';
+const assert=require('node:assert/strict');
+const {resolveGoal,getBankNumber}=require('../bridge/goal-resolver');
+assert.equal(getBankNumber('Bank 27'),27);
+assert.equal(getBankNumber('Bank 105A'),105);
+assert.equal(getBankNumber('Introductie'),null);
+assert.equal(resolveGoal(null).ruleId,'offline');
+assert.equal(resolveGoal({chapter:'Episode 1 - Banks 1 through 24:',section:'Bank 5'}).ruleId,'starting-out');
+assert.equal(resolveGoal({chapter:'Episode 1 - Banks 1 through 24:',section:'Starting Out'}).ruleId,'starting-out-intro');
+assert.equal(resolveGoal({chapter:'Episode 1 - Banks 1 through 24:',section:'Bank 19'}).ruleId,'early-questing');
+assert.equal(resolveGoal({chapter:'Episode 2 - Banks 24 through 75:',section:'Bank 41'}).ruleId,'fairy-rings-prep');
+assert.equal(resolveGoal({chapter:'Episode 2 - Banks 24 through 75:',section:'Bank 60'}).ruleId,'post-fairy-quests');
+assert.equal(resolveGoal({chapter:'Episode 12 - Bank 204 through Zulrah',section:'Bank 205'}).ruleId,'zulrah-mid');
+assert.equal(resolveGoal({chapter:'Endgame — eigen voorbereiding per expeditie',section:'E03 — Zulrah: gecontroleerde supply- en unique-farm'}).ruleId,'endgame-e03');
+assert.equal(resolveGoal({chapter:'Een nieuwe episode',section:'E24 — Sailing'}).ruleId,'section-fallback');
+assert.equal(resolveGoal({chapter:'18. Totale skillprogressie',section:'Overzicht'}).ruleId,'maxing');
+console.log('PASS: 12 goal resolver checks');

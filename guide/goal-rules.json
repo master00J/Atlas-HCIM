@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "description": "Curated high-level goals for guide phases. A goal is a target, not proof it has been unlocked.",
+  "rules": [
+    {
+      "id": "starting-out-intro",
+      "chapterPrefix": "Episode 1",
+      "sectionPrefix": "Starting Out",
+      "goal": "Vroege quests & accountbasis opbouwen"
+    },
+    {
+      "id": "starting-out",
+      "chapterPrefix": "Episode 1",
+      "bankMax": 10,
+      "goal": "Vroege quests & accountbasis opbouwen"
+    },
+    {
+      "id": "early-questing",
+      "chapterPrefix": "Episode 1",
+      "bankMin": 11,
+      "goal": "Waterfall Quest en vroege combat-unlocks"
+    },
+    {
+      "id": "fairy-rings-prep",
+      "chapterPrefix": "Episode 2",
+      "bankMax": 50,
+      "goal": "Fairy Rings & vroege questketens"
+    },
+    {
+      "id": "post-fairy-quests",
+      "chapterPrefix": "Episode 2",
+      "bankMin": 51,
+      "goal": "Questvereisten & vroege skillprogressie"
+    },
+    {
+      "id": "sote-requirements",
+      "chapterPrefix": "Episode 3",
+      "goal": "Song of the Elves: vereisten voorbereiden"
+    },
+    {
+      "id": "midgame-sote",
+      "chapterPrefix": "Episode 4",
+      "goal": "Song of the Elves en midgame-unlocks"
+    },
+    {
+      "id": "rfd-sote",
+      "chapterPrefix": "Episode 5",
+      "goal": "Recipe for Disaster & Prifddinas voorbereiden"
+    },
+    {
+      "id": "ca-prep",
+      "chapterPrefix": "Episode 6",
+      "goal": "Combat Achievements vrijspelen"
+    },
+    {
+      "id": "combat-barrows",
+      "chapterPrefix": "Episode 7",
+      "goal": "Combattraining & Barrows-uitrusting"
+    },
+    {
+      "id": "herblore-moons",
+      "chapterPrefix": "Episode 8",
+      "goal": "70 Herblore & Moons of Peril"
+    },
+    {
+      "id": "bank177",
+      "chapterPrefix": "Episode 9",
+      "goal": "Midgame PvM-unlocks voorbereiden"
+    },
+    {
+      "id": "inferno-prep",
+      "chapterPrefix": "Episode 10",
+      "goal": "Inferno-voorbereiding en eerste endgame"
+    },
+    {
+      "id": "slayer-mid",
+      "chapterPrefix": "Episode 11",
+      "goal": "Slayer en combat-uitrusting verbeteren"
+    },
+    {
+      "id": "zulrah-mid",
+      "chapterPrefix": "Episode 12",
+      "goal": "Zulrah veilig voorbereiden"
+    },
+    {
+      "id": "endgame-e01",
+      "chapterPrefix": "Endgame",
+      "sectionPrefix": "E01",
+      "goal": "Endgame supplies & accountbasis veiligstellen"
+    },
+    {
+      "id": "endgame-e02",
+      "chapterPrefix": "Endgame",
+      "sectionPrefix": "E02",
+      "goal": "Combat Achievements en defensieve basis"
+    },
+    {
+      "id": "endgame-e03",
+      "chapterPrefix": "Endgame",
+      "sectionPrefix": "E03",
+      "goal": "Zulrah: upgrades verzamelen"
+    },
+    {
+      "id": "endgame-e04",
+      "chapterPrefix": "Endgame",
+      "sectionPrefix": "E04",
+      "goal": "Gear & supply-upgrades"
+    },
+    {
+      "id": "endgame-e05",
+      "chapterPrefix": "Endgame",
+      "sectionPrefix": "E05",
+      "goal": "God Wars-voorbereiding"
+    },
+    {
+      "id": "endgame-e06",
+      "chapterPrefix": "Endgame",
+      "sectionPrefix": "E06",
+      "goal": "Raids: Chambers of Xeric"
+    },
+    {
+      "id": "gear-ladder",
+      "chapterPrefix": "11.",
+      "goal": "Midgame gear-upgrades stap voor stap"
+    },
+    {
+      "id": "gauntlet",
+      "chapterPrefix": "12.",
+      "goal": "Gauntlet / Bowfa: HCIM-veilige aanpak"
+    },
+    {
+      "id": "slayer-95",
+      "chapterPrefix": "13.",
+      "goal": "Slayer richting level 95"
+    },
+    {
+      "id": "quest-cape",
+      "chapterPrefix": "14.",
+      "goal": "Quest cape & questbosses"
+    },
+    {
+      "id": "boss-ladder",
+      "chapterPrefix": "15.",
+      "goal": "PvM-bossprogressie en unieke drops"
+    },
+    {
+      "id": "raids-ladder",
+      "chapterPrefix": "16.",
+      "goal": "Raids: CoX, ToA, ToB en Fractured Archive"
+    },
+    {
+      "id": "inferno-colosseum",
+      "chapterPrefix": "17.",
+      "goal": "Inferno, Colosseum & Combat Achievements"
+    },
+    {
+      "id": "maxing",
+      "chapterPrefix": "18.",
+      "goal": "Skills richting 99 en Max cape"
+    },
+    {
+      "id": "starter-routes",
+      "chapterPrefix": "19.",
+      "goal": "Eerste bankroutes afronden"
+    },
+    {
+      "id": "first-100",
+      "chapterPrefix": "23.",
+      "goal": "Eerste 100 speeluren efficiënt plannen"
+    },
+    {
+      "id": "checkpoint",
+      "chapterPrefix": "24.",
+      "goal": "Belangrijkste accountmijlpalen voltooien"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+<!doctype html><html lang="nl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>HCIM ATLAS · Voortgangswidget</title>
+<style>*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden;background:transparent;color:#f2e8d4;font-family:'Trebuchet MS','Segoe UI',Arial,sans-serif}
+#board{position:absolute;inset:0;width:100%;height:100%;aspect-ratio:1122/1402}.art{position:absolute;inset:0;width:100%;height:100%}.field{position:absolute;text-shadow:0 2px 6px #000;display:grid;place-items:center;text-align:center;line-height:1.2;overflow:hidden;overflow-wrap:anywhere;font-weight:700}
+#percentText{left:24%;top:25.6%;width:55%;height:3.2%;font-size:clamp(12px,2.5vw,34px);z-index:2}
+#overallFill{position:absolute;left:22%;top:22.65%;height:1.6%;width:0%;max-width:56%;background:#44c9fe;box-shadow:0 0 11px #2bb9ff}
+#questFill{position:absolute;left:22%;top:34.67%;height:1.6%;width:0%;max-width:56%;background:#44c9fe;box-shadow:0 0 11px #2bb9ff}
+#questPercentText{left:23%;top:37.6%;width:55%;height:2.7%;font-size:clamp(11px,2vw,27px);z-index:2}
+#bankText{left:19%;top:46.15%;width:62%;height:5.2%;font-size:clamp(11px,2.3vw,32px);background:#242528;border-radius:7px}
+#sectionText{left:24%;top:50.2%;width:55%;height:2.6%;font-size:clamp(10px,1.4vw,18px);color:#7aafd5}
+#goalText{left:19%;top:81%;width:62%;height:7.6%;font-size:clamp(10px,1.9vw,26px);padding:1%;background:rgba(14,17,22,.55)}
+#stepCount{left:21%;top:27%;width:58%;height:2.8%;font-size:clamp(10px,1.55vw,22px)}
+#hcStatus{left:31%;top:94.5%;width:43%;height:3.1%;font-size:clamp(10px,1.7vw,23px);background:#15191d;border-radius:10px}
+.track{position:absolute;left:21.4%;width:57.2%;height:2.1%;border-radius:15px;background:#111721;box-shadow:inset 0 0 5px #000}.milestone{position:absolute;top:64%;width:9%;height:4%;display:grid;place-items:center;color:#888;font-size:clamp(15px,2.4vw,31px);text-shadow:0 0 4px #000}.milestone.unlocked{color:#4ddcff;text-shadow:0 0 16px #00c4ff}
+</style></head><body><main id="board"><img class="art" src="/assets/progress-widget.png" alt=""><div class="field" id="percentText">--</div><div class="track" style="top:22.45%"></div><div id="overallFill" data-span="56"></div><div class="field" id="stepCount"></div><div class="field" id="questPercentText">--</div><div class="track" style="top:34.47%"></div><div id="questFill" data-span="56"></div><div class="field" id="bankText">--</div><div class="field" id="sectionText"></div>
+<div class="milestone" data-milestone="0" style="left:19%">◆</div><div class="milestone" data-milestone="1" style="left:29.5%">◆</div><div class="milestone" data-milestone="2" style="left:40%">◆</div><div class="milestone" data-milestone="3" style="left:50.5%">◆</div><div class="milestone" data-milestone="4" style="left:61%">◆</div><div class="milestone" data-milestone="5" style="left:71.5%">◆</div>
+<div class="field" id="goalText">Wacht op RuneLite...</div><div class="field" id="hcStatus">HCIM STATUS ONBEKEND</div></main><script src="/assets/live.js"></script></body></html>
