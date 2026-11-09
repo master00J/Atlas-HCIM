@@ -50,7 +50,10 @@ jobs:
           ./gradlew test --no-daemon --tests com.hcimguide.AtlasGuideReportTest
       - name: Show report summary
         if: always()
-        run: sed '/^## New steps/q' atlas-report/report.md
+        run: |
+          cat atlas-report/report.md
+          echo; echo '## Location audit (first 80 lines)'
+          head -80 atlas-report/location-audit.md || true
       - if: always()
         uses: actions/upload-artifact@v4
         with:

@@ -38,11 +38,12 @@ import static org.junit.Assert.assertTrue;
  */
 public class AtlasGuideReportTest
 {
-	private static final Pattern START = Pattern.compile("(?i)\\bstart\\s+(?!a\\b|an\\b|the first\\b)[A-Z]");
+	// Case-sensitive on purpose: a quest name is capitalised, prose ("start with one kill") is not.
+	private static final Pattern START = Pattern.compile("\\b[Ss]tart\\s+[A-Z]");
 	private static final Pattern COMPLETE = Pattern.compile("^(?:Complete|.*\\band complete)\\s+[A-Z]");
 	private static final Pattern TRAIN = Pattern.compile("^Train to \\d{1,2} [A-Z][a-z]+");
 	private static final Pattern TALK = Pattern.compile("^(?:Talk to|Kill) ");
-	private static final Pattern QUEST_WORDS = Pattern.compile("(?i)\\b(?:start|complete)\\s+([A-Za-z][A-Za-z'’ &-]{2,45})");
+	private static final Pattern QUEST_WORDS = Pattern.compile("\\b(?:[Ss]tart|[Cc]omplete)\\s+([A-Z][A-Za-z'’ &-]{2,45})");
 
 	@Test
 	public void reportAtlasGuide() throws IOException
