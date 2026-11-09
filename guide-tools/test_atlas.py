@@ -80,6 +80,9 @@ class Route2026Tests(unittest.TestCase):
   # Safety warnings deliberately remain manual checkpoints in the HCIM route.
   self.assertTrue(any('Stronghold of Security is NOT a safe death' in t for t in section(self.route,'Episode 1 ','Bank 2')))
   self.assertFalse(any('Varrock circuit with many quest starts' in t for t in section(self.route,'Episode 1 ','Bank 3')))
+  # Bank 1 must not ask for the leather gloves/boots before they are picked up.
+  bank1=section(self.route,'Episode 1 ','Bank 1')
+  self.assertFalse([t for t in bank1[:self.first(bank1,'Take Leather Gloves')] if re.search(r'leather gloves|leather boots',t,re.I)])
  def test_brutus_warning_precedes_fight(self):
   bank=section(self.route,'Episode 4 ','Bank 130')
   self.assertLess(self.first(bank,"HCIM: Brutus's special attacks"),

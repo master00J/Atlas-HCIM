@@ -31,6 +31,8 @@ import static org.junit.Assert.assertTrue;
  *   ATLAS_GUIDE   the guide JSON to import (required, otherwise the test is skipped)
  *   ATLAS_BASE    the B0aty base JSON; steps whose text is not in it count as "new"
  *   ATLAS_REPORT  output directory (default build/atlas-report)
+ *   ATLAS_PINS    the Atlas pin import; its keys must exist in the parsed guide
+ *   ATLAS_GUIDE_ID the guide id inside ATLAS_PINS (default hcim-atlas-2026)
  *
  * Fails when a NEW step does not produce what its wording promises:
  *   "start X" / "complete X" -> a quest condition, "Train to N Skill" -> a skill
@@ -128,24 +130,151 @@ public class AtlasGuideReportTest
 		}
 		md.append("\n## New steps\n\n| Section | Condition | NPC target | Text |\n|---|---|---|---|\n").append(newRows);
 
+		StringBuilder locations = new StringBuilder("# Locations as the plugin resolves them\n\n");
+		List<String> orphanPins = new ArrayList<>();
 		try
 		{
 			PlaceDirectory places = new PlaceDirectory(new Gson());
 			TransportResolver transports = new TransportResolver(new Gson());
-			Map<String, StepLocationPlan> plans = StepLocationPlanner.buildPlans(guide, targets, places, transports, name -> null);
+			// Same NPC data the plugin uses in game: bundled seed + the pinned
+			// community spawn database it downloads on first start.
+			NpcLocationStore npcs = new NpcLocationStore(new Gson());
+			npcs.load();
+			locations.append("- NPC database: ").append(downloadNpcDatabase(npcs)).append('\n');
+			Map<String, StepLocationPlan> plans = StepLocationPlanner.buildPlans(guide, targets, places, transports, npcs::lookup);
 			Files.write(out.resolve("location-audit.md"),
 				LocationAudit.toMarkdown("hcim-atlas", guide, plans).getBytes(StandardCharsets.UTF_8));
+			summariseLocations(guide, plans, readPinKeys(), baseTexts, locations, orphanPins);
 		}
 		catch (RuntimeException | LinkageError e)
 		{
-			md.append("\nLocation audit skipped: ").append(e).append('\n');
+			locations.append("\nLocation audit skipped: ").append(e).append('\n');
 		}
+		md.insert(md.indexOf("## New steps"), locations + "\n");
 
 		Files.write(out.resolve("steps.tsv"), tsv.toString().getBytes(StandardCharsets.UTF_8));
 		Files.write(out.resolve("report.md"), md.toString().getBytes(StandardCharsets.UTF_8));
 		System.out.println(md.substring(0, md.indexOf("## New steps")));
 
 		assertTrue("New steps whose wording Guide Overlay does not act on:\n" + String.join("\n", misses), misses.isEmpty());
+		assertTrue("Pins whose step key does not exist in the imported guide (they would never show):\n"
+			+ String.join("\n", orphanPins), orphanPins.isEmpty());
+	}
+
+	/** Mirrors LocationAudit's definition of an unresolved actionable step. */
+	private static boolean unresolved(StepLocationPlan plan)
+	{
+		if (plan != null && plan.hasWaypoints())
+		{
+			return !plan.getUnresolvedCandidates().isEmpty()
+				&& plan.getReason() != LocationResolutionReason.RESOLVED
+				&& plan.getReason() != LocationResolutionReason.MULTIPLE_DESTINATIONS
+				&& plan.getReason() != LocationResolutionReason.NO_LOCATION_NEEDED;
+		}
+		return plan != null && plan.getReason() != LocationResolutionReason.NO_LOCATION_NEEDED;
+	}
+
+	private static void summariseLocations(Guide guide, Map<String, StepLocationPlan> plans, Set<String> pinKeys,
+		Set<String> baseTexts, StringBuilder md, List<String> orphanPins)
+	{
+		Set<String> guideKeys = new HashSet<>();
+		Map<String, Integer> reasons = new LinkedHashMap<>();
+		int[] n = new int[6]; // resolved, unresolved, unresolved+pin, new unresolved, new unresolved+pin, pinned
+		StringBuilder newUnresolved = new StringBuilder();
+		forEachStep(guide, (episode, bank, step) ->
+		{
+			guideKeys.add(step.getKey());
+			StepLocationPlan plan = plans.get(step.getKey());
+			boolean pinned = pinKeys.contains(step.getKey());
+			boolean isNew = !baseTexts.contains(step.getText());
+			if (pinned)
+			{
+				n[5]++;
+			}
+			if (plan != null && plan.hasWaypoints())
+			{
+				n[0]++;
+			}
+			if (unresolved(plan))
+			{
+				n[1]++;
+				reasons.merge(plan.getReason().displayName(), 1, Integer::sum);
+				if (!pinned)
+				{
+					n[2]++;
+				}
+				if (isNew)
+				{
+					n[3]++;
+					if (!pinned)
+					{
+						n[4]++;
+						newUnresolved.append("| ").append(cell(bank.getTitle())).append(" | ")
+							.append(cell(plan.getReason().displayName())).append(" | ")
+							.append(cell(String.join(", ", plan.getUnresolvedCandidates()))).append(" | ")
+							.append(cell(step.getText())).append(" |\n");
+					}
+				}
+			}
+		});
+		for (String key : pinKeys)
+		{
+			if (!guideKeys.contains(key))
+			{
+				orphanPins.add(key);
+			}
+		}
+		md.append("- Steps with a resolved location: ").append(n[0]).append('\n')
+			.append("- Unresolved actionable steps: ").append(n[1]).append(" (").append(n[2]).append(" after importing the Atlas pins)\n")
+			.append("- Atlas pins that match a step: ").append(n[5]).append(" of ").append(pinKeys.size())
+			.append(" (orphans: ").append(orphanPins.size()).append(")\n")
+			.append("- Unresolved new steps: ").append(n[3]).append(" (").append(n[4]).append(" after pins)\n\n")
+			.append("Unresolved by reason:\n\n");
+		for (Map.Entry<String, Integer> e : reasons.entrySet())
+		{
+			md.append("- ").append(e.getKey()).append(": ").append(e.getValue()).append('\n');
+		}
+		md.append("\n### New steps without a location (after pins)\n\n| Section | Reason | Candidates | Text |\n|---|---|---|---|\n")
+			.append(newUnresolved);
+	}
+
+	private static String downloadNpcDatabase(NpcLocationStore npcs)
+	{
+		try
+		{
+			java.net.URLConnection c = new java.net.URL(LocationDbDownloader.SOURCE_URL).openConnection();
+			c.setConnectTimeout(20_000);
+			c.setReadTimeout(60_000);
+			try (java.io.Reader in = new java.io.InputStreamReader(c.getInputStream(), StandardCharsets.UTF_8))
+			{
+				LocationDbDownloader.Parsed parsed = LocationDbDownloader.parse(new com.google.gson.stream.JsonReader(in));
+				int added = npcs.addNormalizedIfAbsent(parsed.locations);
+				return "downloaded " + LocationDbDownloader.SOURCE_URL + " (" + added + " names added)";
+			}
+		}
+		catch (IOException | RuntimeException e)
+		{
+			return "download failed, bundled seed only (" + e + ")";
+		}
+	}
+
+	/** Step keys from the Atlas pin import (ATLAS_PINS, guide id ATLAS_GUIDE_ID). */
+	private static Set<String> readPinKeys() throws IOException
+	{
+		Set<String> keys = new HashSet<>();
+		String path = System.getenv("ATLAS_PINS");
+		if (path == null)
+		{
+			return keys;
+		}
+		com.google.gson.JsonObject root = new Gson().fromJson(read(path), com.google.gson.JsonObject.class);
+		com.google.gson.JsonObject guides = root.getAsJsonObject("guides");
+		String id = env("ATLAS_GUIDE_ID", "hcim-atlas-2026");
+		if (guides != null && guides.has(id))
+		{
+			keys.addAll(guides.getAsJsonObject(id).keySet());
+		}
+		return keys;
 	}
 
 	private static String expectationMiss(String text, StepCondition condition, String target)

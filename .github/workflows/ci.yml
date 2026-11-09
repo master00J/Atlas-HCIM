@@ -45,6 +45,8 @@ jobs:
           ATLAS_GUIDE: ${{ github.workspace }}/guide/HCIM_ATLAS_VOLLEDIGE_ROUTE.json
           ATLAS_BASE: ${{ github.workspace }}/guide/source/B0aty_HCIM_Guide_V3_base.json
           ATLAS_REPORT: ${{ github.workspace }}/atlas-report
+          ATLAS_PINS: ${{ github.workspace }}/guide/HCIM_ATLAS_PINNEN_VOLLEDIGE_ROUTE.json
+          ATLAS_GUIDE_ID: hcim-atlas-2026
         run: |
           chmod +x gradlew
           ./gradlew test --no-daemon --tests com.hcimguide.AtlasGuideReportTest
@@ -52,8 +54,6 @@ jobs:
         if: always()
         run: |
           cat atlas-report/report.md
-          echo; echo '## Location audit (first 80 lines)'
-          head -80 atlas-report/location-audit.md || true
       - if: always()
         uses: actions/upload-artifact@v4
         with:

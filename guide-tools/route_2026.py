@@ -434,9 +434,9 @@ def remove_context_notes(guide):
                 # A few old route notes are actual preparation requirements.
                 # Keep them as explicit, manually checkable tasks rather than
                 # silently dropping important inventory/skill requirements.
-                if txt.startswith('Route note — Lumbridge, Wizards'):
-                    cleaned.append(step('Equip your leather gloves and boots before leaving Lumbridge'))
-                    continue
+                # (The Lumbridge/Wizards' Tower note is simply dropped: the gloves and
+                # boots are only picked up later in Bank 1, where B0aty already says
+                # "& wield", so a "wear them before leaving Lumbridge" step is wrong.)
                 if txt.startswith('Route note — Pandemonium (Sailing'):
                     cleaned.append(step('Check that you have at least two free inventory slots before Pandemonium'))
                     continue

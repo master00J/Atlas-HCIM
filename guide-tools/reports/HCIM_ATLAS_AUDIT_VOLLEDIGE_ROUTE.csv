@@ -34,24 +34,23 @@ Episode 1 - Banks 1 through 24:,Starting Out,32,C1.S1#47796f2b#0,bank-items of b
 Episode 1 - Banks 1 through 24:,Starting Out,33,C1.S1#40f1013c#0,handmatig of contextueel,,not_safe_to_pin,,,Keep the Shrimps in your bank for later [Family Crest Quest]
 Episode 1 - Banks 1 through 24:,Starting Out,34,C1.S1#a5ea4ef7#0,handmatig of contextueel,,not_safe_to_pin,,,Keep Mudfoot's Shortbow & all Bronze arrows in your bank for later [Underground Pass]
 Episode 1 - Banks 1 through 24:,Starting Out,35,C1.S1#256e197a#0,handmatig of contextueel,,not_safe_to_pin,,,Move Coins into first bank slot & Runes to the top slots. Click the lock to Always set Placeholders. Set Bank pin for Count Check randoms or delete the pin from Tutorial Island.
-Episode 1 - Banks 1 through 24:,Bank 1,1,C1.S2#79e5385a#0,handmatig of contextueel,,not_safe_to_pin,,,Equip your leather gloves and boots before leaving Lumbridge
-Episode 1 - Banks 1 through 24:,Bank 1,2,C1.S2#61aafe21#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Air Runes, Mind Runes, Bread, Spade, Tinderbox, Air Talisman, Treasure Scroll (8 Inventory slots)"
-Episode 1 - Banks 1 through 24:,Bank 1,3,C1.S2#34dbff7a#0,route/locatie,,unresolved_location,,,Go down south staircase twice (Right-Click 'Bottom-floor')
-Episode 1 - Banks 1 through 24:,Bank 1,4,C1.S2#d8072831#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Collect the Empty Jug, Bowl & Knife in Lumbridge kitchen"
-Episode 1 - Banks 1 through 24:,Bank 1,5,C1.S2#8f7d9f90#0,handmatig of contextueel,,not_safe_to_pin,,,Fill the jug & bowl on the sink in the kitchen [Monk's Friend]
-Episode 1 - Banks 1 through 24:,Bank 1,6,C1.S2#6cb8a927#0,handmatig of contextueel,,not_safe_to_pin,,,Complete 2nd Step of X Marks The Spot
-Episode 1 - Banks 1 through 24:,Bank 1,7,C1.S2#a3d11730#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill a giant rat with Wind Strike and collect the Bones + Raw Rat Meat [Druidic Ritual]
-Episode 1 - Banks 1 through 24:,Bank 1,8,C1.S2#ab6e60a8#0,route/locatie,,safety_avoidance,,,Head West towards Draynor hugging the fence to avoid the Jail Guards
-Episode 1 - Banks 1 through 24:,Bank 1,9,C1.S2#84965954#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Father Urhney in the lumbridge swamp for Ghost Speak Amulet. (2,1) Wield this."
-Episode 1 - Banks 1 through 24:,Bank 1,10,C1.S2#996b2bab#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Leather Gloves on the table inside his house & wield
-Episode 1 - Banks 1 through 24:,Bank 1,11,C1.S2#bed0075d#0,route/locatie,,gecontroleerde plaatsbron,Wizards' Tower,"3113,3179,0",Head to the Wizards Tower
-Episode 1 - Banks 1 through 24:,Bank 1,12,C1.S2#d2b610#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Leather Boots off the table & wield
-Episode 1 - Banks 1 through 24:,Bank 1,13,C1.S2#b224b6bb#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect 3x Logs next to the stairs [Tree Gnome Village]
-Episode 1 - Banks 1 through 24:,Bank 1,14,C1.S2#c338a2fa#0,route/locatie,,compound_task,,,"Head to the basement & Talk to Sedridor to continue Rune Mysteries (1,2,1)"
-Episode 1 - Banks 1 through 24:,Bank 1,15,C1.S2#4156604a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Kill a Chicken. Take Everything (Make sure you get a feather, else hop worlds and repeat)[Client of Kourend + Druidic Ritual]"
-Episode 1 - Banks 1 through 24:,Bank 1,16,C1.S2#23d35d44#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect 3x Logs [Tree Gnome Village]
-Episode 1 - Banks 1 through 24:,Bank 1,17,C1.S2#c11f1e20#0,route/locatie,,compound_task,,,Head north to Draynor & talk to Friendly Forester and obtain Forestry kit (right click shop and buy 1)
-Episode 1 - Banks 1 through 24:,Bank 1,18,C1.S2#75627118#0,bank-items of bankactie,,gecontroleerde plaatsbron,Draynor Village Bank,"3092,3245,0",Bank at Draynor and Deposit all
+Episode 1 - Banks 1 through 24:,Bank 1,1,C1.S2#61aafe21#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Air Runes, Mind Runes, Bread, Spade, Tinderbox, Air Talisman, Treasure Scroll (8 Inventory slots)"
+Episode 1 - Banks 1 through 24:,Bank 1,2,C1.S2#34dbff7a#0,route/locatie,,unresolved_location,,,Go down south staircase twice (Right-Click 'Bottom-floor')
+Episode 1 - Banks 1 through 24:,Bank 1,3,C1.S2#d8072831#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Collect the Empty Jug, Bowl & Knife in Lumbridge kitchen"
+Episode 1 - Banks 1 through 24:,Bank 1,4,C1.S2#8f7d9f90#0,handmatig of contextueel,,not_safe_to_pin,,,Fill the jug & bowl on the sink in the kitchen [Monk's Friend]
+Episode 1 - Banks 1 through 24:,Bank 1,5,C1.S2#6cb8a927#0,handmatig of contextueel,,not_safe_to_pin,,,Complete 2nd Step of X Marks The Spot
+Episode 1 - Banks 1 through 24:,Bank 1,6,C1.S2#a3d11730#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill a giant rat with Wind Strike and collect the Bones + Raw Rat Meat [Druidic Ritual]
+Episode 1 - Banks 1 through 24:,Bank 1,7,C1.S2#ab6e60a8#0,route/locatie,,safety_avoidance,,,Head West towards Draynor hugging the fence to avoid the Jail Guards
+Episode 1 - Banks 1 through 24:,Bank 1,8,C1.S2#84965954#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Father Urhney in the lumbridge swamp for Ghost Speak Amulet. (2,1) Wield this."
+Episode 1 - Banks 1 through 24:,Bank 1,9,C1.S2#996b2bab#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Leather Gloves on the table inside his house & wield
+Episode 1 - Banks 1 through 24:,Bank 1,10,C1.S2#bed0075d#0,route/locatie,,gecontroleerde plaatsbron,Wizards' Tower,"3113,3179,0",Head to the Wizards Tower
+Episode 1 - Banks 1 through 24:,Bank 1,11,C1.S2#d2b610#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Leather Boots off the table & wield
+Episode 1 - Banks 1 through 24:,Bank 1,12,C1.S2#b224b6bb#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect 3x Logs next to the stairs [Tree Gnome Village]
+Episode 1 - Banks 1 through 24:,Bank 1,13,C1.S2#c338a2fa#0,route/locatie,,compound_task,,,"Head to the basement & Talk to Sedridor to continue Rune Mysteries (1,2,1)"
+Episode 1 - Banks 1 through 24:,Bank 1,14,C1.S2#4156604a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Kill a Chicken. Take Everything (Make sure you get a feather, else hop worlds and repeat)[Client of Kourend + Druidic Ritual]"
+Episode 1 - Banks 1 through 24:,Bank 1,15,C1.S2#23d35d44#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect 3x Logs [Tree Gnome Village]
+Episode 1 - Banks 1 through 24:,Bank 1,16,C1.S2#c11f1e20#0,route/locatie,,compound_task,,,Head north to Draynor & talk to Friendly Forester and obtain Forestry kit (right click shop and buy 1)
+Episode 1 - Banks 1 through 24:,Bank 1,17,C1.S2#75627118#0,bank-items of bankactie,,gecontroleerde plaatsbron,Draynor Village Bank,"3092,3245,0",Bank at Draynor and Deposit all
 Episode 1 - Banks 1 through 24:,Bank 2,1,C1.S3#addee9e1#0,note/handmatig,review_handmatig,not_safe_to_pin,,,"Route note — Draynor, Port Sarim, Zeah, Lumbridge and the Stronghold: the Stronghold of Security is NOT a safe death, so bring extra food if your HP is low and leave when you run short of HP or run energy; it is fast early money, not a required HCIM step."
 Episode 1 - Banks 1 through 24:,Bank 2,2,C1.S3#255b7233#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Spade, Feather & Mysterious Orb (4 Inventory Slots)"
 Episode 1 - Banks 1 through 24:,Bank 2,3,C1.S3#2a26a6ff#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect Cheese from Aggie [Witch's House]
