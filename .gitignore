@@ -1,0 +1,16 @@
+# Local RuneLite and stream state (never commit player progress)
+stream-settings.json
+stream-state.json
+*.tmp
+*.bak
+*.hcim-stream-backup
+node_modules/
+.DS_Store
+__pycache__/
+.pytest_cache/
+*.pyc
+tests/test-stream-state.json
+tests/demo-stream-state.json
+.idea/
+.gradle/
+build/

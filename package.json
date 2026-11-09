@@ -1,0 +1,14 @@
+{
+  "name": "hcim-atlas-live",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Local RuneLite Guide Overlay -> OBS/vMix live HCIM progress",
+  "scripts": {
+    "start": "node bridge/server.js",
+    "demo": "node bridge/server.js --demo --port 38878",
+    "test": "node tests/test-live.js && node tests/test-goals.js && python guide-tools/test_atlas.py"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
