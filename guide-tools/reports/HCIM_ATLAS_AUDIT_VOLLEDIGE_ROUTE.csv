@@ -1,58 +1,56 @@
 ﻿chapter,section,step,key,type,risk_scan,pin_status,destination,worldpoint,text
-Episode 1 - Banks 1 through 24:,Starting Out,1,C1.S1#72d19437#0,note/handmatig,,not_safe_to_pin,,,"Route note — 2026 update: this is B0aty's HCIM Guide V3 updated for Sailing and Quest Month (November 2026); the combat tutors are gone, so Mudfoot's Big Adventure now gives your first weapons, runes and 2,000 combat XP."
-Episode 1 - Banks 1 through 24:,Starting Out,2,C1.S1#299484d#0,handmatig of contextueel,,not_safe_to_pin,,,All Settings - Disable level-up
-Episode 1 - Banks 1 through 24:,Starting Out,3,C1.S1#c504d190#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to the Cook in the Lumbridge Castle kitchen and start Cook's Assistant (keep the Pot and Bucket from Tutorial Island)
-Episode 1 - Banks 1 through 24:,Starting Out,4,C1.S1#9da1bfa0#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Captain Harlan outside the General Store north of the castle and start Mudfoot's Big Adventure (1)
-Episode 1 - Banks 1 through 24:,Starting Out,5,C1.S1#827c72f1#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Cassius at the pond south of the windmill and start The Ides of Milk
-Episode 1 - Banks 1 through 24:,Starting Out,6,C1.S1#72cbe348#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Cross the River Lum and talk to Gillie Groats in the cow field just north of the gate [The Ides of Milk]
-Episode 1 - Banks 1 through 24:,Starting Out,7,C1.S1#312e75e2#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Seth Groats in the farmhouse next to the chicken coop [The Ides of Milk]
-Episode 1 - Banks 1 through 24:,Starting Out,8,C1.S1#c46aef0f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Search the shelf on the south wall of the farmhouse for The Groats Principles [The Ides of Milk]
-Episode 1 - Banks 1 through 24:,Starting Out,9,C1.S1#9823aaa5#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take an Egg [Cook's Assistant]
-Episode 1 - Banks 1 through 24:,Starting Out,10,C1.S1#acfe577d#0,handmatig of contextueel,,not_safe_to_pin,,,Milk the Dairy cow in the cow field for a Bucket of milk [Cook's Assistant]
-Episode 1 - Banks 1 through 24:,Starting Out,11,C1.S1#d4d8deaa#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Mudfoot near the building south of the cow field, without a pet following you [Mudfoot's Big Adventure]"
-Episode 1 - Banks 1 through 24:,Starting Out,12,C1.S1#3607ba33#0,handmatig of contextueel,,not_safe_to_pin,,,Confront the outlaw walking outside the Lumbridge General Store [Mudfoot's Big Adventure]
-Episode 1 - Banks 1 through 24:,Starting Out,13,C1.S1#45f3d408#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Mudfoot again at the chicken field south of the Lumbridge windmill [Mudfoot's Big Adventure]
-Episode 1 - Banks 1 through 24:,Starting Out,14,C1.S1#b2fe82a3#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill the Ranger Outlaw (level 6) with the Bronze dagger on stab and take his Shortbow & 80 Bronze arrows [Mudfoot's Big Adventure]
-Episode 1 - Banks 1 through 24:,Starting Out,15,C1.S1#f753e415#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Cassius to hand over The Groats Principles and get a Milk sample [The Ides of Milk]
-Episode 1 - Banks 1 through 24:,Starting Out,16,C1.S1#f85ddaca#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Drink the Milk sample (1 damage, no poison) and talk to Cassius again for a new Milk sample [The Ides of Milk]"
-Episode 1 - Banks 1 through 24:,Starting Out,17,C1.S1#e08b4e7b#0,handmatig of contextueel,,not_safe_to_pin,,,"Pick Grain next to the windmill, put it in the hopper on the top floor and pull the lever [Cook's Assistant]"
-Episode 1 - Banks 1 through 24:,Starting Out,18,C1.S1#fb9af045#0,handmatig of contextueel,,not_safe_to_pin,,,Use the Pot on the flour bin on the ground floor for a Pot of flour [Cook's Assistant]
-Episode 1 - Banks 1 through 24:,Starting Out,19,C1.S1#44edf197#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Wield the Shortbow and kill the Mage Outlaw south of the H.A.M Hideout, then take his Staff, Air runes & Mind runes [Mudfoot's Big Adventure]"
-Episode 1 - Banks 1 through 24:,Starting Out,20,C1.S1#d929e0eb#0,handmatig of contextueel,,not_safe_to_pin,,,"Wield the Staff and go to the Lumbridge graveyard behind the church; if you left the fight area, fetch Mudfoot from outside the H.A.M Hideout first"
-Episode 1 - Banks 1 through 24:,Starting Out,21,C1.S1#30309dc2#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Kill the Warrior Outlaw with Wind Strike, because he prays Protect from Melee after your first hit, and take his Iron scimitar & Iron kiteshield [Mudfoot's Big Adventure]"
-Episode 1 - Banks 1 through 24:,Starting Out,22,C1.S1#d5324bcf#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Father Aereck in the church and start The Restless Ghost
-Episode 1 - Banks 1 through 24:,Starting Out,23,C1.S1#c8b9c49b#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Captain Harlan (1) and complete Mudfoot's Big Adventure
-Episode 1 - Banks 1 through 24:,Starting Out,24,C1.S1#1e6e45d4#0,handmatig of contextueel,,not_safe_to_pin,,,Use all 4 combat lamps from Mudfoot on Hitpoints
-Episode 1 - Banks 1 through 24:,Starting Out,25,C1.S1#f161f8df#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Sell the Bronze dagger, Bronze sword, Wooden shield & one Shortbow to the General Store and buy a Spade, Chisel & Hammer"
-Episode 1 - Banks 1 through 24:,Starting Out,26,C1.S1#69066178#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to the Cook and complete Cook's Assistant
-Episode 1 - Banks 1 through 24:,Starting Out,27,C1.S1#1d6258a5#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Pickpocket a man/woman [Lumbridge Easy Diary]
-Episode 1 - Banks 1 through 24:,Starting Out,28,C1.S1#567d66dc#0,route/locatie,,compound_task,,,"Head East & Start X Marks the Spot on Veos (2,1) & complete the first step (Install Quest Helper plug in on Runelite)"
-Episode 1 - Banks 1 through 24:,Starting Out,29,C1.S1#11e575f2#0,handmatig of contextueel,,not_safe_to_pin,,,Check playtime on Hans [Lumbridge Easy Diary]
-Episode 1 - Banks 1 through 24:,Starting Out,30,C1.S1#dc14fc75#0,route/locatie,,compound_task,,,Go upstairs and talk to Duke Horacio to start Rune Mysteries
-Episode 1 - Banks 1 through 24:,Starting Out,31,C1.S1#1f51f50f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Duke Horacio again and give him the Milk sample [The Ides of Milk]
-Episode 1 - Banks 1 through 24:,Starting Out,32,C1.S1#583c990#0,route/locatie,,compound_task,,,Go upstairs again and Collect 4x logs on the top floor [Tree Gnome Village]
-Episode 1 - Banks 1 through 24:,Starting Out,33,C1.S1#47796f2b#0,bank-items of bankactie,,gecontroleerde plaatsbron,Lumbridge Castle bank (2e verdieping),"3208,3219,2",Bank at Lumbridge castle top floor and deposit all
-Episode 1 - Banks 1 through 24:,Starting Out,34,C1.S1#40f1013c#0,handmatig of contextueel,,not_safe_to_pin,,,Keep the Shrimps in your bank for later [Family Crest Quest]
-Episode 1 - Banks 1 through 24:,Starting Out,35,C1.S1#a5ea4ef7#0,handmatig of contextueel,,not_safe_to_pin,,,Keep Mudfoot's Shortbow & all Bronze arrows in your bank for later [Underground Pass]
-Episode 1 - Banks 1 through 24:,Starting Out,36,C1.S1#256e197a#0,handmatig of contextueel,,not_safe_to_pin,,,Move Coins into first bank slot & Runes to the top slots. Click the lock to Always set Placeholders. Set Bank pin for Count Check randoms or delete the pin from Tutorial Island.
-Episode 1 - Banks 1 through 24:,Bank 1,1,C1.S2#93dbb43e#0,note/handmatig,,not_safe_to_pin,,,"Route note — Lumbridge, Wizards' Tower and Draynor loop: wear the leather gloves and boots; the goal is to collect quest items in one south-west loop, not to finish whole quests yet."
-Episode 1 - Banks 1 through 24:,Bank 1,2,C1.S2#61aafe21#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Air Runes, Mind Runes, Bread, Spade, Tinderbox, Air Talisman, Treasure Scroll (8 Inventory slots)"
-Episode 1 - Banks 1 through 24:,Bank 1,3,C1.S2#34dbff7a#0,route/locatie,,unresolved_location,,,Go down south staircase twice (Right-Click 'Bottom-floor')
-Episode 1 - Banks 1 through 24:,Bank 1,4,C1.S2#d8072831#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Collect the Empty Jug, Bowl & Knife in Lumbridge kitchen"
-Episode 1 - Banks 1 through 24:,Bank 1,5,C1.S2#8f7d9f90#0,handmatig of contextueel,,not_safe_to_pin,,,Fill the jug & bowl on the sink in the kitchen [Monk's Friend]
-Episode 1 - Banks 1 through 24:,Bank 1,6,C1.S2#6cb8a927#0,handmatig of contextueel,,not_safe_to_pin,,,Complete 2nd Step of X Marks The Spot
-Episode 1 - Banks 1 through 24:,Bank 1,7,C1.S2#a3d11730#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill a giant rat with Wind Strike and collect the Bones + Raw Rat Meat [Druidic Ritual]
-Episode 1 - Banks 1 through 24:,Bank 1,8,C1.S2#ab6e60a8#0,route/locatie,,safety_avoidance,,,Head West towards Draynor hugging the fence to avoid the Jail Guards
-Episode 1 - Banks 1 through 24:,Bank 1,9,C1.S2#84965954#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Father Urhney in the lumbridge swamp for Ghost Speak Amulet. (2,1) Wield this."
-Episode 1 - Banks 1 through 24:,Bank 1,10,C1.S2#996b2bab#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Leather Gloves on the table inside his house & wield
-Episode 1 - Banks 1 through 24:,Bank 1,11,C1.S2#bed0075d#0,route/locatie,,gecontroleerde plaatsbron,Wizards' Tower,"3113,3179,0",Head to the Wizards Tower
-Episode 1 - Banks 1 through 24:,Bank 1,12,C1.S2#d2b610#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Leather Boots off the table & wield
-Episode 1 - Banks 1 through 24:,Bank 1,13,C1.S2#b224b6bb#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect 3x Logs next to the stairs [Tree Gnome Village]
-Episode 1 - Banks 1 through 24:,Bank 1,14,C1.S2#c338a2fa#0,route/locatie,,compound_task,,,"Head to the basement & Talk to Sedridor to continue Rune Mysteries (1,2,1)"
-Episode 1 - Banks 1 through 24:,Bank 1,15,C1.S2#4156604a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Kill a Chicken. Take Everything (Make sure you get a feather, else hop worlds and repeat)[Client of Kourend + Druidic Ritual]"
-Episode 1 - Banks 1 through 24:,Bank 1,16,C1.S2#23d35d44#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect 3x Logs [Tree Gnome Village]
-Episode 1 - Banks 1 through 24:,Bank 1,17,C1.S2#c11f1e20#0,route/locatie,,compound_task,,,Head north to Draynor & talk to Friendly Forester and obtain Forestry kit (right click shop and buy 1)
-Episode 1 - Banks 1 through 24:,Bank 1,18,C1.S2#75627118#0,bank-items of bankactie,,gecontroleerde plaatsbron,Draynor Village Bank,"3092,3245,0",Bank at Draynor and Deposit all
+Episode 1 - Banks 1 through 24:,Starting Out,1,C1.S1#299484d#0,handmatig of contextueel,,not_safe_to_pin,,,All Settings - Disable level-up
+Episode 1 - Banks 1 through 24:,Starting Out,2,C1.S1#c504d190#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to the Cook in the Lumbridge Castle kitchen and start Cook's Assistant (keep the Pot and Bucket from Tutorial Island)
+Episode 1 - Banks 1 through 24:,Starting Out,3,C1.S1#9da1bfa0#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Captain Harlan outside the General Store north of the castle and start Mudfoot's Big Adventure (1)
+Episode 1 - Banks 1 through 24:,Starting Out,4,C1.S1#827c72f1#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Cassius at the pond south of the windmill and start The Ides of Milk
+Episode 1 - Banks 1 through 24:,Starting Out,5,C1.S1#72cbe348#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Cross the River Lum and talk to Gillie Groats in the cow field just north of the gate [The Ides of Milk]
+Episode 1 - Banks 1 through 24:,Starting Out,6,C1.S1#312e75e2#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Seth Groats in the farmhouse next to the chicken coop [The Ides of Milk]
+Episode 1 - Banks 1 through 24:,Starting Out,7,C1.S1#c46aef0f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Search the shelf on the south wall of the farmhouse for The Groats Principles [The Ides of Milk]
+Episode 1 - Banks 1 through 24:,Starting Out,8,C1.S1#9823aaa5#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take an Egg [Cook's Assistant]
+Episode 1 - Banks 1 through 24:,Starting Out,9,C1.S1#acfe577d#0,handmatig of contextueel,,not_safe_to_pin,,,Milk the Dairy cow in the cow field for a Bucket of milk [Cook's Assistant]
+Episode 1 - Banks 1 through 24:,Starting Out,10,C1.S1#d4d8deaa#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Mudfoot near the building south of the cow field, without a pet following you [Mudfoot's Big Adventure]"
+Episode 1 - Banks 1 through 24:,Starting Out,11,C1.S1#3607ba33#0,handmatig of contextueel,,not_safe_to_pin,,,Confront the outlaw walking outside the Lumbridge General Store [Mudfoot's Big Adventure]
+Episode 1 - Banks 1 through 24:,Starting Out,12,C1.S1#45f3d408#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Mudfoot again at the chicken field south of the Lumbridge windmill [Mudfoot's Big Adventure]
+Episode 1 - Banks 1 through 24:,Starting Out,13,C1.S1#b2fe82a3#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill the Ranger Outlaw (level 6) with the Bronze dagger on stab and take his Shortbow & 80 Bronze arrows [Mudfoot's Big Adventure]
+Episode 1 - Banks 1 through 24:,Starting Out,14,C1.S1#f753e415#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Cassius to hand over The Groats Principles and get a Milk sample [The Ides of Milk]
+Episode 1 - Banks 1 through 24:,Starting Out,15,C1.S1#f85ddaca#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Drink the Milk sample (1 damage, no poison) and talk to Cassius again for a new Milk sample [The Ides of Milk]"
+Episode 1 - Banks 1 through 24:,Starting Out,16,C1.S1#e08b4e7b#0,handmatig of contextueel,,not_safe_to_pin,,,"Pick Grain next to the windmill, put it in the hopper on the top floor and pull the lever [Cook's Assistant]"
+Episode 1 - Banks 1 through 24:,Starting Out,17,C1.S1#fb9af045#0,handmatig of contextueel,,not_safe_to_pin,,,Use the Pot on the flour bin on the ground floor for a Pot of flour [Cook's Assistant]
+Episode 1 - Banks 1 through 24:,Starting Out,18,C1.S1#44edf197#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Wield the Shortbow and kill the Mage Outlaw south of the H.A.M Hideout, then take his Staff, Air runes & Mind runes [Mudfoot's Big Adventure]"
+Episode 1 - Banks 1 through 24:,Starting Out,19,C1.S1#d929e0eb#0,handmatig of contextueel,,not_safe_to_pin,,,"Wield the Staff and go to the Lumbridge graveyard behind the church; if you left the fight area, fetch Mudfoot from outside the H.A.M Hideout first"
+Episode 1 - Banks 1 through 24:,Starting Out,20,C1.S1#30309dc2#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Kill the Warrior Outlaw with Wind Strike, because he prays Protect from Melee after your first hit, and take his Iron scimitar & Iron kiteshield [Mudfoot's Big Adventure]"
+Episode 1 - Banks 1 through 24:,Starting Out,21,C1.S1#d5324bcf#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Father Aereck in the church and start The Restless Ghost
+Episode 1 - Banks 1 through 24:,Starting Out,22,C1.S1#c8b9c49b#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Captain Harlan (1) and complete Mudfoot's Big Adventure
+Episode 1 - Banks 1 through 24:,Starting Out,23,C1.S1#1e6e45d4#0,handmatig of contextueel,,not_safe_to_pin,,,Use all 4 combat lamps from Mudfoot on Hitpoints
+Episode 1 - Banks 1 through 24:,Starting Out,24,C1.S1#f161f8df#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Sell the Bronze dagger, Bronze sword, Wooden shield & one Shortbow to the General Store and buy a Spade, Chisel & Hammer"
+Episode 1 - Banks 1 through 24:,Starting Out,25,C1.S1#69066178#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to the Cook and complete Cook's Assistant
+Episode 1 - Banks 1 through 24:,Starting Out,26,C1.S1#1d6258a5#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Pickpocket a man/woman [Lumbridge Easy Diary]
+Episode 1 - Banks 1 through 24:,Starting Out,27,C1.S1#567d66dc#0,route/locatie,,compound_task,,,"Head East & Start X Marks the Spot on Veos (2,1) & complete the first step (Install Quest Helper plug in on Runelite)"
+Episode 1 - Banks 1 through 24:,Starting Out,28,C1.S1#11e575f2#0,handmatig of contextueel,,not_safe_to_pin,,,Check playtime on Hans [Lumbridge Easy Diary]
+Episode 1 - Banks 1 through 24:,Starting Out,29,C1.S1#dc14fc75#0,route/locatie,,compound_task,,,Go upstairs and talk to Duke Horacio to start Rune Mysteries
+Episode 1 - Banks 1 through 24:,Starting Out,30,C1.S1#1f51f50f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Duke Horacio again and give him the Milk sample [The Ides of Milk]
+Episode 1 - Banks 1 through 24:,Starting Out,31,C1.S1#583c990#0,route/locatie,,compound_task,,,Go upstairs again and Collect 4x logs on the top floor [Tree Gnome Village]
+Episode 1 - Banks 1 through 24:,Starting Out,32,C1.S1#47796f2b#0,bank-items of bankactie,,gecontroleerde plaatsbron,Lumbridge Castle bank (2e verdieping),"3208,3219,2",Bank at Lumbridge castle top floor and deposit all
+Episode 1 - Banks 1 through 24:,Starting Out,33,C1.S1#40f1013c#0,handmatig of contextueel,,not_safe_to_pin,,,Keep the Shrimps in your bank for later [Family Crest Quest]
+Episode 1 - Banks 1 through 24:,Starting Out,34,C1.S1#a5ea4ef7#0,handmatig of contextueel,,not_safe_to_pin,,,Keep Mudfoot's Shortbow & all Bronze arrows in your bank for later [Underground Pass]
+Episode 1 - Banks 1 through 24:,Starting Out,35,C1.S1#256e197a#0,handmatig of contextueel,,not_safe_to_pin,,,Move Coins into first bank slot & Runes to the top slots. Click the lock to Always set Placeholders. Set Bank pin for Count Check randoms or delete the pin from Tutorial Island.
+Episode 1 - Banks 1 through 24:,Bank 1,1,C1.S2#61aafe21#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Air Runes, Mind Runes, Bread, Spade, Tinderbox, Air Talisman, Treasure Scroll (8 Inventory slots)"
+Episode 1 - Banks 1 through 24:,Bank 1,2,C1.S2#34dbff7a#0,route/locatie,,unresolved_location,,,Go down south staircase twice (Right-Click 'Bottom-floor')
+Episode 1 - Banks 1 through 24:,Bank 1,3,C1.S2#d8072831#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Collect the Empty Jug, Bowl & Knife in Lumbridge kitchen"
+Episode 1 - Banks 1 through 24:,Bank 1,4,C1.S2#8f7d9f90#0,handmatig of contextueel,,not_safe_to_pin,,,Fill the jug & bowl on the sink in the kitchen [Monk's Friend]
+Episode 1 - Banks 1 through 24:,Bank 1,5,C1.S2#6cb8a927#0,handmatig of contextueel,,not_safe_to_pin,,,Complete 2nd Step of X Marks The Spot
+Episode 1 - Banks 1 through 24:,Bank 1,6,C1.S2#a3d11730#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill a giant rat with Wind Strike and collect the Bones + Raw Rat Meat [Druidic Ritual]
+Episode 1 - Banks 1 through 24:,Bank 1,7,C1.S2#ab6e60a8#0,route/locatie,,safety_avoidance,,,Head West towards Draynor hugging the fence to avoid the Jail Guards
+Episode 1 - Banks 1 through 24:,Bank 1,8,C1.S2#84965954#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Father Urhney in the lumbridge swamp for Ghost Speak Amulet. (2,1) Wield this."
+Episode 1 - Banks 1 through 24:,Bank 1,9,C1.S2#996b2bab#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Leather Gloves on the table inside his house & wield
+Episode 1 - Banks 1 through 24:,Bank 1,10,C1.S2#bed0075d#0,route/locatie,,gecontroleerde plaatsbron,Wizards' Tower,"3113,3179,0",Head to the Wizards Tower
+Episode 1 - Banks 1 through 24:,Bank 1,11,C1.S2#d2b610#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Leather Boots off the table & wield
+Episode 1 - Banks 1 through 24:,Bank 1,12,C1.S2#b224b6bb#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect 3x Logs next to the stairs [Tree Gnome Village]
+Episode 1 - Banks 1 through 24:,Bank 1,13,C1.S2#c338a2fa#0,route/locatie,,compound_task,,,"Head to the basement & Talk to Sedridor to continue Rune Mysteries (1,2,1)"
+Episode 1 - Banks 1 through 24:,Bank 1,14,C1.S2#4156604a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Kill a Chicken. Take Everything (Make sure you get a feather, else hop worlds and repeat)[Client of Kourend + Druidic Ritual]"
+Episode 1 - Banks 1 through 24:,Bank 1,15,C1.S2#23d35d44#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect 3x Logs [Tree Gnome Village]
+Episode 1 - Banks 1 through 24:,Bank 1,16,C1.S2#c11f1e20#0,route/locatie,,compound_task,,,Head north to Draynor & talk to Friendly Forester and obtain Forestry kit (right click shop and buy 1)
+Episode 1 - Banks 1 through 24:,Bank 1,17,C1.S2#75627118#0,bank-items of bankactie,,gecontroleerde plaatsbron,Draynor Village Bank,"3092,3245,0",Bank at Draynor and Deposit all
 Episode 1 - Banks 1 through 24:,Bank 2,1,C1.S3#addee9e1#0,note/handmatig,review_handmatig,not_safe_to_pin,,,"Route note — Draynor, Port Sarim, Zeah, Lumbridge and the Stronghold: the Stronghold of Security is NOT a safe death, so bring extra food if your HP is low and leave when you run short of HP or run energy; it is fast early money, not a required HCIM step."
 Episode 1 - Banks 1 through 24:,Bank 2,2,C1.S3#255b7233#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Spade, Feather & Mysterious Orb (4 Inventory Slots)"
 Episode 1 - Banks 1 through 24:,Bank 2,3,C1.S3#2a26a6ff#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect Cheese from Aggie [Witch's House]
@@ -89,68 +87,65 @@ Episode 1 - Banks 1 through 24:,Bank 2,33,C1.S3#18e59298#0,NPC/object/item; cont
 Episode 1 - Banks 1 through 24:,Bank 2,34,C1.S3#fd14fcac#0,route/locatie,,compound_task,,,Head east and Talk to Gertude (1) [Gertrudes Cat]
 Episode 1 - Banks 1 through 24:,Bank 2,35,C1.S3#40331587#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect a Doogle Leaf south of Gertrude
 Episode 1 - Banks 1 through 24:,Bank 2,36,C1.S3#2b83e2a6#0,bank-items of bankactie,,gecontroleerde plaatsbron,Varrock West Bank,"3185,3441,0",Bank at Varrock West Bank and deposit all
-Episode 1 - Banks 1 through 24:,Bank 3,1,C1.S4#f65c06e4#0,note/handmatig,,not_safe_to_pin,,,"Route note — Varrock circuit with many quest starts: buy an air staff and combine Demon Slayer, Shield of Arrav, Gertrude's Cat, Children of the Sun, Priest in Peril and Daddy's Home; keep every quest item you make."
-Episode 1 - Banks 1 through 24:,Bank 3,2,C1.S4#68a7b536#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Bones, Beer (3 Inventory Spaces)"
-Episode 1 - Banks 1 through 24:,Bank 3,3,C1.S4#1054b2d8#0,handmatig of contextueel,,not_safe_to_pin,,,RIGHT CLICK Use the bones on the Stray Dog whenever you find him
-Episode 1 - Banks 1 through 24:,Bank 3,4,C1.S4#a7a46d67#0,route/locatie,,multi_sentence,,,Head East and buy an Air Staff from Zaff. Equip it.
-Episode 1 - Banks 1 through 24:,Bank 3,5,C1.S4#bcf400a2#0,route/locatie,,compound_task,,,"Head South & Talk to Aris and start Demon Slayer (1,2,3,4)."
-Episode 1 - Banks 1 through 24:,Bank 3,6,C1.S4#6275899e#0,route/locatie,,compound_task,,,Head South & Trade Thessalia [Varrock Easy Diary]
-Episode 1 - Banks 1 through 24:,Bank 3,7,C1.S4#9451e373#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Buy Pink Skirt, Brown Apron & Silk. Wear Brown Apron & Pink Skirt in honour of Faux"
-Episode 1 - Banks 1 through 24:,Bank 3,8,C1.S4#9f285f50#0,route/locatie,,multi_sentence,,,Head South to the Sword Shop and go up the ladder. Loot the lit candle.
-Episode 1 - Banks 1 through 24:,Bank 3,9,C1.S4#8752c1e#0,route/locatie,,compound_task,,,"Head East and talk to Dr Harlow (1,2 talk again)[Vampyre Slayer]"
-Episode 1 - Banks 1 through 24:,Bank 3,10,C1.S4#75032ec5#0,route/locatie,,unresolved_location,,,Head North
-Episode 1 - Banks 1 through 24:,Bank 3,11,C1.S4#ddeea609#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Romeo (3,1) [Romeo & Juliet]"
-Episode 1 - Banks 1 through 24:,Bank 3,12,C1.S4#2afd3cbb#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Buy a Newspaper from Benny(1,1)"
-Episode 1 - Banks 1 through 24:,Bank 3,13,C1.S4#6f92ad14#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Shilop to continue Gertrudes Cat (2,2)"
-Episode 1 - Banks 1 through 24:,Bank 3,14,C1.S4#ae2c14d5#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Noah (1,3) [Children of the Sun]"
-Episode 1 - Banks 1 through 24:,Bank 3,15,C1.S4#42be6c0e#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Children of the Sun
-Episode 1 - Banks 1 through 24:,Bank 3,16,C1.S4#16ceec4a#0,route/locatie,,compound_task,,,"Go down North West 2x Stairs and talk to Sir Prysin in the SW room (3,1,2,2,1,1) [Demon Slayer]"
-Episode 1 - Banks 1 through 24:,Bank 3,17,C1.S4#5c9afcb3#0,route/locatie,,compound_task,,,"Head North and go up 2x Stairs and talk to Captain Rovin (3,1,2,2,3,1) [Demon Slayer]"
-Episode 1 - Banks 1 through 24:,Bank 3,18,C1.S4#ef73c9e5#0,route/locatie,,compound_task,,,"Return down the stairs and talk to Reldo and start Shield of Arrav (1,1)."
-Episode 1 - Banks 1 through 24:,Bank 3,19,C1.S4#73c4e942#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Search for book and talk to Reldo again (1)
-Episode 1 - Banks 1 through 24:,Bank 3,20,C1.S4#d4f634c6#0,route/locatie,,unresolved_location,,,Head East and up the stairs in the Kitchen.
-Episode 1 - Banks 1 through 24:,Bank 3,21,C1.S4#6619a2#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect both buckets and fill one up downstairs. Use Bucket of Water on drain outside then refill it.
-Episode 1 - Banks 1 through 24:,Bank 3,22,C1.S4#efaaeb16#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take the Pie Dish [Knight's Sword]
-Episode 1 - Banks 1 through 24:,Bank 3,23,C1.S4#a0e0a88b#0,route/locatie,,compound_task,,,"Head to King Roald and start Priest in Peril (1,1,3)"
-Episode 1 - Banks 1 through 24:,Bank 3,24,C1.S4#7e2a76da#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Marlo and start Daddy's Home (in a house the east of the castle) (2,3,3)"
-Episode 1 - Banks 1 through 24:,Bank 3,25,C1.S4#f81bb054#0,handmatig of contextueel,,not_safe_to_pin,,,Pick up the Saw
-Episode 1 - Banks 1 through 24:,Bank 3,26,C1.S4#a1e346b0#0,route/locatie,,compound_task,,,"Enter Varrock Sewer and take the North-West path to collect the Demon Slayer Key - Giant rat is aggressive, max hit is 1."
-Episode 1 - Banks 1 through 24:,Bank 3,27,C1.S4#1bf5894e#0,skilldoel; controleer autocheck,,compound_task,,,Enter Varrock Museum and head downstairs and talk to Orlando Smith (1) and complete the Natural History Quiz for 9 slayer and hunter and 28 kudos.
-Episode 1 - Banks 1 through 24:,Bank 3,28,C1.S4#47bcb0d8#0,bank-items of bankactie,,gecontroleerde plaatsbron,Varrock East Bank,"3253,3420,0",Bank at Varrock East bank and Deposit all
-Episode 1 - Banks 1 through 24:,Bank 4,1,C1.S5#2f3d0289#0,note/handmatig,,not_safe_to_pin,,,"Route note — Varrock, Daddy's Home and materials: combine the Construction unlock, plank making, rune shopping and Varrock diary steps, and check your free inventory slots for logs and planks."
-Episode 1 - Banks 1 through 24:,Bank 4,2,C1.S5#5625d7e3#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Saw, Hammer, Knife, Bronze Axe, Research Package, Tinderbox (7 Inventory Slots)"
-Episode 1 - Banks 1 through 24:,Bank 4,3,C1.S5#2a1e04e6#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Aubury to continue Rune Mysteries (1,2)"
-Episode 1 - Banks 1 through 24:,Bank 4,4,C1.S5#dfb7670b#0,handmatig of contextueel,,not_safe_to_pin,,,Light both logs in the house right next to the rune shop.
-Episode 1 - Banks 1 through 24:,Bank 4,5,C1.S5#1e2e2508#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Old Man Yarlo, then destroy all the furniture in the house (can't destroy furniture until you speak to him)"
-Episode 1 - Banks 1 through 24:,Bank 4,6,C1.S5#c886f0ad#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Old Man Yarlo to continue Daddy's Home (2)
-Episode 1 - Banks 1 through 24:,Bank 4,7,C1.S5#26fb2b3a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take 2x Logs & 2x ashes after cutscene
-Episode 1 - Banks 1 through 24:,Bank 4,8,C1.S5#3a9ac413#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Search crates for 3x Waxwood log
-Episode 1 - Banks 1 through 24:,Bank 4,9,C1.S5#2b671871#0,bank-items of bankactie,,unresolved_location,,,Bank the ashes
-Episode 1 - Banks 1 through 24:,Bank 4,10,C1.S5#a15351fe#0,route/locatie,,unresolved_location,,,Head North-East to the Lumberyard
-Episode 1 - Banks 1 through 24:,Bank 4,11,C1.S5#faffdcab#0,handmatig of contextueel,,not_safe_to_pin,,,Cut the Dying tree [Varrock Easy Diary]
-Episode 1 - Banks 1 through 24:,Bank 4,12,C1.S5#7e0b104a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Collect the Logs & fletch 2,100 Arrowshafts (hop between 2 worlds)"
-Episode 1 - Banks 1 through 24:,Bank 4,13,C1.S5#e2708d7d#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect 11 Logs & make 10 into Planks. Make the 3 Waxwood Planks.
-Episode 1 - Banks 1 through 24:,Bank 4,14,C1.S5#66dd7495#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy 5x Bolts of Cloth & 100 Steel Nails
-Episode 1 - Banks 1 through 24:,Bank 4,15,C1.S5#150c70ef#0,route/locatie,,compound_task,,,Return to Old Man Yarlo & continue Daddy's Home
-Episode 1 - Banks 1 through 24:,Bank 4,16,C1.S5#3769024#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Light 1 log & take the 1x log
-Episode 1 - Banks 1 through 24:,Bank 4,17,C1.S5#7f946eee#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect Ashes
-Episode 1 - Banks 1 through 24:,Bank 4,18,C1.S5#be61837b#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Trade Aubury and buy 1x Fire/Air/Earth Pack, 2x Water Pack, 3x Mind Pack"
-Episode 1 - Banks 1 through 24:,Bank 4,19,C1.S5#82cd1316#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Daddy's home at Marlo (1)
-Episode 1 - Banks 1 through 24:,Bank 4,20,C1.S5#16e2a11e#0,handmatig of contextueel,,not_safe_to_pin,,,Open the crate
-Episode 1 - Banks 1 through 24:,Bank 4,21,C1.S5#f84b58c2#0,bank-items of bankactie,,gecontroleerde plaatsbron,Varrock East Bank,"3253,3420,0",Bank at Varrock East bank
-Episode 1 - Banks 1 through 24:,Bank 5,1,C1.S6#2c8fa031#0,note/handmatig,,not_safe_to_pin,,,Route note — Varlamore materials in one visit: the Hunter's Guild gives new quest items and an early sellable resource; prices and stock can change.
-Episode 1 - Banks 1 through 24:,Bank 5,2,C1.S6#33c72a00#0,route/locatie,,gecontroleerde plaatsbron,Civitas illa Fortis,"1686,3113,0",Travel east to Regulus Cento & travel to Varlamore
-Episode 1 - Banks 1 through 24:,Bank 5,3,C1.S6#cd819387#0,handmatig of contextueel,,not_safe_to_pin,,,Open the Minimap and Head South out of the City
-Episode 1 - Banks 1 through 24:,Bank 5,4,C1.S6#6fac167a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Take the 3x Logs, Rope, Pestle & Mortar & Vial of Water"
-Episode 1 - Banks 1 through 24:,Bank 5,5,C1.S6#517e0980#0,route/locatie,,unresolved_location,,,Head West and pick 2 Nettles [Ghost's Ahoy][Skippy & The Mogres]
-Episode 1 - Banks 1 through 24:,Bank 5,6,C1.S6#bd6707a1#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect 1 Sweetcorn [Recipe for Disaster]
-Episode 1 - Banks 1 through 24:,Bank 5,7,C1.S6#e672ab62#0,route/locatie,,unresolved_location,,,Head West to the Hunter's Guild
-Episode 1 - Banks 1 through 24:,Bank 5,8,C1.S6#375773f4#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect the needle
-Episode 1 - Banks 1 through 24:,Bank 5,9,C1.S6#9c5b7ba4#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect a Bucket of Water by the bank chest
-Episode 1 - Banks 1 through 24:,Bank 5,10,C1.S6#acb68ea6#0,bank-items of bankactie,,not_safe_to_pin,,,Deposit all in the bank chest
-Episode 1 - Banks 1 through 24:,Bank 5,11,C1.S6#4fd0590f#0,route/locatie,,unresolved_location,,,Enter Guildmaster Apatura's building and go up both ladders
-Episode 1 - Banks 1 through 24:,Bank 5,12,C1.S6#9d81abac#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Loot 28 Eclipse Reds (hop worlds)
-Episode 1 - Banks 1 through 24:,Bank 5,13,C1.S6#17b05b0f#0,bank-items of bankactie,,not_safe_to_pin,,,Deposit all.
+Episode 1 - Banks 1 through 24:,Bank 3,1,C1.S4#68a7b536#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Bones, Beer (3 Inventory Spaces)"
+Episode 1 - Banks 1 through 24:,Bank 3,2,C1.S4#1054b2d8#0,handmatig of contextueel,,not_safe_to_pin,,,RIGHT CLICK Use the bones on the Stray Dog whenever you find him
+Episode 1 - Banks 1 through 24:,Bank 3,3,C1.S4#a7a46d67#0,route/locatie,,multi_sentence,,,Head East and buy an Air Staff from Zaff. Equip it.
+Episode 1 - Banks 1 through 24:,Bank 3,4,C1.S4#bcf400a2#0,route/locatie,,compound_task,,,"Head South & Talk to Aris and start Demon Slayer (1,2,3,4)."
+Episode 1 - Banks 1 through 24:,Bank 3,5,C1.S4#6275899e#0,route/locatie,,compound_task,,,Head South & Trade Thessalia [Varrock Easy Diary]
+Episode 1 - Banks 1 through 24:,Bank 3,6,C1.S4#9451e373#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Buy Pink Skirt, Brown Apron & Silk. Wear Brown Apron & Pink Skirt in honour of Faux"
+Episode 1 - Banks 1 through 24:,Bank 3,7,C1.S4#9f285f50#0,route/locatie,,multi_sentence,,,Head South to the Sword Shop and go up the ladder. Loot the lit candle.
+Episode 1 - Banks 1 through 24:,Bank 3,8,C1.S4#8752c1e#0,route/locatie,,compound_task,,,"Head East and talk to Dr Harlow (1,2 talk again)[Vampyre Slayer]"
+Episode 1 - Banks 1 through 24:,Bank 3,9,C1.S4#75032ec5#0,route/locatie,,unresolved_location,,,Head North
+Episode 1 - Banks 1 through 24:,Bank 3,10,C1.S4#ddeea609#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Romeo (3,1) [Romeo & Juliet]"
+Episode 1 - Banks 1 through 24:,Bank 3,11,C1.S4#2afd3cbb#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Buy a Newspaper from Benny(1,1)"
+Episode 1 - Banks 1 through 24:,Bank 3,12,C1.S4#6f92ad14#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Shilop to continue Gertrudes Cat (2,2)"
+Episode 1 - Banks 1 through 24:,Bank 3,13,C1.S4#ae2c14d5#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Noah (1,3) [Children of the Sun]"
+Episode 1 - Banks 1 through 24:,Bank 3,14,C1.S4#42be6c0e#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Children of the Sun
+Episode 1 - Banks 1 through 24:,Bank 3,15,C1.S4#16ceec4a#0,route/locatie,,compound_task,,,"Go down North West 2x Stairs and talk to Sir Prysin in the SW room (3,1,2,2,1,1) [Demon Slayer]"
+Episode 1 - Banks 1 through 24:,Bank 3,16,C1.S4#5c9afcb3#0,route/locatie,,compound_task,,,"Head North and go up 2x Stairs and talk to Captain Rovin (3,1,2,2,3,1) [Demon Slayer]"
+Episode 1 - Banks 1 through 24:,Bank 3,17,C1.S4#ef73c9e5#0,route/locatie,,compound_task,,,"Return down the stairs and talk to Reldo and start Shield of Arrav (1,1)."
+Episode 1 - Banks 1 through 24:,Bank 3,18,C1.S4#73c4e942#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Search for book and talk to Reldo again (1)
+Episode 1 - Banks 1 through 24:,Bank 3,19,C1.S4#d4f634c6#0,route/locatie,,unresolved_location,,,Head East and up the stairs in the Kitchen.
+Episode 1 - Banks 1 through 24:,Bank 3,20,C1.S4#6619a2#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect both buckets and fill one up downstairs. Use Bucket of Water on drain outside then refill it.
+Episode 1 - Banks 1 through 24:,Bank 3,21,C1.S4#efaaeb16#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take the Pie Dish [Knight's Sword]
+Episode 1 - Banks 1 through 24:,Bank 3,22,C1.S4#a0e0a88b#0,route/locatie,,compound_task,,,"Head to King Roald and start Priest in Peril (1,1,3)"
+Episode 1 - Banks 1 through 24:,Bank 3,23,C1.S4#7e2a76da#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Marlo and start Daddy's Home (in a house the east of the castle) (2,3,3)"
+Episode 1 - Banks 1 through 24:,Bank 3,24,C1.S4#f81bb054#0,handmatig of contextueel,,not_safe_to_pin,,,Pick up the Saw
+Episode 1 - Banks 1 through 24:,Bank 3,25,C1.S4#a1e346b0#0,route/locatie,,compound_task,,,"Enter Varrock Sewer and take the North-West path to collect the Demon Slayer Key - Giant rat is aggressive, max hit is 1."
+Episode 1 - Banks 1 through 24:,Bank 3,26,C1.S4#1bf5894e#0,skilldoel; controleer autocheck,,compound_task,,,Enter Varrock Museum and head downstairs and talk to Orlando Smith (1) and complete the Natural History Quiz for 9 slayer and hunter and 28 kudos.
+Episode 1 - Banks 1 through 24:,Bank 3,27,C1.S4#47bcb0d8#0,bank-items of bankactie,,gecontroleerde plaatsbron,Varrock East Bank,"3253,3420,0",Bank at Varrock East bank and Deposit all
+Episode 1 - Banks 1 through 24:,Bank 4,1,C1.S5#5625d7e3#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Saw, Hammer, Knife, Bronze Axe, Research Package, Tinderbox (7 Inventory Slots)"
+Episode 1 - Banks 1 through 24:,Bank 4,2,C1.S5#2a1e04e6#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Aubury to continue Rune Mysteries (1,2)"
+Episode 1 - Banks 1 through 24:,Bank 4,3,C1.S5#dfb7670b#0,handmatig of contextueel,,not_safe_to_pin,,,Light both logs in the house right next to the rune shop.
+Episode 1 - Banks 1 through 24:,Bank 4,4,C1.S5#1e2e2508#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Old Man Yarlo, then destroy all the furniture in the house (can't destroy furniture until you speak to him)"
+Episode 1 - Banks 1 through 24:,Bank 4,5,C1.S5#c886f0ad#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Old Man Yarlo to continue Daddy's Home (2)
+Episode 1 - Banks 1 through 24:,Bank 4,6,C1.S5#26fb2b3a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take 2x Logs & 2x ashes after cutscene
+Episode 1 - Banks 1 through 24:,Bank 4,7,C1.S5#3a9ac413#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Search crates for 3x Waxwood log
+Episode 1 - Banks 1 through 24:,Bank 4,8,C1.S5#2b671871#0,bank-items of bankactie,,unresolved_location,,,Bank the ashes
+Episode 1 - Banks 1 through 24:,Bank 4,9,C1.S5#a15351fe#0,route/locatie,,unresolved_location,,,Head North-East to the Lumberyard
+Episode 1 - Banks 1 through 24:,Bank 4,10,C1.S5#faffdcab#0,handmatig of contextueel,,not_safe_to_pin,,,Cut the Dying tree [Varrock Easy Diary]
+Episode 1 - Banks 1 through 24:,Bank 4,11,C1.S5#7e0b104a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Collect the Logs & fletch 2,100 Arrowshafts (hop between 2 worlds)"
+Episode 1 - Banks 1 through 24:,Bank 4,12,C1.S5#e2708d7d#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect 11 Logs & make 10 into Planks. Make the 3 Waxwood Planks.
+Episode 1 - Banks 1 through 24:,Bank 4,13,C1.S5#66dd7495#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy 5x Bolts of Cloth & 100 Steel Nails
+Episode 1 - Banks 1 through 24:,Bank 4,14,C1.S5#150c70ef#0,route/locatie,,compound_task,,,Return to Old Man Yarlo & continue Daddy's Home
+Episode 1 - Banks 1 through 24:,Bank 4,15,C1.S5#3769024#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Light 1 log & take the 1x log
+Episode 1 - Banks 1 through 24:,Bank 4,16,C1.S5#7f946eee#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect Ashes
+Episode 1 - Banks 1 through 24:,Bank 4,17,C1.S5#be61837b#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Trade Aubury and buy 1x Fire/Air/Earth Pack, 2x Water Pack, 3x Mind Pack"
+Episode 1 - Banks 1 through 24:,Bank 4,18,C1.S5#82cd1316#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Daddy's home at Marlo (1)
+Episode 1 - Banks 1 through 24:,Bank 4,19,C1.S5#16e2a11e#0,handmatig of contextueel,,not_safe_to_pin,,,Open the crate
+Episode 1 - Banks 1 through 24:,Bank 4,20,C1.S5#f84b58c2#0,bank-items of bankactie,,gecontroleerde plaatsbron,Varrock East Bank,"3253,3420,0",Bank at Varrock East bank
+Episode 1 - Banks 1 through 24:,Bank 5,1,C1.S6#33c72a00#0,route/locatie,,gecontroleerde plaatsbron,Civitas illa Fortis,"1686,3113,0",Travel east to Regulus Cento & travel to Varlamore
+Episode 1 - Banks 1 through 24:,Bank 5,2,C1.S6#cd819387#0,handmatig of contextueel,,not_safe_to_pin,,,Open the Minimap and Head South out of the City
+Episode 1 - Banks 1 through 24:,Bank 5,3,C1.S6#6fac167a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Take the 3x Logs, Rope, Pestle & Mortar & Vial of Water"
+Episode 1 - Banks 1 through 24:,Bank 5,4,C1.S6#517e0980#0,route/locatie,,unresolved_location,,,Head West and pick 2 Nettles [Ghost's Ahoy][Skippy & The Mogres]
+Episode 1 - Banks 1 through 24:,Bank 5,5,C1.S6#bd6707a1#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect 1 Sweetcorn [Recipe for Disaster]
+Episode 1 - Banks 1 through 24:,Bank 5,6,C1.S6#e672ab62#0,route/locatie,,unresolved_location,,,Head West to the Hunter's Guild
+Episode 1 - Banks 1 through 24:,Bank 5,7,C1.S6#375773f4#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect the needle
+Episode 1 - Banks 1 through 24:,Bank 5,8,C1.S6#9c5b7ba4#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect a Bucket of Water by the bank chest
+Episode 1 - Banks 1 through 24:,Bank 5,9,C1.S6#acb68ea6#0,bank-items of bankactie,,not_safe_to_pin,,,Deposit all in the bank chest
+Episode 1 - Banks 1 through 24:,Bank 5,10,C1.S6#4fd0590f#0,route/locatie,,unresolved_location,,,Enter Guildmaster Apatura's building and go up both ladders
+Episode 1 - Banks 1 through 24:,Bank 5,11,C1.S6#9d81abac#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Loot 28 Eclipse Reds (hop worlds)
+Episode 1 - Banks 1 through 24:,Bank 5,12,C1.S6#17b05b0f#0,bank-items of bankactie,,not_safe_to_pin,,,Deposit all.
 Episode 1 - Banks 1 through 24:,Bank 6,1,C1.S7#2a98805c#0,bank-items of bankactie,,not_safe_to_pin,,,Withdraw: Coins.
 Episode 1 - Banks 1 through 24:,Bank 6,2,C1.S7#9c5b7ba4#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect a Bucket of Water by the bank chest
 Episode 1 - Banks 1 through 24:,Bank 6,3,C1.S7#e2567756#0,route/locatie,,multi_sentence,,,Head South-West to Sunset Coast. Be careful of the aggressive NPC's along the way as they can kill you if you do not pay attention.
@@ -182,35 +177,34 @@ Episode 1 - Banks 1 through 24:,Bank 9,3,C1.S10#3a0f03b5#0,handmatig of contextu
 Episode 1 - Banks 1 through 24:,Bank 9,4,C1.S10#26bd0fa6#0,route/locatie,,compound_task,,,"Head West and talk to Redbeard Frank to start Pirate's Treasure (1,1)"
 Episode 1 - Banks 1 through 24:,Bank 9,5,C1.S10#648f3856#0,route/locatie,,multi_sentence,,,"Head South-West and buy a Harpoon, 50 Bait (non-packs) and 10 Feather packs. Take Apron from the wall & wear."
 Episode 1 - Banks 1 through 24:,Bank 9,6,C1.S10#691122b2#0,handmatig of contextueel,,not_safe_to_pin,,,Make 454 Headless Arrows
-Episode 1 - Banks 1 through 24:,Bank 9,7,C1.S10#36c74713#0,note/handmatig,,not_safe_to_pin,,,"Route note — Pandemonium (Sailing, November 2025) has no requirements; you need 2 free inventory slots and empty hands, and it unlocks Sailing, a raft and the Captain's log."
-Episode 1 - Banks 1 through 24:,Bank 9,8,C1.S10#da252471#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Unequip your weapon and the Chronicle, then talk to Will (or Anne) on the dock east of the Port Sarim Food Store to start Pandemonium"
-Episode 1 - Banks 1 through 24:,Bank 9,9,C1.S10#8296aac2#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Pandemonium (follow Quest Helper)
-Episode 1 - Banks 1 through 24:,Bank 9,10,C1.S10#84752c5b#0,handmatig of contextueel,,not_safe_to_pin,,,Wield the Chronicle again
-Episode 1 - Banks 1 through 24:,Bank 9,11,C1.S10#5314da90#0,note/handmatig,,not_safe_to_pin,,,"OPTIONAL: once you have 4 Sailing, do one courier task between Port Sarim and The Pandemonium"
-Episode 1 - Banks 1 through 24:,Bank 9,12,C1.S10#ab3c7e2a#0,route/locatie,,gecontroleerde plaatsbron,Karamja,"2918,3176,0",Take Ship to Karamja (Seamen dressed in blue)
-Episode 1 - Banks 1 through 24:,Bank 9,13,C1.S10#64610213#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Luthas and ask for employment (1)
-Episode 1 - Banks 1 through 24:,Bank 9,14,C1.S10#16fc011b#0,handmatig of contextueel,,not_safe_to_pin,,,Fish Raw Shrimps [Karamja Easy Diary] Drop Shrimps
-Episode 1 - Banks 1 through 24:,Bank 9,15,C1.S10#3ff891ec#0,handmatig of contextueel,,not_safe_to_pin,,,Pick 10 bananas
-Episode 1 - Banks 1 through 24:,Bank 9,16,C1.S10#e900962f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy Karamja Rum
-Episode 1 - Banks 1 through 24:,Bank 9,17,C1.S10#812684be#0,handmatig of contextueel,,not_safe_to_pin,,,Fill Crate with bananas and use Karamja rum on the crate
-Episode 1 - Banks 1 through 24:,Bank 9,18,C1.S10#4a98d4fb#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Make sure to speak to Luthas again before heading to the boat
-Episode 1 - Banks 1 through 24:,Bank 9,19,C1.S10#b3e69660#0,route/locatie,,gecontroleerde plaatsbron,Port Sarim,"3047,3236,0",Take boat back to Port Sarim [Karamja Easy Diary]
-Episode 1 - Banks 1 through 24:,Bank 9,20,C1.S10#14fba4df#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Trade Wydin and buy Raw Chicken, 2x Raw Beef, 3x Flour & 2x redberries"
-Episode 1 - Banks 1 through 24:,Bank 9,21,C1.S10#7e4d896#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Continue Pirate's Treasure by talking to Wydin to get employed, and collect the rum from the crate."
-Episode 1 - Banks 1 through 24:,Bank 9,22,C1.S10#12ef9f1#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy 8x Raw Sardines
-Episode 1 - Banks 1 through 24:,Bank 9,23,C1.S10#6b6f52db#0,handmatig of contextueel,,not_safe_to_pin,,,"Use the Deposit box by Entrana and deposit everything except: Mind Runes, Coins, 1x Raw Beef, Karamja Rum, Onion, Pickaxe & 2x wines (8 Inventory Slots)"
-Episode 1 - Banks 1 through 24:,Bank 9,24,C1.S10#8c2f98e6#0,route/locatie,,unresolved_location,,,Return to Redbeard Frank
-Episode 1 - Banks 1 through 24:,Bank 9,25,C1.S10#462fc69e#0,route/locatie,,compound_task,,,Head West to Betty and buy 2x Eye of Newt & 200 mind runes
-Episode 1 - Banks 1 through 24:,Bank 9,26,C1.S10#6c9063b8#0,route/locatie,,compound_task,,,Head South-West and complete Witches Potion (Beef twice on range to burn)
-Episode 1 - Banks 1 through 24:,Bank 9,27,C1.S10#6bc54b4c#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take 2x Logs when getting the rat tail
-Episode 1 - Banks 1 through 24:,Bank 9,28,C1.S10#644b7222#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Buy moulds: Ring, Amulet, 2x Necklace, Bracelet, Sickle, Tiara, 3x Needle & 50 Thread (from Rommik in Rimmington)"
-Episode 1 - Banks 1 through 24:,Bank 9,29,C1.S10#5b6b7b04#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy 3x Buckets & Shears
-Episode 1 - Banks 1 through 24:,Bank 9,30,C1.S10#3313e0aa#0,route/locatie,,compound_task,,,Head North-West and collect a Snape Grass
-Episode 1 - Banks 1 through 24:,Bank 9,31,C1.S10#71a6ec6c#0,handmatig of contextueel,,not_safe_to_pin,,,Milk the cow 3x by Crafting guild
-Episode 1 - Banks 1 through 24:,Bank 9,32,C1.S10#6a4bc37c#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill a cow & take everything
-Episode 1 - Banks 1 through 24:,Bank 9,33,C1.S10#86b61ddb#0,handmatig of contextueel,,not_safe_to_pin,,,Shear a sheep by the Makeover Mage
-Episode 1 - Banks 1 through 24:,Bank 9,34,C1.S10#40fd7529#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Falador Crumbling wall Shortcut [Falador Easy Diary]
-Episode 1 - Banks 1 through 24:,Bank 9,35,C1.S10#d9b107b1#0,bank-items of bankactie,,gecontroleerde plaatsbron,Falador West Bank,"2946,3369,0",Bank at Falador West Bank and deposit all
+Episode 1 - Banks 1 through 24:,Bank 9,7,C1.S10#da252471#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Unequip your weapon and the Chronicle, then talk to Will (or Anne) on the dock east of the Port Sarim Food Store to start Pandemonium"
+Episode 1 - Banks 1 through 24:,Bank 9,8,C1.S10#8296aac2#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Pandemonium (follow Quest Helper)
+Episode 1 - Banks 1 through 24:,Bank 9,9,C1.S10#84752c5b#0,handmatig of contextueel,,not_safe_to_pin,,,Wield the Chronicle again
+Episode 1 - Banks 1 through 24:,Bank 9,10,C1.S10#5314da90#0,note/handmatig,,not_safe_to_pin,,,"OPTIONAL: once you have 4 Sailing, do one courier task between Port Sarim and The Pandemonium"
+Episode 1 - Banks 1 through 24:,Bank 9,11,C1.S10#ab3c7e2a#0,route/locatie,,gecontroleerde plaatsbron,Karamja,"2918,3176,0",Take Ship to Karamja (Seamen dressed in blue)
+Episode 1 - Banks 1 through 24:,Bank 9,12,C1.S10#64610213#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Luthas and ask for employment (1)
+Episode 1 - Banks 1 through 24:,Bank 9,13,C1.S10#16fc011b#0,handmatig of contextueel,,not_safe_to_pin,,,Fish Raw Shrimps [Karamja Easy Diary] Drop Shrimps
+Episode 1 - Banks 1 through 24:,Bank 9,14,C1.S10#3ff891ec#0,handmatig of contextueel,,not_safe_to_pin,,,Pick 10 bananas
+Episode 1 - Banks 1 through 24:,Bank 9,15,C1.S10#e900962f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy Karamja Rum
+Episode 1 - Banks 1 through 24:,Bank 9,16,C1.S10#812684be#0,handmatig of contextueel,,not_safe_to_pin,,,Fill Crate with bananas and use Karamja rum on the crate
+Episode 1 - Banks 1 through 24:,Bank 9,17,C1.S10#4a98d4fb#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Make sure to speak to Luthas again before heading to the boat
+Episode 1 - Banks 1 through 24:,Bank 9,18,C1.S10#b3e69660#0,route/locatie,,gecontroleerde plaatsbron,Port Sarim,"3047,3236,0",Take boat back to Port Sarim [Karamja Easy Diary]
+Episode 1 - Banks 1 through 24:,Bank 9,19,C1.S10#14fba4df#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Trade Wydin and buy Raw Chicken, 2x Raw Beef, 3x Flour & 2x redberries"
+Episode 1 - Banks 1 through 24:,Bank 9,20,C1.S10#7e4d896#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Continue Pirate's Treasure by talking to Wydin to get employed, and collect the rum from the crate."
+Episode 1 - Banks 1 through 24:,Bank 9,21,C1.S10#12ef9f1#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy 8x Raw Sardines
+Episode 1 - Banks 1 through 24:,Bank 9,22,C1.S10#6b6f52db#0,handmatig of contextueel,,not_safe_to_pin,,,"Use the Deposit box by Entrana and deposit everything except: Mind Runes, Coins, 1x Raw Beef, Karamja Rum, Onion, Pickaxe & 2x wines (8 Inventory Slots)"
+Episode 1 - Banks 1 through 24:,Bank 9,23,C1.S10#8c2f98e6#0,route/locatie,,unresolved_location,,,Return to Redbeard Frank
+Episode 1 - Banks 1 through 24:,Bank 9,24,C1.S10#462fc69e#0,route/locatie,,compound_task,,,Head West to Betty and buy 2x Eye of Newt & 200 mind runes
+Episode 1 - Banks 1 through 24:,Bank 9,25,C1.S10#6c9063b8#0,route/locatie,,compound_task,,,Head South-West and complete Witches Potion (Beef twice on range to burn)
+Episode 1 - Banks 1 through 24:,Bank 9,26,C1.S10#6bc54b4c#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take 2x Logs when getting the rat tail
+Episode 1 - Banks 1 through 24:,Bank 9,27,C1.S10#644b7222#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Buy moulds: Ring, Amulet, 2x Necklace, Bracelet, Sickle, Tiara, 3x Needle & 50 Thread (from Rommik in Rimmington)"
+Episode 1 - Banks 1 through 24:,Bank 9,28,C1.S10#5b6b7b04#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy 3x Buckets & Shears
+Episode 1 - Banks 1 through 24:,Bank 9,29,C1.S10#3313e0aa#0,route/locatie,,compound_task,,,Head North-West and collect a Snape Grass
+Episode 1 - Banks 1 through 24:,Bank 9,30,C1.S10#71a6ec6c#0,handmatig of contextueel,,not_safe_to_pin,,,Milk the cow 3x by Crafting guild
+Episode 1 - Banks 1 through 24:,Bank 9,31,C1.S10#6a4bc37c#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill a cow & take everything
+Episode 1 - Banks 1 through 24:,Bank 9,32,C1.S10#86b61ddb#0,handmatig of contextueel,,not_safe_to_pin,,,Shear a sheep by the Makeover Mage
+Episode 1 - Banks 1 through 24:,Bank 9,33,C1.S10#40fd7529#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Falador Crumbling wall Shortcut [Falador Easy Diary]
+Episode 1 - Banks 1 through 24:,Bank 9,34,C1.S10#d9b107b1#0,bank-items of bankactie,,gecontroleerde plaatsbron,Falador West Bank,"2946,3369,0",Bank at Falador West Bank and deposit all
 Episode 1 - Banks 1 through 24:,Bank 10,1,C1.S11#72965c8d#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Mind Runes, Raw Rat/Chicken/Beef, 10x Wines, Empty Bucket, Chest Key, Cheese (18 Inventory Slots)"
 Episode 1 - Banks 1 through 24:,Bank 10,2,C1.S11#3a533fd8#0,handmatig of contextueel,,not_safe_to_pin,,,Get a haircut North [Falador Easy Diary]
 Episode 1 - Banks 1 through 24:,Bank 10,3,C1.S11#ee8d85a4#0,handmatig of contextueel,,not_safe_to_pin,,,Fill Bucket on Pump [Falador Easy Diary]
@@ -439,26 +433,25 @@ Episode 2 - Banks 24 through 75:,Bank 28,13,C2.S4#bcb872fd#0,route/locatie,,unre
 Episode 2 - Banks 24 through 75:,Bank 28,14,C2.S4#7850a2d0#0,route/locatie,,compound_task,,,"Head directly North on the path to Arceuus general Store and talk to Regath (4,2) [Client of Kourend]"
 Episode 2 - Banks 24 through 75:,Bank 28,15,C2.S4#bcdc2b9b#0,route/locatie,,compound_task,,,"Walk to the Hosidius General Store, talk to Horace (3,2)"
 Episode 2 - Banks 24 through 75:,Bank 28,16,C2.S4#78a3f785#0,bank-items of bankactie,,unresolved_location,,,Bank West side of the Square and deposit everything
-Episode 2 - Banks 24 through 75:,Bank 28,17,C2.S4#33037ff7#0,note/handmatig,,not_safe_to_pin,,,"Route note — The Writing's on the Wall (Quest Month, November 2026) needs 22 Agility and 20 Thieving (not boostable), has no fights and gives 2,500 Agility, 2,500 Thieving and the Amulet of sight (+10 Ranged attack) before the fruit stalls and Brimhaven."
-Episode 2 - Banks 24 through 75:,Bank 28,18,C2.S4#558bdcfe#0,route/locatie,,compound_task,,,Run south-west to Land's End and talk to Betty outside the northernmost house to start The Writing's on the Wall
-Episode 2 - Banks 24 through 75:,Bank 28,19,C2.S4#27c4627a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Sergeant Hudson and inspect the body parts on the bed, the shelves and the blood on the wall [The Writing's on the Wall]"
-Episode 2 - Banks 24 through 75:,Bank 28,20,C2.S4#7cacf5e3#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Lan the Butcher in the house south-west of the bank, search his bed and use the bloody knife on him [The Writing's on the Wall]"
-Episode 2 - Banks 24 through 75:,Bank 28,21,C2.S4#2fd65f65#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Hugor in the eastern house, inspect your clues and talk to Betty and Sergeant Hudson again [The Writing's on the Wall]"
-Episode 2 - Banks 24 through 75:,Bank 28,22,C2.S4#9c25b6a0#0,route/locatie,,compound_task,,,Run north-east and talk to Betty at the house north-west of the Tithe Farm [The Writing's on the Wall]
-Episode 2 - Banks 24 through 75:,Bank 28,23,C2.S4#6bda1762#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Climb through the west window, open the door for Betty and search the basement and the bookshelf upstairs [The Writing's on the Wall]"
-Episode 2 - Banks 24 through 75:,Bank 28,24,C2.S4#a3710d07#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Search the compost bin north of the house and inspect the head [The Writing's on the Wall]
-Episode 2 - Banks 24 through 75:,Bank 28,25,C2.S4#60944e24#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Joyce in the potato field west of the house and the monk just south of it [The Writing's on the Wall]
-Episode 2 - Banks 24 through 75:,Bank 28,26,C2.S4#4f74d87f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Betty again and accept her transport to Port Piscarilius [The Writing's on the Wall]
-Episode 2 - Banks 24 through 75:,Bank 28,27,C2.S4#8fdb3089#0,handmatig of contextueel,,not_safe_to_pin,,,"Remove the plank north of the prison, climb the wall and sneak into the north-western house past the guards [The Writing's on the Wall]"
-Episode 2 - Banks 24 through 75:,Bank 28,28,C2.S4#3507113b#0,route/locatie,,gecontroleerde plaatsbron,Shayzien,"1480,3635,0",Head to the War Tent in the Shayzien Encampment [The Writing's on the Wall]
-Episode 2 - Banks 24 through 75:,Bank 28,29,C2.S4#52e58416#0,handmatig of contextueel,,not_safe_to_pin,,,"Watch the cutscene and investigate the next victim's house: shelves, body and blood on the wall [The Writing's on the Wall]"
-Episode 2 - Banks 24 through 75:,Bank 28,30,C2.S4#5a14e5ad#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Kyle to the south and then to Sergeant Hudson [The Writing's on the Wall]
-Episode 2 - Banks 24 through 75:,Bank 28,31,C2.S4#f76fcda6#0,handmatig of contextueel,,not_safe_to_pin,,,Inspect the plant between the two trees on the island west of Watson's house in Hosidius and go down the trapdoor [The Writing's on the Wall]
-Episode 2 - Banks 24 through 75:,Bank 28,32,C2.S4#1efeaca8#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete The Writing's on the Wall and keep the Amulet of sight for your Ranged training
-Episode 2 - Banks 24 through 75:,Bank 28,33,C2.S4#9e3db946#0,route/locatie,,compound_task,,,Return to the Hosidius bank and deposit everything
-Episode 2 - Banks 24 through 75:,Bank 28,34,C2.S4#feddc497#0,handmatig of contextueel,,not_safe_to_pin,,,Steal from the Fruit stall [Kourend Easy Diary]
-Episode 2 - Banks 24 through 75:,Bank 28,35,C2.S4#7d9995a9#0,route/locatie,,not_safe_to_pin,,,"Head East & thieve from the Hosidius fruit stall until 31,512 Thieving Experience (Twilight's Promise in Bank 29 adds the other 3,000). Bank 5x Redberries, all Golovanova's + Strange fruit and 1x Jangerberries [Fairytale Part I, possible item for Malignius Mortifer]"
-Episode 2 - Banks 24 through 75:,Bank 28,36,C2.S4#db2214fa#0,route/locatie,,multi_sentence,,,"Run between both stalls as it is faster. Once you are 0 energy, recharge at 1 stall."
+Episode 2 - Banks 24 through 75:,Bank 28,17,C2.S4#558bdcfe#0,route/locatie,,compound_task,,,Run south-west to Land's End and talk to Betty outside the northernmost house to start The Writing's on the Wall
+Episode 2 - Banks 24 through 75:,Bank 28,18,C2.S4#27c4627a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Sergeant Hudson and inspect the body parts on the bed, the shelves and the blood on the wall [The Writing's on the Wall]"
+Episode 2 - Banks 24 through 75:,Bank 28,19,C2.S4#7cacf5e3#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Lan the Butcher in the house south-west of the bank, search his bed and use the bloody knife on him [The Writing's on the Wall]"
+Episode 2 - Banks 24 through 75:,Bank 28,20,C2.S4#2fd65f65#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Hugor in the eastern house, inspect your clues and talk to Betty and Sergeant Hudson again [The Writing's on the Wall]"
+Episode 2 - Banks 24 through 75:,Bank 28,21,C2.S4#9c25b6a0#0,route/locatie,,compound_task,,,Run north-east and talk to Betty at the house north-west of the Tithe Farm [The Writing's on the Wall]
+Episode 2 - Banks 24 through 75:,Bank 28,22,C2.S4#6bda1762#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Climb through the west window, open the door for Betty and search the basement and the bookshelf upstairs [The Writing's on the Wall]"
+Episode 2 - Banks 24 through 75:,Bank 28,23,C2.S4#a3710d07#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Search the compost bin north of the house and inspect the head [The Writing's on the Wall]
+Episode 2 - Banks 24 through 75:,Bank 28,24,C2.S4#60944e24#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Joyce in the potato field west of the house and the monk just south of it [The Writing's on the Wall]
+Episode 2 - Banks 24 through 75:,Bank 28,25,C2.S4#4f74d87f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Betty again and accept her transport to Port Piscarilius [The Writing's on the Wall]
+Episode 2 - Banks 24 through 75:,Bank 28,26,C2.S4#8fdb3089#0,handmatig of contextueel,,not_safe_to_pin,,,"Remove the plank north of the prison, climb the wall and sneak into the north-western house past the guards [The Writing's on the Wall]"
+Episode 2 - Banks 24 through 75:,Bank 28,27,C2.S4#3507113b#0,route/locatie,,gecontroleerde plaatsbron,Shayzien,"1480,3635,0",Head to the War Tent in the Shayzien Encampment [The Writing's on the Wall]
+Episode 2 - Banks 24 through 75:,Bank 28,28,C2.S4#52e58416#0,handmatig of contextueel,,not_safe_to_pin,,,"Watch the cutscene and investigate the next victim's house: shelves, body and blood on the wall [The Writing's on the Wall]"
+Episode 2 - Banks 24 through 75:,Bank 28,29,C2.S4#5a14e5ad#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Kyle to the south and then to Sergeant Hudson [The Writing's on the Wall]
+Episode 2 - Banks 24 through 75:,Bank 28,30,C2.S4#f76fcda6#0,handmatig of contextueel,,not_safe_to_pin,,,Inspect the plant between the two trees on the island west of Watson's house in Hosidius and go down the trapdoor [The Writing's on the Wall]
+Episode 2 - Banks 24 through 75:,Bank 28,31,C2.S4#1efeaca8#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete The Writing's on the Wall and keep the Amulet of sight for your Ranged training
+Episode 2 - Banks 24 through 75:,Bank 28,32,C2.S4#9e3db946#0,route/locatie,,compound_task,,,Return to the Hosidius bank and deposit everything
+Episode 2 - Banks 24 through 75:,Bank 28,33,C2.S4#feddc497#0,handmatig of contextueel,,not_safe_to_pin,,,Steal from the Fruit stall [Kourend Easy Diary]
+Episode 2 - Banks 24 through 75:,Bank 28,34,C2.S4#7d9995a9#0,route/locatie,,not_safe_to_pin,,,"Head East & thieve from the Hosidius fruit stall until 31,512 Thieving Experience (Twilight's Promise in Bank 29 adds the other 3,000). Bank 5x Redberries, all Golovanova's + Strange fruit and 1x Jangerberries [Fairytale Part I, possible item for Malignius Mortifer]"
+Episode 2 - Banks 24 through 75:,Bank 28,35,C2.S4#db2214fa#0,route/locatie,,multi_sentence,,,"Run between both stalls as it is faster. Once you are 0 energy, recharge at 1 stall."
 Episode 2 - Banks 24 through 75:,Bank 29,1,C2.S5#cb0fe985#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Enchanted Quill, Enchanted Scroll, Stew, Pickaxe, Chronicle, Axe, Tinderbox, Shortbow, Bronze Arrows, Air Runes, Mind Runes, 10x Food (22 Inventory Slots)"
 Episode 2 - Banks 24 through 75:,Bank 29,2,C2.S5#11336e51#0,route/locatie,,unresolved_location,,,Head back to Veos [Client of Kourend]
 Episode 2 - Banks 24 through 75:,Bank 29,3,C2.S5#ef02d36e#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Mine Cart to Arceuss and continue Client of Kourend by Activating the Mysterious Orb by the Dark Altar
@@ -479,28 +472,27 @@ Episode 2 - Banks 24 through 75:,Bank 29,17,C2.S5#408de94f#0,NPC/object/item; co
 Episode 2 - Banks 24 through 75:,Bank 29,18,C2.S5#1645c623#0,handmatig of contextueel,,not_safe_to_pin,,,Cut trees heading towards the Varlamore Quetzin
 Episode 2 - Banks 24 through 75:,Bank 29,19,C2.S5#bfd30d6d#0,handmatig of contextueel,,not_safe_to_pin,,,Finish 15 Woodcutting & light all the logs
 Episode 2 - Banks 24 through 75:,Bank 29,20,C2.S5#d1fb96cc#0,route/locatie,,gecontroleerde plaatsbron,Civitas illa Fortis,"1686,3113,0",Head to Varlamore
-Episode 2 - Banks 24 through 75:,Bank 29,21,C2.S5#eb3c2392#0,note/handmatig,,not_safe_to_pin,,,"Route note — Twilight's Promise moved here from Episode 6: it gives 3,000 Thieving, the Civitas illa Fortis Teleport and the Quetzal Transport System, which shortens this trip and every later Varlamore trip."
-Episode 2 - Banks 24 through 75:,Bank 29,22,C2.S5#dc89ed21#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Ennius Tullus (or Furia Tullus) in front of the Sunrise Palace and start Twilight's Promise
-Episode 2 - Banks 24 through 75:,Bank 29,23,C2.S5#2e311fac#0,handmatig of contextueel,,not_safe_to_pin,,,Let the guards deal with the level 34 cultists in the Teomat [Twilight's Promise]
-Episode 2 - Banks 24 through 75:,Bank 29,24,C2.S5#4f5b7938#0,note/handmatig,review_handmatig,not_safe_to_pin,,,"HCIM: Mezan in the Colosseum is level 81 with a max hit of 8; switch between Magic and Ranged every 3 attacks so he never prays, and eat early [Twilight's Promise]"
-Episode 2 - Banks 24 through 75:,Bank 29,25,C2.S5#4168c6de#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Twilight's Promise
-Episode 2 - Banks 24 through 75:,Bank 29,26,C2.S5#9a29aa4b#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy Bronze Spear from the Sword shop
-Episode 2 - Banks 24 through 75:,Bank 29,27,C2.S5#54f771c9#0,bank-items of bankactie,,unresolved_location,,,Bank all but axe and coins.
-Episode 2 - Banks 24 through 75:,Bank 29,28,C2.S5#af24a457#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy an Inventory of Silk from the market & bank it
-Episode 2 - Banks 24 through 75:,Bank 29,29,C2.S5#7549af8d#0,route/locatie,,unresolved_location,,,Head South
-Episode 2 - Banks 24 through 75:,Bank 29,30,C2.S5#43f70418#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Ribbiting Tale of a Lily Pad Dispute quest
-Episode 2 - Banks 24 through 75:,Bank 29,31,C2.S5#a3728991#0,route/locatie,,compound_task,,,Head west and Collect the Fishing Rod from spawn next to Fishing Shop
-Episode 2 - Banks 24 through 75:,Bank 29,32,C2.S5#56e6115#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect another Lobster Pot and Iron Bar
-Episode 2 - Banks 24 through 75:,Bank 29,33,C2.S5#835f438a#0,route/locatie,,gecontroleerde plaatsbron,Aldarin,"1392,2940,0",Head to Aldarin
-Episode 2 - Banks 24 through 75:,Bank 29,34,C2.S5#9f50c1a2#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Death on the Isle quest
-Episode 2 - Banks 24 through 75:,Bank 29,35,C2.S5#f3b4118d#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Pickpocket Constantinius in the main house for Chest Key.
-Episode 2 - Banks 24 through 75:,Bank 29,36,C2.S5#c56ec362#0,route/locatie,,compound_task,,,Go downstairs into the wine cellar and through the book cases and Talk to Costumer to get Costume Needle
-Episode 2 - Banks 24 through 75:,Bank 29,37,C2.S5#3dc840b3#0,handmatig of contextueel,,not_safe_to_pin,,,Open the Fancy Chest hidden in the Southwest corner of the cellar
-Episode 2 - Banks 24 through 75:,Bank 29,38,C2.S5#6c50c22e#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Search the South-western Fountain outside
-Episode 2 - Banks 24 through 75:,Bank 29,39,C2.S5#b5fd1c86#0,handmatig of contextueel,,not_safe_to_pin,,,Use the Icon on the Statue (Ates) on the North-East coast to unlock Pendant of Ates teleport
-Episode 2 - Banks 24 through 75:,Bank 29,40,C2.S5#dd26e71#0,route/locatie,,unresolved_location,,,Minigame Teleport to Tzhaar Fight Pits
-Episode 2 - Banks 24 through 75:,Bank 29,41,C2.S5#24281d65#0,route/locatie,,compound_task,,,Enter Fight Caves & wait for Wave 1 to start then leave [Karamja Easy Diary]
-Episode 2 - Banks 24 through 75:,Bank 29,42,C2.S5#2ff4b692#0,bank-items of bankactie,,unresolved_location,,,Bank and deposit all
+Episode 2 - Banks 24 through 75:,Bank 29,21,C2.S5#dc89ed21#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Ennius Tullus (or Furia Tullus) in front of the Sunrise Palace and start Twilight's Promise
+Episode 2 - Banks 24 through 75:,Bank 29,22,C2.S5#2e311fac#0,handmatig of contextueel,,not_safe_to_pin,,,Let the guards deal with the level 34 cultists in the Teomat [Twilight's Promise]
+Episode 2 - Banks 24 through 75:,Bank 29,23,C2.S5#4f5b7938#0,note/handmatig,review_handmatig,not_safe_to_pin,,,"HCIM: Mezan in the Colosseum is level 81 with a max hit of 8; switch between Magic and Ranged every 3 attacks so he never prays, and eat early [Twilight's Promise]"
+Episode 2 - Banks 24 through 75:,Bank 29,24,C2.S5#4168c6de#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Twilight's Promise
+Episode 2 - Banks 24 through 75:,Bank 29,25,C2.S5#9a29aa4b#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy Bronze Spear from the Sword shop
+Episode 2 - Banks 24 through 75:,Bank 29,26,C2.S5#54f771c9#0,bank-items of bankactie,,unresolved_location,,,Bank all but axe and coins.
+Episode 2 - Banks 24 through 75:,Bank 29,27,C2.S5#af24a457#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy an Inventory of Silk from the market & bank it
+Episode 2 - Banks 24 through 75:,Bank 29,28,C2.S5#7549af8d#0,route/locatie,,unresolved_location,,,Head South
+Episode 2 - Banks 24 through 75:,Bank 29,29,C2.S5#43f70418#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Ribbiting Tale of a Lily Pad Dispute quest
+Episode 2 - Banks 24 through 75:,Bank 29,30,C2.S5#a3728991#0,route/locatie,,compound_task,,,Head west and Collect the Fishing Rod from spawn next to Fishing Shop
+Episode 2 - Banks 24 through 75:,Bank 29,31,C2.S5#56e6115#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect another Lobster Pot and Iron Bar
+Episode 2 - Banks 24 through 75:,Bank 29,32,C2.S5#835f438a#0,route/locatie,,gecontroleerde plaatsbron,Aldarin,"1392,2940,0",Head to Aldarin
+Episode 2 - Banks 24 through 75:,Bank 29,33,C2.S5#9f50c1a2#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Death on the Isle quest
+Episode 2 - Banks 24 through 75:,Bank 29,34,C2.S5#f3b4118d#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Pickpocket Constantinius in the main house for Chest Key.
+Episode 2 - Banks 24 through 75:,Bank 29,35,C2.S5#c56ec362#0,route/locatie,,compound_task,,,Go downstairs into the wine cellar and through the book cases and Talk to Costumer to get Costume Needle
+Episode 2 - Banks 24 through 75:,Bank 29,36,C2.S5#3dc840b3#0,handmatig of contextueel,,not_safe_to_pin,,,Open the Fancy Chest hidden in the Southwest corner of the cellar
+Episode 2 - Banks 24 through 75:,Bank 29,37,C2.S5#6c50c22e#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Search the South-western Fountain outside
+Episode 2 - Banks 24 through 75:,Bank 29,38,C2.S5#b5fd1c86#0,handmatig of contextueel,,not_safe_to_pin,,,Use the Icon on the Statue (Ates) on the North-East coast to unlock Pendant of Ates teleport
+Episode 2 - Banks 24 through 75:,Bank 29,39,C2.S5#dd26e71#0,route/locatie,,unresolved_location,,,Minigame Teleport to Tzhaar Fight Pits
+Episode 2 - Banks 24 through 75:,Bank 29,40,C2.S5#24281d65#0,route/locatie,,compound_task,,,Enter Fight Caves & wait for Wave 1 to start then leave [Karamja Easy Diary]
+Episode 2 - Banks 24 through 75:,Bank 29,41,C2.S5#2ff4b692#0,bank-items of bankactie,,unresolved_location,,,Bank and deposit all
 Episode 2 - Banks 24 through 75:,Bank 30,1,C2.S6#cbb4c02d#0,note/handmatig,,not_safe_to_pin,,,"Route note — Brimhaven Agility: watch out for repeated damage; this is a long XP grind, so keep checking your HP and have food ready."
 Episode 2 - Banks 24 through 75:,Bank 30,2,C2.S6#c1bc9328#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Chronicle, Barcrawl Card, all Wines"
 Episode 2 - Banks 24 through 75:,Bank 30,3,C2.S6#e59c5665#0,route/locatie,,unresolved_location,,,Leave the Tzhaar cave
@@ -566,24 +558,23 @@ Episode 2 - Banks 24 through 75:,Bank 33,15,C2.S9#2f7e5648#0,NPC/object/item; co
 Episode 2 - Banks 24 through 75:,Bank 33,16,C2.S9#7ae2174b#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy 5x Empty Pots in the General Store
 Episode 2 - Banks 24 through 75:,Bank 33,17,C2.S9#f7f9b091#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Osman (1) [Prince Ali Rescue]
 Episode 2 - Banks 24 through 75:,Bank 33,18,C2.S9#1ef61eec#0,route/locatie,,gecontroleerde plaatsbron,Shantay Pass,"3304,3117,0",Head to Shantay Pass
-Episode 2 - Banks 24 through 75:,Bank 34,1,C2.S10#290dd953#0,note/handmatig,review_handmatig,not_safe_to_pin,,,"Route note — Agility Pyramid for a big cash buffer: B0aty's efficiency goal is over 1 million GP while training Agility; it is a target, not a guaranteed amount."
-Episode 2 - Banks 24 through 75:,Bank 34,2,C2.S10#d1fa926e#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Desert Robes/boots (buy new ones from Shantay Pass), Chronicle"
-Episode 2 - Banks 24 through 75:,Bank 34,3,C2.S10#50b446fd#0,handmatig of contextueel,,not_safe_to_pin,,,Wield Desert Robes
-Episode 2 - Banks 24 through 75:,Bank 34,4,C2.S10#3c2505b9#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy 2x Inventory of Waterskins(4)
-Episode 2 - Banks 24 through 75:,Bank 34,5,C2.S10#b8e5efc#0,route/locatie,,gecontroleerde plaatsbron,Pollnivneach,"3359,2970,0",Take Carpet to Pollnivneach
-Episode 2 - Banks 24 through 75:,Bank 34,6,C2.S10#ca03400d#0,route/locatie,review_handmatig,unresolved_location,,,Run towards the Agility Pyramid
-Episode 2 - Banks 24 through 75:,Bank 34,7,C2.S10#6746c8e9#0,handmatig of contextueel,review_handmatig,not_safe_to_pin,,,"Complete the Agility Pyramid until 627,000 Agility Experience"
-Episode 2 - Banks 24 through 75:,Bank 34,8,C2.S10#6beb4bf4#0,bank-items of bankactie,,gecontroleerde plaatsbron,Nardah,"3424,2918,0",Bank at Nardah when out of food/waterskins
-Episode 2 - Banks 24 through 75:,Bank 34,9,C2.S10#7df01923#0,handmatig of contextueel,,not_safe_to_pin,,,Withdraw a knife and cut a cactus one trip banking at Nardah [Desert Easy Diary]
-Episode 2 - Banks 24 through 75:,Bank 34,10,C2.S10#867025db#0,handmatig of contextueel,,not_safe_to_pin,,,Chronicle Teleport to Varrock
-Episode 2 - Banks 24 through 75:,Bank 34,11,C2.S10#3069c896#0,handmatig of contextueel,,not_safe_to_pin,,,Drop Waterskins/Jugs
-Episode 2 - Banks 24 through 75:,Bank 34,12,C2.S10#308e6bc3#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Buy 2x Tinderbox, Cake Tin, 2x Bowl from General Store"
-Episode 2 - Banks 24 through 75:,Bank 34,13,C2.S10#dad76b2c#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy a Fire Staff from Zaff
-Episode 2 - Banks 24 through 75:,Bank 34,14,C2.S10#4b1cf5b7#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy 400 Chaos Runes from Aubury
-Episode 2 - Banks 24 through 75:,Bank 34,15,C2.S10#3ed5cc8a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy a few packs of each elemental rune as well (maybe 500 runes each)
-Episode 2 - Banks 24 through 75:,Bank 34,16,C2.S10#443801e9#0,handmatig of contextueel,,not_safe_to_pin,,,Steal a tea [Varrock Easy Diary]
-Episode 2 - Banks 24 through 75:,Bank 34,17,C2.S10#f83ccce2#0,bank-items of bankactie,,gecontroleerde plaatsbron,Varrock East Bank,"3253,3420,0",Bank at Varrock East Bank
-Episode 2 - Banks 24 through 75:,Bank 34,18,C2.S10#c35d33a1#0,handmatig of contextueel,,not_safe_to_pin,,,Do Mahogany Home contract if Varrock
+Episode 2 - Banks 24 through 75:,Bank 34,1,C2.S10#d1fa926e#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Desert Robes/boots (buy new ones from Shantay Pass), Chronicle"
+Episode 2 - Banks 24 through 75:,Bank 34,2,C2.S10#50b446fd#0,handmatig of contextueel,,not_safe_to_pin,,,Wield Desert Robes
+Episode 2 - Banks 24 through 75:,Bank 34,3,C2.S10#3c2505b9#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy 2x Inventory of Waterskins(4)
+Episode 2 - Banks 24 through 75:,Bank 34,4,C2.S10#b8e5efc#0,route/locatie,,gecontroleerde plaatsbron,Pollnivneach,"3359,2970,0",Take Carpet to Pollnivneach
+Episode 2 - Banks 24 through 75:,Bank 34,5,C2.S10#ca03400d#0,route/locatie,review_handmatig,unresolved_location,,,Run towards the Agility Pyramid
+Episode 2 - Banks 24 through 75:,Bank 34,6,C2.S10#6746c8e9#0,handmatig of contextueel,review_handmatig,not_safe_to_pin,,,"Complete the Agility Pyramid until 627,000 Agility Experience"
+Episode 2 - Banks 24 through 75:,Bank 34,7,C2.S10#6beb4bf4#0,bank-items of bankactie,,gecontroleerde plaatsbron,Nardah,"3424,2918,0",Bank at Nardah when out of food/waterskins
+Episode 2 - Banks 24 through 75:,Bank 34,8,C2.S10#7df01923#0,handmatig of contextueel,,not_safe_to_pin,,,Withdraw a knife and cut a cactus one trip banking at Nardah [Desert Easy Diary]
+Episode 2 - Banks 24 through 75:,Bank 34,9,C2.S10#867025db#0,handmatig of contextueel,,not_safe_to_pin,,,Chronicle Teleport to Varrock
+Episode 2 - Banks 24 through 75:,Bank 34,10,C2.S10#3069c896#0,handmatig of contextueel,,not_safe_to_pin,,,Drop Waterskins/Jugs
+Episode 2 - Banks 24 through 75:,Bank 34,11,C2.S10#308e6bc3#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Buy 2x Tinderbox, Cake Tin, 2x Bowl from General Store"
+Episode 2 - Banks 24 through 75:,Bank 34,12,C2.S10#dad76b2c#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy a Fire Staff from Zaff
+Episode 2 - Banks 24 through 75:,Bank 34,13,C2.S10#4b1cf5b7#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy 400 Chaos Runes from Aubury
+Episode 2 - Banks 24 through 75:,Bank 34,14,C2.S10#3ed5cc8a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy a few packs of each elemental rune as well (maybe 500 runes each)
+Episode 2 - Banks 24 through 75:,Bank 34,15,C2.S10#443801e9#0,handmatig of contextueel,,not_safe_to_pin,,,Steal a tea [Varrock Easy Diary]
+Episode 2 - Banks 24 through 75:,Bank 34,16,C2.S10#f83ccce2#0,bank-items of bankactie,,gecontroleerde plaatsbron,Varrock East Bank,"3253,3420,0",Bank at Varrock East Bank
+Episode 2 - Banks 24 through 75:,Bank 34,17,C2.S10#c35d33a1#0,handmatig of contextueel,,not_safe_to_pin,,,Do Mahogany Home contract if Varrock
 Episode 2 - Banks 24 through 75:,Bank 35,1,C2.S11#632ea212#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Chaos Runes, Air Staff, Leather Gloves, 10x Empty Bucket, Barcrawl, Unstamped Letter (16 Inventory Slots)"
 Episode 2 - Banks 24 through 75:,Bank 35,2,C2.S11#60b3b819#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Haig Halen to continue Digsite (1)
 Episode 2 - Banks 24 through 75:,Bank 35,3,C2.S11#2e8c637c#0,handmatig of contextueel,,not_safe_to_pin,,,Home teleport to Lumbridge
@@ -876,12 +867,11 @@ Episode 2 - Banks 24 through 75:,Bank 60,8,C2.S37#17f02cdf#0,handmatig of contex
 Episode 2 - Banks 24 through 75:,Bank 60,9,C2.S37#dc2415b#0,handmatig of contextueel,,not_safe_to_pin,,,Try to enter Woodcutting Guild South-West (4) [Bone Voyage]
 Episode 2 - Banks 24 through 75:,Bank 60,10,C2.S37#5d5744d9#0,bank-items of bankactie,,unresolved_location,,,Bank anywhere and deposit all.
 Episode 2 - Banks 24 through 75:,Bank 60,11,C2.S37#6c1f94a1#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,"(if you are 26 construction from passive MH contracts, skip this step else do it)"
-Episode 2 - Banks 24 through 75:,Bank 60B,1,C2.S38#fe670cd#0,note/handmatig,,not_safe_to_pin,,,"Route note — Tower of Life moved here from Bank 155: its 1,000 Construction XP saves Mahogany Homes contracts in Bank 61 and its 500 Crafting XP saves glass in Bank 68."
-Episode 2 - Banks 24 through 75:,Bank 60B,2,C2.S38#47f4b2d0#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Hammer, Saw, Beer, Teleport Runes (5 Inventory Slots)"
-Episode 2 - Banks 24 through 75:,Bank 60B,3,C2.S38#b16d3ed3#0,handmatig of contextueel,,not_safe_to_pin,,,"Tower of Life needs 10 Construction (not boostable); if you are lower, do Beginner Mahogany Homes contracts from Bank 61 until 10 Construction first"
-Episode 2 - Banks 24 through 75:,Bank 60B,4,C2.S38#3fccadfe#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Ardy Cloak to the Monastery and talk to Effigy east of it to start Tower of Life
-Episode 2 - Banks 24 through 75:,Bank 60B,5,C2.S38#51eaff15#0,quest/event; controleer autocheck,,not_safe_to_pin,,,"Complete Tower of Life (1,000 Construction, 500 Crafting and 500 Thieving XP)"
-Episode 2 - Banks 24 through 75:,Bank 60B,6,C2.S38#97a7f9f5#0,bank-items of bankactie,,unresolved_location,,,Bank anywhere and deposit all
+Episode 2 - Banks 24 through 75:,Bank 60B,1,C2.S38#47f4b2d0#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Hammer, Saw, Beer, Teleport Runes (5 Inventory Slots)"
+Episode 2 - Banks 24 through 75:,Bank 60B,2,C2.S38#b16d3ed3#0,handmatig of contextueel,,not_safe_to_pin,,,"Tower of Life needs 10 Construction (not boostable); if you are lower, do Beginner Mahogany Homes contracts from Bank 61 until 10 Construction first"
+Episode 2 - Banks 24 through 75:,Bank 60B,3,C2.S38#3fccadfe#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Ardy Cloak to the Monastery and talk to Effigy east of it to start Tower of Life
+Episode 2 - Banks 24 through 75:,Bank 60B,4,C2.S38#51eaff15#0,quest/event; controleer autocheck,,not_safe_to_pin,,,"Complete Tower of Life (1,000 Construction, 500 Crafting and 500 Thieving XP)"
+Episode 2 - Banks 24 through 75:,Bank 60B,5,C2.S38#97a7f9f5#0,bank-items of bankactie,,unresolved_location,,,Bank anywhere and deposit all
 Episode 2 - Banks 24 through 75:,Bank 61,1,C2.S39#a1105772#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Hammer, Saw, Nails, 2x Steel Bar, Teleport Runes, Invent of Planks (28 Inventory Slots)"
 Episode 2 - Banks 24 through 75:,Bank 61,2,C2.S39#7a5c2dd#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,"Teleport to Falador & get Beginner Mahogany Home contracts until 26 Construction. Train to 10,163 XP, if you plan on soloing Tempoross, as you won't get enough Construction XP for a future step. These might be bad locations but best ways if no direct teleport. Doesn't take long anyway. Mahogany Homes plugin is helpful."
 Episode 2 - Banks 24 through 75:,Bank 61,3,C2.S39#825181af#0,handmatig of contextueel,,not_safe_to_pin,,,Ardougne: Ardy Cloak 1 - Run North
@@ -1033,24 +1023,23 @@ Episode 3 - Banks 76 through 104B:,Bank 75,15,C3.S1#d822ca5#0,handmatig of conte
 Episode 3 - Banks 76 through 104B:,Bank 75,16,C3.S1#c08476eb#0,handmatig of contextueel,,not_safe_to_pin,,,Falador Patch - Falador Teleport (Slower)
 Episode 3 - Banks 76 through 104B:,Bank 75,17,C3.S1#8b105ec3#0,handmatig of contextueel,,not_safe_to_pin,,,Morytania Patch - ALQ Fairy Ring (Slower)
 Episode 3 - Banks 76 through 104B:,Bank 75,18,C3.S1#4f3f0c03#0,handmatig of contextueel,,not_safe_to_pin,,,Varlamore Patch - AJP Fairy Ring (Slow; only do if surplus seeds)
-Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),1,C3.S2#49836023#0,note/handmatig,,not_safe_to_pin,,,"Route note — Sailing block A is optional (about 3 to 4 hours): Sailing is not a Song of the Elves requirement, but shipbuilding gives Construction XP and port tasks give coins and sawmill coupons; skip to Bank 76 for the fastest route to Song of the Elves."
-Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),2,C3.S2#b835fa#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Steel Bar, Hammer, Redberry Pie, Teleport Runes (5 Inventory Slots)"
-Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),3,C3.S2#a3abe755#0,handmatig of contextueel,,not_safe_to_pin,,,"Do two courier tasks at a time to the same port, or tasks that lie on each other's route"
-Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),4,C3.S2#b937baac#0,handmatig of contextueel,,not_safe_to_pin,,,Chart every sea charting spot you pass for one-off XP and faster rapids later
-Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),5,C3.S2#7bb421fc#0,handmatig of contextueel,,not_safe_to_pin,,,Train to 12 Sailing with courier tasks and sea charting
-Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),6,C3.S2#581c66d0#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Talk to Squawking Steve Beanie in the pub on The Pandemonium and start Prying Times (needs 30 Smithing and The Knight's Sword)
-Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),7,C3.S2#b63a8a29#0,quest/event; controleer autocheck,,not_safe_to_pin,,,"Complete Prying Times (crowbar, 800 Sailing, 1,000 Smithing and 25 oak sawmill coupons)"
-Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),8,C3.S2#3a919ac2#0,handmatig of contextueel,,not_safe_to_pin,,,Train to 15 Sailing
-Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),9,C3.S2#db5928b1#0,handmatig of contextueel,,not_safe_to_pin,,,"Get the skiff for 15,000 coins and build a cargo hold and a bronze salvaging hook"
-Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),10,C3.S2#36407d13#0,handmatig of contextueel,,not_safe_to_pin,,,"Sort salvage at a salvaging station instead of dropping it: every tier can give the Sailors' amulet (cheap island teleports) and a 1/3,000 museum find with kudos and antique lamps (lamps on Herblore)"
-Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),11,C3.S2#febb9d63#0,handmatig of contextueel,,not_safe_to_pin,,,Build the iron helm at 17 Sailing and 14 Construction (6 iron bars and 3 oak planks)
-Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),12,C3.S2#720dbede#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Train to 22 Sailing
-Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),13,C3.S2#423b7b5d#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Arhein on the Catherby docks and start Current Affairs (needs 10 Fishing and 50 coins)
-Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),14,C3.S2#4d163a6e#0,quest/event; controleer autocheck,,not_safe_to_pin,,,"Complete Current Affairs and finish with your boat docked in Catherby (1,400 Sailing, 1,000 Fishing, the current duck and 25 oak sawmill coupons)"
-Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),15,C3.S2#924c16ec#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,"Build the oak mast & linen sails at 24 Sailing, 11 Construction and 12 Crafting with the oak sawmill coupons"
-Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),16,C3.S2#3dce51fb#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Train to 30 Sailing
-Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),17,C3.S2#743cfcab#0,handmatig of contextueel,,not_safe_to_pin,,,Do The Tempor Tantrum (Barracuda Trials) until the Marlin rank
-Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),18,C3.S2#97a7f9f5#0,bank-items of bankactie,,unresolved_location,,,Bank anywhere and deposit all
+Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),1,C3.S2#b835fa#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Steel Bar, Hammer, Redberry Pie, Teleport Runes (5 Inventory Slots)"
+Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),2,C3.S2#a3abe755#0,handmatig of contextueel,,not_safe_to_pin,,,"Do two courier tasks at a time to the same port, or tasks that lie on each other's route"
+Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),3,C3.S2#b937baac#0,handmatig of contextueel,,not_safe_to_pin,,,Chart every sea charting spot you pass for one-off XP and faster rapids later
+Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),4,C3.S2#7bb421fc#0,handmatig of contextueel,,not_safe_to_pin,,,Train to 12 Sailing with courier tasks and sea charting
+Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),5,C3.S2#581c66d0#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Talk to Squawking Steve Beanie in the pub on The Pandemonium and start Prying Times (needs 30 Smithing and The Knight's Sword)
+Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),6,C3.S2#b63a8a29#0,quest/event; controleer autocheck,,not_safe_to_pin,,,"Complete Prying Times (crowbar, 800 Sailing, 1,000 Smithing and 25 oak sawmill coupons)"
+Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),7,C3.S2#3a919ac2#0,handmatig of contextueel,,not_safe_to_pin,,,Train to 15 Sailing
+Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),8,C3.S2#db5928b1#0,handmatig of contextueel,,not_safe_to_pin,,,"Get the skiff for 15,000 coins and build a cargo hold and a bronze salvaging hook"
+Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),9,C3.S2#36407d13#0,handmatig of contextueel,,not_safe_to_pin,,,"Sort salvage at a salvaging station instead of dropping it: every tier can give the Sailors' amulet (cheap island teleports) and a 1/3,000 museum find with kudos and antique lamps (lamps on Herblore)"
+Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),10,C3.S2#febb9d63#0,handmatig of contextueel,,not_safe_to_pin,,,Build the iron helm at 17 Sailing and 14 Construction (6 iron bars and 3 oak planks)
+Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),11,C3.S2#720dbede#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Train to 22 Sailing
+Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),12,C3.S2#423b7b5d#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Arhein on the Catherby docks and start Current Affairs (needs 10 Fishing and 50 coins)
+Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),13,C3.S2#4d163a6e#0,quest/event; controleer autocheck,,not_safe_to_pin,,,"Complete Current Affairs and finish with your boat docked in Catherby (1,400 Sailing, 1,000 Fishing, the current duck and 25 oak sawmill coupons)"
+Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),14,C3.S2#924c16ec#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,"Build the oak mast & linen sails at 24 Sailing, 11 Construction and 12 Crafting with the oak sawmill coupons"
+Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),15,C3.S2#3dce51fb#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Train to 30 Sailing
+Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),16,C3.S2#743cfcab#0,handmatig of contextueel,,not_safe_to_pin,,,Do The Tempor Tantrum (Barracuda Trials) until the Marlin rank
+Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),17,C3.S2#97a7f9f5#0,bank-items of bankactie,,unresolved_location,,,Bank anywhere and deposit all
 Episode 3 - Banks 76 through 104B:,Bank 76,1,C3.S3#a0878385#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Spade, Teleport Runes, Pickaxe, Rune Sword, Antipoison, Excalibur, 3x Jute Seeds,5x Wines (16 Inventory Slots)"
 Episode 3 - Banks 76 through 104B:,Bank 76,2,C3.S3#66327e3a#0,handmatig of contextueel,,not_safe_to_pin,,,Ardougne Cape Teleport-ALS [Kandarin Medium Diary]
 Episode 3 - Banks 76 through 104B:,Bank 76,3,C3.S3#5520c8b7#0,handmatig of contextueel,,not_safe_to_pin,,,Dig for 1x Red Vine Worms [Fishing Contest]
@@ -1914,8 +1903,8 @@ Episode 4 - Banks 105 through 150,Bank 130,13,C4.S27#236ba825#0,handmatig of con
 Episode 4 - Banks 105 through 150,Bank 130,14,C4.S27#83cb3a79#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Seth Groats [One Small Favour]
 Episode 4 - Banks 105 through 150,Bank 130,15,C4.S27#18505fa2#0,route/locatie,,compound_task,,,Return to the cow pen and talk to Gillie Groats [The Ides of Milk]
 Episode 4 - Banks 105 through 150,Bank 130,16,C4.S27#b63aaf07#0,handmatig of contextueel,,not_safe_to_pin,,,Drink the milk sample infront of Gillie Groats who will offer you a permit for dealing with the bull [The Ides of Milk]
-Episode 4 - Banks 105 through 150,Bank 130,17,C4.S27#4e0ccde0#0,handmatig of contextueel,,not_safe_to_pin,,,Open the pen in the north-east corner of the cow farm and fight the bull [The Ides of Milk]
-Episode 4 - Banks 105 through 150,Bank 130,18,C4.S27#b68af923#0,note/handmatig,,not_safe_to_pin,,,HCIM: Brutus's special attacks scale with your HP and cannot be prayed against; step 2 tiles sideways when he snorts or growls and leave through the south-west gate if it goes wrong
+Episode 4 - Banks 105 through 150,Bank 130,17,C4.S27#b68af923#0,note/handmatig,,not_safe_to_pin,,,HCIM: Brutus's special attacks scale with your HP and cannot be prayed against; step 2 tiles sideways when he snorts or growls and leave through the south-west gate if it goes wrong
+Episode 4 - Banks 105 through 150,Bank 130,18,C4.S27#4e0ccde0#0,handmatig of contextueel,,not_safe_to_pin,,,Open the pen in the north-east corner of the cow farm and fight the bull [The Ides of Milk]
 Episode 4 - Banks 105 through 150,Bank 130,19,C4.S27#afa8665f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Speak to Gillie Groats [The Ides of Milk]
 Episode 4 - Banks 105 through 150,Bank 130,20,C4.S27#7b5d810c#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Speak to Cassius to complete the Ides of Milk
 Episode 4 - Banks 105 through 150,Bank 130,21,C4.S27#6d522bad#0,handmatig of contextueel,,not_safe_to_pin,,,"Use the 1,000 XP combat lamp from The Ides of Milk on Prayer or Ranged"
@@ -2478,95 +2467,94 @@ Episode 5 - Banks 151 through 175,Bank 175,4,C5.S26#9b4eca#0,handmatig of contex
 Episode 5 - Banks 151 through 175,Bank 175,5,C5.S26#f8bd15a3#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Grim Tales
 Episode 5 - Banks 151 through 175,Bank 175,6,C5.S26#e9903c43#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Use Ibans to kill Glod
 Episode 5 - Banks 151 through 175,Bank 175,7,C5.S26#310f2abc#0,handmatig of contextueel,,not_safe_to_pin,,,Use Spicy Stews to boost for climbing the crumbling wall & cutting the beanstalk[Log out after 10 seconds after you get the boost]
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,1,C6.S1#2670e76e#0,note/handmatig,,not_safe_to_pin,,,Route note — Long midgame checkpoint: B0aty groups many separate combat preparation steps here; follow the sub-goals exactly and check the current death rules before every boss.
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,2,C6.S1#b970b399#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Teleport Runes, Axe, Kourend Blessing 1, 50+ Earth Runes, Earth Talisman, 10+ Pure Essence, Bucket of Water, Eye Amulet, Darklight"
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,3,C6.S1#3ed45e48#0,handmatig of contextueel,,not_safe_to_pin,,,Blessing - Minecart (North-East) - Farming Guild (2)
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,4,C6.S1#d5c1a34e#0,route/locatie,,unresolved_location,,,Head North & cut a Mahogany Log [Kourend Medium Diary]
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,5,C6.S1#51648c8e#0,route/locatie,,gecontroleerde plaatsbron,Kourend Castle,"1643,3673,0",Teleport to Kourend Castle
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,6,C6.S1#a5beeece#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Elise & complete Kourend Medium Diary
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,7,C6.S1#6bf7b77c#0,handmatig of contextueel,,not_safe_to_pin,,,Lamp on Herblore
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,8,C6.S1#f93d20b0#0,route/locatie,,unresolved_location,,,Enter the Catacombs
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,9,C6.S1#da50b279#0,route/locatie,,compound_task,,,Run north and then east towards bloodvelds and Kill a greater demon with Darklight (2 CA points) (Don't get alfie'd by the iron dragons)
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,10,C6.S1#ccf4ac2e#0,route/locatie,,compound_task,,,"Run back to the entrance of the catacombs and run west, Kill a hellhound (1 Point)"
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,11,C6.S1#f40ad333#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Right before the hellhounds room, Take shortcut to Giants den and kill each of the 3 giants (Fire, Hill, Moss). (1 Point)"
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,12,C6.S1#2a5a9912#0,note/handmatig,,not_safe_to_pin,,,"NOTE: You should now have the Easy CA's Unlocked after this task. If you do not, ensure you have the following CA's done:"
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,13,C6.S1#53776d31#0,handmatig of contextueel,review_handmatig,not_safe_to_pin,,,Wintertodt 13 points
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,14,C6.S1#8d6fe39b#0,handmatig of contextueel,,not_safe_to_pin,,,Tempoross 11 points
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,15,C6.S1#90656ea3#0,handmatig of contextueel,,not_safe_to_pin,,,CoX 4 points
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,16,C6.S1#272706a4#0,handmatig of contextueel,,not_safe_to_pin,,,Hespori 3 points
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,17,C6.S1#258a172c#0,handmatig of contextueel,,not_safe_to_pin,,,Greater demon 2 points
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,18,C6.S1#744aa50d#0,handmatig of contextueel,,not_safe_to_pin,,,Barrows 1 point
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,19,C6.S1#306b711c#0,handmatig of contextueel,,not_safe_to_pin,,,Fire Giant 1 point
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,20,C6.S1#63b63b08#0,handmatig of contextueel,,not_safe_to_pin,,,Hellhound 1 point
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,21,C6.S1#1e8f9dfc#0,handmatig of contextueel,,not_safe_to_pin,,,Giants Den 1 point
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,22,C6.S1#adfd3255#0,handmatig of contextueel,,not_safe_to_pin,,,Black Dragon 1 point
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,23,C6.S1#a3d72e43#0,handmatig of contextueel,,not_safe_to_pin,,,Brutus 3 points
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,24,C6.S1#d13110f9#0,handmatig of contextueel,,not_safe_to_pin,,,Total 41
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,25,C6.S1#6b6823c#0,route/locatie,,gecontroleerde plaatsbron,Varrock,"3212,3424,0",Teleport to Varrock
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,26,C6.S1#67ede033#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Mage of Zamorak [Temple of the Eye]
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,27,C6.S1#48faa8ca#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Tea Seller (3) [Temple of the Eye]
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,28,C6.S1#5b065f77#0,handmatig of contextueel,,not_safe_to_pin,,,Use Strong Tea on Mage of Zamorak (1)
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,29,C6.S1#d30242e1#0,handmatig of contextueel,,not_safe_to_pin,,,Accept being teleported to the Abyss
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,30,C6.S1#71ed0c21#0,handmatig of contextueel,,not_safe_to_pin,,,Use Eye Amulet on Dark Mage
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,31,C6.S1#6ed61ed0#0,handmatig of contextueel,,not_safe_to_pin,,,Complete the Trial & Error puzzle
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,32,C6.S1#ab013b4b#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Dark Mage
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,33,C6.S1#dc1f1398#0,route/locatie,,unresolved_location,,,Enter Fire Altar
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,34,C6.S1#68dc433c#0,handmatig of contextueel,,not_safe_to_pin,,,Use Earth Runes on Fire Altar [Lumbridge Medium Diary]
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,35,C6.S1#8d9d7a59#0,route/locatie,,unresolved_location,,,Leave Fire Altar
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,36,C6.S1#570071a3#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Wizard Persten
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,37,C6.S1#6d195f25#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Temple of the Eye
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,38,C6.S1#a370ef33#0,handmatig of contextueel,,not_safe_to_pin,,,Complete 1-2 Guardians of the Rift minigame until 35 RuneCrafting
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,39,C6.S1#b73530cc#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Loot if you have any points (If 4,000 people follow the guide, there is a chance one of you pulls a 1kc pet)"
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,40,C6.S1#775af81e#0,handmatig of contextueel,,not_safe_to_pin,,,Continue & Complete Wanted!
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,41,C6.S1#8e4f4f7f#0,handmatig of contextueel,,not_safe_to_pin,,,Complete these skills whenever you want
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,42,C6.S1#49b5df07#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,"70 Construction - Teak Logs from Kingdom. Use Butler in POH for planks. Mahogany homes until 70. 400-600 Oak Planks - 50, 2,300 Teak Planks 50-70 (This should cost you about 2.5m gp)"
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,43,C6.S1#8b7546f1#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,70 Mining - 3t Sand and deposit in the grinder for future grinds. Leave for Herb Runs and use Camulet to return
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,44,C6.S1#22d0bc5c#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,70 Herblore - Do as many herbruns/medium farming contracts as possible. Moons will bank quite alot of the XP
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,45,C6.S1#dca49ead#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,70 Farming - Should be completed passively.
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,46,C6.S1#8208d96a#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,70 Hunter - Should be completed passively with BHRs.
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,47,C6.S1#12bff452#0,handmatig of contextueel,,not_safe_to_pin,,,Training melee combat & slayer
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,48,C6.S1#b4a292a0#0,handmatig of contextueel,,not_safe_to_pin,,,"Make some Super Attack, Super Strength & Prayer Potions"
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,49,C6.S1#a04f115d#0,handmatig of contextueel,,not_safe_to_pin,,,Train Slayer to 48 with an ancient staff as your weapon on Attack Mode
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,50,C6.S1#45601de7#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Teleport Runes, Coins, Melee & Range Combat Gear, Sven's Last Map, Spade, some food"
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,51,C6.S1#38b8594f#0,handmatig of contextueel,,not_safe_to_pin,,,Ardy Cloak - DKS
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,52,C6.S1#534fb8c#0,handmatig of contextueel,,not_safe_to_pin,,,Dig by Windswept Tree
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,53,C6.S1#96d0ae89#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill a Brine Rat [Fremennik Medium Diary]
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,54,C6.S1#6b6823c#1,route/locatie,,gecontroleerde plaatsbron,Varrock,"3212,3424,0",Teleport to Varrock
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,55,C6.S1#d1fb96cc#0,route/locatie,,gecontroleerde plaatsbron,Civitas illa Fortis,"1686,3113,0",Head to Varlamore
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,56,C6.S1#62aaee05#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy Mithril Platebody & Mithril Platelegs at the Blackmith West
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,57,C6.S1#d9e295ca#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Start Perilous Moons until you unlock Sulphur Naguas
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,58,C6.S1#82b5387d#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy a Dragon Scimitar at Ape Atoll (Bring a GreeGree)
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,59,C6.S1#5b93216b#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Train Slayer until 58 on Strength Mode until 65 Strength then switch to Attack until 65
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,60,C6.S1#6d32479d#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Collect Easy CA's from Ghommal. Lamp on herblore. Get a Dragon Defender at Warriors Guild, training on Defensive"
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,61,C6.S1#be1c2302#0,note/handmatig,,not_safe_to_pin,,,"OPTIONAL: Rum Deal requires 47 Prayer (Boostable), you may have enough ensouled heads from 58 slayer to get this level"
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,62,C6.S1#a249c307#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Complete Rum Deal & Cabin Fever once 58 Slayer after Defender
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,63,C6.S1#9e8d8d91#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Start A Great Brain Robbery & plant Watermelons in the patch on Harmony Island
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,64,C6.S1#d9b51f77#0,handmatig of contextueel,,not_safe_to_pin,,,"Sailing B (optional, Sailing 30-52): do it now that you have 51+ Slayer"
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,65,C6.S1#f9fa7c24#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Train to 45 Sailing with The Tempor Tantrum or AFK salvaging during farm and birdhouse timers
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,66,C6.S1#3c1acd77#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,"Troubled Tortugans needs 45 Sailing, 51 Slayer, 48 Construction, 45 Hunter, 40 Woodcutting and 34 Crafting; bring an axe, hammer, saw, food and combat gear"
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,67,C6.S1#926a3a7c#0,route/locatie,,compound_task,,,Sail to the Remote Island north-west of The Great Conch and talk to the Injured Tortugan to start Troubled Tortugans
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,68,C6.S1#5611052a#0,note/handmatig,,not_safe_to_pin,,,HCIM: the Shellbane Gryphon is level 235; wear the Tortugan shield (cape slot) for the whole fight and pray Protect from Melee or Missiles
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,69,C6.S1#4db6cdc6#0,note/handmatig,,not_safe_to_pin,,,"HCIM: keep 40+ kg equipped or put trees or eggs between you and the charge, step away from the orange orb and keep moving during the whirlwinds [Troubled Tortugans]"
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,70,C6.S1#d4376351#0,quest/event; controleer autocheck,,not_safe_to_pin,,,"Complete Troubled Tortugans (10,000 Sailing, 8,000 Slayer and The Great Conch with fairy ring CJQ)"
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,71,C6.S1#f2ba953f#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Train to 52 Sailing (The Red Reef also needs 48 Smithing)
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,72,C6.S1#b248571f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Elder Raley at his house just south of the Summer Shore bank on The Great Conch and start The Red Reef
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,73,C6.S1#ca27ea72#0,note/handmatig,,not_safe_to_pin,,,"HCIM: pray Protect from Missiles when the two pirate ships at Last Light appear and Protect from Melee against the six pirates; your boat sinking is safe, but dying yourself is a real death"
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,74,C6.S1#8ac111fb#0,note/handmatig,,not_safe_to_pin,,,"HCIM: Black Eye Bethel (level 191) can disable your protection prayers with her special, so step away from her charged attacks [The Red Reef]"
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,75,C6.S1#9c8a4769#0,handmatig of contextueel,,not_safe_to_pin,,,Move off the blue particles under you during the giant lobster fight [The Red Reef]
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,76,C6.S1#8979131#0,quest/event; controleer autocheck,,not_safe_to_pin,,,"Complete The Red Reef (15,000 Sailing, 5,000 Smithing, the Sacred Grove and the Bosun's workbench)"
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,77,C6.S1#9cf930d0#0,handmatig of contextueel,,not_safe_to_pin,,,Combat Achievements
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,78,C6.S1#d079bd79#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Fire Cape if you're confident Meleeing after Defender
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,79,C6.S1#58c89cab#0,handmatig of contextueel,,not_safe_to_pin,,,"The Fight Caves no longer have a cooldown after you leave, so you can retry later without waiting"
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,80,C6.S1#a36feff1#0,note/handmatig,,not_safe_to_pin,,,"OPTIONAL: Medium Combat Achievements before Barrows are fairly difficult to achieve at this point but possible, especially with friends to help with TOB entry mode. If you're planning to complete Medium Combat Achievements before Barrows the below CA's are all possible and recommended on the first KC run. Buy Dragon Halberd to safespot Bats & Healers."
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,81,C6.S1#4f51cab5#0,handmatig of contextueel,,not_safe_to_pin,,,Fight Caves Veteran
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,82,C6.S1#7450f673#0,handmatig of contextueel,,not_safe_to_pin,,,Facing Jad Head-on
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,83,C6.S1#89799851#0,handmatig of contextueel,,not_safe_to_pin,,,Denying the Healers I & II (I gargled Healers I)
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,84,C6.S1#4f9c80d5#0,handmatig of contextueel,,not_safe_to_pin,,,A Near Miss
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,85,C6.S1#1e2ef6b9#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Scurrius Combat Achievements
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,86,C6.S1#80a676d4#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,"Kill Scurrius on Defensive (You are aiming for 65 Attack, 65 Strength and 680,000 Defence Experience)"
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,87,C6.S1#14e17c7c#0,route/locatie,,multi_sentence,,,Teleport to Kourend. Enter Catacombs. Head West & climb the Vine for Giants Pit
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,88,C6.S1#8eb22b9f#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Obor Combat Achievements - You need 1 key to do all of the CA's aside from the 5 KC task. You can farm 5 keys here.
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,89,C6.S1#fe992ebb#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Bryophyta Combat Achievements - You need 1 key to do all of the CA's aside from the 5 KC task. You can farm 5 keys here.
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,1,C6.S1#b970b399#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Teleport Runes, Axe, Kourend Blessing 1, 50+ Earth Runes, Earth Talisman, 10+ Pure Essence, Bucket of Water, Eye Amulet, Darklight"
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,2,C6.S1#3ed45e48#0,handmatig of contextueel,,not_safe_to_pin,,,Blessing - Minecart (North-East) - Farming Guild (2)
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,3,C6.S1#d5c1a34e#0,route/locatie,,unresolved_location,,,Head North & cut a Mahogany Log [Kourend Medium Diary]
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,4,C6.S1#51648c8e#0,route/locatie,,gecontroleerde plaatsbron,Kourend Castle,"1643,3673,0",Teleport to Kourend Castle
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,5,C6.S1#a5beeece#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Elise & complete Kourend Medium Diary
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,6,C6.S1#6bf7b77c#0,handmatig of contextueel,,not_safe_to_pin,,,Lamp on Herblore
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,7,C6.S1#f93d20b0#0,route/locatie,,unresolved_location,,,Enter the Catacombs
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,8,C6.S1#da50b279#0,route/locatie,,compound_task,,,Run north and then east towards bloodvelds and Kill a greater demon with Darklight (2 CA points) (Don't get alfie'd by the iron dragons)
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,9,C6.S1#ccf4ac2e#0,route/locatie,,compound_task,,,"Run back to the entrance of the catacombs and run west, Kill a hellhound (1 Point)"
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,10,C6.S1#f40ad333#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Right before the hellhounds room, Take shortcut to Giants den and kill each of the 3 giants (Fire, Hill, Moss). (1 Point)"
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,11,C6.S1#2a5a9912#0,note/handmatig,,not_safe_to_pin,,,"NOTE: You should now have the Easy CA's Unlocked after this task. If you do not, ensure you have the following CA's done:"
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,12,C6.S1#53776d31#0,handmatig of contextueel,review_handmatig,not_safe_to_pin,,,Wintertodt 13 points
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,13,C6.S1#8d6fe39b#0,handmatig of contextueel,,not_safe_to_pin,,,Tempoross 11 points
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,14,C6.S1#90656ea3#0,handmatig of contextueel,,not_safe_to_pin,,,CoX 4 points
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,15,C6.S1#272706a4#0,handmatig of contextueel,,not_safe_to_pin,,,Hespori 3 points
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,16,C6.S1#258a172c#0,handmatig of contextueel,,not_safe_to_pin,,,Greater demon 2 points
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,17,C6.S1#744aa50d#0,handmatig of contextueel,,not_safe_to_pin,,,Barrows 1 point
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,18,C6.S1#306b711c#0,handmatig of contextueel,,not_safe_to_pin,,,Fire Giant 1 point
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,19,C6.S1#63b63b08#0,handmatig of contextueel,,not_safe_to_pin,,,Hellhound 1 point
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,20,C6.S1#1e8f9dfc#0,handmatig of contextueel,,not_safe_to_pin,,,Giants Den 1 point
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,21,C6.S1#adfd3255#0,handmatig of contextueel,,not_safe_to_pin,,,Black Dragon 1 point
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,22,C6.S1#a3d72e43#0,handmatig of contextueel,,not_safe_to_pin,,,Brutus 3 points
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,23,C6.S1#d13110f9#0,handmatig of contextueel,,not_safe_to_pin,,,Total 41
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,24,C6.S1#6b6823c#0,route/locatie,,gecontroleerde plaatsbron,Varrock,"3212,3424,0",Teleport to Varrock
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,25,C6.S1#67ede033#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Mage of Zamorak [Temple of the Eye]
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,26,C6.S1#48faa8ca#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Tea Seller (3) [Temple of the Eye]
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,27,C6.S1#5b065f77#0,handmatig of contextueel,,not_safe_to_pin,,,Use Strong Tea on Mage of Zamorak (1)
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,28,C6.S1#d30242e1#0,handmatig of contextueel,,not_safe_to_pin,,,Accept being teleported to the Abyss
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,29,C6.S1#71ed0c21#0,handmatig of contextueel,,not_safe_to_pin,,,Use Eye Amulet on Dark Mage
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,30,C6.S1#6ed61ed0#0,handmatig of contextueel,,not_safe_to_pin,,,Complete the Trial & Error puzzle
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,31,C6.S1#ab013b4b#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Dark Mage
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,32,C6.S1#dc1f1398#0,route/locatie,,unresolved_location,,,Enter Fire Altar
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,33,C6.S1#68dc433c#0,handmatig of contextueel,,not_safe_to_pin,,,Use Earth Runes on Fire Altar [Lumbridge Medium Diary]
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,34,C6.S1#8d9d7a59#0,route/locatie,,unresolved_location,,,Leave Fire Altar
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,35,C6.S1#570071a3#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Wizard Persten
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,36,C6.S1#6d195f25#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Temple of the Eye
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,37,C6.S1#a370ef33#0,handmatig of contextueel,,not_safe_to_pin,,,Complete 1-2 Guardians of the Rift minigame until 35 RuneCrafting
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,38,C6.S1#b73530cc#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Loot if you have any points (If 4,000 people follow the guide, there is a chance one of you pulls a 1kc pet)"
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,39,C6.S1#775af81e#0,handmatig of contextueel,,not_safe_to_pin,,,Continue & Complete Wanted!
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,40,C6.S1#8e4f4f7f#0,handmatig of contextueel,,not_safe_to_pin,,,Complete these skills whenever you want
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,41,C6.S1#49b5df07#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,"70 Construction - Teak Logs from Kingdom. Use Butler in POH for planks. Mahogany homes until 70. 400-600 Oak Planks - 50, 2,300 Teak Planks 50-70 (This should cost you about 2.5m gp)"
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,42,C6.S1#8b7546f1#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,70 Mining - 3t Sand and deposit in the grinder for future grinds. Leave for Herb Runs and use Camulet to return
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,43,C6.S1#22d0bc5c#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,70 Herblore - Do as many herbruns/medium farming contracts as possible. Moons will bank quite alot of the XP
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,44,C6.S1#dca49ead#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,70 Farming - Should be completed passively.
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,45,C6.S1#8208d96a#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,70 Hunter - Should be completed passively with BHRs.
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,46,C6.S1#12bff452#0,handmatig of contextueel,,not_safe_to_pin,,,Training melee combat & slayer
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,47,C6.S1#b4a292a0#0,handmatig of contextueel,,not_safe_to_pin,,,"Make some Super Attack, Super Strength & Prayer Potions"
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,48,C6.S1#a04f115d#0,handmatig of contextueel,,not_safe_to_pin,,,Train Slayer to 48 with an ancient staff as your weapon on Attack Mode
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,49,C6.S1#45601de7#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Teleport Runes, Coins, Melee & Range Combat Gear, Sven's Last Map, Spade, some food"
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,50,C6.S1#38b8594f#0,handmatig of contextueel,,not_safe_to_pin,,,Ardy Cloak - DKS
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,51,C6.S1#534fb8c#0,handmatig of contextueel,,not_safe_to_pin,,,Dig by Windswept Tree
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,52,C6.S1#96d0ae89#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill a Brine Rat [Fremennik Medium Diary]
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,53,C6.S1#6b6823c#1,route/locatie,,gecontroleerde plaatsbron,Varrock,"3212,3424,0",Teleport to Varrock
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,54,C6.S1#d1fb96cc#0,route/locatie,,gecontroleerde plaatsbron,Civitas illa Fortis,"1686,3113,0",Head to Varlamore
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,55,C6.S1#62aaee05#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy Mithril Platebody & Mithril Platelegs at the Blackmith West
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,56,C6.S1#d9e295ca#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Start Perilous Moons until you unlock Sulphur Naguas
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,57,C6.S1#82b5387d#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy a Dragon Scimitar at Ape Atoll (Bring a GreeGree)
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,58,C6.S1#5b93216b#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Train Slayer until 58 on Strength Mode until 65 Strength then switch to Attack until 65
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,59,C6.S1#6d32479d#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Collect Easy CA's from Ghommal. Lamp on herblore. Get a Dragon Defender at Warriors Guild, training on Defensive"
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,60,C6.S1#be1c2302#0,note/handmatig,,not_safe_to_pin,,,"OPTIONAL: Rum Deal requires 47 Prayer (Boostable), you may have enough ensouled heads from 58 slayer to get this level"
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,61,C6.S1#a249c307#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Complete Rum Deal & Cabin Fever once 58 Slayer after Defender
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,62,C6.S1#9e8d8d91#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Start A Great Brain Robbery & plant Watermelons in the patch on Harmony Island
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,63,C6.S1#d9b51f77#0,handmatig of contextueel,,not_safe_to_pin,,,"Sailing B (optional, Sailing 30-52): do it now that you have 51+ Slayer"
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,64,C6.S1#f9fa7c24#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Train to 45 Sailing with The Tempor Tantrum or AFK salvaging during farm and birdhouse timers
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,65,C6.S1#3c1acd77#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,"Troubled Tortugans needs 45 Sailing, 51 Slayer, 48 Construction, 45 Hunter, 40 Woodcutting and 34 Crafting; bring an axe, hammer, saw, food and combat gear"
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,66,C6.S1#926a3a7c#0,route/locatie,,compound_task,,,Sail to the Remote Island north-west of The Great Conch and talk to the Injured Tortugan to start Troubled Tortugans
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,67,C6.S1#5611052a#0,note/handmatig,,not_safe_to_pin,,,HCIM: the Shellbane Gryphon is level 235; wear the Tortugan shield (cape slot) for the whole fight and pray Protect from Melee or Missiles
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,68,C6.S1#4db6cdc6#0,note/handmatig,,not_safe_to_pin,,,"HCIM: keep 40+ kg equipped or put trees or eggs between you and the charge, step away from the orange orb and keep moving during the whirlwinds [Troubled Tortugans]"
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,69,C6.S1#d4376351#0,quest/event; controleer autocheck,,not_safe_to_pin,,,"Complete Troubled Tortugans (10,000 Sailing, 8,000 Slayer and The Great Conch with fairy ring CJQ)"
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,70,C6.S1#f2ba953f#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Train to 52 Sailing (The Red Reef also needs 48 Smithing)
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,71,C6.S1#b248571f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Elder Raley at his house just south of the Summer Shore bank on The Great Conch and start The Red Reef
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,72,C6.S1#ca27ea72#0,note/handmatig,,not_safe_to_pin,,,"HCIM: pray Protect from Missiles when the two pirate ships at Last Light appear and Protect from Melee against the six pirates; your boat sinking is safe, but dying yourself is a real death"
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,73,C6.S1#8ac111fb#0,note/handmatig,,not_safe_to_pin,,,"HCIM: Black Eye Bethel (level 191) can disable your protection prayers with her special, so step away from her charged attacks [The Red Reef]"
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,74,C6.S1#9c8a4769#0,handmatig of contextueel,,not_safe_to_pin,,,Move off the blue particles under you during the giant lobster fight [The Red Reef]
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,75,C6.S1#8979131#0,quest/event; controleer autocheck,,not_safe_to_pin,,,"Complete The Red Reef (15,000 Sailing, 5,000 Smithing, the Sacred Grove and the Bosun's workbench)"
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,76,C6.S1#9cf930d0#0,handmatig of contextueel,,not_safe_to_pin,,,Combat Achievements
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,77,C6.S1#d079bd79#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Fire Cape if you're confident Meleeing after Defender
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,78,C6.S1#58c89cab#0,handmatig of contextueel,,not_safe_to_pin,,,"The Fight Caves no longer have a cooldown after you leave, so you can retry later without waiting"
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,79,C6.S1#a36feff1#0,note/handmatig,,not_safe_to_pin,,,"OPTIONAL: Medium Combat Achievements before Barrows are fairly difficult to achieve at this point but possible, especially with friends to help with TOB entry mode. If you're planning to complete Medium Combat Achievements before Barrows the below CA's are all possible and recommended on the first KC run. Buy Dragon Halberd to safespot Bats & Healers."
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,80,C6.S1#4f51cab5#0,handmatig of contextueel,,not_safe_to_pin,,,Fight Caves Veteran
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,81,C6.S1#7450f673#0,handmatig of contextueel,,not_safe_to_pin,,,Facing Jad Head-on
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,82,C6.S1#89799851#0,handmatig of contextueel,,not_safe_to_pin,,,Denying the Healers I & II (I gargled Healers I)
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,83,C6.S1#4f9c80d5#0,handmatig of contextueel,,not_safe_to_pin,,,A Near Miss
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,84,C6.S1#1e2ef6b9#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Scurrius Combat Achievements
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,85,C6.S1#80a676d4#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,"Kill Scurrius on Defensive (You are aiming for 65 Attack, 65 Strength and 680,000 Defence Experience)"
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,86,C6.S1#14e17c7c#0,route/locatie,,multi_sentence,,,Teleport to Kourend. Enter Catacombs. Head West & climb the Vine for Giants Pit
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,87,C6.S1#8eb22b9f#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Obor Combat Achievements - You need 1 key to do all of the CA's aside from the 5 KC task. You can farm 5 keys here.
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,88,C6.S1#fe992ebb#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Bryophyta Combat Achievements - You need 1 key to do all of the CA's aside from the 5 KC task. You can farm 5 keys here.
 Episode 7 - Further Combat Training/Questing through Barrows,Introductie,1,C7.S1#eb7f9205#0,handmatig of contextueel,,not_safe_to_pin,,,Further Combat training/Questing
 Episode 7 - Further Combat Training/Questing through Barrows,Introductie,2,C7.S1#dbe4e2c3#0,route/locatie,,unresolved_location,,,Minigame teleport to Trouble Brewing (take an axe and tinderbox)
 Episode 7 - Further Combat Training/Questing through Barrows,Introductie,3,C7.S1#d0694e73#0,handmatig of contextueel,,not_safe_to_pin,,,Complete a game of Trouble Brewing [Morytania Medium Diary] (can skip this if no alt/friend/active world and do later)
@@ -2764,16 +2752,15 @@ Episode 10 - Bank 180 through Inferno,Bank 192,6,C10.S13#d229ed79#1,route/locati
 Episode 10 - Bank 180 through Inferno,Bank 192,7,C10.S13#68a5dce1#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Upgrade your pool to a Fancy Rejuvination Pool. (You need 82 Herblore so it will take a while)
 Episode 10 - Bank 180 through Inferno,Bank 192,8,C10.S13#69bd0f8a#1,route/locatie,,gecontroleerde plaatsbron,Castle Wars,"2440,3089,0",Teleport to Castle Wars via Jewellry Box
 Episode 10 - Bank 180 through Inferno,Bank 192,9,C10.S13#94f279bd#0,bank-items of bankactie,,unresolved_location,,,Bank All
-Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,1,C10.S14#7dcc2e23#0,note/handmatig,,not_safe_to_pin,,,"Route note — Sailing block C: Fallen From Grace unlocks golem crafting, the new alternative to glassblowing for Crafting from 60 to 85, plus Mortimer and the Mad Angel."
-Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,2,C10.S14#50f5b77c#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Train to 47 Runecraft with a few extra games of Guardians of the Rift
-Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,3,C10.S14#bb797405#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Train to 53 Mining
-Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,4,C10.S14#4333835a#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Train to 62 Sailing
-Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,5,C10.S14#faa3d974#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,"Fallen From Grace needs 62 Sailing, 60 Crafting, 53 Mining and 47 Runecraft (none boostable) and your own raft or skiff, not a sloop"
-Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,6,C10.S14#a69f1d4e#0,route/locatie,,compound_task,,,Sail to Wyrmscraig and talk to Cormac in the centre hut of Auchrie to start Fallen From Grace
-Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,7,C10.S14#3ae21e20#0,note/handmatig,,not_safe_to_pin,,,"HCIM: the Mad Angel (level 270) is weak to crush; pray Protect from Melee, stand 2+ tiles behind her for the dust cleave and switch to Protect from Magic for the lightning [Fallen From Grace]"
-Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,8,C10.S14#b9e385e9#0,note/handmatig,,not_safe_to_pin,,,HCIM: you can climb the church pew to escape the Mad Angel at any time [Fallen From Grace]
-Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,9,C10.S14#465f5399#0,quest/event; controleer autocheck,,not_safe_to_pin,,,"Complete Fallen From Grace (10,000 Crafting, 12,500 Sailing, 5,000 Mining and 5,000 Runecraft)"
-Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,10,C10.S14#97a7f9f5#0,bank-items of bankactie,,unresolved_location,,,Bank anywhere and deposit all
+Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,1,C10.S14#50f5b77c#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Train to 47 Runecraft with a few extra games of Guardians of the Rift
+Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,2,C10.S14#bb797405#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Train to 53 Mining
+Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,3,C10.S14#4333835a#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Train to 62 Sailing
+Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,4,C10.S14#faa3d974#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,"Fallen From Grace needs 62 Sailing, 60 Crafting, 53 Mining and 47 Runecraft (none boostable) and your own raft or skiff, not a sloop"
+Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,5,C10.S14#a69f1d4e#0,route/locatie,,compound_task,,,Sail to Wyrmscraig and talk to Cormac in the centre hut of Auchrie to start Fallen From Grace
+Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,6,C10.S14#3ae21e20#0,note/handmatig,,not_safe_to_pin,,,"HCIM: the Mad Angel (level 270) is weak to crush; pray Protect from Melee, stand 2+ tiles behind her for the dust cleave and switch to Protect from Magic for the lightning [Fallen From Grace]"
+Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,7,C10.S14#b9e385e9#0,note/handmatig,,not_safe_to_pin,,,HCIM: you can climb the church pew to escape the Mad Angel at any time [Fallen From Grace]
+Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,8,C10.S14#465f5399#0,quest/event; controleer autocheck,,not_safe_to_pin,,,"Complete Fallen From Grace (10,000 Crafting, 12,500 Sailing, 5,000 Mining and 5,000 Runecraft)"
+Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,9,C10.S14#97a7f9f5#0,bank-items of bankactie,,unresolved_location,,,Bank anywhere and deposit all
 Episode 10 - Bank 180 through Inferno,Bank 193,1,C10.S15#51fb37a5#0,note/handmatig,,not_safe_to_pin,,,If you are 80 crafting from the gems & battlestaffs then you can immediately skip to the glory steps. Else you may need to craft a bit & sending 85 for a fury instantly which isn’t a bad idea.
 Episode 10 - Bank 180 through Inferno,Bank 193,2,C10.S15#c735c738#0,note/handmatig,,not_safe_to_pin,,,NEW option: after Fallen From Grace you can train Crafting with golem crafting (bring hunter furs) instead of Superglass Make glassblowing; pick one method
 Episode 10 - Bank 180 through Inferno,Bank 193,3,C10.S15#f0d5463f#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Pickaxe, Varrock Armour 2, Desert Robe Bottom & Boots, Camulet, Knife, Teak Log, Astral, Fire, Water Runes, Rune pouch, 3x Waterskins"
@@ -2994,18 +2981,17 @@ Episode 12 - Bank 204 through Zulrah,Bank 210,5,C12.S7#823abd5c#0,NPC/object/ite
 Episode 12 - Bank 204 through Zulrah,Bank 210,6,C12.S7#dda2baf7#0,handmatig of contextueel,,not_safe_to_pin,,,Superglass make all the Molten Glass with Giant Seaweed
 Episode 12 - Bank 204 through Zulrah,Bank 210,7,C12.S7#f9524353#0,handmatig of contextueel,review_handmatig,not_safe_to_pin,,,Blow all the glass until whatever level you are after (I’d recommend 87 minimum for Zulrah or push 90 for Yama)
 Episode 12 - Bank 204 through Zulrah,Bank 210,8,C12.S7#dbda95a2#0,handmatig of contextueel,review_handmatig,not_safe_to_pin,,,"As mentioned earlier, you can blow this glass at Auburn & complete 2 totems nearby for passive fletching experience while bank standing & also unlocking the Vale Totem items passively. Use Maple Logs until you unlock Yew Logs from Zulrah"
-Episode 12 - Bank 204 through Zulrah,Bank 211,1,C12.S8#8fbe3def#0,note/handmatig,review_handmatig,not_safe_to_pin,,,Route note — Zenyte jewellery and Zulrah preparation: the route switches here from fixed bank stops to RNG and boss-based loops; separate expeditions follow in the endgame chapters.
-Episode 12 - Bank 204 through Zulrah,Bank 211,2,C12.S8#63b64174#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Zenyte Shards, Chaos/Death Runes (29,000/14,500 per Onyx) [You may need to buy more], Karamja Gloves, Teleport Runes, Dramen Staff, House tab, Banana, Zombie Monkey Greegree, Chisel, Wily Cat"
-Episode 12 - Bank 204 through Zulrah,Bank 211,3,C12.S8#dbb42146#0,route/locatie,,unresolved_location,,,Teleport to POH with the Tablet & change to Regular Spellbook
-Episode 12 - Bank 204 through Zulrah,Bank 211,4,C12.S8#9131d02e#0,handmatig of contextueel,,not_safe_to_pin,,,Fairy ring - BLP
-Episode 12 - Bank 204 through Zulrah,Bank 211,5,C12.S8#5b1d5e5c#0,handmatig of contextueel,,not_safe_to_pin,,,"Sell Chaos & Death Runes for Onyx’s (260,000 tokkul per onyx)"
-Episode 12 - Bank 204 through Zulrah,Bank 211,6,C12.S8#e194a1a2#0,route/locatie,,unresolved_location,,,Teleport to Ape Atoll
-Episode 12 - Bank 204 through Zulrah,Bank 211,7,C12.S8#96e2d223#0,handmatig of contextueel,,not_safe_to_pin,,,Infuse the Zenyte’s and Onyx’s together
-Episode 12 - Bank 204 through Zulrah,Bank 211,8,C12.S8#ea5b3adf#0,handmatig of contextueel,,not_safe_to_pin,,,Hunt Orange spices for +5 boosts as necessary and create your Zenyte Jewellry
-Episode 12 - Bank 204 through Zulrah,Bank 211,9,C12.S8#a037b608#0,handmatig of contextueel,review_handmatig,not_safe_to_pin,,,Zulrah
-Episode 12 - Bank 204 through Zulrah,Bank 211,10,C12.S8#905a59f3#0,handmatig of contextueel,,not_safe_to_pin,,,As we have no good way to cure venom right now we will use the ‘Cure Me’ Lunar spell. Using this we want to camp only range (which is very effective) until we get a Serpentine Visage drop or we unlock Antivenoms.
-Episode 12 - Bank 204 through Zulrah,Bank 211,11,C12.S8#d3e29218#0,handmatig of contextueel,review_handmatig,not_safe_to_pin,,,"When fighting Zulrah, the Green Phase & Red phase are straight forward, but the Tanz phase I would recommending eating whenever you lose health above what your food heals (if 18 health under max, eat a Karambwan, if hit a 40, double eat and be prepared for teleporting)"
-Episode 12 - Bank 204 through Zulrah,Bank 211,12,C12.S8#6e78d0c#0,handmatig of contextueel,,not_safe_to_pin,,,"With this set up, Teleports should roughly self sustain. Outside of that, bank with Lunar Spell to Catherby and run from the Charter boat (Agility highly optional)"
+Episode 12 - Bank 204 through Zulrah,Bank 211,1,C12.S8#63b64174#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Zenyte Shards, Chaos/Death Runes (29,000/14,500 per Onyx) [You may need to buy more], Karamja Gloves, Teleport Runes, Dramen Staff, House tab, Banana, Zombie Monkey Greegree, Chisel, Wily Cat"
+Episode 12 - Bank 204 through Zulrah,Bank 211,2,C12.S8#dbb42146#0,route/locatie,,unresolved_location,,,Teleport to POH with the Tablet & change to Regular Spellbook
+Episode 12 - Bank 204 through Zulrah,Bank 211,3,C12.S8#9131d02e#0,handmatig of contextueel,,not_safe_to_pin,,,Fairy ring - BLP
+Episode 12 - Bank 204 through Zulrah,Bank 211,4,C12.S8#5b1d5e5c#0,handmatig of contextueel,,not_safe_to_pin,,,"Sell Chaos & Death Runes for Onyx’s (260,000 tokkul per onyx)"
+Episode 12 - Bank 204 through Zulrah,Bank 211,5,C12.S8#e194a1a2#0,route/locatie,,unresolved_location,,,Teleport to Ape Atoll
+Episode 12 - Bank 204 through Zulrah,Bank 211,6,C12.S8#96e2d223#0,handmatig of contextueel,,not_safe_to_pin,,,Infuse the Zenyte’s and Onyx’s together
+Episode 12 - Bank 204 through Zulrah,Bank 211,7,C12.S8#ea5b3adf#0,handmatig of contextueel,,not_safe_to_pin,,,Hunt Orange spices for +5 boosts as necessary and create your Zenyte Jewellry
+Episode 12 - Bank 204 through Zulrah,Bank 211,8,C12.S8#a037b608#0,handmatig of contextueel,review_handmatig,not_safe_to_pin,,,Zulrah
+Episode 12 - Bank 204 through Zulrah,Bank 211,9,C12.S8#905a59f3#0,handmatig of contextueel,,not_safe_to_pin,,,As we have no good way to cure venom right now we will use the ‘Cure Me’ Lunar spell. Using this we want to camp only range (which is very effective) until we get a Serpentine Visage drop or we unlock Antivenoms.
+Episode 12 - Bank 204 through Zulrah,Bank 211,10,C12.S8#d3e29218#0,handmatig of contextueel,review_handmatig,not_safe_to_pin,,,"When fighting Zulrah, the Green Phase & Red phase are straight forward, but the Tanz phase I would recommending eating whenever you lose health above what your food heals (if 18 health under max, eat a Karambwan, if hit a 40, double eat and be prepared for teleporting)"
+Episode 12 - Bank 204 through Zulrah,Bank 211,11,C12.S8#6e78d0c#0,handmatig of contextueel,,not_safe_to_pin,,,"With this set up, Teleports should roughly self sustain. Outside of that, bank with Lunar Spell to Catherby and run from the Charter boat (Agility highly optional)"
 Endgame — preparation per expedition,E01 — After Bank 211: account check and supply loop,1,C13.S1#e53b6182#0,handmatig of contextueel,,not_safe_to_pin,,,Write down which quests and diary unlocks you have actually completed; do not rely only on the order of the guide.
 Endgame — preparation per expedition,E01 — After Bank 211: account check and supply loop,2,C13.S1#7afd9207#0,handmatig of contextueel,,not_safe_to_pin,,,"Sort your bank into preset tabs: quests, ranged, melee, magic, Herblore, supplies and bossing."
 Endgame — preparation per expedition,E01 — After Bank 211: account check and supply loop,3,C13.S1#cfe57da5#0,handmatig of contextueel,,not_safe_to_pin,,,Put a permanent emergency teleport in every gear preset and check that it works in the next encounter.
