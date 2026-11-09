@@ -73,6 +73,19 @@ class Route2026Tests(unittest.TestCase):
  def first(self,lines,needle):
   hits=[i for i,t in enumerate(lines) if needle in t]
   self.assertTrue(hits,needle);return hits[0]
+ def test_context_notes_do_not_block_starting_out(self):
+  start=section(self.route,'Episode 1 ','Starting Out')
+  self.assertEqual(start[0],'All Settings -> Disable level-up')
+  self.assertFalse(any(t.startswith('Route note — 2026 update:') for t in start))
+  # Safety warnings deliberately remain manual checkpoints in the HCIM route.
+  self.assertTrue(any('Stronghold of Security is NOT a safe death' in t for t in section(self.route,'Episode 1 ','Bank 2')))
+  self.assertFalse(any('Varrock circuit with many quest starts' in t for t in section(self.route,'Episode 1 ','Bank 3')))
+ def test_brutus_warning_precedes_fight(self):
+  bank=section(self.route,'Episode 4 ','Bank 130')
+  self.assertLess(self.first(bank,"HCIM: Brutus's special attacks"),
+                  self.first(bank,'Open the pen in the north-east corner of the cow farm and fight the bull'))
+  self.assertLess(self.first(bank,'Open the pen in the north-east corner of the cow farm and fight the bull'),
+                  self.first(bank,'Speak to Cassius to complete the Ides of Milk'))
  def test_starting_out_uses_mudfoot_instead_of_tutors(self):
   start=section(self.route,'Episode 1 ','Starting Out')
   self.assertFalse([t for t in all_texts(self.route) if re.search(r'combat tutor',t,re.I) and not t.startswith('Route note')])
