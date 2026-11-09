@@ -155,7 +155,7 @@ class RoutePanel extends PluginPanel
 
 		loginHint.setFont(FontManager.getRunescapeSmallFont());
 		loginHint.setForeground(ACCENT);
-		loginHint.setText(RouteText.wrap("Log in om je voortgang per account te laden en op te slaan.", CARD_PX));
+		loginHint.setText(RouteText.wrap("Log in om af te vinken: je voortgang wordt per account geladen en opgeslagen.", CARD_PX));
 		header.add(left(loginHint));
 
 		// kaart met de volgende stap
@@ -327,8 +327,13 @@ class RoutePanel extends PluginPanel
 		{
 			Route.Step step = upcoming.get(0);
 			nextTitle.setText(RouteText.toPlain(step.getSection().getDisplayTitle(), 40));
-			nextText.setText(RouteText.toHtml(step.getText(), CARD_PX));
-			doneButton.setEnabled(true);
+			String body = RouteText.toHtmlFragment(step.getText());
+			if (plugin.isQuestReady(step))
+			{
+				body = "<font color='" + RouteText.READY_COLOR + "'><b>Quest klaar.</b> Vink af zodra de rest ook gedaan is.</font><br>" + body;
+			}
+			nextText.setText(RouteText.wrap(body, CARD_PX));
+			doneButton.setEnabled(plugin.isProfileLoaded());
 			showButton.setEnabled(true);
 		}
 	}
@@ -336,14 +341,25 @@ class RoutePanel extends PluginPanel
 	private void updateRows()
 	{
 		Route.Step current = currentStep();
+		boolean editable = plugin.isProfileLoaded();
 		for (StepRow row : rows.values())
 		{
-			row.update(plugin.isDone(row.step), row.step == current);
+			refreshRow(row, current, editable);
 		}
 		for (SectionHeader header : headers.values())
 		{
 			header.updateCount();
 		}
+	}
+
+	private void refreshRow(StepRow row)
+	{
+		refreshRow(row, currentStep(), plugin.isProfileLoaded());
+	}
+
+	private void refreshRow(StepRow row, Route.Step current, boolean editable)
+	{
+		row.update(plugin.isDone(row.step), row.step == current, plugin.isQuestReady(row.step), editable);
 	}
 
 	private Route.Step currentStep()
@@ -643,8 +659,15 @@ class RoutePanel extends PluginPanel
 
 			checkBox.setOpaque(false);
 			checkBox.setVerticalAlignment(SwingConstants.TOP);
-			checkBox.setEnabled(trackable);
-			checkBox.addActionListener(e -> plugin.setDone(step, checkBox.isSelected()));
+			checkBox.setEnabled(trackable && plugin.isProfileLoaded());
+			checkBox.addActionListener(e ->
+			{
+				if (!plugin.setDone(step, checkBox.isSelected()))
+				{
+					// geweigerd (geen of ander profiel): vinkje terugzetten
+					refreshRow(this);
+				}
+			});
 			JPanel west = new JPanel(new BorderLayout());
 			west.setOpaque(false);
 			west.add(checkBox, BorderLayout.NORTH);
@@ -652,7 +675,7 @@ class RoutePanel extends PluginPanel
 
 			label.setFont(FontManager.getRunescapeSmallFont());
 			label.setVerticalAlignment(SwingConstants.TOP);
-			label.setText(RouteText.toHtml(step.getText(), STEP_TEXT_PX));
+			label.setText(html(false));
 			label.setCursor(Cursor.getPredefinedCursor(Cursor.HAND_CURSOR));
 			add(label, BorderLayout.CENTER);
 
@@ -674,7 +697,8 @@ class RoutePanel extends PluginPanel
 					{
 						showMenu(e);
 					}
-					else if (SwingUtilities.isLeftMouseButton(e) && e.getSource() == label && trackable)
+					else if (SwingUtilities.isLeftMouseButton(e) && e.getSource() == label && trackable
+						&& plugin.isProfileLoaded())
 					{
 						plugin.setDone(step, !plugin.isDone(step));
 					}
@@ -684,9 +708,27 @@ class RoutePanel extends PluginPanel
 			addMouseListener(mouse);
 		}
 
-		void update(boolean done, boolean current)
+		private boolean showsQuestReady;
+
+		private String html(boolean questReady)
+		{
+			String body = RouteText.toHtmlFragment(step.getText());
+			if (questReady)
+			{
+				body = "<font color='" + RouteText.READY_COLOR + "'><b>Quest klaar.</b> Vink af zodra de rest ook gedaan is.</font><br>" + body;
+			}
+			return RouteText.wrap(body, STEP_TEXT_PX);
+		}
+
+		void update(boolean done, boolean current, boolean questReady, boolean editable)
 		{
 			checkBox.setSelected(done);
+			checkBox.setEnabled(trackable && editable);
+			if (questReady != showsQuestReady)
+			{
+				showsQuestReady = questReady;
+				label.setText(html(questReady));
+			}
 			label.setForeground(done ? DONE_TEXT : Color.WHITE);
 			setBackground(current ? CURRENT_BG : ColorScheme.DARK_GRAY_COLOR);
 			setBorder(current ? CURRENT_BORDER : ROW_BORDER);
@@ -695,7 +737,7 @@ class RoutePanel extends PluginPanel
 		private void showMenu(MouseEvent e)
 		{
 			JPopupMenu menu = new JPopupMenu();
-			if (trackable)
+			if (trackable && plugin.isProfileLoaded())
 			{
 				boolean done = plugin.isDone(step);
 				JMenuItem toggle = new JMenuItem(done ? "Niet afgevinkt" : "Afvinken");
@@ -816,7 +858,7 @@ class RoutePanel extends PluginPanel
 
 		private void showMenu(MouseEvent e)
 		{
-			if (trackableSteps.isEmpty())
+			if (trackableSteps.isEmpty() || !plugin.isProfileLoaded())
 			{
 				return;
 			}

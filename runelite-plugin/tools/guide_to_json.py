@@ -125,37 +125,73 @@ def parse_number(s: str) -> int:
 
 # ---------------------------------------------------------------- extraction
 
+# Zinnen na "Voltooi X" die geen nieuwe opdracht zijn: uitleg, beloning, waarschuwing.
+ADVICE_RE = re.compile(r"^(HCIM|Beloning|NIEUW|Lampen|lampen|Lamp|Let op|Tip|XP|met|bij|zodra|in de|samen)\b")
+
+
+def only_advice(tail: str) -> bool:
+    """True als er na de questvoltooiing geen andere opdracht meer in de stap staat."""
+    t = tail
+    for _ in range(2):
+        t = re.sub(r"\([^()]*\)", " ", t)
+    t = re.sub(r"\[[^\]]*\]", " ", t)
+    for sentence in re.split(r"[.;](?:\s+|$)", t):
+        frag = sentence.strip().lstrip(",:–- ").strip()
+        if frag and not ADVICE_RE.match(frag):
+            return False
+    return True
+
+
 def extract_completions(text: str, qi: QuestIndex):
+    """
+    Geeft (quests, auto) terug. auto is alleen True als de stap niets anders
+    vraagt dan die quest(s) af te werken: geen extra opdracht in dezelfde
+    opsomming ("voltooi X, koop Y") en geen opdracht na de voltooiing
+    ("Voltooi X. Pickpocket een man"). Opdrachten vóór de voltooiing zijn
+    voorbereiding voor de quest zelf en blokkeren niet.
+    """
     found = []
     flat = plain(text)
+    last_end = None
+    extra_action = False
     stop = r"(?=[.;:]\s|[.;:]$|\s*\(|\s+met\s|\s+bij\s|\s+zodra\s|\s+in de\s|\s+samen\b|\s+–|$)"
     for m in re.finditer(r"[Vv]oltooi\s+(.+?)" + stop, flat):
         chunk = re.sub(r"^(tussendoor|meteen|nu)\s+", "", m.group(1).strip())
-        if chunk.startswith("bij ") or chunk.startswith("die delen"):
-            if chunk.startswith("die delen"):
-                low = flat.lower()
-                for key, q in RFD_PARTS:
-                    if key in low and "rfd" in low:
-                        found.append(q)
+        if chunk.startswith("bij "):
+            continue
+        if chunk.startswith("die delen"):
+            low = flat.lower()
+            hits = [q for key, q in RFD_PARTS if key in low and "rfd" in low]
+            if hits:
+                found.extend(hits)
+                last_end = m.end()
             continue
         parts = re.split(r",\s+|\s+en\s+", chunk)
+        matched, unmatched = [], []
         for p in parts:
             p = p.strip().rstrip(".!").strip()
             p = re.sub(r"^(het|de)\s+", "", p)
+            if not p:
+                continue
             low = p.lower()
             if "rfd" in low or "recipe for disaster" in low and "-" in low:
                 hit = [q for key, q in RFD_PARTS if key in low]
                 if hit:
-                    found.extend(hit)
+                    matched.extend(hit)
                     continue
             q = qi.match(p)
-            if q:
-                found.append(q)
+            (matched if q else unmatched).append(q or p)
+        if matched:
+            found.extend(matched)
+            last_end = m.end()
+            if unmatched:
+                extra_action = True
     out = []
     for q in found:
         if q not in out:
             out.append(q)
-    return out
+    auto = bool(out) and not extra_action and last_end is not None and only_advice(flat[last_end:])
+    return out, auto
 
 
 TARGET_PATTERNS = [
@@ -305,9 +341,11 @@ def convert(md: str, quest_names):
         text, links = clean_inline(raw)
         s = ensure_section()
         step = {"id": step_id(s["id"], text, seen_ids), "text": text}
-        comp = extract_completions(text, qi)
+        comp, auto = extract_completions(text, qi)
         if comp:
             step["complete"] = comp
+            # alleen automatisch afvinken als de stap niets anders vraagt
+            step["autoComplete"] = auto
         tg = extract_targets(text)
         if tg:
             step["targets"] = tg

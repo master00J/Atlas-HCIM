@@ -8,6 +8,8 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
+import java.util.concurrent.ConcurrentHashMap;
 import javax.inject.Inject;
 import javax.swing.SwingUtilities;
 import net.runelite.api.ChatMessageType;
@@ -81,12 +83,16 @@ public class HcimRoutePlugin extends Plugin
 	private RouteGuide guide;
 	private final ProgressTracker progress = new ProgressTracker();
 	private final Map<String, Quest> questsByName = new HashMap<>();
+	/**
+	 * Stappen waarvan de quest klaar is maar die nog andere opdrachten bevatten
+	 * ("Voltooi X. Pickpocket een man"): niet afgevinkt, wel gemarkeerd.
+	 */
+	private final Set<String> questReady = ConcurrentHashMap.newKeySet();
+	private ProfileGuard profileGuard;
 
 	private RoutePanel panel;
 	private NavigationButton navButton;
 
-	/** True zodra de voortgang van het ingelogde account geladen is. */
-	private volatile boolean profileLoaded;
 	private volatile boolean questCheckPending;
 	private int tickCounter;
 	private volatile List<Route.Step> upcoming = Collections.emptyList();
@@ -105,6 +111,7 @@ public class HcimRoutePlugin extends Plugin
 	protected void startUp() throws Exception
 	{
 		guide = RouteGuide.load(gson, HcimRoutePlugin.class.getResourceAsStream("route.json"));
+		profileGuard = new ProfileGuard(configManager::getRSProfileKey);
 		questsByName.clear();
 		for (Quest quest : Quest.values())
 		{
@@ -136,8 +143,12 @@ public class HcimRoutePlugin extends Plugin
 		navButton = null;
 		panel = null;
 		guide = null;
-		profileLoaded = false;
+		if (profileGuard != null)
+		{
+			profileGuard.loaded(null);
+		}
 		progress.clear();
+		questReady.clear();
 		upcoming = Collections.emptyList();
 		nextParallel = null;
 	}
@@ -168,7 +179,7 @@ public class HcimRoutePlugin extends Plugin
 	@Subscribe
 	public void onGameTick(GameTick event)
 	{
-		if (!profileLoaded || !config.autoCompleteQuests())
+		if (!isProfileLoaded() || !config.autoCompleteQuests())
 		{
 			return;
 		}
@@ -183,7 +194,7 @@ public class HcimRoutePlugin extends Plugin
 	@Subscribe
 	public void onStatChanged(StatChanged event)
 	{
-		if (profileLoaded && config.autoCompleteTargets())
+		if (isProfileLoaded() && config.autoCompleteTargets())
 		{
 			checkTargets();
 		}
@@ -214,26 +225,44 @@ public class HcimRoutePlugin extends Plugin
 
 	// ------------------------------------------------------------------ voortgang
 
-	private void loadProgress()
+	private synchronized void loadProgress()
 	{
-		String profile = configManager.getRSProfileKey();
+		String profile = profileGuard.current();
+		questReady.clear();
 		if (profile == null)
 		{
-			profileLoaded = false;
 			progress.clear();
 		}
 		else
 		{
 			progress.load(configManager.getRSProfileConfiguration(CONFIG_GROUP, KEY_DONE));
-			profileLoaded = true;
 			questCheckPending = true;
 		}
+		profileGuard.loaded(profile);
 		onProgressChanged(true);
 	}
 
-	private void saveProgress()
+	/**
+	 * Mag de voortgang nu gewijzigd worden? Alleen als het geladen profiel nog het
+	 * actieve is. Is intussen een ander account actief, dan laden we dat eerst en
+	 * weigeren we deze wijziging, zodat er nooit in het verkeerde profiel geschreven wordt.
+	 */
+	private boolean canEdit()
 	{
-		if (profileLoaded)
+		if (profileGuard.matches())
+		{
+			return true;
+		}
+		if (profileGuard.isStale())
+		{
+			loadProgress();
+		}
+		return false;
+	}
+
+	private synchronized void saveProgress()
+	{
+		if (profileGuard.matches())
 		{
 			configManager.setRSProfileConfiguration(CONFIG_GROUP, KEY_DONE, progress.serialize());
 		}
@@ -267,23 +296,40 @@ public class HcimRoutePlugin extends Plugin
 		return progress.isDone(stepId);
 	}
 
-	public boolean isProfileLoaded()
+	/** De quest van deze stap is klaar, maar de stap bevat nog andere opdrachten. */
+	public boolean isQuestReady(Route.Step step)
 	{
-		return profileLoaded;
+		return questReady.contains(step.getId()) && !progress.isDone(step.getId());
 	}
 
-	public void setDone(Route.Step step, boolean done)
+	/** Afvinken kan pas als de voortgang van het ingelogde account geladen is. */
+	public boolean isProfileLoaded()
 	{
+		return profileGuard != null && profileGuard.isLoaded();
+	}
+
+	/** @return false als de wijziging geweigerd werd (geen of ander profiel geladen) */
+	public boolean setDone(Route.Step step, boolean done)
+	{
+		if (!canEdit())
+		{
+			return false;
+		}
 		if (progress.set(step.getId(), done))
 		{
 			saveProgress();
 			onProgressChanged(false);
 		}
+		return true;
 	}
 
 	/** Vinkt alle stappen tot en met deze af (voor een account dat al onderweg is). */
-	public void markUpTo(Route.Step step)
+	public boolean markUpTo(Route.Step step)
 	{
+		if (!canEdit())
+		{
+			return false;
+		}
 		List<String> ids = new ArrayList<>();
 		for (Route.Step s : guide.stepsUpTo(step))
 		{
@@ -294,10 +340,15 @@ public class HcimRoutePlugin extends Plugin
 			saveProgress();
 			onProgressChanged(false);
 		}
+		return true;
 	}
 
-	public void resetSection(Route.Section section)
+	public boolean resetSection(Route.Section section)
 	{
+		if (!canEdit())
+		{
+			return false;
+		}
 		List<String> ids = new ArrayList<>();
 		for (Route.Step s : section.getSteps())
 		{
@@ -308,13 +359,20 @@ public class HcimRoutePlugin extends Plugin
 			saveProgress();
 			onProgressChanged(false);
 		}
+		return true;
 	}
 
-	public void resetAll()
+	public boolean resetAll()
 	{
+		if (!canEdit())
+		{
+			return false;
+		}
 		progress.clear();
+		questReady.clear();
 		saveProgress();
 		onProgressChanged(true);
+		return true;
 	}
 
 	public void completeCurrentStep()
@@ -352,41 +410,65 @@ public class HcimRoutePlugin extends Plugin
 	private void checkQuests()
 	{
 		RouteGuide g = guide;
-		if (g == null || client.getGameState() != GameState.LOGGED_IN)
+		if (g == null || client.getGameState() != GameState.LOGGED_IN || !canEdit())
 		{
 			return;
 		}
 		Map<String, QuestState> cache = new HashMap<>();
 		List<Route.Step> ticked = new ArrayList<>();
+		List<Route.Step> ready = new ArrayList<>();
 		for (Route.Step step : g.getAllTrackableSteps())
 		{
-			if (step.getComplete().isEmpty() || progress.isDone(step.getId()))
+			if (step.getComplete().isEmpty() || progress.isDone(step.getId()) || questReady.contains(step.getId()))
 			{
 				continue;
 			}
-			boolean allFinished = true;
-			for (String name : step.getComplete())
+			if (!allQuestsFinished(step, cache))
 			{
-				Quest quest = questsByName.get(name);
-				if (quest == null)
+				continue;
+			}
+			if (step.isAutoComplete())
+			{
+				if (progress.set(step.getId(), true))
 				{
-					// onbekend in deze RuneLite-versie: niet automatisch afvinken
-					allFinished = false;
-					break;
-				}
-				QuestState state = cache.computeIfAbsent(name, n -> quest.getState(client));
-				if (state != QuestState.FINISHED)
-				{
-					allFinished = false;
-					break;
+					ticked.add(step);
 				}
 			}
-			if (allFinished && progress.set(step.getId(), true))
+			else
 			{
-				ticked.add(step);
+				// de stap bevat nog andere opdrachten: niet afvinken, alleen markeren
+				questReady.add(step.getId());
+				ready.add(step);
 			}
 		}
-		afterAutoComplete(ticked, "quest voltooid");
+		if (!ticked.isEmpty())
+		{
+			saveProgress();
+		}
+		if (!ticked.isEmpty() || !ready.isEmpty())
+		{
+			onProgressChanged(false);
+		}
+		announce(ticked, "quest voltooid, afgevinkt");
+		announce(ready, "quest voltooid, vink de rest van de stap zelf af");
+	}
+
+	private boolean allQuestsFinished(Route.Step step, Map<String, QuestState> cache)
+	{
+		for (String name : step.getComplete())
+		{
+			Quest quest = questsByName.get(name);
+			if (quest == null)
+			{
+				// onbekend in deze RuneLite-versie: niets automatisch doen
+				return false;
+			}
+			if (cache.computeIfAbsent(name, n -> quest.getState(client)) != QuestState.FINISHED)
+			{
+				return false;
+			}
+		}
+		return true;
 	}
 
 	/** Draait op de client thread. */
@@ -394,6 +476,10 @@ public class HcimRoutePlugin extends Plugin
 	{
 		RouteGuide g = guide;
 		if (g == null || client.getGameState() != GameState.LOGGED_IN)
+		{
+			return;
+		}
+		if (!canEdit())
 		{
 			return;
 		}
@@ -419,32 +505,31 @@ public class HcimRoutePlugin extends Plugin
 				ticked.add(step);
 			}
 		}
-		afterAutoComplete(ticked, "doel bereikt");
+		if (!ticked.isEmpty())
+		{
+			saveProgress();
+			onProgressChanged(false);
+		}
+		announce(ticked, "doel bereikt, afgevinkt");
 	}
 
-	private void afterAutoComplete(List<Route.Step> ticked, String reason)
+	private void announce(List<Route.Step> steps, String reason)
 	{
-		if (ticked.isEmpty())
-		{
-			return;
-		}
-		saveProgress();
-		onProgressChanged(false);
-		if (!config.chatMessages())
+		if (steps.isEmpty() || !config.chatMessages())
 		{
 			return;
 		}
 		String msg;
-		if (ticked.size() <= 3)
+		if (steps.size() <= 3)
 		{
-			Route.Step s = ticked.get(0);
+			Route.Step s = steps.get(0);
 			msg = "HCIM route (" + reason + "): " + s.getSection().getTitle() + " - "
 				+ RouteText.firstSentence(s.getText(), 70)
-				+ (ticked.size() > 1 ? " (+" + (ticked.size() - 1) + ")" : "");
+				+ (steps.size() > 1 ? " (+" + (steps.size() - 1) + ")" : "");
 		}
 		else
 		{
-			msg = "HCIM route: " + ticked.size() + " stappen automatisch afgevinkt (" + reason + ").";
+			msg = "HCIM route: " + steps.size() + " stappen (" + reason + ").";
 		}
 		client.addChatMessage(ChatMessageType.GAMEMESSAGE, "", "<col=ff9040>" + msg + "</col>", null);
 	}

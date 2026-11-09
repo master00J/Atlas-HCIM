@@ -20,6 +20,7 @@ public final class RouteText
 	static final String TAG_COLOR = "#9a9a9a";
 	static final String HCIM_COLOR = "#ff6b5e";
 	static final String NEW_COLOR = "#ffb347";
+	static final String READY_COLOR = "#5ec26a";
 
 	private RouteText()
 	{

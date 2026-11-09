@@ -13,10 +13,17 @@ volgende stap.
 - **Overlay** linksboven in het spel met je huidige bank, de volgende stap(pen)
   en een voortgangsbalk bij skill-doelen ("tot 62 Farming", "tot 31.512 Thieving XP").
 - **Automatisch afvinken**:
-  - stappen met "Voltooi X" zodra de quest in je questlijst klaar is (standaard aan);
+  - een stap die alleen uit "Voltooi X" bestaat, zodra de quest in je questlijst
+    klaar is (standaard aan);
+  - een samengestelde stap ("Voltooi Cook's Assistant. Pickpocket een man") wordt
+    níet afgevinkt als de quest klaar is: hij krijgt de groene melding
+    *Quest klaar*, en de rest vink je zelf af;
   - stappen met een skill-doel zodra je dat level of die XP haalt (standaard uit).
 - **Voortgang per account**: opgeslagen in je RuneLite-profiel, dus elk account
-  (ook een tweede HCIM) heeft zijn eigen voortgang.
+  (ook een tweede HCIM) heeft zijn eigen voortgang. Afvinken kan pas als je
+  ingelogd bent en de voortgang van dat account geladen is; wissel je van account,
+  dan laadt de plugin eerst de juiste voortgang en schrijft hij nooit in het
+  profiel van een ander account.
 - **Zoeken** in de hele route ("limpwurt", "Bank 104", "Shellbane").
 - **Rechtsklik** op een stap: afvinken, *Alles tot hier afvinken* (voor een account
   dat al onderweg is), of de wiki-pagina van de quest of diary openen.
@@ -71,7 +78,8 @@ uit de Markdown-export van de guide:
 
 Het script herkent de opbouw van de guide: `## Fase …` wordt een hoofdstuk,
 `**Bank X – …**` een bank, genummerde regels worden stappen, "Voltooi X" wordt
-automatisch afvinken bij quest X, en "tot N Skill" of "tot N Skill XP" wordt
+automatisch afvinken bij quest X (alleen als er na de voltooiing geen andere
+opdracht meer in de stap staat), en "tot N Skill" of "tot N Skill XP" wordt
 een skill-doel. Komt er een nieuwe quest uit, werk dan ook
 `tools/runelite_quests.txt` bij met de namen uit `net.runelite.api.Quest`.
 

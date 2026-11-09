@@ -154,6 +154,8 @@ public class Route
 		String id;
 		String text;
 		List<String> complete = new ArrayList<>();
+		/** Alleen true als de stap niets anders vraagt dan de quest(s) in complete af te werken. */
+		boolean autoComplete;
 		List<SkillTarget> targets = new ArrayList<>();
 		List<String> tags = new ArrayList<>();
 		List<String> flags = new ArrayList<>();
@@ -175,6 +177,16 @@ public class Route
 		public List<String> getComplete()
 		{
 			return complete == null ? new ArrayList<>() : complete;
+		}
+
+		/**
+		 * Mag de stap automatisch afgevinkt worden zodra de quests klaar zijn?
+		 * False bij samengestelde stappen ("Voltooi X. Pickpocket een man"):
+		 * die krijgen alleen een "quest klaar"-markering.
+		 */
+		public boolean isAutoComplete()
+		{
+			return autoComplete && !getComplete().isEmpty();
 		}
 
 		public List<SkillTarget> getTargets()

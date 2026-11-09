@@ -224,6 +224,7 @@
        "complete": [
         "Cook's Assistant"
        ],
+       "autoComplete": false,
        "tags": [
         "Lumbridge Easy"
        ]
@@ -411,7 +412,8 @@
        "text": "Noah (1,3) → voltooi **Children of the Sun**.",
        "complete": [
         "Children of the Sun"
-       ]
+       ],
+       "autoComplete": true
       },
       {
        "id": "fase-0/bank-3:769b0f07",
@@ -468,7 +470,8 @@
        "text": "Aubury: 1 Fire/Air/Earth pack, 2 Water packs, 3 Mind packs. Voltooi Daddy's Home, open de crate. Bank.",
        "complete": [
         "Daddy's Home"
-       ]
+       ],
+       "autoComplete": false
       }
      ]
     },
@@ -528,6 +531,7 @@
        "complete": [
         "Rune Mysteries"
        ],
+       "autoComplete": false,
        "tags": [
         "Lumbridge Easy"
        ],
@@ -594,7 +598,8 @@
        "text": "Betty: 2 eye of newt, 200 Mind runes. Rimmington: voltooi Witch's Potion (beef 2x verbranden op de range); 2 logs.",
        "complete": [
         "Witch's Potion"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-1/bank-9:9efdf2f0",
@@ -649,6 +654,7 @@
        "complete": [
         "Witch's House"
        ],
+       "autoComplete": false,
        "tags": [
         "Mourning's End II"
        ],
@@ -661,7 +667,8 @@
        "text": "Vial of water pack, Sanfew boven, **voltooi Druidic Ritual**.",
        "complete": [
         "Druidic Ritual"
-       ]
+       ],
+       "autoComplete": true
       },
       {
        "id": "fase-1/bank-10:3904e4a8",
@@ -686,7 +693,8 @@
        "text": "**Voltooi Gertrude's Cat.** Kweek kittens: elke volwassen kat ruil je later voor 200 Death runes.",
        "complete": [
         "Gertrude's Cat"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-1/bank-11:822d4d36",
@@ -726,7 +734,8 @@
        "text": "**Voltooi Plague City.** Lees de Ardougne teleport scroll.",
        "complete": [
         "Plague City"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-1/bank-11:f995dd85",
@@ -778,7 +787,8 @@
        "text": "Tab naar Falador, Knight's Sword verder, house tab terug naar Thurgo, **voltooi Knight's Sword**.",
        "complete": [
         "The Knight's Sword"
-       ]
+       ],
+       "autoComplete": true
       },
       {
        "id": "fase-1/bank-12:aae89b1c",
@@ -806,6 +816,7 @@
        "complete": [
         "The Tourist Trap"
        ],
+       "autoComplete": false,
        "tags": [
         "Demon Slayer"
        ]
@@ -869,7 +880,8 @@
        "text": "2 planks. **Voltooi Fight Arena**: safespot alles over het dichtstbijzijnde lijk; bij General Khazard quick-escape via de deur.",
        "complete": [
         "Fight Arena"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-1/bank-17-18:1949d912",
@@ -877,6 +889,7 @@
        "complete": [
         "Monk's Friend"
        ],
+       "autoComplete": false,
        "tags": [
         "Ratcatchers"
        ]
@@ -930,6 +943,7 @@
        "complete": [
         "Hazeel Cult"
        ],
+       "autoComplete": false,
        "tags": [
         "Goblin-RFD",
         "Song of the Elves"
@@ -941,6 +955,7 @@
        "complete": [
         "Tree Gnome Village"
        ],
+       "autoComplete": false,
        "tags": [
         "Waterfall",
         "Demon Slayer"
@@ -1041,6 +1056,7 @@
        "complete": [
         "Tribal Totem"
        ],
+       "autoComplete": false,
        "tags": [
         "Family Crest"
        ]
@@ -1060,6 +1076,7 @@
        "complete": [
         "Sheep Herder"
        ],
+       "autoComplete": false,
        "tags": [
         "Observatory Quest"
        ],
@@ -1076,7 +1093,8 @@
        "text": "Fire giant in Baxtorian Falls met water-spells. **Voltooi Waterfall Quest.**",
        "complete": [
         "Waterfall Quest"
-       ]
+       ],
+       "autoComplete": true
       },
       {
        "id": "fase-1/bank-23-24:07f0b7db",
@@ -1365,7 +1383,8 @@
        "text": "**Voltooi The Grand Tree.** Safespot de Black Demon en gebruik water-spells.",
        "complete": [
         "The Grand Tree"
-       ]
+       ],
+       "autoComplete": false
       }
      ]
     },
@@ -1383,6 +1402,7 @@
         "The Restless Ghost",
         "Sheep Shearer"
        ],
+       "autoComplete": false,
        "tags": [
         "Lumbridge Easy"
        ]
@@ -1417,6 +1437,7 @@
        "complete": [
         "The Writing's on the Wall"
        ],
+       "autoComplete": false,
        "flags": [
         "new"
        ]
@@ -1444,7 +1465,8 @@
        "complete": [
         "Client of Kourend",
         "The Queen of Thieves"
-       ]
+       ],
+       "autoComplete": true
       },
       {
        "id": "fase-3/bank-28-29:adf21af8",
@@ -1460,6 +1482,7 @@
        "complete": [
         "Twilight's Promise"
        ],
+       "autoComplete": false,
        "flags": [
         "new"
        ]
@@ -1469,14 +1492,16 @@
        "text": "Varlamore (vlieg waar het korter is): bronze spear, inventory silk, **voltooi Ribbiting Tale of a Lily Pad Dispute**, fishing rod, lobster pot, iron bar.",
        "complete": [
         "The Ribbiting Tale of a Lily Pad Labour Dispute"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-3/bank-28-29:b18fea1a",
        "text": "Aldarin: **voltooi Death on the Isle** (je kan er niet sterven). Activeer het beeld van Ates voor de Pendant of Ates-teleport.",
        "complete": [
         "Death on the Isle"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-3/bank-28-29:b8bb99ac",
@@ -1548,6 +1573,7 @@
        "complete": [
         "Murder Mystery"
        ],
+       "autoComplete": true,
        "tags": [
         "Kandarin Easy"
        ]
@@ -1613,6 +1639,7 @@
        "complete": [
         "The Feud"
        ],
+       "autoComplete": false,
        "tags": [
         "Digsite",
         "Demon Slayer"
@@ -1631,6 +1658,7 @@
        "complete": [
         "The Dig Site"
        ],
+       "autoComplete": false,
        "tags": [
         "Mourning's End II"
        ]
@@ -1690,6 +1718,7 @@
        "complete": [
         "Jungle Potion"
        ],
+       "autoComplete": false,
        "tags": [
         "Legends' Quest",
         "Tai Bwo Wannai Trio",
@@ -1702,6 +1731,7 @@
        "complete": [
         "Shilo Village"
        ],
+       "autoComplete": false,
        "flags": [
         "hcim"
        ]
@@ -1742,6 +1772,7 @@
        "complete": [
         "Merlin's Crystal"
        ],
+       "autoComplete": false,
        "flags": [
         "new"
        ]
@@ -1761,6 +1792,7 @@
        "complete": [
         "Observatory Quest"
        ],
+       "autoComplete": false,
        "tags": [
         "Demon Slayer"
        ]
@@ -1796,6 +1828,7 @@
        "complete": [
         "Priest in Peril"
        ],
+       "autoComplete": false,
        "tags": [
         "Nature Spirit",
         "Morytania Hard"
@@ -1822,6 +1855,7 @@
        "complete": [
         "Nature Spirit"
        ],
+       "autoComplete": false,
        "tags": [
         "Morytania Easy"
        ]
@@ -1873,6 +1907,7 @@
        "complete": [
         "Lost City"
        ],
+       "autoComplete": true,
        "tags": [
         "Holy Grail"
        ],
@@ -1901,6 +1936,7 @@
        "complete": [
         "Ernest the Chicken"
        ],
+       "autoComplete": false,
        "tags": [
         "Lumbridge Easy"
        ],
@@ -1913,7 +1949,8 @@
        "text": "Enchanted secateurs: slimy eel, nature talisman (Abyss-leeches, safespot), schone herbs bij Zahur. **Voltooi Fairy Tale I.**",
        "complete": [
         "Fairytale I - Growing Pains"
-       ]
+       ],
+       "autoComplete": true
       }
      ]
     },
@@ -1929,7 +1966,8 @@
        "text": "Start Fairy Tale II tot de fairy rings werken. Voltooi tussendoor **A Porcine of Interest**.",
        "complete": [
         "A Porcine of Interest"
-       ]
+       ],
+       "autoComplete": true
       },
       {
        "id": "fase-3/bank-51-52:eb8cbe20",
@@ -1966,6 +2004,7 @@
        "complete": [
         "Sea Slug"
        ],
+       "autoComplete": false,
        "targets": [
         {
          "skill": "MINING",
@@ -1987,6 +2026,7 @@
        "complete": [
         "Elemental Workshop I"
        ],
+       "autoComplete": false,
        "tags": [
         "RFD"
        ]
@@ -2003,7 +2043,8 @@
        "text": "**Voltooi Biohazard.** Start Underground Pass bij King Lathas. Two-pints: Ardougne cloak. Ruil je kat voor 200 Death runes.",
        "complete": [
         "Biohazard"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-3/bank-53-59:e2dbdbc3",
@@ -2017,6 +2058,7 @@
         "Goblin Diplomacy",
         "Recipe for Disaster - Wartface & Bentnoze"
        ],
+       "autoComplete": false,
        "tags": [
         "Falador Easy"
        ]
@@ -2035,7 +2077,8 @@
        "text": "Ardy cloak → BLS: start Garden of Death; DJR: **voltooi Garden of Death**. Antique lamp op Farming.",
        "complete": [
         "The Garden of Death"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-3/bank-60:316dd60d",
@@ -2070,6 +2113,7 @@
        "complete": [
         "Tower of Life"
        ],
+       "autoComplete": false,
        "flags": [
         "new"
        ]
@@ -2086,7 +2130,8 @@
        "text": "4 birdhouses, marrentill-potion (unf), **voltooi Bone Voyage**. Mushtrees unlocken, bank chest bouwen, 60+ volcanic ash, 2 birdhouses bij Verdant Valley.",
        "complete": [
         "Bone Voyage"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-3/bank-61-63:9ee0842e",
@@ -2110,7 +2155,8 @@
        "text": "**Voltooi Sleeping Giants** en maak 11 swords (Easy Giants' Foundry-plugin).",
        "complete": [
         "Sleeping Giants"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-3/bank-64-68:c6b3d021",
@@ -2118,6 +2164,7 @@
        "complete": [
         "Elemental Workshop II"
        ],
+       "autoComplete": false,
        "tags": [
         "Kandarin Easy"
        ]
@@ -2259,6 +2306,7 @@
        "complete": [
         "Getting Ahead"
        ],
+       "autoComplete": false,
        "tags": [
         "Morytania Easy"
        ]
@@ -2281,6 +2329,7 @@
         "Holy Grail",
         "Fishing Contest"
        ],
+       "autoComplete": true,
        "tags": [
         "Karamja Easy"
        ]
@@ -2309,6 +2358,7 @@
         "Prince Ali Rescue",
         "The Golem"
        ],
+       "autoComplete": false,
        "tags": [
         "Desert Medium",
         "Underground Pass"
@@ -2350,6 +2400,7 @@
        "complete": [
         "Black Knights' Fortress"
        ],
+       "autoComplete": false,
        "tags": [
         "Falador Easy"
        ],
@@ -2364,6 +2415,7 @@
         "Pirate's Treasure",
         "Recruitment Drive"
        ],
+       "autoComplete": false,
        "tags": [
         "Mourning's End II"
        ],
@@ -2391,6 +2443,7 @@
        "complete": [
         "The Fremennik Trials"
        ],
+       "autoComplete": false,
        "flags": [
         "hcim"
        ]
@@ -2401,6 +2454,7 @@
        "complete": [
         "Dwarf Cannon"
        ],
+       "autoComplete": false,
        "tags": [
         "Scorpion Catcher",
         "Kandarin Medium",
@@ -2423,6 +2477,7 @@
        "complete": [
         "Demon Slayer"
        ],
+       "autoComplete": true,
        "flags": [
         "new"
        ]
@@ -2442,7 +2497,8 @@
        "text": "Black desert robes (zwarte paddenstoelen + vial). **Voltooi Shadow of the Storm** met Blast-spells (25% water-zwakte) en een ring of recoil. XP op Ranged.",
        "complete": [
         "Shadow of the Storm"
-       ]
+       ],
+       "autoComplete": true
       },
       {
        "id": "fase-4/bank-88:fba7294c",
@@ -2466,21 +2522,24 @@
        "text": "Lumbridge-RFD: Dwarf en Evil Dave inspecteren. Kaylee, Sanfew (2,2,3,1). **Voltooi The Lost Tribe**; koop Dorgeshuun crossbow + 5.000 bone bolts.",
        "complete": [
         "The Lost Tribe"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-4/bank-89-95:fa67b7ed",
        "text": "25 karambwans. **Temple of Ikov:** gooi food en chaps bij de ladder neer om onder 0 kg te komen voor de brug (anders 20 schade). Lesarkus met knives, max hit 8. Kies de Guardians of Armadyl. **Voltooi Temple of Ikov.**",
        "complete": [
         "Temple of Ikov"
-       ]
+       ],
+       "autoComplete": true
       },
       {
        "id": "fase-4/bank-89-95:13c0c79a",
        "text": "6 bronze wires, 2 buckets of sap. **Voltooi Big Chompy Bird Hunting.**",
        "complete": [
         "Big Chompy Bird Hunting"
-       ]
+       ],
+       "autoComplete": true
       },
       {
        "id": "fase-4/bank-89-95:5ee5ac5b",
@@ -2488,6 +2547,7 @@
        "complete": [
         "Recipe for Disaster - Mountain Dwarf"
        ],
+       "autoComplete": false,
        "tags": [
         "Between a Rock"
        ]
@@ -2515,7 +2575,8 @@
        "text": "Old Crone, toy ship herstellen en kleuren, 3 kaartstukken. Book of Haricanto, Runedraw, bedsheet, 10 handtekeningen. **Voltooi Ghosts Ahoy.**",
        "complete": [
         "Ghosts Ahoy"
-       ]
+       ],
+       "autoComplete": true
       },
       {
        "id": "fase-4/bank-96-100:45429d89",
@@ -2523,6 +2584,7 @@
        "complete": [
         "Creature of Fenkenstrain"
        ],
+       "autoComplete": true,
        "tags": [
         "Morytania Medium"
        ]
@@ -2533,6 +2595,7 @@
        "complete": [
         "Animal Magnetism"
        ],
+       "autoComplete": true,
        "tags": [
         "Below Ice Mountain"
        ]
@@ -2566,6 +2629,7 @@
        "complete": [
         "Spirits of the Elid"
        ],
+       "autoComplete": true,
        "tags": [
         "Desert Easy"
        ]
@@ -2611,7 +2675,8 @@
        "text": "**Voltooi His Faithful Servants.** Bank na elke kill als het moet; 43 Prayer maakt de rest van de route veel veiliger.",
        "complete": [
         "His Faithful Servants"
-       ]
+       ],
+       "autoComplete": false
       }
      ]
     },
@@ -2629,7 +2694,8 @@
        "complete": [
         "Icthlarin's Little Helper",
         "Shades of Mort'ton"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-4/bank-105-113:0b8a3f69",
@@ -2637,6 +2703,7 @@
        "complete": [
         "Dragon Slayer I"
        ],
+       "autoComplete": false,
        "tags": [
         "Karamja Medium",
         "Varrock Medium"
@@ -2647,7 +2714,8 @@
        "text": "Garden of Tranquility: Elstan, Lyra, Kragen, Dantaera, white tree-shoot, rozen, Bernald, Alain. Trolley-standbeeld. **Voltooi Garden of Tranquility.**",
        "complete": [
         "Garden of Tranquillity"
-       ]
+       ],
+       "autoComplete": true
       },
       {
        "id": "fase-4/bank-105-113:ace408cd",
@@ -2665,6 +2733,7 @@
        "complete": [
         "Family Crest"
        ],
+       "autoComplete": true,
        "flags": [
         "new"
        ]
@@ -2676,6 +2745,7 @@
         "Enter the Abyss",
         "Eagles' Peak"
        ],
+       "autoComplete": false,
        "tags": [
         "Between a Rock"
        ]
@@ -2696,6 +2766,7 @@
        "complete": [
         "A Soul's Bane"
        ],
+       "autoComplete": true,
        "tags": [
         "Ratcatchers",
         "Varrock Easy"
@@ -2788,6 +2859,7 @@
         "Bear Your Soul",
         "Scorpion Catcher"
        ],
+       "autoComplete": true,
        "tags": [
         "Wanted!"
        ]
@@ -2811,6 +2883,7 @@
         "Heroes' Quest",
         "Troll Stronghold"
        ],
+       "autoComplete": false,
        "tags": [
         "Desert Treasure"
        ],
@@ -2834,6 +2907,7 @@
        "complete": [
         "Throne of Miscellania"
        ],
+       "autoComplete": false,
        "tags": [
         "Fremennik Hard"
        ],
@@ -2846,7 +2920,8 @@
        "text": "**Voltooi Royal Trouble** (sea snake met Ranged). Zet het koninkrijk op 10 teak/mahogany + 5 maple voor één dag, daarna 10 teak en 5 herbs. Dit kost GP; zonder geld hak je teaks zelf op Fossil Island.",
        "complete": [
         "Royal Trouble"
-       ]
+       ],
+       "autoComplete": false
       }
      ]
     },
@@ -2896,7 +2971,8 @@
        "complete": [
         "The Ides of Milk",
         "One Small Favour"
-       ]
+       ],
+       "autoComplete": true
       }
      ]
     },
@@ -2923,6 +2999,7 @@
        "complete": [
         "Tai Bwo Wannai Trio"
        ],
+       "autoComplete": false,
        "tags": [
         "Karamja Medium",
         "RFD"
@@ -2940,7 +3017,8 @@
        "text": "Drunken parrot, chickens en goutweed. **Voltooi Eadgar's Ruse.**",
        "complete": [
         "Eadgar's Ruse"
-       ]
+       ],
+       "autoComplete": true
       },
       {
        "id": "fase-4/bank-131-136:21ecd72c",
@@ -2974,7 +3052,8 @@
        "text": "Giant Roc: Protect from Missiles, beste air-spell (35% zwakte), safespot. **Voltooi My Arm's Big Adventure.**",
        "complete": [
         "My Arm's Big Adventure"
-       ]
+       ],
+       "autoComplete": true
       },
       {
        "id": "fase-4/bank-137-139:0f53f1ec",
@@ -2982,6 +3061,7 @@
        "complete": [
         "Enakhra's Lament"
        ],
+       "autoComplete": false,
        "tags": [
         "Desert Medium"
        ]
@@ -2992,6 +3072,7 @@
        "complete": [
         "Ratcatchers"
        ],
+       "autoComplete": false,
        "tags": [
         "Western Provinces Medium"
        ]
@@ -3011,14 +3092,16 @@
        "text": "**Voltooi Haunted Mine.** Tarn's Lair: Protect from Melee tegen de terrordogs en safespot ze. Maak de Salve amulet (e).",
        "complete": [
         "Haunted Mine"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-4/bank-140-144:806d0a6c",
        "text": "8 sacks zand op Entrana, 12 willow branches. **Voltooi Enlightened Journey.**",
        "complete": [
         "Enlightened Journey"
-       ]
+       ],
+       "autoComplete": true
       },
       {
        "id": "fase-4/bank-140-144:c693d0c6",
@@ -3038,6 +3121,7 @@
         "Romeo & Juliet",
         "A Tail of Two Cats"
        ],
+       "autoComplete": true,
        "tags": [
         "Varrock Medium"
        ],
@@ -3061,6 +3145,7 @@
        "complete": [
         "Between a Rock..."
        ],
+       "autoComplete": true,
        "tags": [
         "Fremennik Easy"
        ]
@@ -3070,7 +3155,8 @@
        "text": "**Voltooi Horror from the Deep** met de juiste spell per kleur. Jossik: Unholy book, Book of War, Book of Law.",
        "complete": [
         "Horror from the Deep"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-4/bank-145-148:4d077cd9",
@@ -3086,6 +3172,7 @@
        "complete": [
         "Below Ice Mountain"
        ],
+       "autoComplete": false,
        "flags": [
         "new"
        ]
@@ -3106,6 +3193,7 @@
        "complete": [
         "Underground Pass"
        ],
+       "autoComplete": false,
        "tags": [
         "Ardougne Medium"
        ]
@@ -3116,6 +3204,7 @@
        "complete": [
         "Monkey Madness I"
        ],
+       "autoComplete": false,
        "tags": [
         "Western Provinces"
        ]
@@ -3145,7 +3234,8 @@
        "text": "**Voltooi The Eyes of Glouphrie**; crystal saw.",
        "complete": [
         "The Eyes of Glouphrie"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-4/bank-151-157:5d5cc9bb",
@@ -3153,7 +3243,8 @@
        "complete": [
         "Watchtower",
         "The Hand in the Sand"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-4/bank-151-157:87091cbe",
@@ -3161,6 +3252,7 @@
        "complete": [
         "Zogre Flesh Eaters"
        ],
+       "autoComplete": false,
        "tags": [
         "Ardougne Medium"
        ]
@@ -3171,6 +3263,7 @@
        "complete": [
         "Regicide"
        ],
+       "autoComplete": false,
        "tags": [
         "Mourning's End I",
         "Falador Medium"
@@ -3204,7 +3297,8 @@
        "text": "**Voltooi Roving Elves** (kies het schild; recoil tegen de moss giant). Eluned, Arianwyn, Elf teleport crystal. 2 van elke dye bij Oronwen. Palm sapling planten.",
        "complete": [
         "Roving Elves"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-4/bank-158-161:2ba6abbe",
@@ -3219,6 +3313,7 @@
        "complete": [
         "Mourning's End Part I"
        ],
+       "autoComplete": true,
        "tags": [
         "RFD"
        ]
@@ -3228,7 +3323,8 @@
        "text": "**Mourning's End II**: prayer-uitrusting (monk robes, holy symbol, damaged book), Protect from Melee de hele quest aan, 4 karambwans en 6 prayer potions. **Voltooi Mourning's End II.**",
        "complete": [
         "Mourning's End Part II"
-       ]
+       ],
+       "autoComplete": true
       }
      ]
     },
@@ -3256,6 +3352,7 @@
        "complete": [
         "Skippy and the Mogres"
        ],
+       "autoComplete": false,
        "tags": [
         "Fremennik Medium",
         "Falador Medium"
@@ -3266,7 +3363,8 @@
        "text": "**Voltooi Tears of Guthix.** Wekelijks: Tears geeft XP aan je laagste skill, vaak Sailing.",
        "complete": [
         "Tears of Guthix"
-       ]
+       ],
+       "autoComplete": false
       }
      ]
     },
@@ -3291,6 +3389,7 @@
        "complete": [
         "Making History"
        ],
+       "autoComplete": false,
        "tags": [
         "Ardougne Medium"
        ]
@@ -3301,6 +3400,7 @@
        "complete": [
         "In Search of the Myreque"
        ],
+       "autoComplete": false,
        "tags": [
         "In Aid of the Myreque"
        ]
@@ -3310,7 +3410,8 @@
        "text": "Gilded cross; Damis: safespot op een bat of rat in de noordoosthoek (curse om hem te aggro'en). Kamil: Protect from Melee, restores en food. **Voltooi Desert Treasure.** Ancient staff bij Eblis (80.000 GP).",
        "complete": [
         "Desert Treasure I"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-4/bank-164b-172:57cef3b3",
@@ -3318,7 +3419,8 @@
        "complete": [
         "Recipe for Disaster - Evil Dave",
         "Recipe for Disaster - Pirate Pete"
-       ]
+       ],
+       "autoComplete": true
       }
      ]
     },
@@ -3342,7 +3444,8 @@
        "text": "66 Cooking. Puro-Puro: gourmet implings tot een Chef's Delight → Awowogei. **Voltooi Recipe for Disaster** en koop **Barrows gloves**.",
        "complete": [
         "Recipe for Disaster"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-4/bank-173-175:a2db8b11",
@@ -3350,6 +3453,7 @@
        "complete": [
         "Grim Tales"
        ],
+       "autoComplete": false,
        "tags": [
         "Western Provinces Hard"
        ]
@@ -3390,6 +3494,7 @@
         "Temple of the Eye",
         "Wanted!"
        ],
+       "autoComplete": true,
        "targets": [
         {
          "skill": "RUNECRAFT",
@@ -3473,7 +3578,8 @@
        "complete": [
         "Rum Deal",
         "Cabin Fever"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-5/melee-en-slayer:5ab68132",
@@ -3557,7 +3663,8 @@
        "complete": [
         "King's Ransom",
         "What Lies Below"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-5/verder-trainen-tot-barrows:c539f51b",
@@ -3617,7 +3724,8 @@
        "text": "**Voltooi Song of the Elves.** Maak 10+ phoenix necklaces.",
        "complete": [
         "Song of the Elves"
-       ]
+       ],
+       "autoComplete": false
       }
      ]
     },
@@ -3660,7 +3768,8 @@
        "text": "**Voltooi A Kingdom Divided.**",
        "complete": [
         "A Kingdom Divided"
-       ]
+       ],
+       "autoComplete": true
       },
       {
        "id": "fase-5/bank-177-179:1e3d7f82",
@@ -3760,7 +3869,8 @@
        "complete": [
         "Lunar Diplomacy",
         "Dream Mentor"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-6/bank-184-186:92c2c0d8",
@@ -3768,6 +3878,7 @@
        "complete": [
         "Contact!"
        ],
+       "autoComplete": false,
        "tags": [
         "Desert Hard"
        ]
@@ -3912,14 +4023,16 @@
         "The Path of Glouphrie",
         "Defender of Varrock",
         "While Guthix Sleeps"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-6/bank-198-203:d4da2e3b",
        "text": "**Voltooi In Aid of the Myreque.** Hard Temple Trek.",
        "complete": [
         "In Aid of the Myreque"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-6/bank-198-203:3c8275be",
@@ -3970,7 +4083,8 @@
         "At First Light",
         "The Heart of Darkness",
         "The Final Dawn"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-6/bank-204-209:5e345d98",
@@ -3979,7 +4093,8 @@
         "Scrambled!",
         "Vale Totems",
         "Shadows of Custodia"
-       ]
+       ],
+       "autoComplete": false
       },
       {
        "id": "fase-6/bank-204-209:bbefead5",

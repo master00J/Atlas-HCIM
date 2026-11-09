@@ -20,6 +20,7 @@ public class RouteOverlay extends OverlayPanel
 	private static final Color TITLE_COLOR = new Color(255, 152, 31);
 	private static final Color NEXT_COLOR = new Color(170, 170, 170);
 	private static final Color SAILING_COLOR = new Color(110, 190, 255);
+	private static final Color READY_COLOR = new Color(94, 194, 106);
 	private static final NumberFormat XP_FORMAT = NumberFormat.getIntegerInstance(new Locale("nl", "BE"));
 
 	private final HcimRoutePlugin plugin;
@@ -71,6 +72,14 @@ public class RouteOverlay extends OverlayPanel
 					.left((i == 0 ? "> " : "- ") + prefix + RouteText.toPlain(step.getText(), i == 0 ? 220 : 110))
 					.leftColor(i == 0 ? Color.WHITE : NEXT_COLOR)
 					.build());
+
+				if (i == 0 && plugin.isQuestReady(step))
+				{
+					panelComponent.getChildren().add(LineComponent.builder()
+						.left("Quest klaar - vink af zodra de rest ook gedaan is")
+						.leftColor(READY_COLOR)
+						.build());
+				}
 
 				if (i == 0 && config.overlayTargets())
 				{
