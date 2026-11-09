@@ -12,6 +12,12 @@
 
 Guide Overlay is ontwikkeld door onafhankelijke bijdragers en uitgebracht onder een eigen BSD-2-Clause-licentie: https://github.com/RunelitePlugin/guide-overlay. Atlas-HCIM bevat een integratie/patchscript, niet de volledige Guide Overlay-code. Dit project is geen officiële RuneLite- of Jagex-release.
 
+## RuneLite-plugin (`runelite-plugin/`)
+
+- De route in `runelite-plugin/src/main/resources/com/hcimroute/route.json` en `runelite-plugin/tools/guide.md` is een Nederlandstalige bewerking van de B0aty HCIM Guide V3 (Tpapa en B0aty), aangevuld met eigen wijzigingen voor de OSRS-updates van 2025–2026. Dezelfde bronvermelding en CC BY-NC-SA 3.0-voorwaarden als hierboven gelden voor die afgeleide tekst.
+- De programmacode van de plugin valt onder de BSD-2-Clause-licentie in `runelite-plugin/LICENSE`.
+- `runelite-plugin/tools/runelite_quests.txt` bevat questnamen uit `net.runelite.api.Quest` (RuneLite, BSD-2-Clause), alleen om questnamen te controleren.
+
 ## Assets
 
 De HCIM Atlas-afbeeldingen zijn afzonderlijk voor dit project gegenereerd. Ze zijn niet afkomstig uit de originele RuneLite- of OSRS-spelbestanden.
@@ -19,5 +25,6 @@ De HCIM Atlas-afbeeldingen zijn afzonderlijk voor dit project gegenereerd. Ze zi
 ## Licentiesplitsing
 
 - Oorspronkelijke Atlas-HCIM-broncode: zie LICENSE-CODE.md.
+- RuneLite-plugin in `runelite-plugin/`: zie `runelite-plugin/LICENSE` (BSD-2-Clause).
 - OSRS Wiki-afgeleide guideinhoud: zie LICENSE-CONTENT.md en de originele wiki.
 - Externe componenten blijven onder hun eigen licenties.
