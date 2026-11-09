@@ -431,6 +431,18 @@ def remove_context_notes(guide):
             cleaned = []
             for st in section['steps']:
                 txt = text_of(st)
+                # A few old route notes are actual preparation requirements.
+                # Keep them as explicit, manually checkable tasks rather than
+                # silently dropping important inventory/skill requirements.
+                if txt.startswith('Route note — Lumbridge, Wizards'):
+                    cleaned.append(step('Equip your leather gloves and boots before leaving Lumbridge'))
+                    continue
+                if txt.startswith('Route note — Pandemonium (Sailing'):
+                    cleaned.append(step('Check that you have at least two free inventory slots before Pandemonium'))
+                    continue
+                if txt.startswith("Route note — The Writing's on the Wall"):
+                    cleaned.append(step("Confirm 22 Agility and 20 Thieving (neither boostable) before starting The Writing's on the Wall"))
+                    continue
                 if txt.startswith('Route note — ') and not any(
                     clue in txt.lower() for clue in SAFETY_NOTE_CLUES
                 ):
