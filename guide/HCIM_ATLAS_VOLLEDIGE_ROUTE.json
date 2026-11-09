@@ -10,13 +10,6 @@
             {
               "content": [
                 {
-                  "text": "Route note — 2026 update: this is B0aty's HCIM Guide V3 updated for Sailing and Quest Month (November 2026); the combat tutors are gone, so Mudfoot's Big Adventure now gives your first weapons, runes and 2,000 combat XP."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
                   "text": "All Settings -> Disable level-up"
                 }
               ]
@@ -264,13 +257,6 @@
         {
           "title": "Bank 1",
           "steps": [
-            {
-              "content": [
-                {
-                  "text": "Route note — Lumbridge, Wizards' Tower and Draynor loop: wear the leather gloves and boots; the goal is to collect quest items in one south-west loop, not to finish whole quests yet."
-                }
-              ]
-            },
             {
               "content": [
                 {
@@ -655,13 +641,6 @@
             {
               "content": [
                 {
-                  "text": "Route note — Varrock circuit with many quest starts: buy an air staff and combine Demon Slayer, Shield of Arrav, Gertrude's Cat, Children of the Sun, Priest in Peril and Daddy's Home; keep every quest item you make."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
                   "text": "Withdraw: Coins, Bones, Beer (3 Inventory Spaces)"
                 }
               ]
@@ -856,13 +835,6 @@
             {
               "content": [
                 {
-                  "text": "Route note — Varrock, Daddy's Home and materials: combine the Construction unlock, plank making, rune shopping and Varrock diary steps, and check your free inventory slots for logs and planks."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
                   "text": "Withdraw: Coins, Saw, Hammer, Knife, Bronze Axe, Research Package, Tinderbox (7 Inventory Slots)"
                 }
               ]
@@ -1005,13 +977,6 @@
         {
           "title": "Bank 5",
           "steps": [
-            {
-              "content": [
-                {
-                  "text": "Route note — Varlamore materials in one visit: the Hunter's Guild gives new quest items and an early sellable resource; prices and stock can change."
-                }
-              ]
-            },
             {
               "content": [
                 {
@@ -1330,13 +1295,6 @@
               "content": [
                 {
                   "text": "Make 454 Headless Arrows"
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Route note — Pandemonium (Sailing, November 2025) has no requirements; you need 2 free inventory slots and empty hands, and it unlocks Sailing, a raft and the Captain's log."
                 }
               ]
             },
@@ -3235,13 +3193,6 @@
             {
               "content": [
                 {
-                  "text": "Route note — The Writing's on the Wall (Quest Month, November 2026) needs 22 Agility and 20 Thieving (not boostable), has no fights and gives 2,500 Agility, 2,500 Thieving and the Amulet of sight (+10 Ranged attack) before the fruit stalls and Brimhaven."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
                   "text": "Run south-west to Land's End and talk to Betty outside the northernmost house to start The Writing's on the Wall"
                 }
               ]
@@ -3514,13 +3465,6 @@
               "content": [
                 {
                   "text": "Head to Varlamore"
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Route note — Twilight's Promise moved here from Episode 6: it gives 3,000 Thieving, the Civitas illa Fortis Teleport and the Quetzal Transport System, which shortens this trip and every later Varlamore trip."
                 }
               ]
             },
@@ -4151,13 +4095,6 @@
         {
           "title": "Bank 34",
           "steps": [
-            {
-              "content": [
-                {
-                  "text": "Route note — Agility Pyramid for a big cash buffer: B0aty's efficiency goal is over 1 million GP while training Agility; it is a target, not a guaranteed amount."
-                }
-              ]
-            },
             {
               "content": [
                 {
@@ -6464,13 +6401,6 @@
             {
               "content": [
                 {
-                  "text": "Route note — Tower of Life moved here from Bank 155: its 1,000 Construction XP saves Mahogany Homes contracts in Bank 61 and its 500 Crafting XP saves glass in Bank 68."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
                   "text": "Withdraw: Coins, Hammer, Saw, Beer, Teleport Runes (5 Inventory Slots)"
                 }
               ]
@@ -7645,13 +7575,6 @@
         {
           "title": "Sailing A — 1 to 30 Sailing (optional)",
           "steps": [
-            {
-              "content": [
-                {
-                  "text": "Route note — Sailing block A is optional (about 3 to 4 hours): Sailing is not a Song of the Elves requirement, but shipbuilding gives Construction XP and port tasks give coins and sawmill coupons; skip to Bank 76 for the fastest route to Song of the Elves."
-                }
-              ]
-            },
             {
               "content": [
                 {
@@ -14100,14 +14023,14 @@
             {
               "content": [
                 {
-                  "text": "Open the pen in the north-east corner of the cow farm and fight the bull [The Ides of Milk]"
+                  "text": "HCIM: Brutus's special attacks scale with your HP and cannot be prayed against; step 2 tiles sideways when he snorts or growls and leave through the south-west gate if it goes wrong"
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "HCIM: Brutus's special attacks scale with your HP and cannot be prayed against; step 2 tiles sideways when he snorts or growls and leave through the south-west gate if it goes wrong"
+                  "text": "Open the pen in the north-east corner of the cow farm and fight the bull [The Ides of Milk]"
                 }
               ]
             },
@@ -18293,13 +18216,6 @@
             {
               "content": [
                 {
-                  "text": "Route note — Long midgame checkpoint: B0aty groups many separate combat preparation steps here; follow the sub-goals exactly and check the current death rules before every boss."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
                   "text": "Withdraw: Teleport Runes, Axe, Kourend Blessing 1, 50+ Earth Runes, Earth Talisman, 10+ Pure Essence, Bucket of Water, Eye Amulet, Darklight"
                 }
               ]
@@ -20410,13 +20326,6 @@
             {
               "content": [
                 {
-                  "text": "Route note — Sailing block C: Fallen From Grace unlocks golem crafting, the new alternative to glassblowing for Crafting from 60 to 85, plus Mortimer and the Mad Angel."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
                   "text": "Train to 47 Runecraft with a few extra games of Guardians of the Rift"
                 }
               ]
@@ -22122,13 +22031,6 @@
         {
           "title": "Bank 211",
           "steps": [
-            {
-              "content": [
-                {
-                  "text": "Route note — Zenyte jewellery and Zulrah preparation: the route switches here from fixed bank stops to RNG and boss-based loops; separate expeditions follow in the endgame chapters."
-                }
-              ]
-            },
             {
               "content": [
                 {
