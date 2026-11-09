@@ -1,13 +1,13 @@
 {
   "volledige route": {
-    "steps": 3315,
+    "steps": 3301,
     "chapters": 23,
     "sections": 259,
     "pins": 298,
     "pin_bytes": 44008,
-    "risk_flags": 103,
+    "risk_flags": 101,
     "pin_reasons": {
-      "not_safe_to_pin": 2596,
+      "not_safe_to_pin": 2582,
       "compound_task": 101,
       "gecontroleerde plaatsbron": 298,
       "unresolved_location": 251,
