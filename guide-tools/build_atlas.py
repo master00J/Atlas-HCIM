@@ -146,7 +146,7 @@ for raw in PLACE_SEED.splitlines():
 
 # Ignore guide bracket annotations so quest names aren't mistaken for places.
 QUEST_BRACKETS=re.compile(r'\[[^]]{1,100}\]')
-NOTE=re.compile(r'^(?:Routeadvies|HCIM:|Note:|Warning:|IMPORTANT|Let op|OPTIONAL|optional|If you |\* )',re.I)
+NOTE=re.compile(r'^(?:Route note|Routeadvies|HCIM:|Note:|Warning:|IMPORTANT|Let op|OPTIONAL|optional|NEW option|If you |\* )',re.I)
 TRAVEL=re.compile(r'^(?:(?:Go|Head|Run|Walk|Return|Travel|Sail|Teleport|Bank|Rebank|Enter|Leave|Take (?:boat|ship|minecart|portal|carpet)|Minigame teleport|Charter|Go up|Go down)\b)', re.I)
 TASK_COMPOUND=re.compile(r'\b(?:talk to|speak to|buy|kill|trade|pickpocket|collect|withdraw|take everything|loot|fill|give |make |deposit|complete|start|continue)\b',re.I)
 RISK=re.compile(r'\b(?:wilderness|stronghold of security|revs?|dragon slayer|pyramid|wintertodt|zulrah|vorkath|gauntlet|colosseum|inferno|theatre of blood|tombs of amascut|raid|yama|doom|venenatis|vet.?ion|calvar|callisto|dagannoth|hydra|nightmare|sire|leviathan|vardorvis|whisperer|duke sucellus)\b', re.I)

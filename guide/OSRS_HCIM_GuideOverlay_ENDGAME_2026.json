@@ -1,907 +1,1003 @@
 {
-  "title": "HCIM Endgame Uitbreiding 2026 — NL",
+  "title": "HCIM Atlas Endgame 2026",
   "chapters": [
     {
-      "title": "Endgame — eigen voorbereiding per expeditie",
+      "title": "Endgame — preparation per expedition",
       "sections": [
         {
-          "title": "E01 — Na Bank 211: accountherstel & supply-loop",
+          "title": "E01 — After Bank 211: account check and supply loop",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Leg vast welke quests en diary-unlocks werkelijk voltooid zijn; vertrouw niet uitsluitend op de volgorde van de guide."
+                  "text": "Write down which quests and diary unlocks you have actually completed; do not rely only on the order of the guide."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Orden je bank in presettabs: quest, ranged, melee, magic, Herblore, supplies en bossing."
+                  "text": "Sort your bank into preset tabs: quests, ranged, melee, magic, Herblore, supplies and bossing."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Stel een permanent noodteleport in je gearpresets in; verifieer dat die in de volgende encounter werkt."
+                  "text": "Put a permanent emergency teleport in every gear preset and check that it works in the next encounter."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Maak en vul de rune pouch met de spreuken die je werkelijk nodig hebt."
+                  "text": "Fill your rune pouch with the spells you actually need."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Controleer de toestand van je herb patches, compostvoorraad, seed vault en birdhouses."
+                  "text": "Check your herb patches, compost stock, seed vault and birdhouses."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Verzamel of kook 200+ betrouwbare PvM-food als werkbuffer; dit is een bufferdoel, geen vereiste."
+                  "text": "Collect or cook 200+ reliable PvM food as a working buffer (a buffer goal, not a requirement)."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Leg de voorraad prayer potions, restores, super attacks/strengths en stamina- of energy-middelen vast."
+                  "text": "Note your stock of prayer potions, restores, super attacks and strengths, and stamina or energy potions."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Bepaal per volgende boss welke drops je nodig hebt, met een alternatief als de drop lang uitblijft."
+                  "text": "Decide for every next boss which drops you need, with an alternative if the drop takes too long."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Zet in RuneLite een zichtbare low-HP-, prayer- en disconnect-waarschuwing klaar."
+                  "text": "Set up visible low-HP, prayer and disconnect warnings in RuneLite."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Schrijf je eigen stopgrens per unsafe encounter op vóór je start."
+                  "text": "Write down your own stop condition for every unsafe encounter before you start."
                 }
               ]
             }
           ]
         },
         {
-          "title": "E02 — Defensieve basis en Combat Achievements",
+          "title": "E02 — Defensive basics and Combat Achievements",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Controleer 43 Prayer en je belangrijkste protection prayers; mik op Piety voor melee als de requirements haalbaar zijn."
+                  "text": "Check 43 Prayer and your main protection prayers; aim for Piety for melee when the requirements are within reach."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Maak Barrows gloves, Ava’s relevante unlock en de dragon defender af als je die nog mist."
+                  "text": "Finish Barrows gloves, your Ava's device unlock and the dragon defender if you are still missing them."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Voltooi Barbarian Assault als je fighter torso wil; oefen rollen in de veilige minigame."
+                  "text": "Do Barbarian Assault if you want the fighter torso; practise the roles in the safe minigame."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Rond Dragon Slayer II, Fremennik Exiles, Sins of the Father en andere openstaande gearquests af, na boss-specifieke voorbereiding."
+                  "text": "Finish Dragon Slayer II, The Fremennik Exiles, Sins of the Father and other open gear quests, with boss-specific preparation."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Plan de Easy en Medium Combat Achievements; controleer vooraf of de gekozen activiteit veilig of unsafe is."
+                  "text": "Plan the Easy and Medium Combat Achievements and check beforehand whether each activity is a safe or unsafe death."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Maak een checklist met achterstallige Hard Diary-unlocks en transportmethoden."
+                  "text": "Make a checklist of missing Hard diary unlocks and transport methods."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Kies twee oefenbosses zonder onverwachte multihit/mechanics en leer de aanvalscyclus consequent."
+                  "text": "Pick two practice bosses without surprise multi-hits or mechanics and learn their attack cycle properly."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Voer op een gewone account of een veilige activiteit minstens meerdere volledige oefenruns uit voor een nieuwe gevaarlijke boss."
+                  "text": "Do several full practice runs on a normal account or a safe activity before any new dangerous boss."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Ga pas naar de volgende fase als je betrouwbare prayer switches en ontsnappingsroutine beheerst."
+                  "text": "Only move on to the next phase once your prayer switches and escape routine are reliable."
                 }
               ]
             }
           ]
         },
         {
-          "title": "E03 — Zulrah: gecontroleerde supply- en unique-farm",
+          "title": "E03 — Zulrah: controlled supply and unique farm",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Controleer de actuele Zulrah-venomstrategie en neem een passende cure of alternatieve aanpak mee."
+                  "text": "Check the current Zulrah venom strategy and bring a matching cure or alternative approach."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Controleer of je ring of suffering en recoil-werking hebt; kies anders een vergelijkbaar recoil-plan."
+                  "text": "Check that you have a ring of suffering with recoil; otherwise pick a comparable recoil plan."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Maak een gearpreset voor de precieze phase-rotatie die je kiest."
+                  "text": "Make a gear preset for the exact phase rotation you choose."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Zorg voor voldoende teleportopties naar Zulrah én terug naar een bank."
+                  "text": "Make sure you have enough teleports to Zulrah and back to a bank."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Test de volledige rotatie op een niet-HCIM-account voordat je op de Hardcore begint."
+                  "text": "Test the full rotation on a non-HCIM account before you start on your Hardcore."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Begin met één kill per trip in plaats van de killcount per uur te maximaliseren."
+                  "text": "Start with one kill per trip instead of maximising kills per hour."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Stel vóór het binnenkomen een HP-ondergrens vast boven mogelijke gecombineerde schade."
+                  "text": "Set a minimum HP before you enter that is above the highest possible combined damage."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Stop de trip onmiddellijk als je venom, prayer, food of rotatie niet meer controleert."
+                  "text": "Leave the trip immediately when you lose control of venom, prayer, food or the rotation."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Markeer de relevante uniques als optionele voortgang; ga door naar een andere upgrade als RNG je ophoudt."
+                  "text": "Treat the uniques as optional progress and move to another upgrade if RNG holds you back."
                 }
               ]
             }
           ]
         },
         {
-          "title": "E04 — Slayer 85–95: systematisch upgraden",
+          "title": "E04 — Slayer 85–95: systematic upgrades",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Configureer Slayer helm, bonecrusher/ash sanctifier waar relevant en je standaard prayer- of safespot-preset."
+                  "text": "Set up your Slayer helmet, bonecrusher and ash sanctifier where useful, and your default prayer or safespot preset."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Maak indien beschikbaar de whip-upgrade rond 85 Slayer."
+                  "text": "Make the whip upgrade around 85 Slayer if it is available to you."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Plan de trident-upgrade rond het vereiste Slayer-level en zorg voor runes/charges."
+                  "text": "Plan the trident upgrade around the required Slayer level and stock runes or charges."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Reserveer cannonballs of burst/barrage-runes voor de tasks waar dat echt tijd bespaart."
+                  "text": "Save cannonballs or burst and barrage runes for the tasks where they really save time."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Verzamel zenyte-materialen op demonic gorillas als je voorbereid bent op hun gebedswissels."
+                  "text": "Collect zenyte shards at demonic gorillas once you are prepared for their prayer switches."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Neem geen Wilderness-task aan zonder expliciet te kiezen dat je je status riskeert."
+                  "text": "Never take a Wilderness task unless you explicitly choose to risk your status."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Bouw je block- en skiplist op grond van daadwerkelijk beschikbare points en persoonlijke voorkeur."
+                  "text": "Build your block and skip list from the points you actually have and your own preference."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Verwerk herb- en seed-drops vóór de volgende lange slayersessie."
+                  "text": "Process herb and seed drops before the next long Slayer session."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Werk uiteindelijk toe naar de 93/95 Slayer-unlocks en behoud tegelijk ruimte voor gear- of questdetours."
+                  "text": "Work towards the 93 and 95 Slayer unlocks while leaving room for gear and quest detours."
                 }
               ]
             }
           ]
         },
         {
-          "title": "E05 — God Wars Dungeon: voorbereidende trips",
+          "title": "E05 — God Wars Dungeon: preparation trips",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Verifieer de boss-specifieke entry requirements en itemvereisten voor faction protection."
+                  "text": "Check the boss-specific entry requirements and the god items you need for faction protection."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Zorg voor stamina, bescherming tegen de relevante effecten en een duidelijke exit."
+                  "text": "Bring stamina, protection against the relevant effects and a clear exit."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Train of simuleer de route naar de bosskamer op een account waar een death niet definitief is."
+                  "text": "Practise the route to the boss room on an account where a death is not final."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Maak per boss een eigen range/melee/mage-preset; gebruik geen één-size-fits-all inventaris."
+                  "text": "Make a separate ranged, melee or magic preset per boss instead of one inventory for everything."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Controleer keycount, ecumenical key en/of killcount afhankelijk van gekozen route."
+                  "text": "Check your kill count, ecumenical keys and route requirements for the boss you chose."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Oefen het ritme tussen boss en minions met één veilige testkill."
+                  "text": "Practise the rhythm between boss and minions with one safe test kill."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Stop als je damagepatroon of run energy afwijkt van je geoefende route."
+                  "text": "Stop when your damage pattern or run energy is different from your practised route."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Farm alleen voor concrete upgrades, zoals armour of een specifiek wapen; herbeoordeel na elke sessie."
+                  "text": "Only farm for concrete upgrades such as armour or a specific weapon, and reassess after every session."
                 }
               ]
             }
           ]
         },
         {
-          "title": "E06 — Bowfa-kruispunt: Gauntlet of alternatief",
+          "title": "E06 — Bowfa crossroads: Gauntlet or an alternative",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Controleer Song of the Elves en de feitelijke requirements voor de gekozen route."
+                  "text": "Check Song of the Elves and the real requirements for the route you choose."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Beslis vooraf of je een enhanced crystal weapon seed echt nodig hebt voor je volgende content."
+                  "text": "Decide beforehand whether you really need an enhanced crystal weapon seed for your next content."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Oefen meerdere volledige Corrupted Gauntlet-runs op een niet-HCIM-account tot prep en boss consequent lukken."
+                  "text": "Practise full Corrupted Gauntlet runs on a non-HCIM account until both prep and boss are consistent."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Kies vóór elke run welke prep-kwaliteit je minimaal accepteert."
+                  "text": "Decide before every run which prep quality you accept as a minimum."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Ga niet de bosskamer in als tijd, food of armour onder je minimum zit."
+                  "text": "Do not enter the boss room when time, food or armour is below your minimum."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Oefen specifiek last-phase tornado movement en prayer/audio-cues."
+                  "text": "Practise the last-phase tornado movement and the prayer and audio cues in particular."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Overweeg bewust een ranged alternatief als je je HCIM-status absoluut wilt behouden."
+                  "text": "Consider a ranged alternative on purpose if keeping your HCIM status is your top priority."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Controleer de totale crystal-shardbehoefte voor je setup vóór je nieuwe grinds start."
+                  "text": "Work out your total crystal shard needs before you start new grinds."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Verander je route na nieuwe gear drops; er is geen verplichte Bowfa voor iedere eindbaas."
+                  "text": "Adjust your route after new gear drops; not every end boss needs a Bowfa."
                 }
               ]
             }
           ]
         },
         {
-          "title": "E07 — Chambers of Xeric: eerste raid-keuze",
+          "title": "E07 — Chambers of Xeric: the first raid",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Bepaal je doel: Prayer scrolls, gear of voorbereiding op latere raids."
+                  "text": "Decide your goal: prayer scrolls, gear or practice for the later raids."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Breng geschikte gear switches mee voor melee, ranged en magic binnen de raid."
+                  "text": "Bring suitable melee, ranged and magic switches for the raid."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Oefen scouten of leer het gekozen vaste raidformaat."
+                  "text": "Practise scouting or learn the fixed raid layout you want to run."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Oefen Olm-rollen op een rustig tempo; een lage eerste reward-score is prima."
+                  "text": "Learn the Olm roles at a calm pace; a low first point score is fine."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Maak je eerste runs met ervaren spelers die duidelijk communiceren."
+                  "text": "Do your first runs with experienced players who communicate clearly."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Noteer welke aanvalscues je regelmatig mist en oefen die bewust in volgende runs."
+                  "text": "Note which attack cues you regularly miss and practise them on purpose in the next runs."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Farm tot de gewenste Prayer scrolls of stap over als een ander unlock je meer helpt."
+                  "text": "Farm until you have the prayer scrolls you want, or move on when another unlock helps you more."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Controleer na elke nieuwe Prayer unlock of je DPS/defence-stijl of gearprioriteit verandert."
+                  "text": "After every new prayer unlock, check whether your DPS, defence style or gear priorities change."
                 }
               ]
             }
           ]
         },
         {
-          "title": "E08 — Tombs of Amascut: fang-/shadow-route",
+          "title": "E08 — Tombs of Amascut: fang and shadow route",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Controleer Beneath Cursed Sands en de toegang tot de raid."
+                  "text": "Check Beneath Cursed Sands and your access to the raid."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Maak een precieze loadout per room plus food/restores/special attacks."
+                  "text": "Make an exact loadout per room plus food, restores and special attacks."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Leer Akkha, Kephri, Ba-Ba en Zebak afzonderlijk op een ander account."
+                  "text": "Learn Akkha, Kephri, Ba-Ba and Zebak one by one on another account."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Leer Wardens volledig, inclusief verschillende fases en enrage."
+                  "text": "Learn the Wardens completely, including the different phases and the enrage."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Kies een lage raid-invocation die je herhaalbaar beheerst; schaal niet op na één geslaagde run."
+                  "text": "Pick a low raid level you can repeat reliably and do not scale up after one successful run."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Vermijd de verleiding om extra invocations te nemen voor marginale rewardwinst."
+                  "text": "Resist adding invocations for small reward gains."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Maak een exitplan bij connection issues of te weinig supplies."
+                  "text": "Have an exit plan for connection problems or running low on supplies."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Herhaal runs tot fang of gewenste uniques; er is geen gegarandeerde droptiming."
+                  "text": "Repeat runs until you get the fang or the uniques you want; there is no guaranteed drop timing."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Herbereken vervolgens je vervolgboss-route met je nieuwe weapon."
+                  "text": "Recalculate your next boss route with your new weapon afterwards."
                 }
               ]
             }
           ]
         },
         {
-          "title": "E09 — Theatre of Blood: vaste-team training",
+          "title": "E09 — Theatre of Blood: fixed team training",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Zoek een betrouwbaar team dat de rollen en afspraken vooraf vastlegt."
+                  "text": "Find a reliable team that agrees on roles and calls beforehand."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Oefen Verzik en de overige encounters op een normale account tot je geen onbekende mechanics meer hebt."
+                  "text": "Practise Verzik and the other rooms on a normal account until no mechanic is new to you."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Leer veilige roomvolgorde, positions en comms per encounter."
+                  "text": "Learn the safe room order, positions and calls per encounter."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Bespreek wie welke role/aggro krijgt en wat er gebeurt bij een disconnect."
+                  "text": "Agree who takes which role or aggro and what happens after a disconnect."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Maak een per-room supply-budget; verbrand niet alle restores in de eerste helft."
+                  "text": "Make a supply budget per room and do not burn all restores in the first half."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Voer een volledige groepsdry-run uit vóór je Hardcore toetreedt."
+                  "text": "Do a full group dry run before your Hardcore joins."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Stop na een mislukte training/trip om fouten te analyseren in plaats van direct opnieuw te proberen."
+                  "text": "Stop after a failed practice run or trip to analyse the mistakes instead of trying again straight away."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Maak avernic, sang, rapier of scythe tot expliciete doelen, niet verplichte drops."
+                  "text": "Treat the avernic defender, Sanguinesti staff, Ghrazi rapier and Scythe of vitur as goals, not guaranteed drops."
                 }
               ]
             }
           ]
         },
         {
-          "title": "E10 — Inferno en Fortis Colosseum",
+          "title": "E10 — Inferno and Fortis Colosseum",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Verifieer dat je de actuele HCIM-deathregels van de specifieke activiteit begrijpt."
+                  "text": "Make sure you understand the current HCIM death rules of the specific activity."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Leer ranged/mage prayer-flicking in Fight Caves en uitdagendere PvM-content."
+                  "text": "Learn ranged and magic prayer flicking in the Fight Caves and harder PvM content."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Controleer gear en supplies voor tientallen waves, niet alleen de laatste boss."
+                  "text": "Check your gear and supplies for dozens of waves, not only the final boss."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Oefen moeilijke safespots en line-of-sight-patronen op voorhand."
+                  "text": "Practise difficult safespots and line-of-sight patterns beforehand."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Voor Inferno: ontwikkel een reproduceerbare route richting Zuk, met veilige hoek- en shield-movement."
+                  "text": "Inferno: build a repeatable route to Zuk with safe corner and shield movement."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Voor Colosseum: kies waves/modifiers bewust en oefen op een niet-HCIM-account."
+                  "text": "Colosseum: choose waves and modifiers on purpose and practise on a non-HCIM account."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Vermijd een gevaarlijke run als je geen ervaring hebt met de betreffende encounter."
+                  "text": "Skip a dangerous run when you have no experience with that encounter."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Markeer Infernal cape / quiver als optionele prestaties, los van je maxing-route."
+                  "text": "Treat the Infernal cape and Dizana's quiver as optional achievements, separate from your maxing route."
                 }
               ]
             }
           ]
         },
         {
-          "title": "E11 — Desert Treasure II + overige late bosses",
+          "title": "E11 — Desert Treasure II and other late bosses",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Verifieer de quest requirements en je effectieve combatstats."
+                  "text": "Check the quest requirements and your effective combat stats."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Kies een boss en bestudeer de volledige move-set inclusief onverwachte specials."
+                  "text": "Pick one boss and study its full move set, including unexpected specials."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Noteer de exacte veilige tilepositions als je een guide met positieadvies gebruikt."
+                  "text": "Write down the exact safe tiles if you follow a guide with position advice."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Stel een gearpreset en banktrip samen op basis van die ene boss."
+                  "text": "Build a gear preset and bank trip for that one boss."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Doe een gewone-account proefrun en test teleport/log-out beperkingen."
+                  "text": "Do a test run on a normal account and test the teleport and log-out restrictions."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Farm in korte sessies met heldere stopcondities."
+                  "text": "Farm in short sessions with clear stop conditions."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Voeg de ontvangen uniques toe aan je gearladder, zonder te rekenen op snelle RNG."
+                  "text": "Add the uniques you get to your gear ladder without counting on fast RNG."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Pas je PvM-route aan zodra je een nieuwe weapon of armour set krijgt."
+                  "text": "Adjust your PvM route as soon as you get a new weapon or armour set."
                 }
               ]
             }
           ]
         },
         {
-          "title": "E12 — Yama, Doom of Mokhaiotl en andere latere PvM",
+          "title": "E12 — Yama, Doom of Mokhaiotl and other newer PvM",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Controleer de recente mechanics en wijzigingen: deze encounters zijn relatief nieuw."
+                  "text": "Check the latest mechanics and changes, because these encounters are relatively new."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Verifieer of je een solo-, duo- of groepsaanpak kiest en wat dit doet met de risico’s."
+                  "text": "Decide on a solo, duo or group approach and what that does to the risk."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Oefen alle relevante aanvallen op een niet-HCIM-account."
+                  "text": "Practise every relevant attack on a non-HCIM account."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Schrijf neer welke supply- of damagechecks noodzakelijk zijn."
+                  "text": "Write down which supply or damage checks are required."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Ga de eerste keer uitsluitend voor een gecontroleerde kill of veilige claim; geen killcount-rush."
+                  "text": "Go for one controlled kill or a safe claim the first time, not a kill count rush."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Stop bij een mechanic die in praktijk anders werkt dan je training."
+                  "text": "Stop at any mechanic that behaves differently from your practice."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Evalueer pas daarna of een specifieke itemdrop de moeite waard is voor je account."
+                  "text": "Only then decide whether a specific drop is worth it for your account."
                 }
               ]
             }
           ]
         },
         {
-          "title": "E13 — The Fractured Archive: vierde raid (2026)",
+          "title": "E13 — The Fractured Archive: the fourth raid (2026)",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Voltooi en controleer While Guthix Sleeps en alle overige actuele toegangseisen."
+                  "text": "Complete While Guthix Sleeps and check every other current entry requirement; the raid is in the Chasm of Tears."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Controleer op de officiële raidpagina de actuele bossvolgorde en unieke mechanics."
+                  "text": "Every death in The Fractured Archive is a dangerous death that costs your Hardcore status."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Stel op een normale account een team samen dat de zeven bosses en finale fight beheerst."
+                  "text": "A run has five of its eight bosses: Archive Guardian first, then Ezekiel or Bork and the Smorks, Moia or Dreadnoth the Jellied, The Dagon'hai or Xarth, and Ocellus last."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Train iedere boss afzonderlijk tot je routes en samenvallende damagepatronen herkent."
+                  "text": "Bosses scale to the party size with a minimum of two players, so solo runs are tuned like a duo."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Bespreek teamroles, item swaps, recovery, communicatie en disconnect-actie."
+                  "text": "Build a team on a normal account that knows every boss and the final fight."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Bereken je supplies voor de hele run, niet voor één kamer."
+                  "text": "Train each boss separately until you recognise its routes and overlapping damage patterns."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Schrap deze raid van je actieve route als statusbehoud je hoogste prioriteit heeft."
+                  "text": "Agree on team roles, item swaps, recovery, communication and what to do after a disconnect."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Evalueer de raidspecifieke uniques alleen als ze je volgende doelen concreet verbeteren."
+                  "text": "Budget supplies for the whole run, not for one room."
+                }
+              ]
+            },
+            {
+              "content": [
+                {
+                  "text": "Drop this raid from your active route if keeping your status is your highest priority."
+                }
+              ]
+            },
+            {
+              "content": [
+                {
+                  "text": "Only chase the uniques (Horn of Bran for Zeal, Zorya's tome, Rondache, Ascension crossbows, Obligator) when they clearly improve your next goals."
                 }
               ]
             }
           ]
         },
         {
-          "title": "E14 — Elite diaries, Sailing en max cape",
+          "title": "E14 — Elite diaries, Sailing and the max cape",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Maak een checklist van alle nog ontbrekende elite diary skillrequirements en questrequirements."
+                  "text": "Make a checklist of every missing elite diary skill and quest requirement."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Kies elk weekblok één actieve skill voor XP en één passieve skill voor dailies/runs."
+                  "text": "Pick one active skill for XP and one passive skill for dailies and runs every week."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Laat Herblore vooruitgaan met herb runs, contracts en relevante drops."
+                  "text": "Keep Herblore moving with herb runs, contracts and useful drops."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Laat Farming vooruitgaan met tree/fruit-tree/herb contract-rotaties."
+                  "text": "Keep Farming moving with tree, fruit tree and herb contract rotations."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Gebruik birdhouses en/of Hunter-activiteiten voor de resterende Hunter XP."
+                  "text": "Use birdhouses and other Hunter activities for the remaining Hunter XP."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Spreid Construction en Crafting over de daadwerkelijke grondstofaanvoer."
+                  "text": "Spread Construction and Crafting over your real supply of materials."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Plan Smithing, Mining, Runecraft, Agility en Sailing apart op basis van je materialen en huidige unlocks."
+                  "text": "Plan Smithing, Mining, Runecraft, Agility and Sailing separately based on your materials and unlocks."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Werk skills uiteindelijk naar 99 en controleer de actuele max-cape requirements."
+                  "text": "Work every skill to 99 in the end and check the current max cape requirements."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Houd een aparte lijst met optionele Collection Log- en Combat Achievement-doelen."
+                  "text": "Keep a separate list of optional Collection Log and Combat Achievement goals."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "E15 — New 2026 content in recommended order",
+          "steps": [
+            {
+              "content": [
+                {
+                  "text": "Fallen From Grace is in Sailing block C before Bank 193; the repeatable Mad Angel comes after your fire cape and is not weakened like the quest version."
+                }
+              ]
+            },
+            {
+              "content": [
+                {
+                  "text": "The Mad Angel drops the Hallowfell (75 Attack), which hits up to three targets."
+                }
+              ]
+            },
+            {
+              "content": [
+                {
+                  "text": "Mortimer (70 Slayer and 100 combat, after Fallen From Grace) gives a choice of two tasks with superior monsters, but skips cost 100 points and Turael resets do not work."
+                }
+              ]
+            },
+            {
+              "content": [
+                {
+                  "text": "Use Mortimer only after you stop using the Turael-skip method, and keep prayer ready for a superior on every task."
+                }
+              ]
+            },
+            {
+              "content": [
+                {
+                  "text": "Finish the Myreque quests (The Darkness of Hallowvale, A Taste of Hope, Sins of the Father, A Night at the Theatre) with Quest Helper and treat every fight as dangerous."
+                }
+              ]
+            },
+            {
+              "content": [
+                {
+                  "text": "The Blood Moon Rises needs Sins of the Father, A Night at the Theatre and skills in the 57–74 range; check the exact list in Quest Helper because sources differ."
+                }
+              ]
+            },
+            {
+              "content": [
+                {
+                  "text": "HCIM: dying in Vampyrium costs your Hardcore status even though you respawn there with your items."
+                }
+              ]
+            },
+            {
+              "content": [
+                {
+                  "text": "The Blood Moon Rises rewards six 30,000 XP tomes (skills 70+), Vampyrium, the Maggot King and seeker arrows."
+                }
+              ]
+            },
+            {
+              "content": [
+                {
+                  "text": "The Fractured Archive (While Guthix Sleeps) comes last: see E13."
+                }
+              ]
+            },
+            {
+              "content": [
+                {
+                  "text": "Chambers of Xeric deaths are safe, but Dexterous and Arcane prayer scrolls have dropped about 20% less often since August 2026."
+                }
+              ]
+            },
+            {
+              "content": [
+                {
+                  "text": "Not in this route yet: The Graveyard (Master quest after Olaf's Quest) and the rest of the November 2026 Quest Month."
                 }
               ]
             }
@@ -910,198 +1006,198 @@
       ]
     },
     {
-      "title": "11. De midgame gear-ladder: welke upgrades eerst?",
+      "title": "11. Midgame gear ladder: which upgrades first?",
       "sections": [
         {
-          "title": "11A — melee en armour",
+          "title": "11A — Melee and armour",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Zorg dat je dragon scimitar + dragon defender + Barrows gloves + fighter torso + helm of Neitiznot daadwerkelijk kunt combineren tot één standaard melee-preset."
+                  "text": "Make sure you can combine dragon scimitar, dragon defender, Barrows gloves, fighter torso and helm of neitiznot into one standard melee preset."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Verzamel protection/prayer armour, bijvoorbeeld proselyte na de vereiste questketen; neem deze bij Slayer of lange tasks in plaats van torso wanneer Prayer prioriteit heeft."
+                  "text": "Collect prayer armour such as proselyte after its quest chain and wear it on Slayer or long tasks instead of the torso when Prayer matters more."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Werk aan een berserker ring bij Dagannoth Rex als je dit veilig kunt aanpakken. De weg naar de Dagannoth Kings en verkeerd ingestelde prayer zijn gevaarlijk; dit is geen verplicht vroege upgrade."
+                  "text": "Work on a berserker ring at Dagannoth Rex only if you can do it safely; the way to the Dagannoth Kings and wrong prayers are dangerous, and it is not a required early upgrade."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Train naar de vereiste levels voor de zombie axe en farm hem als je comfortabel de monsters kunt doden. Dit is een sterke slash/crush-optie vóór of naast de whip."
+                  "text": "Train to the levels for the zombie axe and farm it once you kill the monsters comfortably; it is a strong slash and crush option before or next to the whip."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Ontgrendel Perilous Moons via de relevante quest en onderzoek de Neypotzli-bossmechanics. Deze activiteit is GEVAARLIJK voor HCIM, ondanks de beschikbare supplies binnen het complex."
+                  "text": "Unlock Perilous Moons through its quest and study the Neypotzli boss mechanics; it is DANGEROUS for an HCIM despite the supplies inside the complex."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Beoordeel Eclipse atlatl, Blood moon armour en dual macuahuitl als potentiële midgame-upgrades. De uitrusting is aantrekkelijk, maar niet de moeite van een onvoorbereide HCIM-dood."
+                  "text": "Treat the Eclipse atlatl, Blood moon armour and dual macuahuitl as possible midgame upgrades, but never worth an unprepared HCIM death."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Farm de Royal Titans alleen wanneer de mechanics van beide titans, de arena en je escapeplan helder zijn. Hun drops kunnen een waardevol, recenter gearalternatief vormen."
+                  "text": "Only farm the Royal Titans when the mechanics of both titans, the arena and your escape plan are clear; their drops can be a valuable newer gear option."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Bouw een tank/panic-preset met hogere defence/HP/Prayer. Een eerste boss-trip in riskante content krijgt niet automatisch je hoogste-DPS-outfit."
+                  "text": "Build a tank or panic preset with more Defence, HP and Prayer; your first trip to risky content does not automatically use your highest DPS setup."
                 }
               ]
             }
           ]
         },
         {
-          "title": "11B — Ranged: van budget naar top",
+          "title": "11B — Ranged: from budget to top",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Zorg voor rune crossbow met nuttige bolts of magic shortbow (i) als tijdelijke rangeoplossing. Gebruik Ava's; houd ammo- en boltsupplies actief."
+                  "text": "Use a rune crossbow with useful bolts or a magic shortbow (i) as a temporary ranged setup, with Ava's device and a steady ammo supply."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Gebruik blessed d'hide uit clues of haal alternatieve midgame armour. Laat 'perfecte ranger boots' nooit de hele progress blokkeren."
+                  "text": "Use blessed d'hide from clues or other midgame armour, and never let \"perfect ranger boots\" block your progress."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Bekijk de sunlight hunter's crossbow en Eclipse atlatl als mogelijke routes wanneer je Bowfa niet onmiddellijk gaat riskeren."
+                  "text": "Look at the sunlight hunter's crossbow and the Eclipse atlatl as routes when you are not going to risk the Bowfa straight away."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Werk aan 75–85 Ranged vóór de zwaardere bosses; 90+ is voor endgame PvM een sterk comfortdoel."
+                  "text": "Work to 75–85 Ranged before the harder bosses; 90+ is a comfortable goal for endgame PvM."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Als je voor Bowfa kiest, is enhanced crystal weapon seed + crystal armour het einddoel van je Gauntlet-route. Bouw deze afzonderlijke risicoroute pas in hoofdstuk 12 uit."
+                  "text": "If you go for the Bowfa, an enhanced crystal weapon seed plus crystal armour is the end goal of your Gauntlet route (chapter 12)."
                 }
               ]
             }
           ]
         },
         {
-          "title": "11C — Magic: van Iban tot raid-ready",
+          "title": "11C — Magic: from Iban to raid-ready",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Gebruik Iban's staff (u) voor vroege single-target Magic waar de spell goed werkt."
+                  "text": "Use Iban's staff (u) for early single-target Magic where the spell works well."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Farm een warped sceptre of een ander geschikt eigen midgame-stafalternatief als dit goed past bij je Magic level en Slayer-toegang."
+                  "text": "Farm a warped sceptre or another midgame staff when it fits your Magic level and Slayer access."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Ontgrendel Ancient Magicks via Desert Treasure I zodra je de quest veilig kunt doen. Ice burst/barrage is erg sterk voor sommige Slayer-taken."
+                  "text": "Unlock Ancient Magicks through Desert Treasure I once you can do the quest safely; ice burst and barrage are very strong on some Slayer tasks."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Werk naar 87 Slayer voor cave kraken en uiteindelijk een trident of the seas; hiervoor heb je de juiste Slayer-voorwaarden nodig."
+                  "text": "Work to 87 Slayer for cave kraken and eventually a trident of the seas."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Farm later Zulrah voor een magic fang en potentieel een toxic trident, maar alleen als je het gevaar van die fight volledig beheerst."
+                  "text": "Farm Zulrah later for a magic fang and possibly a toxic trident, but only when you fully control the danger of that fight."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Verzamel/upgrade mage cape en robes. Magic accuracy/defence/sustain zijn belangrijker dan een cosmetisch perfecte set."
+                  "text": "Collect and upgrade a mage cape and robes; accuracy, defence and sustain matter more than a perfect-looking set."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Haal 90+ Magic voor comfortabele multi-style PvM en oefen tijdens veilige CoX-waves/encounters je spellbook- en staffswaps."
+                  "text": "Get 90+ Magic for comfortable multi-style PvM and practise your spellbook and staff swaps in safe CoX encounters."
                 }
               ]
             }
           ]
         },
         {
-          "title": "11D — de kernaccessoires",
+          "title": "11D — Core accessories",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Unlock en gebruik een rune pouch zodra je die op een voor jou haalbare manier kunt verkrijgen; dit spaart inventory bij bossing."
+                  "text": "Unlock and use a rune pouch as soon as you can get one in a way that suits you; it saves inventory space when bossing."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Werk aan dragon boots zodra je Slayer-vereisten en drops dat toelaten; overige boots uit clues/bosses zijn optioneel."
+                  "text": "Work on dragon boots once your Slayer level and drops allow it; other boots from clues or bosses are optional."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Bewaar onyx en zenyte shards voor waardevolle jewelry als je Crafting ver genoeg hebt om die echt te maken."
+                  "text": "Save onyx and zenyte shards for valuable jewellery once your Crafting is high enough to make it."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Zet torture, anguish, tormented bracelet en suffering op je langetermijnlijst, maar grind ze in volgorde van je actuele PvM-tekort, niet vanwege de collection log."
+                  "text": "Put the amulet of torture, necklace of anguish, tormented bracelet and ring of suffering on your long-term list, but grind them in the order of your current PvM needs."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Checkpoint: een degelijke gear-preset voor melee, ranged en magic plus voor elk één defensieve variant in je bank."
+                  "text": "Checkpoint: a solid melee, ranged and magic preset in your bank, each with one defensive variant."
                 }
               ]
             }
@@ -1110,137 +1206,137 @@
       ]
     },
     {
-      "title": "12. Het gevaarlijkste midgame-kruispunt: Normal/Corrupted Gauntlet → Bowfa",
+      "title": "12. The most dangerous midgame crossroads: Normal/Corrupted Gauntlet → Bowfa",
       "sections": [
         {
-          "title": "12A — beslis vóór je de portal neemt",
+          "title": "12A — Decide before you enter the portal",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Maak de keuze: A. Gauntlet uitstellen en een alternatieve ranged progression doen, of B. inzetten op Bowfa met maximaal haalbare voorbereiding."
+                  "text": "Choose: A. postpone the Gauntlet and follow an alternative ranged progression, or B. commit to the Bowfa with the best preparation you can get."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Voor route B: train naar zeer comfortabele Magic/Ranged/Defence/Hitpoints, idealiter circa 85–90+ Ranged, 85–90+ Magic, 80+ Defence (richtwaarden, geen harde vereisten)."
+                  "text": "For route B, train to very comfortable stats, ideally about 85–90+ Ranged, 85–90+ Magic and 80+ Defence (guidelines, not hard requirements)."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Leer de regels: resource rooms, minibosses, demi-bosses, armour crafting, weapons, pots, food, prep-timer en de Hunllef-arena."
+                  "text": "Learn the rules: resource rooms, minibosses, demi-bosses, armour crafting, weapons, potions, food, the prep timer and the Hunllef arena."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Oefen op een andere niet-HCIM-account wanneer mogelijk. Dit maakt je HCIM eerste daadwerkelijke poging niet magisch risicoloos, maar voorkomt dat basisfouten je enige leven kosten."
+                  "text": "Practise on a non-HCIM account when possible; it does not make your first real attempt risk-free, but basic mistakes will not cost your only life."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Kijk specifiek naar tornado-movement, floor-patterns, prayer switching en weapon switching. Train de reflex dat je eerst dodge't en pas daarna DPS't."
+                  "text": "Focus on tornado movement, floor patterns, prayer switching and weapon switching, and train the reflex to dodge first and deal damage second."
                 }
               ]
             }
           ]
         },
         {
-          "title": "12B — HCIM-conservatieve prep",
+          "title": "12B — Conservative HCIM prep",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Ga op je HCIM niet voor speedruns. Kies een conservatieve prep met zo mogelijk tier 2 armour, een goede weapon-combinatie, voldoende food en potions."
+                  "text": "Do not speedrun on your HCIM: pick a conservative prep with tier 2 armour if possible, a good weapon combination and enough food and potions."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Tijdens de gatherfase: pak de vereiste resources in één route; als je prep door slechte room-layouts ontspoort, verlaat de dungeon in plaats van een zwakke attempt te forceren."
+                  "text": "Gather the required resources in one route, and leave the dungeon instead of forcing a weak attempt when bad room layouts ruin your prep."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "During Hunllef: kijk naar de boss, niet alleen naar je DPS-meter. Houd je HP boven een ruime persoonlijke veiligheidsmarge en mis nooit bewust prayer-switches om damage te pushen."
+                  "text": "During the Hunllef, watch the boss rather than your DPS, keep your HP above a wide personal safety margin and never skip a prayer switch for damage."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Oefen eerst normale Gauntlet indien je voor het risico kiest. Dit blijft een gevaarlijke death: minder moeilijke mechanics betekent niet veilig."
+                  "text": "Practise the normal Gauntlet first if you choose the risk; it is still a dangerous death even though the mechanics are easier."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Ga alleen naar Corrupted Gauntlet na lange, consistente ervaring met de mechanics en een goed aantoonbare prepstrategie."
+                  "text": "Only go to the Corrupted Gauntlet after long, consistent experience with the mechanics and a proven prep strategy."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Zet enhanced crystal weapon seed als hoofddrop en meerdere crystal armour seeds als secundaire drops op je lijst. Verwacht RNG; plan niet rond exact een dropaantal of gegarandeerde voltooiing."
+                  "text": "List the enhanced crystal weapon seed as the main drop and crystal armour seeds as secondary drops, and expect RNG instead of an exact drop count."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Craft Bow of Faerdhinen en de benodigde crystal armour pieces zodra je de seeds/shards en Crafting/Smithing-vereisten hebt."
+                  "text": "Craft the Bow of Faerdhinen and the crystal armour pieces you need once you have the seeds, shards and Crafting and Smithing levels."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Beheer crystal shards voor repair/charges/andere nuttige Prifddinas-systemen. Check voor corrupting van de bow de actuele materiaalkosten."
+                  "text": "Manage crystal shards for repairs, charges and other useful Prifddinas systems, and check the current material cost before you corrupt the bow."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Als je geen Bowfa krijgt en de risico's te hoog worden, stop. De juiste HCIM-strategie is soms zonder het item verder spelen."
+                  "text": "If you do not get a Bowfa and the risk gets too high, stop: sometimes the right HCIM strategy is to play on without the item."
                 }
               ]
             }
           ]
         },
         {
-          "title": "12C — route zonder Bowfa",
+          "title": "12C — Route without a Bowfa",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Gebruik rune crossbow, sunlight hunter's crossbow of Eclipse atlatl waar hun speciale sterktes passen, en verbeter eerst Ranged/Prayer."
+                  "text": "Use the rune crossbow, sunlight hunter's crossbow or Eclipse atlatl where their strengths fit, and improve Ranged and Prayer first."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Leer Chambers of Xeric: een HCIM-safe raid, met nuttige PvM-ervaring en potentieel sterke unique drops."
+                  "text": "Learn Chambers of Xeric: an HCIM-safe raid with useful PvM experience and potentially strong unique drops."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Investeer in safe training, Slayer, betere food en jewellery. Je kan later alsnog voor Bowfa kiezen wanneer je mechanics sterker zijn."
+                  "text": "Invest in safe training, Slayer, better food and jewellery; you can still choose the Bowfa later when your mechanics are stronger."
                 }
               ]
             }
@@ -1249,7 +1345,7 @@
       ]
     },
     {
-      "title": "13. Slayer 70→95 en de volledige combat-economie",
+      "title": "13. Slayer 70→95 and the full combat economy",
       "sections": [
         {
           "title": "Slayer ladder",
@@ -1257,124 +1353,124 @@
             {
               "content": [
                 {
-                  "text": "Train naar 65 Slayer met je Slayer helmet, protection-prayers en geschikte tasks. Bewaar de meeste herbs/valuable alchs."
+                  "text": "Train towards 65 Slayer with your Slayer helmet, protection prayers and suitable tasks, and keep most herbs and valuable alchs."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Vanaf 65–75: pak nuttige tasks voor cash, seeds en melee/ranged XP; bijvoorbeeld dust devils, aberrant spectres, gargoyles zodra ze in je pool voorkomen."
+                  "text": "From 65 to 75, take useful tasks for cash, seeds and melee or ranged XP, such as dust devils, aberrant spectres and gargoyles once they are in your pool."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Ontgrendel en gebruik Ancient Magicks voor burst/barrage waar het combatgebied en je supplykosten dat toelaten."
+                  "text": "Unlock and use Ancient Magicks for burst and barrage where the area and your supply costs allow it."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Check task weighting bij je Slayer master. Gebruik blocks voor slechte hoge-gewicht-taken en skips voor zeldzamere ongunstige opdrachten."
+                  "text": "Check the task weighting of your Slayer master: block bad high-weight tasks and skip rarer bad tasks."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Train naar 80 Slayer. Onderhoud birdhouses/herbs/kingdom: het is precies tijdens Slayer dat je bank langzaam raid-ready wordt."
+                  "text": "Train towards 80 Slayer and keep birdhouses, herbs and your kingdom running, because this is when your bank slowly becomes raid-ready."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Rond 85 Slayer farm je abyssal demons voor een abyssal whip. Houd een Strength-wapen apart: een whip traint normaal gesproken geen pure Strength."
+                  "text": "Around 85 Slayer, farm abyssal demons for an abyssal whip and keep a separate Strength weapon, because the whip does not train pure Strength."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Rond 87 Slayer farm je cave krakens voor een trident of the seas. Let op dat de relevante cave-/taskregels gelden."
+                  "text": "Around 87 Slayer, farm cave kraken for a trident of the seas and mind the cave and task rules."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Rond 91 Slayer kun je cerberus overwegen voor boots-upgrades. GEVAARLIJK: leer ghosts/prayer mechanics en reken op grote prayer-supplybehoefte."
+                  "text": "Around 91 Slayer you can consider Cerberus for boot upgrades; it is DANGEROUS, so learn the ghosts and prayer mechanics and expect high prayer supply use."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Rond 93 Slayer kun je smoke devils voor de occult necklace farmen; combineer met Magic-XP en een geschikte barrage-aanpak."
+                  "text": "Around 93 Slayer you can farm smoke devils for the occult necklace, combined with Magic XP from barraging."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Rond 95 Slayer krijg je toegang tot Alchemical Hydra bij de juiste Slayer-task. Dit is gevaarlijke bossing; streef naar uitstekende prayer-, poison- en movementcontrole."
+                  "text": "At 95 Slayer you get access to the Alchemical Hydra on task; it is dangerous bossing that needs excellent prayer, poison and movement control."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Bewaar supplies van elke task en gebruik ze doelgericht: Herblore, Prayer, Crafting, Construction, Fletching en coin reserve."
+                  "text": "Keep the supplies from every task and use them on purpose for Herblore, Prayer, Crafting, Construction, Fletching and a coin reserve."
                 }
               ]
             }
           ]
         },
         {
-          "title": "Slayer-specifieke HCIM-protocollen",
+          "title": "HCIM Slayer protocols",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Gebruik anti-poison/anti-venom waar vereist; plan een route naar veilige bank wanneer een monster uitzonderlijk lange poison/venom kan veroorzaken."
+                  "text": "Use antipoison or antivenom where needed and plan a route to a safe bank when a monster can cause long poison or venom."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Train melee tegen agressieve multi-combat monsters alleen met betrouwbaar prayer-/escapeplan."
+                  "text": "Only melee aggressive multi-combat monsters with a reliable prayer and escape plan."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Test superior Slayer monsters bij bekende nieuwe tasks eerst op je actuele gear; superior specials kunnen je safety-margin breken."
+                  "text": "Test superior Slayer monsters on known new tasks with your current gear first, because superior specials can break your safety margin."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Laat Wilderness Slayer buiten de main route. XP/points zijn nooit meer waard dan een onbedoelde PK-death als de rode status je doel is."
+                  "text": "Keep Wilderness Slayer out of the main route: no XP or points are worth an unplanned PK death."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Bij Slayer bosses op task: check eerst of de nieuwe boss vorm significant anders is dan het gewone monster."
+                  "text": "For Slayer bosses on task, check first whether the boss form is much harder than the normal monster."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Checkpoint: 85/87/93/95 Slayer-ladder afgestemd op de drops die jij wilt, in combinatie met betere Herblore en combat stats."
+                  "text": "Checkpoint: a Slayer ladder to 85, 87, 93 and 95 that matches the drops you want, together with better Herblore and combat stats."
                 }
               ]
             }
@@ -1383,120 +1479,120 @@
       ]
     },
     {
-      "title": "14. Quest cape route, 2026 quests en de zware questbosses",
+      "title": "14. Quest cape route, 2026 quests and the hard quest bosses",
       "sections": [
         {
-          "title": "De grote questlijnen",
+          "title": "The big quest lines",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Werk de desert questketen verder af tot Desert Treasure I voor Ancient Magicks; oefen iedere bossmechanic apart."
+                  "text": "Finish the desert quest line up to Desert Treasure I for Ancient Magicks and practise every boss mechanic separately."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Doe Lunar Diplomacy en Dream Mentor voor Lunar spells wanneer je de vereiste skills/combatlevels en veilige voorbereiding hebt."
+                  "text": "Do Lunar Diplomacy and Dream Mentor for the Lunar spells once you have the skills, combat level and safe preparation."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Werk aan A Kingdom Divided, zodat Kourend/Arceuus-content en later Yama beschikbaar komen. Niet elk contentunlock is een verzoek om de boss direct te farmen."
+                  "text": "Work on A Kingdom Divided so Kourend and Arceuus content and later Yama become available; an unlock is not a request to farm the boss straight away."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Voltooi de questlijn naar Dragon Slayer II. Train vóór Vorkath en Galvek liever 85+ Ranged/Magic en voldoende Defence dan op questminimum binnen te gaan."
+                  "text": "Finish the quest line to Dragon Slayer II, and train 85+ Ranged or Magic and enough Defence before Vorkath and Galvek instead of going in at quest minimums."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Tijdens DS2: leer Vorkath acid, fireball en special attacks buiten je hardcore first-try. Een fout bij een questboss is nog steeds een echte death, ook als je de boss later kunt herhalen."
+                  "text": "During Dragon Slayer II, learn Vorkath's acid, fireball and special attacks outside your Hardcore first try, because a quest boss death is still a real death."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Bereid de Galvek-fight met fases en special attacks gedetailleerd voor. Neem geschikte anti-dragon protection en een plan om te bewegen; vraag nooit extra DPS ten koste van een veilige positionering."
+                  "text": "Prepare the Galvek fight phase by phase with anti-dragon protection and a movement plan, and never trade safe positioning for extra DPS."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Voltooi Dragon Slayer II en ontgrendel Vorkath en andere belangrijke late-game content."
+                  "text": "Complete Dragon Slayer II to unlock Vorkath and other important late-game content."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Werk Secrets of the North af voor toegang tot Phantom Muspah. Als HCIM: zorg dat de Magic/Ranged switches comfortabel zijn vóór een eerste kill."
+                  "text": "Finish Secrets of the North for access to Phantom Muspah, with comfortable Magic and Ranged switches before your first kill."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Voltooi Desert Treasure II — The Fallen Empire pas met ervaren PvM-statistieken. Je gaat door gevechten en mechanics die op questniveau al de rode status kunnen kosten."
+                  "text": "Only do Desert Treasure II - The Fallen Empire with experienced PvM stats, because its quest fights can already cost your status."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Doe While Guthix Sleeps, een belangrijke endgame-unlock en vereiste voor The Fractured Archive-content. Check vóór instanced fights of teleporteren kan."
+                  "text": "Do While Guthix Sleeps, an important endgame unlock and the requirement for The Fractured Archive, and check whether you can teleport out of its instanced fights first."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Werk de Myreque-keten af via onder meer Sins of the Father. De boss kan hoge damage leveren; bereid movement en prayerwissels expliciet voor."
+                  "text": "Finish the Myreque line through Sins of the Father, whose boss can hit hard, so prepare movement and prayer switches explicitly."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Voltooi The Blood Moon Rises (uitgebracht 30 juni 2026) niet op minimumlevels alleen omdat checkpoints je items bewaren. De encounters blijven HCIM-gevaarlijk."
+                  "text": "Do not do The Blood Moon Rises (released 30 June 2026) at minimum levels just because checkpoints keep your items; the encounters stay dangerous for an HCIM."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Ga in de nieuwe Vampyrium-content alleen door met een volledige inventory supplies; controleer de laatste mechanische wijzigingen in de wiki."
+                  "text": "Only continue in Vampyrium with a full inventory of supplies and check the latest mechanic changes on the wiki."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Werk de overige questlijnen af met de Ironman Optimal Quest Guide, maar pas het tempo aan voor elke verplichte bossfight."
+                  "text": "Finish the other quest lines with the Ironman optimal quest guide, adjusting the pace for every required boss fight."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Check de actuele questlijst voor content ná 9 november 2026; deze guide is op de situatie van die datum gebaseerd."
+                  "text": "Check the current quest list for content released after 9 November 2026; this guide reflects that date."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Zet de Quest cape als mijlpaal. Gebruik hem voor mobiliteit, maar blijf letten op nieuw uitgegeven quests die de status beïnvloeden."
+                  "text": "Make the quest cape a milestone and use it for mobility, but keep an eye on newly released quests."
                 }
               ]
             }
@@ -1505,111 +1601,111 @@
       ]
     },
     {
-      "title": "15. Boss progression: welke encounters wanneer?",
+      "title": "15. Boss progression: which encounters when?",
       "sections": [
         {
-          "title": "15A — eerste PvM-upgrades",
+          "title": "15A — First PvM upgrades",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Barrows Brothers: leer de crypt-layout, prayer-gebruik, tunnelroute en de individuele brothers. GEVAARLIJK. Doe het voor runes en armour wanneer je Iban/trident en voldoende supplies hebt."
+                  "text": "Barrows Brothers: learn the crypt layout, prayers, tunnel route and each brother; it is DANGEROUS, so go for runes and armour once you have Iban's staff or a trident and enough supplies."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Dagannoth Rex: bereken de risico's bij het betreden van de lair; een veilige safespot ná binnenkomst maakt de weg ernaartoe niet risicoloos. Doel: berserker ring."
+                  "text": "Dagannoth Rex: a safe safespot after you arrive does not make the way into the lair risk-free; the goal is the berserker ring."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Scurrius: leer bossbewegingen en interrupts op een sterk voorbereide account. Doel: reflexen en eventueel eigen unieke combatbeloningen, niet een verplichte BiS-grind."
+                  "text": "Scurrius: learn the boss movement and interrupts on a well-prepared account; the goal is reflexes and its own rewards, not a required best-in-slot grind."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Moons of Peril: oefen blue, blood en eclipse special attacks eerst op een oefenaccount; gebruik beschikbare dungeon-supplies en een defensieve set. Doel: midgame sets."
+                  "text": "Moons of Peril: practise the Blue, Blood and Eclipse special attacks on a practice account first and use the dungeon supplies and a defensive set; the goal is the midgame sets."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Royal Titans: start conservatief met hogere HP/defence, correct gebed en een bossplan. Bepaal of de unieke drops voor jouw progress de veiligheidskosten waard zijn."
+                  "text": "Royal Titans: start conservatively with more HP and Defence, the right prayer and a boss plan, and decide whether the uniques are worth the risk."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Sarachnis / andere vroege bosses: optioneel voor mechanics, eggs en items; vermijd onnodige boss-KC wanneer de drops je account nauwelijks helpen."
+                  "text": "Sarachnis and other early bosses are optional for mechanics and items; avoid boss kill count that barely helps your account."
                 }
               ]
             }
           ]
         },
         {
-          "title": "15B — de eerste grote unieke drops",
+          "title": "15B — The first big unique drops",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Demonic gorillas: na de vereiste questketen farm je zenyte shards met goede gear-/prayerswitches. Let op de combinatie van attackstyles en gearinvloed."
+                  "text": "Demonic gorillas: after the quest line, farm zenyte shards with good gear and prayer switches and watch their attack-style changes."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Zulrah: GEVAARLIJK. Leer rotations, jad phases en venomcontrole. Voor de eerste pogingen neem je meer food/antivenom mee dan een ervaren speedrunner."
+                  "text": "Zulrah is DANGEROUS: learn the rotations, Jad phases and venom control, and bring more food and antivenom than an experienced speedrunner on your first tries."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Verzamel bij Zulrah alleen zolang het risico acceptabel is: magic fang, tanzanite fang, serpentine visage zijn sterk maar geen enkele drop is gegarandeerd."
+                  "text": "Only keep farming Zulrah while the risk is acceptable; the magic fang, tanzanite fang and serpentine visage are strong, but no drop is guaranteed."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Vorkath: na DS2 leer je acid-walk, fireball en undead spawn. Werk voor Ava's assembler richting de juiste Vorkath-drop en requirement."
+                  "text": "Vorkath: after Dragon Slayer II, learn the acid walk, fireball and zombified spawn, and work towards the Vorkath drop for Ava's assembler."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Phantom Muspah: gebruik goede Ranged/Magic switches, leer shieldphase en positionering. Doel: ancient icon, essence en andere nuttige drops."
+                  "text": "Phantom Muspah: use good Ranged and Magic switches and learn the shield phase and positioning for the ancient icon, ancient essence and other useful drops."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "The Whisperer / Leviathan / Duke Sucellus / Vardorvis: DT2-bosses zijn voor een HCIM gevaarlijke late-game projecten. Train elke encounter apart, ook als je de questvariant al verslagen hebt."
+                  "text": "The Whisperer, The Leviathan, Duke Sucellus and Vardorvis are dangerous late-game projects; train each encounter separately even if you beat the quest version."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Yama: duo-georiënteerde demonic boss met zware mechanics. Eerst zelfstandig ervaren PvM-skills en overleg met een betrouwbare partner; optioneel en hoog risico."
+                  "text": "Yama is a duo-oriented demonic boss with heavy mechanics, so build solid PvM skills and a reliable partner first; it is optional and high risk."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Doom of Mokhaiotl / andere nieuwere bosses: plan geen one-life eerste kill op basis van algemene combat rating; bestudeer de actuele encounter-specific death rules."
+                  "text": "Doom of Mokhaiotl and other newer bosses: never plan a one-life first kill on general combat stats, and study the encounter-specific death rules first."
                 }
               ]
             }
@@ -1621,103 +1717,103 @@
             {
               "content": [
                 {
-                  "text": "Ontgrendel God Wars Dungeon volledig en verzamel de vereiste god items om agressieve vijanden tijdens entry te neutraliseren."
+                  "text": "Unlock the God Wars Dungeon fully and collect the god items that keep aggressive followers off you on entry."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Maak een God Wars emergency preset: food, prayer potions, stamina/energy, teleport, antidotes waar nodig, een god-item per relevante faction en passende gear."
+                  "text": "Make a God Wars emergency preset with food, prayer potions, stamina, a teleport, antidotes where needed, one god item per relevant faction and fitting gear."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "K'ril Tsutsaroth is interessant voor Zamorakian spear/hasta. Bereid prayer exceptions en minion damage voor."
+                  "text": "K'ril Tsutsaroth is interesting for the Zamorakian spear and hasta; prepare for his prayer-piercing special and minion damage."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "General Graardor is interessant voor Bandos chestplate/tassets. Oefen de ranged-methoden of andere actuele veilige aanpak vóór je met je HCIM binnenstapt."
+                  "text": "General Graardor is interesting for the Bandos chestplate and tassets; practise a ranged or other current safe method before you enter on your HCIM."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Commander Zilyana kan sterke Ranged-/prayer-gear opleveren; houd stamina, ranged distance en minion damage onder controle."
+                  "text": "Commander Zilyana can give strong ranged and prayer gear; keep stamina, ranged distance and minion damage under control."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Kree'arra is vooral voor ranged gear; overheadprotection, choke points en ranged defence zijn belangrijk. Farm niet vroeg enkel omdat je GWD vrijgespeeld hebt."
+                  "text": "Kree'arra is mainly for ranged gear, where protection prayers, choke points and ranged defence matter, so do not farm him early just because you unlocked the dungeon."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Nex: pas op zeer late combat- en gearlevels, met teamkennis en plan voor minions/specials. Een verkeerde teamcall kan je HCIM kosten."
+                  "text": "Nex only at very high combat and gear levels, with team knowledge and a plan for minions and specials, because one wrong team call can cost your HCIM."
                 }
               ]
             }
           ]
         },
         {
-          "title": "15D — Varlamore en latere bossketens",
+          "title": "15D — Varlamore and later boss chains",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Fortis Colosseum: een gevaarlijke PvM-challenge; spaar jouw eerste poging tot je waves/mechanics afzonderlijk hebt geleerd en bewust voor dit risico kiest."
+                  "text": "Fortis Colosseum is a dangerous PvM challenge: save your first attempt until you have learned the waves and mechanics separately and choose this risk on purpose."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Perilous Moons-sets worden later overtroffen; als je ze al bezit, gebruik je ze zolang ze praktisch zijn zonder een onbeperkte boss-grind te forceren."
+                  "text": "Perilous Moons sets get outclassed later; use them while they are practical without forcing an endless boss grind."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "The Nightmare / Phosani's Nightmare: extreem veeleisend, statusgevaarlijk en meestal geen eerste endgame-target. Werk hier pas aan na brede PvM-ervaring."
+                  "text": "The Nightmare and Phosani's Nightmare are extremely demanding and dangerous for your status, so only work on them after broad PvM experience."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Corporeal Beast: vereiste specialistische gear en langdurige voorbereiding. Laat dit een endgame-speciaalproject zijn."
+                  "text": "The Corporeal Beast needs specialist gear and long preparation; keep it as a special endgame project."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Alchemical Hydra (95 Slayer, passende task) farm je voor Hydra's claw en supplies wanneer je attack cycle/poison mechanics beheer(s)t."
+                  "text": "Farm the Alchemical Hydra (95 Slayer, on task) for the hydra's claw and supplies once you control its attack cycle and poison mechanics."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Cerberus farm je voor crystals/boots-upgrades wanneer je ghostphase betrouwbaar kunt counteren."
+                  "text": "Farm Cerberus for the boot crystals once you can counter the ghost phase reliably."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Grotesque Guardians, Abyssal Sire, Thermonuclear Smoke Devil en andere Slayerbosses: optionele grinds met eigen risicoprofiel; ga niet uit van de basis-task-moeilijkheid."
+                  "text": "Grotesque Guardians, the Abyssal Sire, the Thermonuclear smoke devil and other Slayer bosses are optional grinds with their own risk; do not judge them by the normal task difficulty."
                 }
               ]
             }
@@ -1726,247 +1822,254 @@
       ]
     },
     {
-      "title": "16. Alle vier raids: originele HCIM-endgame-volgorde",
+      "title": "16. All four raids: HCIM endgame order",
       "sections": [
         {
-          "title": "16A — Chambers of Xeric (CoX): de eerste, veilige raid",
+          "title": "16A — Chambers of Xeric (CoX): the first, safe raid",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Ontgrendel Chambers of Xeric en zorg voor comfortabele gear voor melee, ranged en magic."
+                  "text": "Unlock Chambers of Xeric and get comfortable melee, ranged and magic gear."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Zoek een betrouwbaar team dat learner runs wil spelen; maak afspraken over room calls, prep en het verzamelen van supplies."
+                  "text": "Find a reliable team that wants to do learner runs and agree on room calls, prep and supply gathering."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Leer de basisrooms, scoutmechanics, roles en room puzzles. Oefen bewegen en bidden vóór maximale DPS."
+                  "text": "Learn the basic rooms, scouting, roles and room puzzles, and practise moving and praying before maximum DPS."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Leer Olm gefaseerd: positie, hand-/head-mechanics, portals, crystals, acid, burn en de omgang met teams."
+                  "text": "Learn the Great Olm phase by phase: positioning, hand and head mechanics, portals, crystals, acid, burn and team play."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Ga na enkele learner runs over naar consistente completions; loot is RNG en de veiligste leerroute is niet noodzakelijk de snelste punten/uur."
+                  "text": "Move from learner runs to consistent completions; loot is RNG and the safest learning route is not always the fastest points per hour."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Verzamel Dexterous prayer scroll voor Rigour en Arcane prayer scroll voor Augury wanneer die droppen; ontgrendel de vereiste Prayer-levels."
+                  "text": "Collect the Dexterous prayer scroll for Rigour and the Arcane prayer scroll for Augury when they drop, and train the Prayer levels for them."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Rigour is bijzonder sterk voor ranged PvM. Laat een lange zoektocht naar Twisted bow niet alle andere endgame-progress blokkeren."
+                  "text": "Rigour is especially strong for ranged PvM; do not let a long hunt for a Twisted bow block all other endgame progress."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Langetermijndoelen: Ancestral robes, Dragon claws, Twisted bow, Kodai insignia en andere CoX-rewards afhankelijk van je accountdoelen."
+                  "text": "Long-term goals are Ancestral robes, Dragon claws, the Twisted bow, the Kodai insignia and other CoX rewards, depending on your account goals."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Gebruik CoX ook voor veilig oefenen in tri-bridding, prayer switches en teamcommunicatie vóór risicovolle raids."
+                  "text": "Also use CoX to safely practise tri-bridding, prayer switches and team communication before the risky raids."
                 }
               ]
             }
           ]
         },
         {
-          "title": "16B — Tombs of Amascut (ToA): fang/shadow, maar gevaarlijke deaths",
+          "title": "16B — Tombs of Amascut (ToA): fang and shadow, but dangerous deaths",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Voltooi Beneath Cursed Sands om ToA binnen te mogen. Bereid de questboss voor alsof het een gewone gevaarlijke fight is."
+                  "text": "Complete Beneath Cursed Sands to unlock ToA and prepare for its quest boss like any dangerous fight."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Oefen ToA eerst op een niet-HCIM-account wanneer beschikbaar, of bestudeer de mechanics zo volledig mogelijk."
+                  "text": "Practise ToA on a non-HCIM account first when possible, or study the mechanics as completely as you can."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Leer elke path individueel: Kephri (scarabs/positionering), Zebak (waves/poison), Akkha (switches/paths), Ba-Ba (boulders/boulders timing)."
+                  "text": "Learn each path separately: Kephri (scarabs and positioning), Zebak (waves and poison), Akkha (switches and paths) and Ba-Ba (boulder timing)."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Leer Wardens P1–P4: obelisk management, tile movement, prayers, enrage en het vermijden van cumulatieve kleine hits."
+                  "text": "Learn the Wardens phases one to four: obelisk management, tile movement, prayers, enrage and avoiding many small hits."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Gebruik voor de eerste echte HCIM-raid de laagst haalbare invocations. Een raid level van 0 maakt de dood nog steeds onveilig, maar vermindert de mechanics- en statdruk."
+                  "text": "Use the lowest invocation you can for your first real HCIM raid; raid level 0 is still an unsafe death but lowers the mechanic and stat pressure."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Zet de inventory op veiligheid: food, Prayer/restore, stat boosts, appropriate switches, escape crystal waar relevant en haalbare room-exits."
+                  "text": "Build your inventory for safety: food, prayer and restores, stat boosts, the right switches, an escape crystal where useful and possible room exits."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Ga pas later richting raid level 150+ en expert. Voeg invocations één voor één toe nadat je ze consistent beheerst."
+                  "text": "Only move to raid level 150+ and Expert later, adding invocations one at a time once you handle them consistently."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Doelrewards: Osmumten's fang, Lightbearer, daarna Masori, Tumeken's shadow, Elidinis' ward en overige drops."
+                  "text": "Target rewards: Osmumten's fang, the lightbearer, then Masori, Tumeken's shadow, Elidinis' ward and other drops."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Na iedere death-near-miss: noteer de oorzaak. Zet je volgende poging stil tot je dat mechanische probleem betrouwbaar hebt opgelost."
+                  "text": "After every near-death, write down the cause and pause your next attempt until you have solved that mechanic reliably."
                 }
               ]
             }
           ]
         },
         {
-          "title": "16C — Theatre of Blood (ToB): de teamdiscipline-test",
+          "title": "16C — Theatre of Blood (ToB): the team discipline test",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Voltooi de toegangseisen en bereid volledige melee/ranged/magic gear, food en teamrol voor."
+                  "text": "Meet the entry requirements and prepare full melee, ranged and magic gear, food and a team role."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Leer alle fases vooraf op een niet-HCIM-account of via passende practice: Maiden, Bloat, Nylocas, Sotetseg, Xarpus, Verzik."
+                  "text": "Learn every room beforehand on a non-HCIM account or with suitable practice: Maiden, Bloat, Nylocas, Sotetseg, Xarpus and Verzik."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Spreek voor aanvang af wie de rolcalls doet en welk teamlid bij fouten niet agressief doorpusht. Vermijd onduidelijke P2/P3-Verzik-calls."
+                  "text": "Agree before you start who makes the role calls and which team member stops pushing after a mistake, and avoid unclear Verzik phase 2 and 3 calls."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Gebruik Escape crystal waar technisch mogelijk en correct ingesteld, maar verifieer de actuele uitzonderingen; een crystal compenseert geen fout in mechanics."
+                  "text": "Use an escape crystal where it is possible and set up correctly, but check the current exceptions, because it does not make up for a mechanics mistake."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Beheers de encounter consequent vóór je naar normale/expert-varianten gaat; ToB-completions zijn geen activiteit om in te improviseren."
+                  "text": "Master the encounter consistently before moving to normal or hard mode; ToB is not an activity to improvise in."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Doelrewards: Scythe of vitur, Ghrazi rapier, Sanguinesti staff, Justiciar armour en andere valuable drops."
+                  "text": "Target rewards: Scythe of vitur, Ghrazi rapier, Sanguinesti staff, Justiciar armour and other valuable drops."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Houd je red status belangrijker dan teamdruk. Verlaat de run vóór gevaarlijke fases als gear, connection of teamcommunicatie niet goed zit."
+                  "text": "Value your red status over team pressure and leave before a dangerous phase when your gear, connection or team communication is not right."
                 }
               ]
             }
           ]
         },
         {
-          "title": "16D — The Fractured Archive (raids 4, sinds 20 oktober 2026)",
+          "title": "16D — The Fractured Archive (raid 4, since 20 October 2026)",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Voltooi While Guthix Sleeps en de relevante toegangs-/miniqueststappen voor The Fractured Archive."
+                  "text": "Complete While Guthix Sleeps; the Fractured Archive miniquest starts when you first try to enter the lobby in the Chasm of Tears."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Verzamel een endgame-combatpreset; kijk vooral naar survival, Prayer, defensieve utility en de benodigde verschillende damage styles."
+                  "text": "Every death in the raid is dangerous and costs your Hardcore status."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Leer de encounters apart: de actuele bosspool bevat onder meer Archive Guardian, Bork, Ezekiel, Moia, Xarth, Dagon'Hai en Dreadnoth, met eindboss Ocellus."
+                  "text": "Build an endgame combat preset focused on survival, Prayer, defensive utility and the different damage styles the raid needs."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Verifieer bij de actuele raidversie de specifieke bossvolgorde-/keuzeregels en entry-eisen, want dit is nieuwe content die nog balansupdates krijgt."
+                  "text": "Learn the encounters separately: Archive Guardian, then Ezekiel or Bork and the Smorks, Moia or Dreadnoth the Jellied, The Dagon'hai or Xarth, and the final boss Ocellus."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Oefen teamcallouts op een ander account of in video-/simulatievorm voordat je de HCIM ooit aan een onvoorspelbare bossrush blootstelt."
+                  "text": "Check the current boss order rules and entry requirements, because this new content still gets balance updates."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Doelbeloningen: Ascension crossbows, Rondache, Zorya's tome, Horn of Bran (Zeal prayer), Obligator en de verschillende elemental spell upgrades."
+                  "text": "Practise team callouts on another account or with videos before you ever expose your HCIM to an unpredictable boss rush."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Zelfs met krachtige rewards is de juiste HCIM-route CoX leren → ToA/ToB-ervaring buiten HCIM → Archive pas op topniveau."
+                  "text": "Target rewards: Ascension crossbows, the Rondache, Zorya's tome, the Horn of Bran (Zeal prayer), the Obligator and the Archivist's folio."
+                }
+              ]
+            },
+            {
+              "content": [
+                {
+                  "text": "Even with strong rewards, the right HCIM route is CoX first, ToA and ToB experience outside your HCIM, and the Archive only at the very top."
                 }
               ]
             }
@@ -1975,116 +2078,116 @@
       ]
     },
     {
-      "title": "17. Inferno, Colosseum en Combat Achievements",
+      "title": "17. Inferno, Colosseum and Combat Achievements",
       "sections": [
         {
-          "title": "17A — Inferno (veilig voor normale HCIM)",
+          "title": "17A — Inferno (a safe death for an HCIM)",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Behaal eerst Fire cape en een sterke Ranged/Prayer-basis."
+                  "text": "Get your fire cape and a strong Ranged and Prayer base first."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Leer de waveplanning, safe tiles, nibblers, flicking en het afzonderen van monsters. Omdat Inferno HCIM-safe is, mag je hier rustig meerdere pogingen leren."
+                  "text": "Learn the wave plans, safe tiles, nibblers, flicking and splitting monsters; because the Inferno is HCIM-safe, you can learn it over several attempts."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Oefen triple Jads en TzKal-Zuk tot je de shield-/healer-/settimings kent."
+                  "text": "Practise the triple Jads and TzKal-Zuk until you know the shield, healer and set timings."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Ga voor je Infernal cape zodra je een consistente run hebt, ongeacht of je beschikte over absolute BiS-gear."
+                  "text": "Go for the Infernal cape as soon as you have a consistent run, whether or not you have best-in-slot gear."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Gebruik je Inferno-ervaring voor latere gevechten. Safe death in de Inferno zegt niets over de veiligheid van de Colosseum."
+                  "text": "Use your Inferno experience for later fights, but a safe death in the Inferno says nothing about the safety of the Colosseum."
                 }
               ]
             }
           ]
         },
         {
-          "title": "17B — Fortis Colosseum (onveilig)",
+          "title": "17B — Fortis Colosseum (unsafe)",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Zoek vooraf uit hoe de 12 waves, invocations/handicaps en Sol Heredit werken."
+                  "text": "Find out how the 12 waves, modifiers and Sol Heredit work beforehand."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Bereid een conservatieve eerste HCIM-run voor met zeer hoge combatstats en geschikte armour/weapons; de actuele strategiepagina beveelt stevige gear aan."
+                  "text": "Prepare a conservative first HCIM run with very high combat stats and suitable armour and weapons, as the current strategy pages recommend."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Realiseer je dat iedere echte dood in Fortis Colosseum HCIM-statusverlies betekent; niet op dezelfde manier als Inferno leren."
+                  "text": "Remember that every real death in the Fortis Colosseum costs your HCIM status, so you cannot learn it the way you learn the Inferno."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Claim Dizana's quiver pas als je de survivalstrategie betrouwbaar uitvoert. Het doel is niet een first-try brag maar een account die blijft bestaan."
+                  "text": "Only claim Dizana's quiver once you execute the survival strategy reliably; the goal is an account that survives, not a first-try brag."
                 }
               ]
             }
           ]
         },
         {
-          "title": "17C — Combat Achievements en diaries",
+          "title": "17C — Combat Achievements and diaries",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Doe de Combat Achievements die je toch haalt bij Slayer, Jad, CoX en andere bossen. Prioriteer de easy/medium tiers waar mogelijk zonder extra statusrisico."
+                  "text": "Do the Combat Achievements you get anyway during Slayer, Jad, CoX and other bosses, and prioritise the Easy and Medium tiers without extra status risk."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Kies boss-CAs met duidelijke mechanics en laag volume vóór zware speedrun-, no-prayer- of no-damage-taken."
+                  "text": "Pick boss tasks with clear mechanics and low volume before hard speedrun, no-prayer or no-damage tasks."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Werk Hard en Elite Achievement Diaries af voor teleports, utility en accountwaarde; raadpleeg de volledige requirementlijst vóór een riskante diary-actie."
+                  "text": "Finish the Hard and Elite Achievement Diaries for teleports, utility and account value, and check the full requirement list before any risky diary task."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Werk richting de Elite Combat Achievements als je account sterk genoeg is. Master/Grandmaster horen bij de laatste prestigegrinds, niet bij vroege accountontwikkeling."
+                  "text": "Work towards the Elite Combat Achievements when your account is strong enough; Master and Grandmaster are late prestige grinds."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Zet het voltooiingspercentage/actuele reward tiers van de Combat Achievements periodiek op je accounttracker."
+                  "text": "Update your Combat Achievement completion and current reward tier in your account tracker from time to time."
                 }
               ]
             }
@@ -2093,64 +2196,64 @@
       ]
     },
     {
-      "title": "18. Totale skillprogressie: van 70's naar 99 en max cape",
+      "title": "18. Total skill progression: from 70s to 99 and the max cape",
       "sections": [
         {
-          "title": "Overzicht en voorbereiding",
+          "title": "Overview and preparation",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Plan eerst 77 Herblore en de benodigde skill-requirements voor brews/stamina/andere potions; daarna richting 90+ voor duurzamere endgame-supplies."
+                  "text": "Plan 77 Herblore and the skill requirements for brews, staminas and other potions first, then work towards 90+ for sustainable endgame supplies."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Breng Crafting hoog genoeg voor je gewenste zenyte-/onyx-jewelry. Bewaar gems en glassmaterials structureel."
+                  "text": "Get Crafting high enough for the zenyte and onyx jewellery you want, and keep gems and glass materials stocked."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Upgrade je POH: herstel-/Prayer-faciliteiten, teleports, storage en een efficiënte herstartlocatie na boss trips."
+                  "text": "Upgrade your POH with restore and prayer facilities, teleports, storage and an efficient restart point after boss trips."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Upgrade Farming richting 85+ voor contracts en steeds sterkere seed-/herbruns."
+                  "text": "Push Farming towards 85+ for contracts and ever stronger seed and herb runs."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Werk Mining/Smithing/Construction parallel af door materialen uit Kingdom, Slayer, bosses en Sailing slim te gebruiken."
+                  "text": "Train Mining, Smithing and Construction in parallel with materials from your kingdom, Slayer, bosses and Sailing."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Zet per skill 99 als zichtbaar langetermijndoel en houd het aantal resterende XP per skill bij."
+                  "text": "Set 99 as a visible long-term goal for every skill and track the XP left per skill."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Maak je Max cape pas als alle op die datum vereiste skills 99 zijn, inclusief Sailing."
+                  "text": "Only make the max cape once every currently required skill is 99, including Sailing."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Na maxing: collection log, pets, Combat Achievements, boss killcounts, clue tiers en gear-perfectie blijven over."
+                  "text": "After maxing, the collection log, pets, Combat Achievements, boss kill counts, clue tiers and gear perfection remain."
                 }
               ]
             }
@@ -2159,234 +2262,64 @@
       ]
     },
     {
-      "title": "19. Bank-per-bank: concrete starterroute voor je eerste sessies",
+      "title": "23. Active \"first 100 hours\" planning (no artificial XP rush)",
       "sections": [
         {
-          "title": "Sessie 1 — Lumbridge Bank A → Draynor Bank B",
+          "title": "The checklist to run through before every session",
           "steps": [
             {
               "content": [
                 {
-                  "text": "In Lumbridge: rond Cook's Assistant af; start The Restless Ghost en Rune Mysteries; verzamel de makkelijkste X Marks the Spot-stappen."
+                  "text": "Are your birdhouses ready for a new run?"
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Ga richting swamp/Father Urhney, haal ghostspeak amulet en reis door naar Wizards' Tower. Pak daar Rune Mysteries-progress en eventueel relevante spawns."
+                  "text": "Are your herb patches and trees ready?"
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Loop via Draynor naar de bank. Deponeer alles wat niet voor de volgende ronde nodig is. Reserveer minimaal 5 inventory-slots voor questloot."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Sessie 2 — Draynor Bank B → Varrock Bank C",
-          "steps": [
-            {
-              "content": [
-                {
-                  "text": "Voltooi Rune Mysteries via Aubury/Sedridor; koop runes terwijl je bij de winkel bent."
+                  "text": "Can you finish or start a Farming Guild contract?"
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Pak een Varrock-circuit: museum/quest NPC's, noodzakelijke winkels, Daddy's Home, minigame-toegang en vroege Varrock Easy Diary-stappen."
+                  "text": "Are your kingdom budget and approval still fine?"
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Check cash: heb je genoeg voor enkele tientallen teleports, vroege runes en spaarbuffer? Zo niet, gebruik een veilige inkomstenmethode voordat je lange reizen plant."
+                  "text": "Which two quest steps can you combine in the same area?"
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Bank in Varrock, sorteer questitems, zet 'Runes', 'Tools' en 'Quests' apart. Bespaar later honderden zoekmomenten."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Sessie 3 — Varrock Bank C → Falador Bank D",
-          "steps": [
-            {
-              "content": [
-                {
-                  "text": "Haal Taverley/Druidic Ritual af op een veilige ronde. Zorg dat Herblore vrijgespeeld wordt vóór je de vrij inzetbare lampen inwisselt."
+                  "text": "Which next gear unlock actually opens a new PvM goal?"
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Werk aan Knight's Sword. Bij blurite: lok agressieve vijanden eerst uit de mijnroute/safespot; mine pas als je niet constant schade krijgt."
+                  "text": "Is the boss or quest you are about to do a safe or unsafe death for a normal HCIM?"
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Rond Falador-quests en easy diary-taken af die op je route passen. Begin niet aan een boss met lage HP omdat je nog 'maar één queststep' moet doen."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Bank in Falador; controleer of je pickaxe, rope, 10+ food en escape-optie hebt voor de volgende grote quest."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Sessie 4 — Falador Bank D → Waterfall/Gnomes → Ardougne Bank E",
-          "steps": [
-            {
-              "content": [
-                {
-                  "text": "Start/voltooi Waterfall Quest met exact de noodzakelijke questitems; neem tijd om de gevaarlijke aggro-zones te kennen."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Pak Fight Arena alleen via de veilige safespot/flinchroute; maak hier geen 'ik probeer even' melee-fight van."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Pak Tree Gnome Village en registreer de unlock van Spirit Trees. Laat de finale boss pas toe wanneer je de safe positioning beheerst."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Ga naar Ardougne Bank E. Vul food aan en zet een eerste set teleport-/herb-/questtabs vast."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Sessie 5 — Ardougne Bank E → cloak/quests → Kandarin Bank F",
-          "steps": [
-            {
-              "content": [
-                {
-                  "text": "Doe Ardougne easy diary-taken in één ronde en claim Ardougne cloak 1."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Rond Plague City en de volgende Biohazard-voorbereiding af. Als de quest je naar een nieuwe regio stuurt, check daar alvast andere makkelijke queststappen."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Ga naar Catherby/Seers voor de agility-route en gewenste farming patches. Sla de patchlocaties op in je farmrun-volgorde."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Bank in Kandarin, bouw de farming tool kit en maak een eerste herb run wanneer je genoeg seeds hebt."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Sessie 6 — Kandarin Bank F → Morytania / Fairy rings Bank G",
-          "steps": [
-            {
-              "content": [
-                {
-                  "text": "Rond Priest in Peril af, registreer Morytania en sla de bruikbare bank/transportverbindingen op."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Voltooi Lost City met een safespotstrategie; bouw meteen je dramen staff en reserveer materiaal voor een tweede."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Doe Fairytale I en start Fairytale II tot fairy rings unlocked zijn. Vanaf nu verandert je vaste reisroute radicaal."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Bank na het ring-unlock en sorteer je nieuwe items. Plaats dramen staff en Ardy cloak op vaste bankposities."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Sessie 7 — Fossil Island Bank H → routine-activering",
-          "steps": [
-            {
-              "content": [
-                {
-                  "text": "Rond Museum/Dig Site en Bone Voyage af; plan je eerste birdhouses met vooraf verzamelde logs en seeds."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Doe je eerste vier birdhouses, pak alle nests/seeds op en zet de volgende run klaar vóór je het eiland verlaat."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Doe een herb run en zet daarna quests weer aan. Gebruik de loop quest → bank → birdhouse/herb → quest."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Leg de benodigde materials voor 43 Prayer apart; verwerk ze via je gekozen niet-Wilderness route."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Checkpoint: als je deze eerste zeven bankrondes kunt herhalen zonder inventarisch chaos, ben je klaar voor de lange account-route uit hoofdstukken 4–18."
+                  "text": "Do you have two escape or bank routes, enough food, the right prayers and a stable connection?"
                 }
               ]
             }
@@ -2395,144 +2328,78 @@
       ]
     },
     {
-      "title": "23. Actieve 'eerste 100 speeluren'-planning (zonder kunstmatige XP-rush)",
+      "title": "24. Checkpoints to tick off in your tracker",
       "sections": [
         {
-          "title": "De checklist die je vóór elke sessie even afloopt",
+          "title": "Overview and preparation",
           "steps": [
             {
               "content": [
                 {
-                  "text": "Zijn je birdhouses klaar voor een nieuwe run?"
+                  "text": "Checkpoint A — Survival: 43 Prayer, Ardougne cloak 1, fairy rings, Fossil Island, food and escape routes."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Zijn je herb patches/trees klaar?"
+                  "text": "Checkpoint B — Basic ironman: farming, birdhouses and kingdom running, 60+ Agility, 55+ Magic and Slayer prepared."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Kun je een Farming Guild contract voltooien of starten?"
+                  "text": "Checkpoint C — Core melee: dragon scimitar, defender, fighter torso, helm of neitiznot, Barrows gloves and 70 Prayer with Piety."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Is het Kingdom-budget en approval nog in orde?"
+                  "text": "Checkpoint D — Song of the Elves: eight 70s, the full elf quest line and Prifddinas."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Welke twee queststeps kun je in dezelfde regio combineren?"
+                  "text": "Checkpoint E — Midgame: 80+ combat stats, Magic and Ranged sets, a safe fire cape and the Slayer 85/87 route."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Wat is de volgende gear-unlock die daadwerkelijk een nieuw PvM-doel mogelijk maakt?"
+                  "text": "Checkpoint F — Gear ladder: whip or trident, the right jewellery, and a crystal or Bowfa setup or a full alternative."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Is de boss of quest die je straks gaat doen veilig/onveilig voor een *gewone* HCIM?"
+                  "text": "Checkpoint G — PvM: reliable CoX, high combat stats and preparation for the riskier raids."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Heb je twee escape-/bankroutes, voldoende food, juiste prayers en geen networkinstabiliteit?"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "24. Checkpoints om in je tracker af te vinken",
-      "sections": [
-        {
-          "title": "Overzicht en voorbereiding",
-          "steps": [
-            {
-              "content": [
-                {
-                  "text": "Checkpoint A — Survival: 43 Prayer, Ardy cloak 1, fairy rings, Fossil Island, food, escape routing."
+                  "text": "Checkpoint H — Raid endgame: ToA, ToB and The Fractured Archive only when you accept the risk on purpose; uniques are RNG."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Checkpoint B — Basic ironman: Farming/birdhouses/kingdom actief, Agility 60+, 55+ Magic, voorbereid Slayer."
+                  "text": "Checkpoint I — Prestige: Infernal cape, Dizana's quiver, Combat Achievements, elite diaries and top bosses."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Checkpoint C — Core melee: Dragon scimitar, defender, torso, Neitiznot, Barrows gloves, 70 Prayer/Piety."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Checkpoint D — SotE: Eight 70 skills + volledige elf-keten + Prifddinas."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Checkpoint E — Midgame: 80+ combattraining, Magic/Ranged sets, safe Fire cape, Slayer 85/87 route."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Checkpoint F — Gear ladder: Whip/trident, relevante jewellery, eventueel crystal/Bowfa of volwaardig alternatief."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Checkpoint G — PvM: betrouwbare CoX, hoge combatstats en voorbereid op riskantere raids."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Checkpoint H — Raid endgame: ToA/ToB/Archive alleen wanneer je risico bewust accepteert; uniques op RNG-basis."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Checkpoint I — Prestige: Infernal cape, Colosseum-quiver, Combat Achievements, elites, topbosses."
-                }
-              ]
-            },
-            {
-              "content": [
-                {
-                  "text": "Checkpoint J — Max: alle huidige skills 99, inclusief Sailing, gear/speciaaldoelen en je HCIM-status nog intact."
+                  "text": "Checkpoint J — Max: every current skill at 99 including Sailing, your gear and special goals, and your HCIM status still intact."
                 }
               ]
             }

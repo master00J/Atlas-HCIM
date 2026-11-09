@@ -33,6 +33,12 @@
       "goal": "Questvereisten & vroege skillprogressie"
     },
     {
+      "id": "sailing-a",
+      "chapterPrefix": "Episode 3",
+      "sectionPrefix": "Sailing",
+      "goal": "Sailing 1 → 30 (optioneel blok A)"
+    },
+    {
       "id": "sote-requirements",
       "chapterPrefix": "Episode 3",
       "goal": "Song of the Elves: vereisten voorbereiden"
@@ -66,6 +72,12 @@
       "id": "bank177",
       "chapterPrefix": "Episode 9",
       "goal": "Midgame PvM-unlocks voorbereiden"
+    },
+    {
+      "id": "sailing-c",
+      "chapterPrefix": "Episode 10",
+      "sectionPrefix": "Sailing",
+      "goal": "Sailing 52 → 62 en Fallen From Grace"
     },
     {
       "id": "inferno-prep",
@@ -157,11 +169,6 @@
       "id": "maxing",
       "chapterPrefix": "18.",
       "goal": "Skills richting 99 en Max cape"
-    },
-    {
-      "id": "starter-routes",
-      "chapterPrefix": "19.",
-      "goal": "Eerste bankroutes afronden"
     },
     {
       "id": "first-100",

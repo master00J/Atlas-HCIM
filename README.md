@@ -39,13 +39,39 @@ Bijvoorbeeld:
 
 Het is een **automatisch doel op basis van voortgang in de guide**; het bevestigt niet of een quest daadwerkelijk is voltooid. Voor een tijdelijk eigen doel kun je op `/control` de handmatige override instellen; leegmaken activeert automatisch opnieuw.
 
+## In-game route 2026 (Engels, voor Guide Overlay)
+
+`guide/HCIM_ATLAS_VOLLEDIGE_ROUTE.json` is de gedetailleerde B0aty HCIM Guide V3-route, bijgewerkt met alle wijzigingen tot 9 november 2026, en volledig in het Engels. Guide Overlay leest Engelse stappen: "Talk to Captain Harlan" geeft een NPC-highlight, "start/complete Cook's Assistant" en "Train to 45 Sailing" vinken zichzelf af, en cijfers zoals `(1)` markeren de juiste chatoptie. Daarom zijn ook de Nederlandse routeadviezen en de endgame-hoofdstukken vertaald.
+
+Belangrijkste wijzigingen tegenover B0aty:
+
+- **Starting Out**: Mudfoot's Big Adventure (Captain Harlan) vervangt de combat tutors; Cook's Assistant en het praatgedeelte van The Ides of Milk gebeuren meteen. Count Check zonder chatcijfers (dialoog herschreven).
+- **Bank 9**: Pandemonium (Sailing). **Bank 28**: The Writing's on the Wall vóór de fruit stalls, die nu tot 31.512 Thieving XP gaan. **Bank 29**: Twilight's Promise (uit Episode 6). **Bank 60B**: Tower of Life (uit Bank 155). **Bank 53**: Mining tot 97.833 XP.
+- XP-lampen van Quest Month (Shield of Arrav, Ernest, Black Knights' Fortress, Demon Slayer bij Aris, Romeo & Juliet, The Ides of Milk).
+- Sailing-blokken: **Sailing A** na Bank 75 (optioneel, 1 → 30), **Sailing B** in Episode 6 (Troubled Tortugans, The Red Reef), **Sailing C** vóór Bank 193 (Fallen From Grace, golem crafting); Mortimer bij Bank 203.
+- Endgame in het Engels, met E15 voor de 2026-content. Het oude hoofdstuk 19 (samenvatting van de eerste sessies) is weggelaten omdat het de gedetailleerde route herhaalde.
+
+Opnieuw genereren na een aanpassing:
+
+```bash
+python guide-tools/route_2026.py   # base + wijzigingen -> guide/OSRS_HCIM_GuideOverlay_*_2026.json
+python guide-tools/build_atlas.py  # -> guide/HCIM_ATLAS_*.json, pins en auditrapporten
+```
+
+- `guide/source/B0aty_HCIM_Guide_V3_base.json`: Episodes 1–12 zoals ze uit B0aty's wikiroute in Atlas kwamen.
+- `guide-tools/route_2026.py`: elke wijziging, verankerd op de exacte B0aty-tekst; een gewijzigde base faalt luid in plaats van stil op de verkeerde plaats te patchen.
+- `guide/source/endgame_2026_en.md`: de endgame-hoofdstukken (`##` hoofdstuk, `###` sectie, `-` stap).
+- CI-job `guide-overlay-parser` importeert de route met de echte Guide Overlay-parsers (vaste commit) en faalt als een nieuwe stap geen quest-/skillvoorwaarde of NPC-doel oplevert. Het rapport per stap staat als artifact bij de run.
+
+Let op: Guide Overlay bewaart voortgang per stap-tekst en sectie. Gewijzigde of verschoven stappen tellen als nieuw, dus begin met deze versie als nieuwe guide.
+
 ## Repo-structuur
 
 - `bridge/`: Node.js HTTP/SSE-server, alleen bereikbaar via `127.0.0.1`.
 - `assets/`: geanimeerd-ready overlay met live tekst, voortgangsbalken, PNG-frames en dashboard.
 - `runelite-patch/`: Java-exporter + patch/installatiescripts voor Guide Overlay.
-- `guide/`: complete guide en waypoint-import; fase-doelregels.
-- `guide-tools/`: audit, bronbestanden en tests van de route.
+- `guide/`: complete guide en waypoint-import; fase-doelregels; `guide/source/` met de B0aty-base en de Engelse endgame-bron.
+- `guide-tools/`: routebouw (`route_2026.py`, `build_atlas.py`), audit, tests en de Guide Overlay-parsertest (`overlay-harness/`).
 - `docs/earlier-guides/`: originele uitgebreide HTML/MD/PDF-uitgaven.
 - `tests/`: offline Node-tests en Java-teststubs.
 

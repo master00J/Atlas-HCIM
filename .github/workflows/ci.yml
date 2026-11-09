@@ -20,3 +20,39 @@ jobs:
         with:
           python-version: '3.12'
       - run: python guide-tools/test_atlas.py
+      - run: python guide-tools/route_2026.py && git diff --exit-code -- guide/OSRS_HCIM_GuideOverlay_VOLLEDIGE_ROUTE_2026.json guide/OSRS_HCIM_GuideOverlay_ENDGAME_2026.json
+      - run: python guide-tools/build_atlas.py > /dev/null && git diff --exit-code -- guide/HCIM_ATLAS_VOLLEDIGE_ROUTE.json guide/HCIM_ATLAS_ENDGAME.json guide/HCIM_ATLAS_PINNEN_VOLLEDIGE_ROUTE.json guide/HCIM_ATLAS_PINNEN_ENDGAME.json
+  guide-overlay-parser:
+    # Imports the route with the real Guide Overlay parsers (pinned commit) and
+    # fails when a new step's wording would not drive a quest/skill condition or
+    # an NPC target in game. The full per-step report is uploaded as an artifact.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: RunelitePlugin/guide-overlay
+          ref: 1e7b4f4503d99bc440b6fa29707b0523aad3aab1
+          path: guide-overlay
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '11'
+      - run: cp guide-tools/overlay-harness/AtlasGuideReportTest.java guide-overlay/src/test/java/com/hcimguide/
+      - name: Parse the route with Guide Overlay
+        working-directory: guide-overlay
+        env:
+          ATLAS_GUIDE: ${{ github.workspace }}/guide/HCIM_ATLAS_VOLLEDIGE_ROUTE.json
+          ATLAS_BASE: ${{ github.workspace }}/guide/source/B0aty_HCIM_Guide_V3_base.json
+          ATLAS_REPORT: ${{ github.workspace }}/atlas-report
+        run: |
+          chmod +x gradlew
+          ./gradlew test --no-daemon --tests com.hcimguide.AtlasGuideReportTest
+      - name: Show report summary
+        if: always()
+        run: sed '/^## New steps/q' atlas-report/report.md
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: guide-overlay-parse-report
+          path: atlas-report/

@@ -1,0 +1,416 @@
+# HCIM Atlas Endgame 2026
+
+<!--
+Source for guide/OSRS_HCIM_GuideOverlay_ENDGAME_2026.json (built by guide-tools/route_2026.py).
+Format: "## " = chapter, "### " = section, "- " = one Guide Overlay step.
+Keep every step to one sentence where possible: Guide Overlay splits sentences into separate steps.
+English translation (November 2026) of the Dutch Atlas endgame chapters, plus E15 with the 2026 content.
+-->
+
+## Endgame — preparation per expedition
+
+### E01 — After Bank 211: account check and supply loop
+- Write down which quests and diary unlocks you have actually completed; do not rely only on the order of the guide.
+- Sort your bank into preset tabs: quests, ranged, melee, magic, Herblore, supplies and bossing.
+- Put a permanent emergency teleport in every gear preset and check that it works in the next encounter.
+- Fill your rune pouch with the spells you actually need.
+- Check your herb patches, compost stock, seed vault and birdhouses.
+- Collect or cook 200+ reliable PvM food as a working buffer (a buffer goal, not a requirement).
+- Note your stock of prayer potions, restores, super attacks and strengths, and stamina or energy potions.
+- Decide for every next boss which drops you need, with an alternative if the drop takes too long.
+- Set up visible low-HP, prayer and disconnect warnings in RuneLite.
+- Write down your own stop condition for every unsafe encounter before you start.
+
+### E02 — Defensive basics and Combat Achievements
+- Check 43 Prayer and your main protection prayers; aim for Piety for melee when the requirements are within reach.
+- Finish Barrows gloves, your Ava's device unlock and the dragon defender if you are still missing them.
+- Do Barbarian Assault if you want the fighter torso; practise the roles in the safe minigame.
+- Finish Dragon Slayer II, The Fremennik Exiles, Sins of the Father and other open gear quests, with boss-specific preparation.
+- Plan the Easy and Medium Combat Achievements and check beforehand whether each activity is a safe or unsafe death.
+- Make a checklist of missing Hard diary unlocks and transport methods.
+- Pick two practice bosses without surprise multi-hits or mechanics and learn their attack cycle properly.
+- Do several full practice runs on a normal account or a safe activity before any new dangerous boss.
+- Only move on to the next phase once your prayer switches and escape routine are reliable.
+
+### E03 — Zulrah: controlled supply and unique farm
+- Check the current Zulrah venom strategy and bring a matching cure or alternative approach.
+- Check that you have a ring of suffering with recoil; otherwise pick a comparable recoil plan.
+- Make a gear preset for the exact phase rotation you choose.
+- Make sure you have enough teleports to Zulrah and back to a bank.
+- Test the full rotation on a non-HCIM account before you start on your Hardcore.
+- Start with one kill per trip instead of maximising kills per hour.
+- Set a minimum HP before you enter that is above the highest possible combined damage.
+- Leave the trip immediately when you lose control of venom, prayer, food or the rotation.
+- Treat the uniques as optional progress and move to another upgrade if RNG holds you back.
+
+### E04 — Slayer 85–95: systematic upgrades
+- Set up your Slayer helmet, bonecrusher and ash sanctifier where useful, and your default prayer or safespot preset.
+- Make the whip upgrade around 85 Slayer if it is available to you.
+- Plan the trident upgrade around the required Slayer level and stock runes or charges.
+- Save cannonballs or burst and barrage runes for the tasks where they really save time.
+- Collect zenyte shards at demonic gorillas once you are prepared for their prayer switches.
+- Never take a Wilderness task unless you explicitly choose to risk your status.
+- Build your block and skip list from the points you actually have and your own preference.
+- Process herb and seed drops before the next long Slayer session.
+- Work towards the 93 and 95 Slayer unlocks while leaving room for gear and quest detours.
+
+### E05 — God Wars Dungeon: preparation trips
+- Check the boss-specific entry requirements and the god items you need for faction protection.
+- Bring stamina, protection against the relevant effects and a clear exit.
+- Practise the route to the boss room on an account where a death is not final.
+- Make a separate ranged, melee or magic preset per boss instead of one inventory for everything.
+- Check your kill count, ecumenical keys and route requirements for the boss you chose.
+- Practise the rhythm between boss and minions with one safe test kill.
+- Stop when your damage pattern or run energy is different from your practised route.
+- Only farm for concrete upgrades such as armour or a specific weapon, and reassess after every session.
+
+### E06 — Bowfa crossroads: Gauntlet or an alternative
+- Check Song of the Elves and the real requirements for the route you choose.
+- Decide beforehand whether you really need an enhanced crystal weapon seed for your next content.
+- Practise full Corrupted Gauntlet runs on a non-HCIM account until both prep and boss are consistent.
+- Decide before every run which prep quality you accept as a minimum.
+- Do not enter the boss room when time, food or armour is below your minimum.
+- Practise the last-phase tornado movement and the prayer and audio cues in particular.
+- Consider a ranged alternative on purpose if keeping your HCIM status is your top priority.
+- Work out your total crystal shard needs before you start new grinds.
+- Adjust your route after new gear drops; not every end boss needs a Bowfa.
+
+### E07 — Chambers of Xeric: the first raid
+- Decide your goal: prayer scrolls, gear or practice for the later raids.
+- Bring suitable melee, ranged and magic switches for the raid.
+- Practise scouting or learn the fixed raid layout you want to run.
+- Learn the Olm roles at a calm pace; a low first point score is fine.
+- Do your first runs with experienced players who communicate clearly.
+- Note which attack cues you regularly miss and practise them on purpose in the next runs.
+- Farm until you have the prayer scrolls you want, or move on when another unlock helps you more.
+- After every new prayer unlock, check whether your DPS, defence style or gear priorities change.
+
+### E08 — Tombs of Amascut: fang and shadow route
+- Check Beneath Cursed Sands and your access to the raid.
+- Make an exact loadout per room plus food, restores and special attacks.
+- Learn Akkha, Kephri, Ba-Ba and Zebak one by one on another account.
+- Learn the Wardens completely, including the different phases and the enrage.
+- Pick a low raid level you can repeat reliably and do not scale up after one successful run.
+- Resist adding invocations for small reward gains.
+- Have an exit plan for connection problems or running low on supplies.
+- Repeat runs until you get the fang or the uniques you want; there is no guaranteed drop timing.
+- Recalculate your next boss route with your new weapon afterwards.
+
+### E09 — Theatre of Blood: fixed team training
+- Find a reliable team that agrees on roles and calls beforehand.
+- Practise Verzik and the other rooms on a normal account until no mechanic is new to you.
+- Learn the safe room order, positions and calls per encounter.
+- Agree who takes which role or aggro and what happens after a disconnect.
+- Make a supply budget per room and do not burn all restores in the first half.
+- Do a full group dry run before your Hardcore joins.
+- Stop after a failed practice run or trip to analyse the mistakes instead of trying again straight away.
+- Treat the avernic defender, Sanguinesti staff, Ghrazi rapier and Scythe of vitur as goals, not guaranteed drops.
+
+### E10 — Inferno and Fortis Colosseum
+- Make sure you understand the current HCIM death rules of the specific activity.
+- Learn ranged and magic prayer flicking in the Fight Caves and harder PvM content.
+- Check your gear and supplies for dozens of waves, not only the final boss.
+- Practise difficult safespots and line-of-sight patterns beforehand.
+- Inferno: build a repeatable route to Zuk with safe corner and shield movement.
+- Colosseum: choose waves and modifiers on purpose and practise on a non-HCIM account.
+- Skip a dangerous run when you have no experience with that encounter.
+- Treat the Infernal cape and Dizana's quiver as optional achievements, separate from your maxing route.
+
+### E11 — Desert Treasure II and other late bosses
+- Check the quest requirements and your effective combat stats.
+- Pick one boss and study its full move set, including unexpected specials.
+- Write down the exact safe tiles if you follow a guide with position advice.
+- Build a gear preset and bank trip for that one boss.
+- Do a test run on a normal account and test the teleport and log-out restrictions.
+- Farm in short sessions with clear stop conditions.
+- Add the uniques you get to your gear ladder without counting on fast RNG.
+- Adjust your PvM route as soon as you get a new weapon or armour set.
+
+### E12 — Yama, Doom of Mokhaiotl and other newer PvM
+- Check the latest mechanics and changes, because these encounters are relatively new.
+- Decide on a solo, duo or group approach and what that does to the risk.
+- Practise every relevant attack on a non-HCIM account.
+- Write down which supply or damage checks are required.
+- Go for one controlled kill or a safe claim the first time, not a kill count rush.
+- Stop at any mechanic that behaves differently from your practice.
+- Only then decide whether a specific drop is worth it for your account.
+
+### E13 — The Fractured Archive: the fourth raid (2026)
+- Complete While Guthix Sleeps and check every other current entry requirement; the raid is in the Chasm of Tears.
+- Every death in The Fractured Archive is a dangerous death that costs your Hardcore status.
+- A run has five of its eight bosses: Archive Guardian first, then Ezekiel or Bork and the Smorks, Moia or Dreadnoth the Jellied, The Dagon'hai or Xarth, and Ocellus last.
+- Bosses scale to the party size with a minimum of two players, so solo runs are tuned like a duo.
+- Build a team on a normal account that knows every boss and the final fight.
+- Train each boss separately until you recognise its routes and overlapping damage patterns.
+- Agree on team roles, item swaps, recovery, communication and what to do after a disconnect.
+- Budget supplies for the whole run, not for one room.
+- Drop this raid from your active route if keeping your status is your highest priority.
+- Only chase the uniques (Horn of Bran for Zeal, Zorya's tome, Rondache, Ascension crossbows, Obligator) when they clearly improve your next goals.
+
+### E14 — Elite diaries, Sailing and the max cape
+- Make a checklist of every missing elite diary skill and quest requirement.
+- Pick one active skill for XP and one passive skill for dailies and runs every week.
+- Keep Herblore moving with herb runs, contracts and useful drops.
+- Keep Farming moving with tree, fruit tree and herb contract rotations.
+- Use birdhouses and other Hunter activities for the remaining Hunter XP.
+- Spread Construction and Crafting over your real supply of materials.
+- Plan Smithing, Mining, Runecraft, Agility and Sailing separately based on your materials and unlocks.
+- Work every skill to 99 in the end and check the current max cape requirements.
+- Keep a separate list of optional Collection Log and Combat Achievement goals.
+
+### E15 — New 2026 content in recommended order
+- Fallen From Grace is in Sailing block C before Bank 193; the repeatable Mad Angel comes after your fire cape and is not weakened like the quest version.
+- The Mad Angel drops the Hallowfell (75 Attack), which hits up to three targets.
+- Mortimer (70 Slayer and 100 combat, after Fallen From Grace) gives a choice of two tasks with superior monsters, but skips cost 100 points and Turael resets do not work.
+- Use Mortimer only after you stop using the Turael-skip method, and keep prayer ready for a superior on every task.
+- Finish the Myreque quests (The Darkness of Hallowvale, A Taste of Hope, Sins of the Father, A Night at the Theatre) with Quest Helper and treat every fight as dangerous.
+- The Blood Moon Rises needs Sins of the Father, A Night at the Theatre and skills in the 57–74 range; check the exact list in Quest Helper because sources differ.
+- HCIM: dying in Vampyrium costs your Hardcore status even though you respawn there with your items.
+- The Blood Moon Rises rewards six 30,000 XP tomes (skills 70+), Vampyrium, the Maggot King and seeker arrows.
+- The Fractured Archive (While Guthix Sleeps) comes last: see E13.
+- Chambers of Xeric deaths are safe, but Dexterous and Arcane prayer scrolls have dropped about 20% less often since August 2026.
+- Not in this route yet: The Graveyard (Master quest after Olaf's Quest) and the rest of the November 2026 Quest Month.
+
+## 11. Midgame gear ladder: which upgrades first?
+
+### 11A — Melee and armour
+- Make sure you can combine dragon scimitar, dragon defender, Barrows gloves, fighter torso and helm of neitiznot into one standard melee preset.
+- Collect prayer armour such as proselyte after its quest chain and wear it on Slayer or long tasks instead of the torso when Prayer matters more.
+- Work on a berserker ring at Dagannoth Rex only if you can do it safely; the way to the Dagannoth Kings and wrong prayers are dangerous, and it is not a required early upgrade.
+- Train to the levels for the zombie axe and farm it once you kill the monsters comfortably; it is a strong slash and crush option before or next to the whip.
+- Unlock Perilous Moons through its quest and study the Neypotzli boss mechanics; it is DANGEROUS for an HCIM despite the supplies inside the complex.
+- Treat the Eclipse atlatl, Blood moon armour and dual macuahuitl as possible midgame upgrades, but never worth an unprepared HCIM death.
+- Only farm the Royal Titans when the mechanics of both titans, the arena and your escape plan are clear; their drops can be a valuable newer gear option.
+- Build a tank or panic preset with more Defence, HP and Prayer; your first trip to risky content does not automatically use your highest DPS setup.
+
+### 11B — Ranged: from budget to top
+- Use a rune crossbow with useful bolts or a magic shortbow (i) as a temporary ranged setup, with Ava's device and a steady ammo supply.
+- Use blessed d'hide from clues or other midgame armour, and never let "perfect ranger boots" block your progress.
+- Look at the sunlight hunter's crossbow and the Eclipse atlatl as routes when you are not going to risk the Bowfa straight away.
+- Work to 75–85 Ranged before the harder bosses; 90+ is a comfortable goal for endgame PvM.
+- If you go for the Bowfa, an enhanced crystal weapon seed plus crystal armour is the end goal of your Gauntlet route (chapter 12).
+
+### 11C — Magic: from Iban to raid-ready
+- Use Iban's staff (u) for early single-target Magic where the spell works well.
+- Farm a warped sceptre or another midgame staff when it fits your Magic level and Slayer access.
+- Unlock Ancient Magicks through Desert Treasure I once you can do the quest safely; ice burst and barrage are very strong on some Slayer tasks.
+- Work to 87 Slayer for cave kraken and eventually a trident of the seas.
+- Farm Zulrah later for a magic fang and possibly a toxic trident, but only when you fully control the danger of that fight.
+- Collect and upgrade a mage cape and robes; accuracy, defence and sustain matter more than a perfect-looking set.
+- Get 90+ Magic for comfortable multi-style PvM and practise your spellbook and staff swaps in safe CoX encounters.
+
+### 11D — Core accessories
+- Unlock and use a rune pouch as soon as you can get one in a way that suits you; it saves inventory space when bossing.
+- Work on dragon boots once your Slayer level and drops allow it; other boots from clues or bosses are optional.
+- Save onyx and zenyte shards for valuable jewellery once your Crafting is high enough to make it.
+- Put the amulet of torture, necklace of anguish, tormented bracelet and ring of suffering on your long-term list, but grind them in the order of your current PvM needs.
+- Checkpoint: a solid melee, ranged and magic preset in your bank, each with one defensive variant.
+
+## 12. The most dangerous midgame crossroads: Normal/Corrupted Gauntlet → Bowfa
+
+### 12A — Decide before you enter the portal
+- Choose: A. postpone the Gauntlet and follow an alternative ranged progression, or B. commit to the Bowfa with the best preparation you can get.
+- For route B, train to very comfortable stats, ideally about 85–90+ Ranged, 85–90+ Magic and 80+ Defence (guidelines, not hard requirements).
+- Learn the rules: resource rooms, minibosses, demi-bosses, armour crafting, weapons, potions, food, the prep timer and the Hunllef arena.
+- Practise on a non-HCIM account when possible; it does not make your first real attempt risk-free, but basic mistakes will not cost your only life.
+- Focus on tornado movement, floor patterns, prayer switching and weapon switching, and train the reflex to dodge first and deal damage second.
+
+### 12B — Conservative HCIM prep
+- Do not speedrun on your HCIM: pick a conservative prep with tier 2 armour if possible, a good weapon combination and enough food and potions.
+- Gather the required resources in one route, and leave the dungeon instead of forcing a weak attempt when bad room layouts ruin your prep.
+- During the Hunllef, watch the boss rather than your DPS, keep your HP above a wide personal safety margin and never skip a prayer switch for damage.
+- Practise the normal Gauntlet first if you choose the risk; it is still a dangerous death even though the mechanics are easier.
+- Only go to the Corrupted Gauntlet after long, consistent experience with the mechanics and a proven prep strategy.
+- List the enhanced crystal weapon seed as the main drop and crystal armour seeds as secondary drops, and expect RNG instead of an exact drop count.
+- Craft the Bow of Faerdhinen and the crystal armour pieces you need once you have the seeds, shards and Crafting and Smithing levels.
+- Manage crystal shards for repairs, charges and other useful Prifddinas systems, and check the current material cost before you corrupt the bow.
+- If you do not get a Bowfa and the risk gets too high, stop: sometimes the right HCIM strategy is to play on without the item.
+
+### 12C — Route without a Bowfa
+- Use the rune crossbow, sunlight hunter's crossbow or Eclipse atlatl where their strengths fit, and improve Ranged and Prayer first.
+- Learn Chambers of Xeric: an HCIM-safe raid with useful PvM experience and potentially strong unique drops.
+- Invest in safe training, Slayer, better food and jewellery; you can still choose the Bowfa later when your mechanics are stronger.
+
+## 13. Slayer 70→95 and the full combat economy
+
+### Slayer ladder
+- Train towards 65 Slayer with your Slayer helmet, protection prayers and suitable tasks, and keep most herbs and valuable alchs.
+- From 65 to 75, take useful tasks for cash, seeds and melee or ranged XP, such as dust devils, aberrant spectres and gargoyles once they are in your pool.
+- Unlock and use Ancient Magicks for burst and barrage where the area and your supply costs allow it.
+- Check the task weighting of your Slayer master: block bad high-weight tasks and skip rarer bad tasks.
+- Train towards 80 Slayer and keep birdhouses, herbs and your kingdom running, because this is when your bank slowly becomes raid-ready.
+- Around 85 Slayer, farm abyssal demons for an abyssal whip and keep a separate Strength weapon, because the whip does not train pure Strength.
+- Around 87 Slayer, farm cave kraken for a trident of the seas and mind the cave and task rules.
+- Around 91 Slayer you can consider Cerberus for boot upgrades; it is DANGEROUS, so learn the ghosts and prayer mechanics and expect high prayer supply use.
+- Around 93 Slayer you can farm smoke devils for the occult necklace, combined with Magic XP from barraging.
+- At 95 Slayer you get access to the Alchemical Hydra on task; it is dangerous bossing that needs excellent prayer, poison and movement control.
+- Keep the supplies from every task and use them on purpose for Herblore, Prayer, Crafting, Construction, Fletching and a coin reserve.
+
+### HCIM Slayer protocols
+- Use antipoison or antivenom where needed and plan a route to a safe bank when a monster can cause long poison or venom.
+- Only melee aggressive multi-combat monsters with a reliable prayer and escape plan.
+- Test superior Slayer monsters on known new tasks with your current gear first, because superior specials can break your safety margin.
+- Keep Wilderness Slayer out of the main route: no XP or points are worth an unplanned PK death.
+- For Slayer bosses on task, check first whether the boss form is much harder than the normal monster.
+- Checkpoint: a Slayer ladder to 85, 87, 93 and 95 that matches the drops you want, together with better Herblore and combat stats.
+
+## 14. Quest cape route, 2026 quests and the hard quest bosses
+
+### The big quest lines
+- Finish the desert quest line up to Desert Treasure I for Ancient Magicks and practise every boss mechanic separately.
+- Do Lunar Diplomacy and Dream Mentor for the Lunar spells once you have the skills, combat level and safe preparation.
+- Work on A Kingdom Divided so Kourend and Arceuus content and later Yama become available; an unlock is not a request to farm the boss straight away.
+- Finish the quest line to Dragon Slayer II, and train 85+ Ranged or Magic and enough Defence before Vorkath and Galvek instead of going in at quest minimums.
+- During Dragon Slayer II, learn Vorkath's acid, fireball and special attacks outside your Hardcore first try, because a quest boss death is still a real death.
+- Prepare the Galvek fight phase by phase with anti-dragon protection and a movement plan, and never trade safe positioning for extra DPS.
+- Complete Dragon Slayer II to unlock Vorkath and other important late-game content.
+- Finish Secrets of the North for access to Phantom Muspah, with comfortable Magic and Ranged switches before your first kill.
+- Only do Desert Treasure II - The Fallen Empire with experienced PvM stats, because its quest fights can already cost your status.
+- Do While Guthix Sleeps, an important endgame unlock and the requirement for The Fractured Archive, and check whether you can teleport out of its instanced fights first.
+- Finish the Myreque line through Sins of the Father, whose boss can hit hard, so prepare movement and prayer switches explicitly.
+- Do not do The Blood Moon Rises (released 30 June 2026) at minimum levels just because checkpoints keep your items; the encounters stay dangerous for an HCIM.
+- Only continue in Vampyrium with a full inventory of supplies and check the latest mechanic changes on the wiki.
+- Finish the other quest lines with the Ironman optimal quest guide, adjusting the pace for every required boss fight.
+- Check the current quest list for content released after 9 November 2026; this guide reflects that date.
+- Make the quest cape a milestone and use it for mobility, but keep an eye on newly released quests.
+
+## 15. Boss progression: which encounters when?
+
+### 15A — First PvM upgrades
+- Barrows Brothers: learn the crypt layout, prayers, tunnel route and each brother; it is DANGEROUS, so go for runes and armour once you have Iban's staff or a trident and enough supplies.
+- Dagannoth Rex: a safe safespot after you arrive does not make the way into the lair risk-free; the goal is the berserker ring.
+- Scurrius: learn the boss movement and interrupts on a well-prepared account; the goal is reflexes and its own rewards, not a required best-in-slot grind.
+- Moons of Peril: practise the Blue, Blood and Eclipse special attacks on a practice account first and use the dungeon supplies and a defensive set; the goal is the midgame sets.
+- Royal Titans: start conservatively with more HP and Defence, the right prayer and a boss plan, and decide whether the uniques are worth the risk.
+- Sarachnis and other early bosses are optional for mechanics and items; avoid boss kill count that barely helps your account.
+
+### 15B — The first big unique drops
+- Demonic gorillas: after the quest line, farm zenyte shards with good gear and prayer switches and watch their attack-style changes.
+- Zulrah is DANGEROUS: learn the rotations, Jad phases and venom control, and bring more food and antivenom than an experienced speedrunner on your first tries.
+- Only keep farming Zulrah while the risk is acceptable; the magic fang, tanzanite fang and serpentine visage are strong, but no drop is guaranteed.
+- Vorkath: after Dragon Slayer II, learn the acid walk, fireball and zombified spawn, and work towards the Vorkath drop for Ava's assembler.
+- Phantom Muspah: use good Ranged and Magic switches and learn the shield phase and positioning for the ancient icon, ancient essence and other useful drops.
+- The Whisperer, The Leviathan, Duke Sucellus and Vardorvis are dangerous late-game projects; train each encounter separately even if you beat the quest version.
+- Yama is a duo-oriented demonic boss with heavy mechanics, so build solid PvM skills and a reliable partner first; it is optional and high risk.
+- Doom of Mokhaiotl and other newer bosses: never plan a one-life first kill on general combat stats, and study the encounter-specific death rules first.
+
+### 15C — God Wars Dungeon
+- Unlock the God Wars Dungeon fully and collect the god items that keep aggressive followers off you on entry.
+- Make a God Wars emergency preset with food, prayer potions, stamina, a teleport, antidotes where needed, one god item per relevant faction and fitting gear.
+- K'ril Tsutsaroth is interesting for the Zamorakian spear and hasta; prepare for his prayer-piercing special and minion damage.
+- General Graardor is interesting for the Bandos chestplate and tassets; practise a ranged or other current safe method before you enter on your HCIM.
+- Commander Zilyana can give strong ranged and prayer gear; keep stamina, ranged distance and minion damage under control.
+- Kree'arra is mainly for ranged gear, where protection prayers, choke points and ranged defence matter, so do not farm him early just because you unlocked the dungeon.
+- Nex only at very high combat and gear levels, with team knowledge and a plan for minions and specials, because one wrong team call can cost your HCIM.
+
+### 15D — Varlamore and later boss chains
+- Fortis Colosseum is a dangerous PvM challenge: save your first attempt until you have learned the waves and mechanics separately and choose this risk on purpose.
+- Perilous Moons sets get outclassed later; use them while they are practical without forcing an endless boss grind.
+- The Nightmare and Phosani's Nightmare are extremely demanding and dangerous for your status, so only work on them after broad PvM experience.
+- The Corporeal Beast needs specialist gear and long preparation; keep it as a special endgame project.
+- Farm the Alchemical Hydra (95 Slayer, on task) for the hydra's claw and supplies once you control its attack cycle and poison mechanics.
+- Farm Cerberus for the boot crystals once you can counter the ghost phase reliably.
+- Grotesque Guardians, the Abyssal Sire, the Thermonuclear smoke devil and other Slayer bosses are optional grinds with their own risk; do not judge them by the normal task difficulty.
+
+## 16. All four raids: HCIM endgame order
+
+### 16A — Chambers of Xeric (CoX): the first, safe raid
+- Unlock Chambers of Xeric and get comfortable melee, ranged and magic gear.
+- Find a reliable team that wants to do learner runs and agree on room calls, prep and supply gathering.
+- Learn the basic rooms, scouting, roles and room puzzles, and practise moving and praying before maximum DPS.
+- Learn the Great Olm phase by phase: positioning, hand and head mechanics, portals, crystals, acid, burn and team play.
+- Move from learner runs to consistent completions; loot is RNG and the safest learning route is not always the fastest points per hour.
+- Collect the Dexterous prayer scroll for Rigour and the Arcane prayer scroll for Augury when they drop, and train the Prayer levels for them.
+- Rigour is especially strong for ranged PvM; do not let a long hunt for a Twisted bow block all other endgame progress.
+- Long-term goals are Ancestral robes, Dragon claws, the Twisted bow, the Kodai insignia and other CoX rewards, depending on your account goals.
+- Also use CoX to safely practise tri-bridding, prayer switches and team communication before the risky raids.
+
+### 16B — Tombs of Amascut (ToA): fang and shadow, but dangerous deaths
+- Complete Beneath Cursed Sands to unlock ToA and prepare for its quest boss like any dangerous fight.
+- Practise ToA on a non-HCIM account first when possible, or study the mechanics as completely as you can.
+- Learn each path separately: Kephri (scarabs and positioning), Zebak (waves and poison), Akkha (switches and paths) and Ba-Ba (boulder timing).
+- Learn the Wardens phases one to four: obelisk management, tile movement, prayers, enrage and avoiding many small hits.
+- Use the lowest invocation you can for your first real HCIM raid; raid level 0 is still an unsafe death but lowers the mechanic and stat pressure.
+- Build your inventory for safety: food, prayer and restores, stat boosts, the right switches, an escape crystal where useful and possible room exits.
+- Only move to raid level 150+ and Expert later, adding invocations one at a time once you handle them consistently.
+- Target rewards: Osmumten's fang, the lightbearer, then Masori, Tumeken's shadow, Elidinis' ward and other drops.
+- After every near-death, write down the cause and pause your next attempt until you have solved that mechanic reliably.
+
+### 16C — Theatre of Blood (ToB): the team discipline test
+- Meet the entry requirements and prepare full melee, ranged and magic gear, food and a team role.
+- Learn every room beforehand on a non-HCIM account or with suitable practice: Maiden, Bloat, Nylocas, Sotetseg, Xarpus and Verzik.
+- Agree before you start who makes the role calls and which team member stops pushing after a mistake, and avoid unclear Verzik phase 2 and 3 calls.
+- Use an escape crystal where it is possible and set up correctly, but check the current exceptions, because it does not make up for a mechanics mistake.
+- Master the encounter consistently before moving to normal or hard mode; ToB is not an activity to improvise in.
+- Target rewards: Scythe of vitur, Ghrazi rapier, Sanguinesti staff, Justiciar armour and other valuable drops.
+- Value your red status over team pressure and leave before a dangerous phase when your gear, connection or team communication is not right.
+
+### 16D — The Fractured Archive (raid 4, since 20 October 2026)
+- Complete While Guthix Sleeps; the Fractured Archive miniquest starts when you first try to enter the lobby in the Chasm of Tears.
+- Every death in the raid is dangerous and costs your Hardcore status.
+- Build an endgame combat preset focused on survival, Prayer, defensive utility and the different damage styles the raid needs.
+- Learn the encounters separately: Archive Guardian, then Ezekiel or Bork and the Smorks, Moia or Dreadnoth the Jellied, The Dagon'hai or Xarth, and the final boss Ocellus.
+- Check the current boss order rules and entry requirements, because this new content still gets balance updates.
+- Practise team callouts on another account or with videos before you ever expose your HCIM to an unpredictable boss rush.
+- Target rewards: Ascension crossbows, the Rondache, Zorya's tome, the Horn of Bran (Zeal prayer), the Obligator and the Archivist's folio.
+- Even with strong rewards, the right HCIM route is CoX first, ToA and ToB experience outside your HCIM, and the Archive only at the very top.
+
+## 17. Inferno, Colosseum and Combat Achievements
+
+### 17A — Inferno (a safe death for an HCIM)
+- Get your fire cape and a strong Ranged and Prayer base first.
+- Learn the wave plans, safe tiles, nibblers, flicking and splitting monsters; because the Inferno is HCIM-safe, you can learn it over several attempts.
+- Practise the triple Jads and TzKal-Zuk until you know the shield, healer and set timings.
+- Go for the Infernal cape as soon as you have a consistent run, whether or not you have best-in-slot gear.
+- Use your Inferno experience for later fights, but a safe death in the Inferno says nothing about the safety of the Colosseum.
+
+### 17B — Fortis Colosseum (unsafe)
+- Find out how the 12 waves, modifiers and Sol Heredit work beforehand.
+- Prepare a conservative first HCIM run with very high combat stats and suitable armour and weapons, as the current strategy pages recommend.
+- Remember that every real death in the Fortis Colosseum costs your HCIM status, so you cannot learn it the way you learn the Inferno.
+- Only claim Dizana's quiver once you execute the survival strategy reliably; the goal is an account that survives, not a first-try brag.
+
+### 17C — Combat Achievements and diaries
+- Do the Combat Achievements you get anyway during Slayer, Jad, CoX and other bosses, and prioritise the Easy and Medium tiers without extra status risk.
+- Pick boss tasks with clear mechanics and low volume before hard speedrun, no-prayer or no-damage tasks.
+- Finish the Hard and Elite Achievement Diaries for teleports, utility and account value, and check the full requirement list before any risky diary task.
+- Work towards the Elite Combat Achievements when your account is strong enough; Master and Grandmaster are late prestige grinds.
+- Update your Combat Achievement completion and current reward tier in your account tracker from time to time.
+
+## 18. Total skill progression: from 70s to 99 and the max cape
+
+### Overview and preparation
+- Plan 77 Herblore and the skill requirements for brews, staminas and other potions first, then work towards 90+ for sustainable endgame supplies.
+- Get Crafting high enough for the zenyte and onyx jewellery you want, and keep gems and glass materials stocked.
+- Upgrade your POH with restore and prayer facilities, teleports, storage and an efficient restart point after boss trips.
+- Push Farming towards 85+ for contracts and ever stronger seed and herb runs.
+- Train Mining, Smithing and Construction in parallel with materials from your kingdom, Slayer, bosses and Sailing.
+- Set 99 as a visible long-term goal for every skill and track the XP left per skill.
+- Only make the max cape once every currently required skill is 99, including Sailing.
+- After maxing, the collection log, pets, Combat Achievements, boss kill counts, clue tiers and gear perfection remain.
+
+## 23. Active "first 100 hours" planning (no artificial XP rush)
+
+### The checklist to run through before every session
+- Are your birdhouses ready for a new run?
+- Are your herb patches and trees ready?
+- Can you finish or start a Farming Guild contract?
+- Are your kingdom budget and approval still fine?
+- Which two quest steps can you combine in the same area?
+- Which next gear unlock actually opens a new PvM goal?
+- Is the boss or quest you are about to do a safe or unsafe death for a normal HCIM?
+- Do you have two escape or bank routes, enough food, the right prayers and a stable connection?
+
+## 24. Checkpoints to tick off in your tracker
+
+### Overview and preparation
+- Checkpoint A — Survival: 43 Prayer, Ardougne cloak 1, fairy rings, Fossil Island, food and escape routes.
+- Checkpoint B — Basic ironman: farming, birdhouses and kingdom running, 60+ Agility, 55+ Magic and Slayer prepared.
+- Checkpoint C — Core melee: dragon scimitar, defender, fighter torso, helm of neitiznot, Barrows gloves and 70 Prayer with Piety.
+- Checkpoint D — Song of the Elves: eight 70s, the full elf quest line and Prifddinas.
+- Checkpoint E — Midgame: 80+ combat stats, Magic and Ranged sets, a safe fire cape and the Slayer 85/87 route.
+- Checkpoint F — Gear ladder: whip or trident, the right jewellery, and a crystal or Bowfa setup or a full alternative.
+- Checkpoint G — PvM: reliable CoX, high combat stats and preparation for the riskier raids.
+- Checkpoint H — Raid endgame: ToA, ToB and The Fractured Archive only when you accept the risk on purpose; uniques are RNG.
+- Checkpoint I — Prestige: Infernal cape, Dizana's quiver, Combat Achievements, elite diaries and top bosses.
+- Checkpoint J — Max: every current skill at 99 including Sailing, your gear and special goals, and your HCIM status still intact.
