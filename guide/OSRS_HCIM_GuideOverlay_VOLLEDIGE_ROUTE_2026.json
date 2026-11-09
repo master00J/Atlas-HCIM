@@ -38,7 +38,7 @@
             {
               "content": [
                 {
-                  "text": "Talk to Cassius by the pond south of the windmill and start The Ides of Milk"
+                  "text": "Talk to Cassius at the pond south of the windmill and start The Ides of Milk"
                 }
               ]
             },
@@ -80,7 +80,7 @@
             {
               "content": [
                 {
-                  "text": "Talk to Mudfoot by the building south of the cow field, without a pet following you [Mudfoot's Big Adventure]"
+                  "text": "Talk to Mudfoot near the building south of the cow field, without a pet following you [Mudfoot's Big Adventure]"
                 }
               ]
             },
@@ -136,14 +136,14 @@
             {
               "content": [
                 {
-                  "text": "Wield the Shortbow and kill the Mage Outlaw south of the H.A.M. Hideout, then take his Staff, Air runes & Mind runes [Mudfoot's Big Adventure]"
+                  "text": "Wield the Shortbow and kill the Mage Outlaw south of the H.A.M Hideout, then take his Staff, Air runes & Mind runes [Mudfoot's Big Adventure]"
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Wield the Staff and go to the Lumbridge graveyard behind the church; if you left the fight area, fetch Mudfoot from outside the H.A.M. Hideout first"
+                  "text": "Wield the Staff and go to the Lumbridge graveyard behind the church; if you left the fight area, fetch Mudfoot from outside the H.A.M Hideout first"
                 }
               ]
             },
@@ -1343,7 +1343,7 @@
             {
               "content": [
                 {
-                  "text": "Unequip your weapon and the Chronicle, then talk to Will or Anne on the dock east of the Port Sarim Food Store to start Pandemonium"
+                  "text": "Unequip your weapon and the Chronicle, then talk to Will (or Anne) on the dock east of the Port Sarim Food Store to start Pandemonium"
                 }
               ]
             },
@@ -1841,7 +1841,7 @@
             {
               "content": [
                 {
-                  "text": "Route note — Knight's Sword blurite: Ice Warriors can kill an early account quickly, so use a proven safespot, keep a teleport ready and never mine while you are taking damage."
+                  "text": "Route note — Knight's Sword blurite: Ice Warriors are deadly for an early account, so use a proven safespot, keep a teleport ready and never mine while you are taking damage."
                 }
               ]
             },
@@ -3270,7 +3270,7 @@
             {
               "content": [
                 {
-                  "text": "Run north-east and talk to Betty by the house north-west of the Tithe Farm [The Writing's on the Wall]"
+                  "text": "Run north-east and talk to Betty at the house north-west of the Tithe Farm [The Writing's on the Wall]"
                 }
               ]
             },
@@ -3527,14 +3527,14 @@
             {
               "content": [
                 {
-                  "text": "Talk to Ennius Tullus or Furia Tullus in front of the Sunrise Palace and start Twilight's Promise"
+                  "text": "Talk to Ennius Tullus (or Furia Tullus) in front of the Sunrise Palace and start Twilight's Promise"
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Let the guards kill the level 34 cultists in the Teomat [Twilight's Promise]"
+                  "text": "Let the guards deal with the level 34 cultists in the Teomat [Twilight's Promise]"
                 }
               ]
             },
@@ -4533,7 +4533,7 @@
             {
               "content": [
                 {
-                  "text": "Route note — Blackjacking to 50 Thieving: blackjacking can be dangerous at low HP, so keep an eye on your healing and avoid long AFK sessions."
+                  "text": "Route note — Blackjacking for 50 Thieving: blackjacking can be dangerous at low HP, so keep an eye on your healing and avoid long AFK sessions."
                 }
               ]
             },
@@ -6485,7 +6485,7 @@
             {
               "content": [
                 {
-                  "text": "Ardy Cloak to the Monastery and talk to Effigy just east of it to start Tower of Life"
+                  "text": "Ardy Cloak to the Monastery and talk to Effigy east of it to start Tower of Life"
                 }
               ]
             },
@@ -7662,7 +7662,7 @@
             {
               "content": [
                 {
-                  "text": "Take two courier tasks at a time to the same port, or tasks that lie on each other's route"
+                  "text": "Do two courier tasks at a time to the same port, or tasks that lie on each other's route"
                 }
               ]
             },
@@ -7704,7 +7704,7 @@
             {
               "content": [
                 {
-                  "text": "Buy the skiff (15,000 coins) and build a cargo hold and a bronze salvaging hook"
+                  "text": "Get the skiff for 15,000 coins and build a cargo hold and a bronze salvaging hook"
                 }
               ]
             },
@@ -18734,7 +18734,7 @@
             {
               "content": [
                 {
-                  "text": "Sailing B (optional, 30 to 52 Sailing): do it now that you have 51+ Slayer"
+                  "text": "Sailing B (optional, Sailing 30-52): do it now that you have 51+ Slayer"
                 }
               ]
             },
@@ -22254,7 +22254,7 @@
             {
               "content": [
                 {
-                  "text": "Collect or cook 200+ reliable PvM food as a working buffer (a buffer goal, not a requirement)."
+                  "text": "Keep a working buffer of 200+ reliable PvM food, cooked or collected (a buffer goal, not a requirement)."
                 }
               ]
             },
@@ -22336,7 +22336,7 @@
             {
               "content": [
                 {
-                  "text": "Pick two practice bosses without surprise multi-hits or mechanics and learn their attack cycle properly."
+                  "text": "Pick two practice bosses without surprise multi-hits or mechanics and learn how each of them fights."
                 }
               ]
             },
@@ -22458,7 +22458,7 @@
             {
               "content": [
                 {
-                  "text": "Collect zenyte shards at demonic gorillas once you are prepared for their prayer switches."
+                  "text": "Farm zenyte shards at demonic gorillas once you are prepared for their prayer switches."
                 }
               ]
             },
@@ -22526,7 +22526,7 @@
             {
               "content": [
                 {
-                  "text": "Check your kill count, ecumenical keys and route requirements for the boss you chose."
+                  "text": "Check your killcount, ecumenical keys and route requirements for the boss you chose."
                 }
               ]
             },
@@ -22662,7 +22662,7 @@
             {
               "content": [
                 {
-                  "text": "Note which attack cues you regularly miss and practise them on purpose in the next runs."
+                  "text": "Note which mechanics you regularly miss and practise them on purpose in the next runs."
                 }
               ]
             },
@@ -22953,7 +22953,7 @@
             {
               "content": [
                 {
-                  "text": "Practise every relevant attack on a non-HCIM account."
+                  "text": "Practise every relevant mechanic on a non-HCIM account."
                 }
               ]
             },
@@ -22967,7 +22967,7 @@
             {
               "content": [
                 {
-                  "text": "Go for one controlled kill or a safe claim the first time, not a kill count rush."
+                  "text": "Aim for one controlled first win or a safe claim the first time, not a killcount rush."
                 }
               ]
             },
@@ -23244,7 +23244,7 @@
             {
               "content": [
                 {
-                  "text": "Train to the levels for the zombie axe and farm it once you kill the monsters comfortably; it is a strong slash and crush option before or next to the whip."
+                  "text": "Train to the levels for the zombie axe and farm it once you handle the armoured zombies comfortably; it is a strong slash and crush option before or next to the whip."
                 }
               ]
             },
@@ -23359,7 +23359,7 @@
             {
               "content": [
                 {
-                  "text": "Collect and upgrade a mage cape and robes; accuracy, defence and sustain matter more than a perfect-looking set."
+                  "text": "Get and upgrade a mage cape and robes; accuracy, defence and sustain matter more than a perfect-looking set."
                 }
               ]
             },
@@ -23731,14 +23731,14 @@
             {
               "content": [
                 {
-                  "text": "Prepare the Galvek fight phase by phase with anti-dragon protection and a movement plan, and never trade safe positioning for extra DPS."
+                  "text": "Prepare the Galvek fight phase by phase with anti-dragon protection and a movement plan, and never give up safe positioning for extra DPS."
                 }
               ]
             },
             {
               "content": [
                 {
-                  "text": "Complete Dragon Slayer II to unlock Vorkath and other important late-game content."
+                  "text": "Complete Dragon Slayer II (it unlocks Vorkath and other important late-game content)."
                 }
               ]
             },
@@ -23914,7 +23914,7 @@
             {
               "content": [
                 {
-                  "text": "Doom of Mokhaiotl and other newer bosses: never plan a one-life first kill on general combat stats, and study the encounter-specific death rules first."
+                  "text": "Doom of Mokhaiotl and other newer bosses: never plan a one-life first attempt based on general combat stats, and study the encounter-specific death rules first."
                 }
               ]
             }
@@ -24008,7 +24008,7 @@
             {
               "content": [
                 {
-                  "text": "Farm the Alchemical Hydra (95 Slayer, on task) for the hydra's claw and supplies once you control its attack cycle and poison mechanics."
+                  "text": "Farm the Alchemical Hydra (95 Slayer, on task) for the hydra's claw and supplies once you control its phases and poison mechanics."
                 }
               ]
             },
@@ -24074,7 +24074,7 @@
             {
               "content": [
                 {
-                  "text": "Collect the Dexterous prayer scroll for Rigour and the Arcane prayer scroll for Augury when they drop, and train the Prayer levels for them."
+                  "text": "Aim for the Dexterous prayer scroll for Rigour and the Arcane prayer scroll for Augury, and train the Prayer levels for them."
                 }
               ]
             },
@@ -24462,7 +24462,7 @@
             {
               "content": [
                 {
-                  "text": "After maxing, the collection log, pets, Combat Achievements, boss kill counts, clue tiers and gear perfection remain."
+                  "text": "After maxing, the collection log, pets, Combat Achievements, boss killcounts, clue tiers and gear perfection remain."
                 }
               ]
             }

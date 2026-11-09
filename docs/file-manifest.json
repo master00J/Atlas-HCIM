@@ -9,13 +9,13 @@
     },
     {
       "path": ".github/workflows/ci.yml",
-      "bytes": 2386,
-      "sha256": "4f298124e065ce0677b8624ea847e32063d4bf82eec49807fd80419c93cb7904"
+      "bytes": 2495,
+      "sha256": "5ce75ecba450cd79fd27a4b8d895f9d87906e723e84048ab6ad6a137fa4a06cf"
     },
     {
       "path": ".gitignore",
-      "bytes": 276,
-      "sha256": "fc37eb808153791f0b37c795418605319e337b49c1a040a111ed910e62988609"
+      "bytes": 416,
+      "sha256": "05149056b70a0a40e7a1be0c1b89244ba5a677cc86b6b2e50a3d370b0a898b5e"
     },
     {
       "path": "PUBLICEER_GITHUB.bat",
@@ -99,8 +99,8 @@
     },
     {
       "path": "docs/GITHUB_PUBLICEREN.md",
-      "bytes": 1797,
-      "sha256": "08b8de9cda881191689c04047619dcafe4160a1d6d1a507341f55b22753abf92"
+      "bytes": 861,
+      "sha256": "5b1d6fdb4381817934a82e01e2d366129fddff097be39cc79ca1fa6c434c8270"
     },
     {
       "path": "docs/earlier-guides/OSRS_HCIM_Bank_per_Bank_Detailroute_2026.html",
@@ -139,28 +139,28 @@
     },
     {
       "path": "guide-tools/overlay-harness/AtlasGuideReportTest.java",
-      "bytes": 8536,
-      "sha256": "7ce67fb564bd1b36f4ba1533eae5f246579f028455759115392b6a4d0d033b04"
+      "bytes": 9395,
+      "sha256": "cb189b900c198d9e4b21aaa04d63647e01fd9e78dd66a7db76ed8cec7fb233f5"
     },
     {
       "path": "guide-tools/reports/HCIM_ATLAS_AUDIT_ENDGAME.csv",
-      "bytes": 81182,
-      "sha256": "1b00d557ca5bc4c725b5d1f90b76d7e449fbcb57b15eb7a4a5161191e9229f3b"
+      "bytes": 81084,
+      "sha256": "1d33ab1fb2fb913d8947d11b1baa3cb314147f5b6ee5685c766b7c27efd79555"
     },
     {
       "path": "guide-tools/reports/HCIM_ATLAS_AUDIT_VOLLEDIGE_ROUTE.csv",
-      "bytes": 609741,
-      "sha256": "01975ae34e5f74dd15af99ed3cdeede35ee748237722c23426b436e64c980733"
+      "bytes": 609598,
+      "sha256": "f17f5c8d92af2f74096b84c1491ce3067ab26e614ace629e6aad7fbd8978df0d"
     },
     {
       "path": "guide-tools/reports/HCIM_ATLAS_COVERAGE.json",
-      "bytes": 777,
-      "sha256": "6334fd1344a799ef084656cc81f3482431f08fedc3b2e2a0f203573edd423629"
+      "bytes": 751,
+      "sha256": "05485673558a25d0dcb72b2804dba59e337fbbaaa7e655d9d8691a99c1535e32"
     },
     {
       "path": "guide-tools/route_2026.py",
       "bytes": 33008,
-      "sha256": "3b0d7401919cfc4815b5ae75496db97e0c554a2f570c6cdb6cccd41719b7b998"
+      "sha256": "a9eacee8774f5160a925a561eb7c509e8375af31e693c119be8a81272174e665"
     },
     {
       "path": "guide-tools/test_atlas.py",
@@ -169,8 +169,8 @@
     },
     {
       "path": "guide/HCIM_ATLAS_ENDGAME.json",
-      "bytes": 80786,
-      "sha256": "de6cf1c3c62ec93be3b16706ab62f6e789878d89675958c5f6c66f370cc20e93"
+      "bytes": 80791,
+      "sha256": "e100b668c4b40511e61311116352497c82250e4f64932a968a11826562857a27"
     },
     {
       "path": "guide/HCIM_ATLAS_PINNEN_ENDGAME.json",
@@ -184,18 +184,18 @@
     },
     {
       "path": "guide/HCIM_ATLAS_VOLLEDIGE_ROUTE.json",
-      "bytes": 691938,
-      "sha256": "858814ab4f4c8d8e4d0d205c0c0760ee3fb5b535f5d0f629ad6299ded08326b9"
+      "bytes": 691943,
+      "sha256": "f588b911d09b5dedc028ede455d50be09c3bf0d4279a69e2c681ce10448521f7"
     },
     {
       "path": "guide/OSRS_HCIM_GuideOverlay_ENDGAME_2026.json",
-      "bytes": 80787,
-      "sha256": "fb80675254a09358d63123cef94e0864150995c49c4d1fd3a5fa48cac5d8d6ba"
+      "bytes": 80792,
+      "sha256": "9de1f4d8e303c7942c85187d75029cb006a1f8d0adccc946997670f5cee5fbf2"
     },
     {
       "path": "guide/OSRS_HCIM_GuideOverlay_VOLLEDIGE_ROUTE_2026.json",
-      "bytes": 691939,
-      "sha256": "a03d128b6cab852e4cf5e50ce19daf6fb2b591dce1e4f9931b881504ddf854b9"
+      "bytes": 691944,
+      "sha256": "0b30c7079cd80fc6eae5ae21d524053bb47db77fc658891555d3e840a7a6e040"
     },
     {
       "path": "guide/goal-rules.json",
@@ -209,8 +209,8 @@
     },
     {
       "path": "guide/source/endgame_2026_en.md",
-      "bytes": 36537,
-      "sha256": "057dd388312ba3f69ad9a5198b4e62c600f5086b8e12f0327a41797508a1eaa9"
+      "bytes": 36542,
+      "sha256": "b81e0240776f22ee2deb070f12564c02e33d0e8687e7fde19f6d1b84592a0820"
     },
     {
       "path": "package.json",
@@ -244,8 +244,8 @@
     },
     {
       "path": "scripts/publish-github.ps1",
-      "bytes": 3090,
-      "sha256": "3a0c95e9073028d458706e3f31487ca99f0515ba45ecf66add35ed8485aed314"
+      "bytes": 1557,
+      "sha256": "ea33924d708ec57ca5ebe634626c436ee12c4a1dca2c41465749df1e666d1d38"
     },
     {
       "path": "tests/java-stub/com/hcimguide/ExportSmokeTest.java",

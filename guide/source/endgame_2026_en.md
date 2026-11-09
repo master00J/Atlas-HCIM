@@ -15,7 +15,7 @@ English translation (November 2026) of the Dutch Atlas endgame chapters, plus E1
 - Put a permanent emergency teleport in every gear preset and check that it works in the next encounter.
 - Fill your rune pouch with the spells you actually need.
 - Check your herb patches, compost stock, seed vault and birdhouses.
-- Collect or cook 200+ reliable PvM food as a working buffer (a buffer goal, not a requirement).
+- Keep a working buffer of 200+ reliable PvM food, cooked or collected (a buffer goal, not a requirement).
 - Note your stock of prayer potions, restores, super attacks and strengths, and stamina or energy potions.
 - Decide for every next boss which drops you need, with an alternative if the drop takes too long.
 - Set up visible low-HP, prayer and disconnect warnings in RuneLite.
@@ -28,7 +28,7 @@ English translation (November 2026) of the Dutch Atlas endgame chapters, plus E1
 - Finish Dragon Slayer II, The Fremennik Exiles, Sins of the Father and other open gear quests, with boss-specific preparation.
 - Plan the Easy and Medium Combat Achievements and check beforehand whether each activity is a safe or unsafe death.
 - Make a checklist of missing Hard diary unlocks and transport methods.
-- Pick two practice bosses without surprise multi-hits or mechanics and learn their attack cycle properly.
+- Pick two practice bosses without surprise multi-hits or mechanics and learn how each of them fights.
 - Do several full practice runs on a normal account or a safe activity before any new dangerous boss.
 - Only move on to the next phase once your prayer switches and escape routine are reliable.
 
@@ -48,7 +48,7 @@ English translation (November 2026) of the Dutch Atlas endgame chapters, plus E1
 - Make the whip upgrade around 85 Slayer if it is available to you.
 - Plan the trident upgrade around the required Slayer level and stock runes or charges.
 - Save cannonballs or burst and barrage runes for the tasks where they really save time.
-- Collect zenyte shards at demonic gorillas once you are prepared for their prayer switches.
+- Farm zenyte shards at demonic gorillas once you are prepared for their prayer switches.
 - Never take a Wilderness task unless you explicitly choose to risk your status.
 - Build your block and skip list from the points you actually have and your own preference.
 - Process herb and seed drops before the next long Slayer session.
@@ -59,7 +59,7 @@ English translation (November 2026) of the Dutch Atlas endgame chapters, plus E1
 - Bring stamina, protection against the relevant effects and a clear exit.
 - Practise the route to the boss room on an account where a death is not final.
 - Make a separate ranged, melee or magic preset per boss instead of one inventory for everything.
-- Check your kill count, ecumenical keys and route requirements for the boss you chose.
+- Check your killcount, ecumenical keys and route requirements for the boss you chose.
 - Practise the rhythm between boss and minions with one safe test kill.
 - Stop when your damage pattern or run energy is different from your practised route.
 - Only farm for concrete upgrades such as armour or a specific weapon, and reassess after every session.
@@ -81,7 +81,7 @@ English translation (November 2026) of the Dutch Atlas endgame chapters, plus E1
 - Practise scouting or learn the fixed raid layout you want to run.
 - Learn the Olm roles at a calm pace; a low first point score is fine.
 - Do your first runs with experienced players who communicate clearly.
-- Note which attack cues you regularly miss and practise them on purpose in the next runs.
+- Note which mechanics you regularly miss and practise them on purpose in the next runs.
 - Farm until you have the prayer scrolls you want, or move on when another unlock helps you more.
 - After every new prayer unlock, check whether your DPS, defence style or gear priorities change.
 
@@ -129,9 +129,9 @@ English translation (November 2026) of the Dutch Atlas endgame chapters, plus E1
 ### E12 — Yama, Doom of Mokhaiotl and other newer PvM
 - Check the latest mechanics and changes, because these encounters are relatively new.
 - Decide on a solo, duo or group approach and what that does to the risk.
-- Practise every relevant attack on a non-HCIM account.
+- Practise every relevant mechanic on a non-HCIM account.
 - Write down which supply or damage checks are required.
-- Go for one controlled kill or a safe claim the first time, not a kill count rush.
+- Aim for one controlled first win or a safe claim the first time, not a killcount rush.
 - Stop at any mechanic that behaves differently from your practice.
 - Only then decide whether a specific drop is worth it for your account.
 
@@ -177,7 +177,7 @@ English translation (November 2026) of the Dutch Atlas endgame chapters, plus E1
 - Make sure you can combine dragon scimitar, dragon defender, Barrows gloves, fighter torso and helm of neitiznot into one standard melee preset.
 - Collect prayer armour such as proselyte after its quest chain and wear it on Slayer or long tasks instead of the torso when Prayer matters more.
 - Work on a berserker ring at Dagannoth Rex only if you can do it safely; the way to the Dagannoth Kings and wrong prayers are dangerous, and it is not a required early upgrade.
-- Train to the levels for the zombie axe and farm it once you kill the monsters comfortably; it is a strong slash and crush option before or next to the whip.
+- Train to the levels for the zombie axe and farm it once you handle the armoured zombies comfortably; it is a strong slash and crush option before or next to the whip.
 - Unlock Perilous Moons through its quest and study the Neypotzli boss mechanics; it is DANGEROUS for an HCIM despite the supplies inside the complex.
 - Treat the Eclipse atlatl, Blood moon armour and dual macuahuitl as possible midgame upgrades, but never worth an unprepared HCIM death.
 - Only farm the Royal Titans when the mechanics of both titans, the arena and your escape plan are clear; their drops can be a valuable newer gear option.
@@ -196,7 +196,7 @@ English translation (November 2026) of the Dutch Atlas endgame chapters, plus E1
 - Unlock Ancient Magicks through Desert Treasure I once you can do the quest safely; ice burst and barrage are very strong on some Slayer tasks.
 - Work to 87 Slayer for cave kraken and eventually a trident of the seas.
 - Farm Zulrah later for a magic fang and possibly a toxic trident, but only when you fully control the danger of that fight.
-- Collect and upgrade a mage cape and robes; accuracy, defence and sustain matter more than a perfect-looking set.
+- Get and upgrade a mage cape and robes; accuracy, defence and sustain matter more than a perfect-looking set.
 - Get 90+ Magic for comfortable multi-style PvM and practise your spellbook and staff swaps in safe CoX encounters.
 
 ### 11D — Core accessories
@@ -262,8 +262,8 @@ English translation (November 2026) of the Dutch Atlas endgame chapters, plus E1
 - Work on A Kingdom Divided so Kourend and Arceuus content and later Yama become available; an unlock is not a request to farm the boss straight away.
 - Finish the quest line to Dragon Slayer II, and train 85+ Ranged or Magic and enough Defence before Vorkath and Galvek instead of going in at quest minimums.
 - During Dragon Slayer II, learn Vorkath's acid, fireball and special attacks outside your Hardcore first try, because a quest boss death is still a real death.
-- Prepare the Galvek fight phase by phase with anti-dragon protection and a movement plan, and never trade safe positioning for extra DPS.
-- Complete Dragon Slayer II to unlock Vorkath and other important late-game content.
+- Prepare the Galvek fight phase by phase with anti-dragon protection and a movement plan, and never give up safe positioning for extra DPS.
+- Complete Dragon Slayer II (it unlocks Vorkath and other important late-game content).
 - Finish Secrets of the North for access to Phantom Muspah, with comfortable Magic and Ranged switches before your first kill.
 - Only do Desert Treasure II - The Fallen Empire with experienced PvM stats, because its quest fights can already cost your status.
 - Do While Guthix Sleeps, an important endgame unlock and the requirement for The Fractured Archive, and check whether you can teleport out of its instanced fights first.
@@ -292,7 +292,7 @@ English translation (November 2026) of the Dutch Atlas endgame chapters, plus E1
 - Phantom Muspah: use good Ranged and Magic switches and learn the shield phase and positioning for the ancient icon, ancient essence and other useful drops.
 - The Whisperer, The Leviathan, Duke Sucellus and Vardorvis are dangerous late-game projects; train each encounter separately even if you beat the quest version.
 - Yama is a duo-oriented demonic boss with heavy mechanics, so build solid PvM skills and a reliable partner first; it is optional and high risk.
-- Doom of Mokhaiotl and other newer bosses: never plan a one-life first kill on general combat stats, and study the encounter-specific death rules first.
+- Doom of Mokhaiotl and other newer bosses: never plan a one-life first attempt based on general combat stats, and study the encounter-specific death rules first.
 
 ### 15C — God Wars Dungeon
 - Unlock the God Wars Dungeon fully and collect the god items that keep aggressive followers off you on entry.
@@ -308,7 +308,7 @@ English translation (November 2026) of the Dutch Atlas endgame chapters, plus E1
 - Perilous Moons sets get outclassed later; use them while they are practical without forcing an endless boss grind.
 - The Nightmare and Phosani's Nightmare are extremely demanding and dangerous for your status, so only work on them after broad PvM experience.
 - The Corporeal Beast needs specialist gear and long preparation; keep it as a special endgame project.
-- Farm the Alchemical Hydra (95 Slayer, on task) for the hydra's claw and supplies once you control its attack cycle and poison mechanics.
+- Farm the Alchemical Hydra (95 Slayer, on task) for the hydra's claw and supplies once you control its phases and poison mechanics.
 - Farm Cerberus for the boot crystals once you can counter the ghost phase reliably.
 - Grotesque Guardians, the Abyssal Sire, the Thermonuclear smoke devil and other Slayer bosses are optional grinds with their own risk; do not judge them by the normal task difficulty.
 
@@ -320,7 +320,7 @@ English translation (November 2026) of the Dutch Atlas endgame chapters, plus E1
 - Learn the basic rooms, scouting, roles and room puzzles, and practise moving and praying before maximum DPS.
 - Learn the Great Olm phase by phase: positioning, hand and head mechanics, portals, crystals, acid, burn and team play.
 - Move from learner runs to consistent completions; loot is RNG and the safest learning route is not always the fastest points per hour.
-- Collect the Dexterous prayer scroll for Rigour and the Arcane prayer scroll for Augury when they drop, and train the Prayer levels for them.
+- Aim for the Dexterous prayer scroll for Rigour and the Arcane prayer scroll for Augury, and train the Prayer levels for them.
 - Rigour is especially strong for ranged PvM; do not let a long hunt for a Twisted bow block all other endgame progress.
 - Long-term goals are Ancestral robes, Dragon claws, the Twisted bow, the Kodai insignia and other CoX rewards, depending on your account goals.
 - Also use CoX to safely practise tri-bridding, prayer switches and team communication before the risky raids.
@@ -387,7 +387,7 @@ English translation (November 2026) of the Dutch Atlas endgame chapters, plus E1
 - Train Mining, Smithing and Construction in parallel with materials from your kingdom, Slayer, bosses and Sailing.
 - Set 99 as a visible long-term goal for every skill and track the XP left per skill.
 - Only make the max cape once every currently required skill is 99, including Sailing.
-- After maxing, the collection log, pets, Combat Achievements, boss kill counts, clue tiers and gear perfection remain.
+- After maxing, the collection log, pets, Combat Achievements, boss killcounts, clue tiers and gear perfection remain.
 
 ## 23. Active "first 100 hours" planning (no artificial XP rush)
 

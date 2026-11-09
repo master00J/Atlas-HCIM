@@ -127,13 +127,13 @@ def episode_1(r):
         'All Settings -> Disable level-up',
         "Talk to the Cook in the Lumbridge Castle kitchen and start Cook's Assistant (keep the Pot and Bucket from Tutorial Island)",
         "Talk to Captain Harlan outside the General Store north of the castle and start Mudfoot's Big Adventure (1)",
-        'Talk to Cassius by the pond south of the windmill and start The Ides of Milk',
+        'Talk to Cassius at the pond south of the windmill and start The Ides of Milk',
         'Cross the River Lum and talk to Gillie Groats in the cow field just north of the gate [The Ides of Milk]',
         'Talk to Seth Groats in the farmhouse next to the chicken coop [The Ides of Milk]',
         'Search the shelf on the south wall of the farmhouse for The Groats Principles [The Ides of Milk]',
         "Take an Egg [Cook's Assistant]",
         "Milk the Dairy cow in the cow field for a Bucket of milk [Cook's Assistant]",
-        "Talk to Mudfoot by the building south of the cow field, without a pet following you [Mudfoot's Big Adventure]",
+        "Talk to Mudfoot near the building south of the cow field, without a pet following you [Mudfoot's Big Adventure]",
         "Confront the outlaw walking outside the Lumbridge General Store [Mudfoot's Big Adventure]",
         "Talk to Mudfoot again at the chicken field south of the Lumbridge windmill [Mudfoot's Big Adventure]",
         "Kill the Ranger Outlaw (level 6) with the Bronze dagger on stab and take his Shortbow & 80 Bronze arrows [Mudfoot's Big Adventure]",
@@ -141,8 +141,8 @@ def episode_1(r):
         'Drink the Milk sample (1 damage, no poison) and talk to Cassius again for a new Milk sample [The Ides of Milk]',
         "Pick Grain next to the windmill, put it in the hopper on the top floor and pull the lever [Cook's Assistant]",
         "Use the Pot on the flour bin on the ground floor for a Pot of flour [Cook's Assistant]",
-        "Wield the Shortbow and kill the Mage Outlaw south of the H.A.M. Hideout, then take his Staff, Air runes & Mind runes [Mudfoot's Big Adventure]",
-        "Wield the Staff and go to the Lumbridge graveyard behind the church; if you left the fight area, fetch Mudfoot from outside the H.A.M. Hideout first",
+        "Wield the Shortbow and kill the Mage Outlaw south of the H.A.M Hideout, then take his Staff, Air runes & Mind runes [Mudfoot's Big Adventure]",
+        "Wield the Staff and go to the Lumbridge graveyard behind the church; if you left the fight area, fetch Mudfoot from outside the H.A.M Hideout first",
         "Kill the Warrior Outlaw with Wind Strike, because he prays Protect from Melee after your first hit, and take his Iron scimitar & Iron kiteshield [Mudfoot's Big Adventure]",
         'Talk to Father Aereck in the church and start The Restless Ghost',
         "Talk to Captain Harlan (1) and complete Mudfoot's Big Adventure",
@@ -176,7 +176,7 @@ def episode_1(r):
 
     r.insert_after(E1, 'Bank 9', 'Make 454 Headless Arrows', [
         "Route note — Pandemonium (Sailing, November 2025) has no requirements; you need 2 free inventory slots and empty hands, and it unlocks Sailing, a raft and the Captain's log.",
-        'Unequip your weapon and the Chronicle, then talk to Will or Anne on the dock east of the Port Sarim Food Store to start Pandemonium',
+        'Unequip your weapon and the Chronicle, then talk to Will (or Anne) on the dock east of the Port Sarim Food Store to start Pandemonium',
         'Complete Pandemonium (follow Quest Helper)',
         'Wield the Chronicle again',
         'OPTIONAL: once you have 4 Sailing, do one courier task between Port Sarim and The Pandemonium',
@@ -185,7 +185,7 @@ def episode_1(r):
     r.replace(E1, 'Bank 11', 'Routeadvies — Edgeville → Wilderness → Ardougne…',
               'Route note — Edgeville, Wilderness and Ardougne: HCIM WARNING, this segment uses the Wilderness and the lever, and a normal death to monsters or PKers costs your status; skip it if you want and do the diary and miniquest steps later.')
     r.replace(E1, 'Bank 12', 'Routeadvies — Knight’s Sword: blurite…',
-              "Route note — Knight's Sword blurite: Ice Warriors can kill an early account quickly, so use a proven safespot, keep a teleport ready and never mine while you are taking damage.")
+              "Route note — Knight's Sword blurite: Ice Warriors are deadly for an early account, so use a proven safespot, keep a teleport ready and never mine while you are taking damage.")
     r.replace(E1, 'Bank 13', 'Routeadvies — The Tourist Trap…',
               'Route note — The Tourist Trap: the Mercenary Captain needs safe positioning, and the fastest safespot route is not automatically the best choice if you are inexperienced.')
 
@@ -202,7 +202,7 @@ def episode_2(r):
         "Talk to Sergeant Hudson and inspect the body parts on the bed, the shelves and the blood on the wall [The Writing's on the Wall]",
         "Talk to Lan the Butcher in the house south-west of the bank, search his bed and use the bloody knife on him [The Writing's on the Wall]",
         "Talk to Hugor in the eastern house, inspect your clues and talk to Betty and Sergeant Hudson again [The Writing's on the Wall]",
-        "Run north-east and talk to Betty by the house north-west of the Tithe Farm [The Writing's on the Wall]",
+        "Run north-east and talk to Betty at the house north-west of the Tithe Farm [The Writing's on the Wall]",
         "Climb through the west window, open the door for Betty and search the basement and the bookshelf upstairs [The Writing's on the Wall]",
         "Search the compost bin north of the house and inspect the head [The Writing's on the Wall]",
         "Talk to Joyce in the potato field west of the house and the monk just south of it [The Writing's on the Wall]",
@@ -222,8 +222,8 @@ def episode_2(r):
               'Withdraw: Coins, Enchanted Quill, Enchanted Scroll, Stew, Pickaxe, Chronicle, Axe, Tinderbox, Shortbow, Bronze Arrows, Air Runes, Mind Runes, 10x Food (22 Inventory Slots)')
     r.insert_after(E2, 'Bank 29', 'Head to Varlamore', [
         "Route note — Twilight's Promise moved here from Episode 6: it gives 3,000 Thieving, the Civitas illa Fortis Teleport and the Quetzal Transport System, which shortens this trip and every later Varlamore trip.",
-        "Talk to Ennius Tullus or Furia Tullus in front of the Sunrise Palace and start Twilight's Promise",
-        "Let the guards kill the level 34 cultists in the Teomat [Twilight's Promise]",
+        "Talk to Ennius Tullus (or Furia Tullus) in front of the Sunrise Palace and start Twilight's Promise",
+        "Let the guards deal with the level 34 cultists in the Teomat [Twilight's Promise]",
         "HCIM: Mezan in the Colosseum is level 81 with a max hit of 8; switch between Magic and Ranged every 3 attacks so he never prays, and eat early [Twilight's Promise]",
         "Complete Twilight's Promise",
     ])
@@ -233,7 +233,7 @@ def episode_2(r):
     r.replace(E2, 'Bank 34', 'Routeadvies — Agility Pyramid…',
               "Route note — Agility Pyramid for a big cash buffer: B0aty's efficiency goal is over 1 million GP while training Agility; it is a target, not a guaranteed amount.")
     r.replace(E2, 'Bank 37', 'Routeadvies — Blackjacking…',
-              'Route note — Blackjacking to 50 Thieving: blackjacking can be dangerous at low HP, so keep an eye on your healing and avoid long AFK sessions.')
+              'Route note — Blackjacking for 50 Thieving: blackjacking can be dangerous at low HP, so keep an eye on your healing and avoid long AFK sessions.')
     r.replace(E2, 'Bank 38', 'Routeadvies — Jungle Potion + Shilo Village…',
               'Route note — Jungle Potion and Shilo Village: your escape is sometimes limited in tunnels and boss fights, so check your HP and keep some food slots before you go in.')
 
@@ -267,7 +267,7 @@ def episode_2(r):
         "Route note — Tower of Life moved here from Bank 155: its 1,000 Construction XP saves Mahogany Homes contracts in Bank 61 and its 500 Crafting XP saves glass in Bank 68.",
         'Withdraw: Coins, Hammer, Saw, Beer, Teleport Runes (5 Inventory Slots)',
         'Tower of Life needs 10 Construction (not boostable); if you are lower, do Beginner Mahogany Homes contracts from Bank 61 until 10 Construction first',
-        'Ardy Cloak to the Monastery and talk to Effigy just east of it to start Tower of Life',
+        'Ardy Cloak to the Monastery and talk to Effigy east of it to start Tower of Life',
         'Complete Tower of Life (1,000 Construction, 500 Crafting and 500 Thieving XP)',
         'Bank anywhere and deposit all',
     ])
@@ -277,13 +277,13 @@ def episode_3(r):
     r.insert_section_after(E3, 'Bank 75', 'Sailing A — 1 to 30 Sailing (optional)', [
         'Route note — Sailing block A is optional (about 3 to 4 hours): Sailing is not a Song of the Elves requirement, but shipbuilding gives Construction XP and port tasks give coins and sawmill coupons; skip to Bank 76 for the fastest route to Song of the Elves.',
         'Withdraw: Coins, Steel Bar, Hammer, Redberry Pie, Teleport Runes (5 Inventory Slots)',
-        "Take two courier tasks at a time to the same port, or tasks that lie on each other's route",
+        "Do two courier tasks at a time to the same port, or tasks that lie on each other's route",
         'Chart every sea charting spot you pass for one-off XP and faster rapids later',
         'Train to 12 Sailing with courier tasks and sea charting',
         "Talk to Squawking Steve Beanie in the pub on The Pandemonium and start Prying Times (needs 30 Smithing and The Knight's Sword)",
         'Complete Prying Times (crowbar, 800 Sailing, 1,000 Smithing and 25 oak sawmill coupons)',
         'Train to 15 Sailing',
-        'Buy the skiff (15,000 coins) and build a cargo hold and a bronze salvaging hook',
+        'Get the skiff for 15,000 coins and build a cargo hold and a bronze salvaging hook',
         "Sort salvage at a salvaging station instead of dropping it: every tier can give the Sailors' amulet (cheap island teleports) and a 1/3,000 museum find with kudos and antique lamps (lamps on Herblore)",
         'Build the iron helm at 17 Sailing and 14 Construction (6 iron bars and 3 oak planks)',
         'Train to 22 Sailing',
@@ -339,7 +339,7 @@ def episode_6_to_8(r):
               'Route note — Long midgame checkpoint: B0aty groups many separate combat preparation steps here; follow the sub-goals exactly and check the current death rules before every boss.')
     r.delete(E6, 'Bank 176', 'Complete Twilights Promise')
     r.insert_after(E6, 'Bank 176', 'Start A Great Brain Robbery & plant Watermelons in the patch on Harmony Island', [
-        'Sailing B (optional, 30 to 52 Sailing): do it now that you have 51+ Slayer',
+        'Sailing B (optional, Sailing 30-52): do it now that you have 51+ Slayer',
         'Train to 45 Sailing with The Tempor Tantrum or AFK salvaging during farm and birdhouse timers',
         'Troubled Tortugans needs 45 Sailing, 51 Slayer, 48 Construction, 45 Hunter, 40 Woodcutting and 34 Crafting; bring an axe, hammer, saw, food and combat gear',
         'Sail to the Remote Island north-west of The Great Conch and talk to the Injured Tortugan to start Troubled Tortugans',

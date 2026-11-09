@@ -167,7 +167,30 @@ public class AtlasGuideReportTest
 		{
 			return "expected an NPC target";
 		}
+		if (condition != null && condition.getQuest() != null && !namesWholeQuest(text, condition.getQuest().getName()))
+		{
+			// e.g. "Complete Dragon Slayer II to ..." resolving to Dragon Slayer I
+			return "quest resolved to " + condition.getQuest().getName() + ", which is not the quest named";
+		}
 		return null;
+	}
+
+	private static boolean namesWholeQuest(String text, String questName)
+	{
+		String lower = text.toLowerCase(java.util.Locale.ROOT).replace('’', '\'');
+		String name = questName.toLowerCase(java.util.Locale.ROOT).replace('’', '\'');
+		int from = 0;
+		int idx;
+		while ((idx = lower.indexOf(name, from)) >= 0)
+		{
+			int end = idx + name.length();
+			if (end >= lower.length() || !Character.isLetter(lower.charAt(end)))
+			{
+				return true;
+			}
+			from = idx + 1;
+		}
+		return false;
 	}
 
 	private static List<String> unknownQuests(String rows)
