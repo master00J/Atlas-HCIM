@@ -20,3 +20,24 @@ jobs:
         with:
           python-version: '3.12'
       - run: python guide-tools/test_atlas.py
+  runelite-plugin:
+    # Bouwt de plugin tegen de echte, actuele RuneLite-API en draait RouteGuideTest
+    # (questnamen, skills, stap-ids, voortgangslogica).
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: runelite-plugin
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: route.json is up-to-date met tools/guide.md
+        run: |
+          python tools/guide_to_json.py tools/guide.md /tmp/route.json
+          diff -q /tmp/route.json src/main/resources/com/hcimroute/route.json
+      - run: ./gradlew build --no-daemon

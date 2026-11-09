@@ -39,8 +39,15 @@ Bijvoorbeeld:
 
 Het is een **automatisch doel op basis van voortgang in de guide**; het bevestigt niet of een quest daadwerkelijk is voltooid. Voor een tijdelijk eigen doel kun je op `/control` de handmatige override instellen; leegmaken activeert automatisch opnieuw.
 
+## RuneLite-plugin: HCIM Macroquest Route
+
+In [`runelite-plugin/`](runelite-plugin/) staat een eigen RuneLite-plugin met de bijgewerkte **HCIM Macroquest Guide 2026** (Nederlandstalig, met de updates t.e.m. Quest Month november 2026): een zijpaneel met alle fases en banks, voortgang per account, een overlay met je volgende stap en automatisch afvinken bij voltooide quests en skill-doelen. Het is een zelfstandig Gradle-project; zie [`runelite-plugin/README.md`](runelite-plugin/README.md) om het te starten.
+
+Deze plugin schrijft nog geen `stream-state.json`; dat is de volgende stap om hem als bron voor de streamoverlay te gebruiken in plaats van de gepatchte Guide Overlay.
+
 ## Repo-structuur
 
+- `runelite-plugin/`: RuneLite-plugin met de HCIM Macroquest Route (zelfstandig Gradle-project).
 - `bridge/`: Node.js HTTP/SSE-server, alleen bereikbaar via `127.0.0.1`.
 - `assets/`: geanimeerd-ready overlay met live tekst, voortgangsbalken, PNG-frames en dashboard.
 - `runelite-patch/`: Java-exporter + patch/installatiescripts voor Guide Overlay.
