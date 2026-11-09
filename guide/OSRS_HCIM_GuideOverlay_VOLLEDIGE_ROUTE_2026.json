@@ -260,6 +260,13 @@
             {
               "content": [
                 {
+                  "text": "Equip your leather gloves and boots before leaving Lumbridge"
+                }
+              ]
+            },
+            {
+              "content": [
+                {
                   "text": "Withdraw: Coins, Air Runes, Mind Runes, Bread, Spade, Tinderbox, Air Talisman, Treasure Scroll (8 Inventory slots)"
                 }
               ]
@@ -1295,6 +1302,13 @@
               "content": [
                 {
                   "text": "Make 454 Headless Arrows"
+                }
+              ]
+            },
+            {
+              "content": [
+                {
+                  "text": "Check that you have at least two free inventory slots before Pandemonium"
                 }
               ]
             },
@@ -3187,6 +3201,13 @@
               "content": [
                 {
                   "text": "Bank West side of the Square and deposit everything"
+                }
+              ]
+            },
+            {
+              "content": [
+                {
+                  "text": "Confirm 22 Agility and 20 Thieving (neither boostable) before starting The Writing's on the Wall"
                 }
               ]
             },
