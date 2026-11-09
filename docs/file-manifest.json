@@ -149,8 +149,8 @@
     },
     {
       "path": "guide-tools/reports/HCIM_ATLAS_AUDIT_VOLLEDIGE_ROUTE.csv",
-      "bytes": 605738,
-      "sha256": "78bd1710cb10feefb14ab65b9cee68a487c6ea6407d612329ed83d9dd47a6b6d"
+      "bytes": 605781,
+      "sha256": "8bf7c5276ed1e9fb02aa6b8e8bb6db469091cbac6a441f57f6e267f1eda1487b"
     },
     {
       "path": "guide-tools/reports/HCIM_ATLAS_COVERAGE.json",
@@ -159,8 +159,8 @@
     },
     {
       "path": "guide-tools/route_2026.py",
-      "bytes": 35059,
-      "sha256": "fceeab971ca9864e206218d7257bf67b22f34dc04e709c2162779f48b3c2bc17"
+      "bytes": 35099,
+      "sha256": "83ff0152476135b88aadf40b1321ff152e1c005305f35c4022b6452cc99f75a8"
     },
     {
       "path": "guide-tools/test_atlas.py",
@@ -184,8 +184,8 @@
     },
     {
       "path": "guide/HCIM_ATLAS_VOLLEDIGE_ROUTE.json",
-      "bytes": 687737,
-      "sha256": "289182ba2c7441be24d7c9df26f3b2647c461ee2f9ca7a3f1b2a8f0bf3831064"
+      "bytes": 687778,
+      "sha256": "280c8e7a78bb02f68c39872408e609e8c94a37ba80719bd4801894d7866c5cf1"
     },
     {
       "path": "guide/OSRS_HCIM_GuideOverlay_ENDGAME_2026.json",
@@ -194,8 +194,8 @@
     },
     {
       "path": "guide/OSRS_HCIM_GuideOverlay_VOLLEDIGE_ROUTE_2026.json",
-      "bytes": 687738,
-      "sha256": "8460c0d4d489c3ffbd5dbf2aae702708fa500acdd78ddda51de61db6953b8b38"
+      "bytes": 687779,
+      "sha256": "3e77d31c08a448fcb636d3a18eeb73259703a3c9e7f8261dc104374adda3e6d9"
     },
     {
       "path": "guide/goal-rules.json",

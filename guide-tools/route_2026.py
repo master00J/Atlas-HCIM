@@ -315,7 +315,7 @@ def episode_4(r):
         'Kourend Library shortcut: with 52 Agility you can jump down from the middle floor and with 62 Agility from the top floor',
     ])
     r.insert_before(E4, 'Bank 130', 'Open the pen in the north-east corner of the cow farm and fight the bull [The Ides of Milk]', [
-        'HCIM: Brutus\'s special attacks scale with your HP and cannot be prayed against; step 2 tiles sideways when he snorts or growls and leave through the south-west gate if it goes wrong',
+        "HCIM: Brutus's special attacks hit up to 19 and cannot be prayed against; when he snorts step 2 tiles to the side or 1 tile back, when he growls step 2 tiles to the side, and start the fight with full HP [The Ides of Milk]",
     ])
     r.insert_after(E4, 'Bank 130', 'Speak to Cassius to complete the Ides of Milk', [
         'Use the 1,000 XP combat lamp from The Ides of Milk on Prayer or Ranged',

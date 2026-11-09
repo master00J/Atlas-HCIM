@@ -1905,7 +1905,7 @@ Episode 4 - Banks 105 through 150,Bank 130,13,C4.S27#236ba825#0,handmatig of con
 Episode 4 - Banks 105 through 150,Bank 130,14,C4.S27#83cb3a79#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Seth Groats [One Small Favour]
 Episode 4 - Banks 105 through 150,Bank 130,15,C4.S27#18505fa2#0,route/locatie,,compound_task,,,Return to the cow pen and talk to Gillie Groats [The Ides of Milk]
 Episode 4 - Banks 105 through 150,Bank 130,16,C4.S27#b63aaf07#0,handmatig of contextueel,,not_safe_to_pin,,,Drink the milk sample infront of Gillie Groats who will offer you a permit for dealing with the bull [The Ides of Milk]
-Episode 4 - Banks 105 through 150,Bank 130,17,C4.S27#b68af923#0,note/handmatig,,not_safe_to_pin,,,HCIM: Brutus's special attacks scale with your HP and cannot be prayed against; step 2 tiles sideways when he snorts or growls and leave through the south-west gate if it goes wrong
+Episode 4 - Banks 105 through 150,Bank 130,17,C4.S27#e54b1eb8#0,note/handmatig,,not_safe_to_pin,,,"HCIM: Brutus's special attacks hit up to 19 and cannot be prayed against; when he snorts step 2 tiles to the side or 1 tile back, when he growls step 2 tiles to the side, and start the fight with full HP [The Ides of Milk]"
 Episode 4 - Banks 105 through 150,Bank 130,18,C4.S27#4e0ccde0#0,handmatig of contextueel,,not_safe_to_pin,,,Open the pen in the north-east corner of the cow farm and fight the bull [The Ides of Milk]
 Episode 4 - Banks 105 through 150,Bank 130,19,C4.S27#afa8665f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Speak to Gillie Groats [The Ides of Milk]
 Episode 4 - Banks 105 through 150,Bank 130,20,C4.S27#7b5d810c#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Speak to Cassius to complete the Ides of Milk
