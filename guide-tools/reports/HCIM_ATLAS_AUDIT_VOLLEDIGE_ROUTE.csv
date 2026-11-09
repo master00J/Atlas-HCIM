@@ -34,23 +34,24 @@ Episode 1 - Banks 1 through 24:,Starting Out,32,C1.S1#47796f2b#0,bank-items of b
 Episode 1 - Banks 1 through 24:,Starting Out,33,C1.S1#40f1013c#0,handmatig of contextueel,,not_safe_to_pin,,,Keep the Shrimps in your bank for later [Family Crest Quest]
 Episode 1 - Banks 1 through 24:,Starting Out,34,C1.S1#a5ea4ef7#0,handmatig of contextueel,,not_safe_to_pin,,,Keep Mudfoot's Shortbow & all Bronze arrows in your bank for later [Underground Pass]
 Episode 1 - Banks 1 through 24:,Starting Out,35,C1.S1#256e197a#0,handmatig of contextueel,,not_safe_to_pin,,,Move Coins into first bank slot & Runes to the top slots. Click the lock to Always set Placeholders. Set Bank pin for Count Check randoms or delete the pin from Tutorial Island.
-Episode 1 - Banks 1 through 24:,Bank 1,1,C1.S2#61aafe21#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Air Runes, Mind Runes, Bread, Spade, Tinderbox, Air Talisman, Treasure Scroll (8 Inventory slots)"
-Episode 1 - Banks 1 through 24:,Bank 1,2,C1.S2#34dbff7a#0,route/locatie,,unresolved_location,,,Go down south staircase twice (Right-Click 'Bottom-floor')
-Episode 1 - Banks 1 through 24:,Bank 1,3,C1.S2#d8072831#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Collect the Empty Jug, Bowl & Knife in Lumbridge kitchen"
-Episode 1 - Banks 1 through 24:,Bank 1,4,C1.S2#8f7d9f90#0,handmatig of contextueel,,not_safe_to_pin,,,Fill the jug & bowl on the sink in the kitchen [Monk's Friend]
-Episode 1 - Banks 1 through 24:,Bank 1,5,C1.S2#6cb8a927#0,handmatig of contextueel,,not_safe_to_pin,,,Complete 2nd Step of X Marks The Spot
-Episode 1 - Banks 1 through 24:,Bank 1,6,C1.S2#a3d11730#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill a giant rat with Wind Strike and collect the Bones + Raw Rat Meat [Druidic Ritual]
-Episode 1 - Banks 1 through 24:,Bank 1,7,C1.S2#ab6e60a8#0,route/locatie,,safety_avoidance,,,Head West towards Draynor hugging the fence to avoid the Jail Guards
-Episode 1 - Banks 1 through 24:,Bank 1,8,C1.S2#84965954#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Father Urhney in the lumbridge swamp for Ghost Speak Amulet. (2,1) Wield this."
-Episode 1 - Banks 1 through 24:,Bank 1,9,C1.S2#996b2bab#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Leather Gloves on the table inside his house & wield
-Episode 1 - Banks 1 through 24:,Bank 1,10,C1.S2#bed0075d#0,route/locatie,,gecontroleerde plaatsbron,Wizards' Tower,"3113,3179,0",Head to the Wizards Tower
-Episode 1 - Banks 1 through 24:,Bank 1,11,C1.S2#d2b610#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Leather Boots off the table & wield
-Episode 1 - Banks 1 through 24:,Bank 1,12,C1.S2#b224b6bb#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect 3x Logs next to the stairs [Tree Gnome Village]
-Episode 1 - Banks 1 through 24:,Bank 1,13,C1.S2#c338a2fa#0,route/locatie,,compound_task,,,"Head to the basement & Talk to Sedridor to continue Rune Mysteries (1,2,1)"
-Episode 1 - Banks 1 through 24:,Bank 1,14,C1.S2#4156604a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Kill a Chicken. Take Everything (Make sure you get a feather, else hop worlds and repeat)[Client of Kourend + Druidic Ritual]"
-Episode 1 - Banks 1 through 24:,Bank 1,15,C1.S2#23d35d44#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect 3x Logs [Tree Gnome Village]
-Episode 1 - Banks 1 through 24:,Bank 1,16,C1.S2#c11f1e20#0,route/locatie,,compound_task,,,Head north to Draynor & talk to Friendly Forester and obtain Forestry kit (right click shop and buy 1)
-Episode 1 - Banks 1 through 24:,Bank 1,17,C1.S2#75627118#0,bank-items of bankactie,,gecontroleerde plaatsbron,Draynor Village Bank,"3092,3245,0",Bank at Draynor and Deposit all
+Episode 1 - Banks 1 through 24:,Bank 1,1,C1.S2#79e5385a#0,handmatig of contextueel,,not_safe_to_pin,,,Equip your leather gloves and boots before leaving Lumbridge
+Episode 1 - Banks 1 through 24:,Bank 1,2,C1.S2#61aafe21#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Air Runes, Mind Runes, Bread, Spade, Tinderbox, Air Talisman, Treasure Scroll (8 Inventory slots)"
+Episode 1 - Banks 1 through 24:,Bank 1,3,C1.S2#34dbff7a#0,route/locatie,,unresolved_location,,,Go down south staircase twice (Right-Click 'Bottom-floor')
+Episode 1 - Banks 1 through 24:,Bank 1,4,C1.S2#d8072831#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Collect the Empty Jug, Bowl & Knife in Lumbridge kitchen"
+Episode 1 - Banks 1 through 24:,Bank 1,5,C1.S2#8f7d9f90#0,handmatig of contextueel,,not_safe_to_pin,,,Fill the jug & bowl on the sink in the kitchen [Monk's Friend]
+Episode 1 - Banks 1 through 24:,Bank 1,6,C1.S2#6cb8a927#0,handmatig of contextueel,,not_safe_to_pin,,,Complete 2nd Step of X Marks The Spot
+Episode 1 - Banks 1 through 24:,Bank 1,7,C1.S2#a3d11730#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill a giant rat with Wind Strike and collect the Bones + Raw Rat Meat [Druidic Ritual]
+Episode 1 - Banks 1 through 24:,Bank 1,8,C1.S2#ab6e60a8#0,route/locatie,,safety_avoidance,,,Head West towards Draynor hugging the fence to avoid the Jail Guards
+Episode 1 - Banks 1 through 24:,Bank 1,9,C1.S2#84965954#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Father Urhney in the lumbridge swamp for Ghost Speak Amulet. (2,1) Wield this."
+Episode 1 - Banks 1 through 24:,Bank 1,10,C1.S2#996b2bab#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Leather Gloves on the table inside his house & wield
+Episode 1 - Banks 1 through 24:,Bank 1,11,C1.S2#bed0075d#0,route/locatie,,gecontroleerde plaatsbron,Wizards' Tower,"3113,3179,0",Head to the Wizards Tower
+Episode 1 - Banks 1 through 24:,Bank 1,12,C1.S2#d2b610#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Leather Boots off the table & wield
+Episode 1 - Banks 1 through 24:,Bank 1,13,C1.S2#b224b6bb#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect 3x Logs next to the stairs [Tree Gnome Village]
+Episode 1 - Banks 1 through 24:,Bank 1,14,C1.S2#c338a2fa#0,route/locatie,,compound_task,,,"Head to the basement & Talk to Sedridor to continue Rune Mysteries (1,2,1)"
+Episode 1 - Banks 1 through 24:,Bank 1,15,C1.S2#4156604a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Kill a Chicken. Take Everything (Make sure you get a feather, else hop worlds and repeat)[Client of Kourend + Druidic Ritual]"
+Episode 1 - Banks 1 through 24:,Bank 1,16,C1.S2#23d35d44#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect 3x Logs [Tree Gnome Village]
+Episode 1 - Banks 1 through 24:,Bank 1,17,C1.S2#c11f1e20#0,route/locatie,,compound_task,,,Head north to Draynor & talk to Friendly Forester and obtain Forestry kit (right click shop and buy 1)
+Episode 1 - Banks 1 through 24:,Bank 1,18,C1.S2#75627118#0,bank-items of bankactie,,gecontroleerde plaatsbron,Draynor Village Bank,"3092,3245,0",Bank at Draynor and Deposit all
 Episode 1 - Banks 1 through 24:,Bank 2,1,C1.S3#addee9e1#0,note/handmatig,review_handmatig,not_safe_to_pin,,,"Route note — Draynor, Port Sarim, Zeah, Lumbridge and the Stronghold: the Stronghold of Security is NOT a safe death, so bring extra food if your HP is low and leave when you run short of HP or run energy; it is fast early money, not a required HCIM step."
 Episode 1 - Banks 1 through 24:,Bank 2,2,C1.S3#255b7233#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Spade, Feather & Mysterious Orb (4 Inventory Slots)"
 Episode 1 - Banks 1 through 24:,Bank 2,3,C1.S3#2a26a6ff#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect Cheese from Aggie [Witch's House]
@@ -177,34 +178,35 @@ Episode 1 - Banks 1 through 24:,Bank 9,3,C1.S10#3a0f03b5#0,handmatig of contextu
 Episode 1 - Banks 1 through 24:,Bank 9,4,C1.S10#26bd0fa6#0,route/locatie,,compound_task,,,"Head West and talk to Redbeard Frank to start Pirate's Treasure (1,1)"
 Episode 1 - Banks 1 through 24:,Bank 9,5,C1.S10#648f3856#0,route/locatie,,multi_sentence,,,"Head South-West and buy a Harpoon, 50 Bait (non-packs) and 10 Feather packs. Take Apron from the wall & wear."
 Episode 1 - Banks 1 through 24:,Bank 9,6,C1.S10#691122b2#0,handmatig of contextueel,,not_safe_to_pin,,,Make 454 Headless Arrows
-Episode 1 - Banks 1 through 24:,Bank 9,7,C1.S10#da252471#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Unequip your weapon and the Chronicle, then talk to Will (or Anne) on the dock east of the Port Sarim Food Store to start Pandemonium"
-Episode 1 - Banks 1 through 24:,Bank 9,8,C1.S10#8296aac2#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Pandemonium (follow Quest Helper)
-Episode 1 - Banks 1 through 24:,Bank 9,9,C1.S10#84752c5b#0,handmatig of contextueel,,not_safe_to_pin,,,Wield the Chronicle again
-Episode 1 - Banks 1 through 24:,Bank 9,10,C1.S10#5314da90#0,note/handmatig,,not_safe_to_pin,,,"OPTIONAL: once you have 4 Sailing, do one courier task between Port Sarim and The Pandemonium"
-Episode 1 - Banks 1 through 24:,Bank 9,11,C1.S10#ab3c7e2a#0,route/locatie,,gecontroleerde plaatsbron,Karamja,"2918,3176,0",Take Ship to Karamja (Seamen dressed in blue)
-Episode 1 - Banks 1 through 24:,Bank 9,12,C1.S10#64610213#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Luthas and ask for employment (1)
-Episode 1 - Banks 1 through 24:,Bank 9,13,C1.S10#16fc011b#0,handmatig of contextueel,,not_safe_to_pin,,,Fish Raw Shrimps [Karamja Easy Diary] Drop Shrimps
-Episode 1 - Banks 1 through 24:,Bank 9,14,C1.S10#3ff891ec#0,handmatig of contextueel,,not_safe_to_pin,,,Pick 10 bananas
-Episode 1 - Banks 1 through 24:,Bank 9,15,C1.S10#e900962f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy Karamja Rum
-Episode 1 - Banks 1 through 24:,Bank 9,16,C1.S10#812684be#0,handmatig of contextueel,,not_safe_to_pin,,,Fill Crate with bananas and use Karamja rum on the crate
-Episode 1 - Banks 1 through 24:,Bank 9,17,C1.S10#4a98d4fb#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Make sure to speak to Luthas again before heading to the boat
-Episode 1 - Banks 1 through 24:,Bank 9,18,C1.S10#b3e69660#0,route/locatie,,gecontroleerde plaatsbron,Port Sarim,"3047,3236,0",Take boat back to Port Sarim [Karamja Easy Diary]
-Episode 1 - Banks 1 through 24:,Bank 9,19,C1.S10#14fba4df#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Trade Wydin and buy Raw Chicken, 2x Raw Beef, 3x Flour & 2x redberries"
-Episode 1 - Banks 1 through 24:,Bank 9,20,C1.S10#7e4d896#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Continue Pirate's Treasure by talking to Wydin to get employed, and collect the rum from the crate."
-Episode 1 - Banks 1 through 24:,Bank 9,21,C1.S10#12ef9f1#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy 8x Raw Sardines
-Episode 1 - Banks 1 through 24:,Bank 9,22,C1.S10#6b6f52db#0,handmatig of contextueel,,not_safe_to_pin,,,"Use the Deposit box by Entrana and deposit everything except: Mind Runes, Coins, 1x Raw Beef, Karamja Rum, Onion, Pickaxe & 2x wines (8 Inventory Slots)"
-Episode 1 - Banks 1 through 24:,Bank 9,23,C1.S10#8c2f98e6#0,route/locatie,,unresolved_location,,,Return to Redbeard Frank
-Episode 1 - Banks 1 through 24:,Bank 9,24,C1.S10#462fc69e#0,route/locatie,,compound_task,,,Head West to Betty and buy 2x Eye of Newt & 200 mind runes
-Episode 1 - Banks 1 through 24:,Bank 9,25,C1.S10#6c9063b8#0,route/locatie,,compound_task,,,Head South-West and complete Witches Potion (Beef twice on range to burn)
-Episode 1 - Banks 1 through 24:,Bank 9,26,C1.S10#6bc54b4c#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take 2x Logs when getting the rat tail
-Episode 1 - Banks 1 through 24:,Bank 9,27,C1.S10#644b7222#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Buy moulds: Ring, Amulet, 2x Necklace, Bracelet, Sickle, Tiara, 3x Needle & 50 Thread (from Rommik in Rimmington)"
-Episode 1 - Banks 1 through 24:,Bank 9,28,C1.S10#5b6b7b04#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy 3x Buckets & Shears
-Episode 1 - Banks 1 through 24:,Bank 9,29,C1.S10#3313e0aa#0,route/locatie,,compound_task,,,Head North-West and collect a Snape Grass
-Episode 1 - Banks 1 through 24:,Bank 9,30,C1.S10#71a6ec6c#0,handmatig of contextueel,,not_safe_to_pin,,,Milk the cow 3x by Crafting guild
-Episode 1 - Banks 1 through 24:,Bank 9,31,C1.S10#6a4bc37c#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill a cow & take everything
-Episode 1 - Banks 1 through 24:,Bank 9,32,C1.S10#86b61ddb#0,handmatig of contextueel,,not_safe_to_pin,,,Shear a sheep by the Makeover Mage
-Episode 1 - Banks 1 through 24:,Bank 9,33,C1.S10#40fd7529#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Falador Crumbling wall Shortcut [Falador Easy Diary]
-Episode 1 - Banks 1 through 24:,Bank 9,34,C1.S10#d9b107b1#0,bank-items of bankactie,,gecontroleerde plaatsbron,Falador West Bank,"2946,3369,0",Bank at Falador West Bank and deposit all
+Episode 1 - Banks 1 through 24:,Bank 9,7,C1.S10#b5641753#0,handmatig of contextueel,,not_safe_to_pin,,,Check that you have at least two free inventory slots before Pandemonium
+Episode 1 - Banks 1 through 24:,Bank 9,8,C1.S10#da252471#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Unequip your weapon and the Chronicle, then talk to Will (or Anne) on the dock east of the Port Sarim Food Store to start Pandemonium"
+Episode 1 - Banks 1 through 24:,Bank 9,9,C1.S10#8296aac2#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Pandemonium (follow Quest Helper)
+Episode 1 - Banks 1 through 24:,Bank 9,10,C1.S10#84752c5b#0,handmatig of contextueel,,not_safe_to_pin,,,Wield the Chronicle again
+Episode 1 - Banks 1 through 24:,Bank 9,11,C1.S10#5314da90#0,note/handmatig,,not_safe_to_pin,,,"OPTIONAL: once you have 4 Sailing, do one courier task between Port Sarim and The Pandemonium"
+Episode 1 - Banks 1 through 24:,Bank 9,12,C1.S10#ab3c7e2a#0,route/locatie,,gecontroleerde plaatsbron,Karamja,"2918,3176,0",Take Ship to Karamja (Seamen dressed in blue)
+Episode 1 - Banks 1 through 24:,Bank 9,13,C1.S10#64610213#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Luthas and ask for employment (1)
+Episode 1 - Banks 1 through 24:,Bank 9,14,C1.S10#16fc011b#0,handmatig of contextueel,,not_safe_to_pin,,,Fish Raw Shrimps [Karamja Easy Diary] Drop Shrimps
+Episode 1 - Banks 1 through 24:,Bank 9,15,C1.S10#3ff891ec#0,handmatig of contextueel,,not_safe_to_pin,,,Pick 10 bananas
+Episode 1 - Banks 1 through 24:,Bank 9,16,C1.S10#e900962f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy Karamja Rum
+Episode 1 - Banks 1 through 24:,Bank 9,17,C1.S10#812684be#0,handmatig of contextueel,,not_safe_to_pin,,,Fill Crate with bananas and use Karamja rum on the crate
+Episode 1 - Banks 1 through 24:,Bank 9,18,C1.S10#4a98d4fb#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Make sure to speak to Luthas again before heading to the boat
+Episode 1 - Banks 1 through 24:,Bank 9,19,C1.S10#b3e69660#0,route/locatie,,gecontroleerde plaatsbron,Port Sarim,"3047,3236,0",Take boat back to Port Sarim [Karamja Easy Diary]
+Episode 1 - Banks 1 through 24:,Bank 9,20,C1.S10#14fba4df#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Trade Wydin and buy Raw Chicken, 2x Raw Beef, 3x Flour & 2x redberries"
+Episode 1 - Banks 1 through 24:,Bank 9,21,C1.S10#7e4d896#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Continue Pirate's Treasure by talking to Wydin to get employed, and collect the rum from the crate."
+Episode 1 - Banks 1 through 24:,Bank 9,22,C1.S10#12ef9f1#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy 8x Raw Sardines
+Episode 1 - Banks 1 through 24:,Bank 9,23,C1.S10#6b6f52db#0,handmatig of contextueel,,not_safe_to_pin,,,"Use the Deposit box by Entrana and deposit everything except: Mind Runes, Coins, 1x Raw Beef, Karamja Rum, Onion, Pickaxe & 2x wines (8 Inventory Slots)"
+Episode 1 - Banks 1 through 24:,Bank 9,24,C1.S10#8c2f98e6#0,route/locatie,,unresolved_location,,,Return to Redbeard Frank
+Episode 1 - Banks 1 through 24:,Bank 9,25,C1.S10#462fc69e#0,route/locatie,,compound_task,,,Head West to Betty and buy 2x Eye of Newt & 200 mind runes
+Episode 1 - Banks 1 through 24:,Bank 9,26,C1.S10#6c9063b8#0,route/locatie,,compound_task,,,Head South-West and complete Witches Potion (Beef twice on range to burn)
+Episode 1 - Banks 1 through 24:,Bank 9,27,C1.S10#6bc54b4c#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take 2x Logs when getting the rat tail
+Episode 1 - Banks 1 through 24:,Bank 9,28,C1.S10#644b7222#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Buy moulds: Ring, Amulet, 2x Necklace, Bracelet, Sickle, Tiara, 3x Needle & 50 Thread (from Rommik in Rimmington)"
+Episode 1 - Banks 1 through 24:,Bank 9,29,C1.S10#5b6b7b04#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy 3x Buckets & Shears
+Episode 1 - Banks 1 through 24:,Bank 9,30,C1.S10#3313e0aa#0,route/locatie,,compound_task,,,Head North-West and collect a Snape Grass
+Episode 1 - Banks 1 through 24:,Bank 9,31,C1.S10#71a6ec6c#0,handmatig of contextueel,,not_safe_to_pin,,,Milk the cow 3x by Crafting guild
+Episode 1 - Banks 1 through 24:,Bank 9,32,C1.S10#6a4bc37c#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill a cow & take everything
+Episode 1 - Banks 1 through 24:,Bank 9,33,C1.S10#86b61ddb#0,handmatig of contextueel,,not_safe_to_pin,,,Shear a sheep by the Makeover Mage
+Episode 1 - Banks 1 through 24:,Bank 9,34,C1.S10#40fd7529#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Falador Crumbling wall Shortcut [Falador Easy Diary]
+Episode 1 - Banks 1 through 24:,Bank 9,35,C1.S10#d9b107b1#0,bank-items of bankactie,,gecontroleerde plaatsbron,Falador West Bank,"2946,3369,0",Bank at Falador West Bank and deposit all
 Episode 1 - Banks 1 through 24:,Bank 10,1,C1.S11#72965c8d#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Mind Runes, Raw Rat/Chicken/Beef, 10x Wines, Empty Bucket, Chest Key, Cheese (18 Inventory Slots)"
 Episode 1 - Banks 1 through 24:,Bank 10,2,C1.S11#3a533fd8#0,handmatig of contextueel,,not_safe_to_pin,,,Get a haircut North [Falador Easy Diary]
 Episode 1 - Banks 1 through 24:,Bank 10,3,C1.S11#ee8d85a4#0,handmatig of contextueel,,not_safe_to_pin,,,Fill Bucket on Pump [Falador Easy Diary]
@@ -433,25 +435,26 @@ Episode 2 - Banks 24 through 75:,Bank 28,13,C2.S4#bcb872fd#0,route/locatie,,unre
 Episode 2 - Banks 24 through 75:,Bank 28,14,C2.S4#7850a2d0#0,route/locatie,,compound_task,,,"Head directly North on the path to Arceuus general Store and talk to Regath (4,2) [Client of Kourend]"
 Episode 2 - Banks 24 through 75:,Bank 28,15,C2.S4#bcdc2b9b#0,route/locatie,,compound_task,,,"Walk to the Hosidius General Store, talk to Horace (3,2)"
 Episode 2 - Banks 24 through 75:,Bank 28,16,C2.S4#78a3f785#0,bank-items of bankactie,,unresolved_location,,,Bank West side of the Square and deposit everything
-Episode 2 - Banks 24 through 75:,Bank 28,17,C2.S4#558bdcfe#0,route/locatie,,compound_task,,,Run south-west to Land's End and talk to Betty outside the northernmost house to start The Writing's on the Wall
-Episode 2 - Banks 24 through 75:,Bank 28,18,C2.S4#27c4627a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Sergeant Hudson and inspect the body parts on the bed, the shelves and the blood on the wall [The Writing's on the Wall]"
-Episode 2 - Banks 24 through 75:,Bank 28,19,C2.S4#7cacf5e3#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Lan the Butcher in the house south-west of the bank, search his bed and use the bloody knife on him [The Writing's on the Wall]"
-Episode 2 - Banks 24 through 75:,Bank 28,20,C2.S4#2fd65f65#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Hugor in the eastern house, inspect your clues and talk to Betty and Sergeant Hudson again [The Writing's on the Wall]"
-Episode 2 - Banks 24 through 75:,Bank 28,21,C2.S4#9c25b6a0#0,route/locatie,,compound_task,,,Run north-east and talk to Betty at the house north-west of the Tithe Farm [The Writing's on the Wall]
-Episode 2 - Banks 24 through 75:,Bank 28,22,C2.S4#6bda1762#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Climb through the west window, open the door for Betty and search the basement and the bookshelf upstairs [The Writing's on the Wall]"
-Episode 2 - Banks 24 through 75:,Bank 28,23,C2.S4#a3710d07#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Search the compost bin north of the house and inspect the head [The Writing's on the Wall]
-Episode 2 - Banks 24 through 75:,Bank 28,24,C2.S4#60944e24#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Joyce in the potato field west of the house and the monk just south of it [The Writing's on the Wall]
-Episode 2 - Banks 24 through 75:,Bank 28,25,C2.S4#4f74d87f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Betty again and accept her transport to Port Piscarilius [The Writing's on the Wall]
-Episode 2 - Banks 24 through 75:,Bank 28,26,C2.S4#8fdb3089#0,handmatig of contextueel,,not_safe_to_pin,,,"Remove the plank north of the prison, climb the wall and sneak into the north-western house past the guards [The Writing's on the Wall]"
-Episode 2 - Banks 24 through 75:,Bank 28,27,C2.S4#3507113b#0,route/locatie,,gecontroleerde plaatsbron,Shayzien,"1480,3635,0",Head to the War Tent in the Shayzien Encampment [The Writing's on the Wall]
-Episode 2 - Banks 24 through 75:,Bank 28,28,C2.S4#52e58416#0,handmatig of contextueel,,not_safe_to_pin,,,"Watch the cutscene and investigate the next victim's house: shelves, body and blood on the wall [The Writing's on the Wall]"
-Episode 2 - Banks 24 through 75:,Bank 28,29,C2.S4#5a14e5ad#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Kyle to the south and then to Sergeant Hudson [The Writing's on the Wall]
-Episode 2 - Banks 24 through 75:,Bank 28,30,C2.S4#f76fcda6#0,handmatig of contextueel,,not_safe_to_pin,,,Inspect the plant between the two trees on the island west of Watson's house in Hosidius and go down the trapdoor [The Writing's on the Wall]
-Episode 2 - Banks 24 through 75:,Bank 28,31,C2.S4#1efeaca8#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete The Writing's on the Wall and keep the Amulet of sight for your Ranged training
-Episode 2 - Banks 24 through 75:,Bank 28,32,C2.S4#9e3db946#0,route/locatie,,compound_task,,,Return to the Hosidius bank and deposit everything
-Episode 2 - Banks 24 through 75:,Bank 28,33,C2.S4#feddc497#0,handmatig of contextueel,,not_safe_to_pin,,,Steal from the Fruit stall [Kourend Easy Diary]
-Episode 2 - Banks 24 through 75:,Bank 28,34,C2.S4#7d9995a9#0,route/locatie,,not_safe_to_pin,,,"Head East & thieve from the Hosidius fruit stall until 31,512 Thieving Experience (Twilight's Promise in Bank 29 adds the other 3,000). Bank 5x Redberries, all Golovanova's + Strange fruit and 1x Jangerberries [Fairytale Part I, possible item for Malignius Mortifer]"
-Episode 2 - Banks 24 through 75:,Bank 28,35,C2.S4#db2214fa#0,route/locatie,,multi_sentence,,,"Run between both stalls as it is faster. Once you are 0 energy, recharge at 1 stall."
+Episode 2 - Banks 24 through 75:,Bank 28,17,C2.S4#d4a5cfcf#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Confirm 22 Agility and 20 Thieving (neither boostable) before starting The Writing's on the Wall
+Episode 2 - Banks 24 through 75:,Bank 28,18,C2.S4#558bdcfe#0,route/locatie,,compound_task,,,Run south-west to Land's End and talk to Betty outside the northernmost house to start The Writing's on the Wall
+Episode 2 - Banks 24 through 75:,Bank 28,19,C2.S4#27c4627a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Sergeant Hudson and inspect the body parts on the bed, the shelves and the blood on the wall [The Writing's on the Wall]"
+Episode 2 - Banks 24 through 75:,Bank 28,20,C2.S4#7cacf5e3#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Lan the Butcher in the house south-west of the bank, search his bed and use the bloody knife on him [The Writing's on the Wall]"
+Episode 2 - Banks 24 through 75:,Bank 28,21,C2.S4#2fd65f65#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Hugor in the eastern house, inspect your clues and talk to Betty and Sergeant Hudson again [The Writing's on the Wall]"
+Episode 2 - Banks 24 through 75:,Bank 28,22,C2.S4#9c25b6a0#0,route/locatie,,compound_task,,,Run north-east and talk to Betty at the house north-west of the Tithe Farm [The Writing's on the Wall]
+Episode 2 - Banks 24 through 75:,Bank 28,23,C2.S4#6bda1762#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Climb through the west window, open the door for Betty and search the basement and the bookshelf upstairs [The Writing's on the Wall]"
+Episode 2 - Banks 24 through 75:,Bank 28,24,C2.S4#a3710d07#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Search the compost bin north of the house and inspect the head [The Writing's on the Wall]
+Episode 2 - Banks 24 through 75:,Bank 28,25,C2.S4#60944e24#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Joyce in the potato field west of the house and the monk just south of it [The Writing's on the Wall]
+Episode 2 - Banks 24 through 75:,Bank 28,26,C2.S4#4f74d87f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Betty again and accept her transport to Port Piscarilius [The Writing's on the Wall]
+Episode 2 - Banks 24 through 75:,Bank 28,27,C2.S4#8fdb3089#0,handmatig of contextueel,,not_safe_to_pin,,,"Remove the plank north of the prison, climb the wall and sneak into the north-western house past the guards [The Writing's on the Wall]"
+Episode 2 - Banks 24 through 75:,Bank 28,28,C2.S4#3507113b#0,route/locatie,,gecontroleerde plaatsbron,Shayzien,"1480,3635,0",Head to the War Tent in the Shayzien Encampment [The Writing's on the Wall]
+Episode 2 - Banks 24 through 75:,Bank 28,29,C2.S4#52e58416#0,handmatig of contextueel,,not_safe_to_pin,,,"Watch the cutscene and investigate the next victim's house: shelves, body and blood on the wall [The Writing's on the Wall]"
+Episode 2 - Banks 24 through 75:,Bank 28,30,C2.S4#5a14e5ad#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Kyle to the south and then to Sergeant Hudson [The Writing's on the Wall]
+Episode 2 - Banks 24 through 75:,Bank 28,31,C2.S4#f76fcda6#0,handmatig of contextueel,,not_safe_to_pin,,,Inspect the plant between the two trees on the island west of Watson's house in Hosidius and go down the trapdoor [The Writing's on the Wall]
+Episode 2 - Banks 24 through 75:,Bank 28,32,C2.S4#1efeaca8#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete The Writing's on the Wall and keep the Amulet of sight for your Ranged training
+Episode 2 - Banks 24 through 75:,Bank 28,33,C2.S4#9e3db946#0,route/locatie,,compound_task,,,Return to the Hosidius bank and deposit everything
+Episode 2 - Banks 24 through 75:,Bank 28,34,C2.S4#feddc497#0,handmatig of contextueel,,not_safe_to_pin,,,Steal from the Fruit stall [Kourend Easy Diary]
+Episode 2 - Banks 24 through 75:,Bank 28,35,C2.S4#7d9995a9#0,route/locatie,,not_safe_to_pin,,,"Head East & thieve from the Hosidius fruit stall until 31,512 Thieving Experience (Twilight's Promise in Bank 29 adds the other 3,000). Bank 5x Redberries, all Golovanova's + Strange fruit and 1x Jangerberries [Fairytale Part I, possible item for Malignius Mortifer]"
+Episode 2 - Banks 24 through 75:,Bank 28,36,C2.S4#db2214fa#0,route/locatie,,multi_sentence,,,"Run between both stalls as it is faster. Once you are 0 energy, recharge at 1 stall."
 Episode 2 - Banks 24 through 75:,Bank 29,1,C2.S5#cb0fe985#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Enchanted Quill, Enchanted Scroll, Stew, Pickaxe, Chronicle, Axe, Tinderbox, Shortbow, Bronze Arrows, Air Runes, Mind Runes, 10x Food (22 Inventory Slots)"
 Episode 2 - Banks 24 through 75:,Bank 29,2,C2.S5#11336e51#0,route/locatie,,unresolved_location,,,Head back to Veos [Client of Kourend]
 Episode 2 - Banks 24 through 75:,Bank 29,3,C2.S5#ef02d36e#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Mine Cart to Arceuss and continue Client of Kourend by Activating the Mysterious Orb by the Dark Altar
