@@ -15,7 +15,7 @@ Met dit pakket kun je de voortgang van je **Guide Overlay / HCIM Atlas-route** l
 ## Installeren — stap voor stap
 
 1. Pak dit ZIP-bestand volledig uit (bijv. in `Documenten\HCIM Atlas Live`).
-2. Dubbelklik op **`runelite-patch\setup-runelite-windows.bat`**. Dit downloadt de publieke broncode van `RunelitePlugin/guide-overlay` van GitHub en installeert onze kleine stream-exportpatch in `Documenten\HCIMAtlas-GuideOverlay`. Het overschrijft geen bestaande code zonder controle; er wordt een backup aangemaakt.
+2. Dubbelklik op **`runelite-patch\setup-runelite-windows.bat`**. Dit haalt [HCIMAtlas-GuideOverlay](https://github.com/master00J/HCIMAtlas-GuideOverlay) op in `Documenten\HCIMAtlas-GuideOverlay` (stream-export + auto-complete). Een bestaande map wordt niet overschreven.
 3. Open `Documenten\HCIMAtlas-GuideOverlay` en dubbelklik op **`START_HCIM_ATLAS_RUNE_LITE.bat`**. De eerste keer moet Gradle Java/RuneLite-afhankelijkheden ophalen; dit kan een tijdje duren. Bij buildfouten: controleer JDK/Java-versie en de foutmelding. Als alternatief kan de repository in IntelliJ worden geopend en `HcimGuidePluginTest.main` uitgevoerd.
 4. Gebruik **de RuneLite-client die door deze starter wordt geopend**. Als de normale Plugin Hub-versie van Guide Overlay óók actief is, schakel die dan uit om dubbele overlays of pluginconflicten te vermijden.
 5. In de Guide Overlay-zijbalk: kies jouw bestaande **HCIM Atlas 2026**-route, of importeer `guide\HCIM_ATLAS_VOLLEDIGE_ROUTE.json` via **Add guide from file...** met exact de naam `HCIM Atlas 2026`. Voor de extra routepins kun je `guide\HCIM_ATLAS_PINNEN_VOLLEDIGE_ROUTE.json` via **Location tools → Import custom pins from clipboard...** gebruiken.

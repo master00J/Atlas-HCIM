@@ -2,17 +2,31 @@ $ErrorActionPreference = 'Stop'
 Write-Host 'HCIM Atlas - RuneLite live sync installeren' -ForegroundColor Cyan
 $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 $dst = Join-Path $env:USERPROFILE 'Documents\HCIMAtlas-GuideOverlay'
+$overlayRepo = 'https://github.com/master00J/HCIMAtlas-GuideOverlay.git'
+$overlayZip = 'https://github.com/master00J/HCIMAtlas-GuideOverlay/archive/refs/heads/main.zip'
 if (!(Test-Path $dst)) {
-  $zip = Join-Path $env:TEMP 'hcim-guide-overlay-source.zip'
-  $tmp = Join-Path $env:TEMP 'hcim-guide-overlay-unzip'
-  Write-Host 'Downloaden van de openbare Guide Overlay GitHub-repository...'
-  Invoke-WebRequest -UseBasicParsing -Uri 'https://github.com/RunelitePlugin/guide-overlay/archive/1e7b4f4503d99bc440b6fa29707b0523aad3aab1.zip' -OutFile $zip
-  if (Test-Path $tmp) { Remove-Item $tmp -Recurse -Force }
-  Expand-Archive -Path $zip -DestinationPath $tmp -Force
-  $top = Get-ChildItem $tmp -Directory | Select-Object -First 1
-  if (!$top -or !(Test-Path (Join-Path $top.FullName 'build.gradle'))) { throw 'Geen geldig Guide Overlay-bronpakket.' }
-  Move-Item $top.FullName $dst
-  Remove-Item $tmp -Recurse -Force
+  $cloned = $false
+  if (Get-Command git -ErrorAction SilentlyContinue) {
+    Write-Host 'Clonen van HCIM Atlas Guide Overlay...'
+    & git clone --depth 1 $overlayRepo $dst
+    if ($LASTEXITCODE -eq 0 -and (Test-Path (Join-Path $dst 'build.gradle'))) {
+      $cloned = $true
+    } elseif (Test-Path $dst) {
+      Remove-Item $dst -Recurse -Force
+    }
+  }
+  if (-not $cloned) {
+    $zip = Join-Path $env:TEMP 'hcim-guide-overlay-source.zip'
+    $tmp = Join-Path $env:TEMP 'hcim-guide-overlay-unzip'
+    Write-Host 'Downloaden van HCIM Atlas Guide Overlay (zip)...'
+    Invoke-WebRequest -UseBasicParsing -Uri $overlayZip -OutFile $zip
+    if (Test-Path $tmp) { Remove-Item $tmp -Recurse -Force }
+    Expand-Archive -Path $zip -DestinationPath $tmp -Force
+    $top = Get-ChildItem $tmp -Directory | Select-Object -First 1
+    if (!$top -or !(Test-Path (Join-Path $top.FullName 'build.gradle'))) { throw 'Geen geldig Guide Overlay-bronpakket.' }
+    Move-Item $top.FullName $dst
+    Remove-Item $tmp -Recurse -Force
+  }
 } else {
   Write-Host 'Bestaande checkout gevonden. Bestanden worden niet opnieuw gedownload.'
 }

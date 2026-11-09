@@ -15,13 +15,13 @@
 
 ## GitHub-repository
 
-Dit project staat op [master00J/Atlas-HCIM](https://github.com/master00J/Atlas-HCIM). De repository is openbaar. Projectbroncode en eigen gegenereerde streamvisuals staan in de repository; gidsmateriaal afkomstig van de Old School RuneScape Wiki behoudt de afzonderlijke CC BY-NC-SA 3.0-voorwaarden. Zie [NOTICE.md](NOTICE.md) en [LICENSE-CONTENT.md](LICENSE-CONTENT.md). Publiceer geen persoonlijke RuneLite-gegevens, streaminstellingen of accountgegevens.
+Dit project staat op [master00J/Atlas-HCIM](https://github.com/master00J/Atlas-HCIM). De gepatchte RuneLite Guide Overlay (stream-export + auto-complete voor de 2026-route) staat apart op [master00J/HCIMAtlas-GuideOverlay](https://github.com/master00J/HCIMAtlas-GuideOverlay). Beide repositories zijn openbaar. Projectbroncode en eigen gegenereerde streamvisuals staan in de repository; gidsmateriaal afkomstig van de Old School RuneScape Wiki behoudt de afzonderlijke CC BY-NC-SA 3.0-voorwaarden. Zie [NOTICE.md](NOTICE.md) en [LICENSE-CONTENT.md](LICENSE-CONTENT.md). Publiceer geen persoonlijke RuneLite-gegevens, streaminstellingen of accountgegevens.
 
 ## Snelstart
 
 1. Installeer **Node.js 18+**, **Git**, Java JDK en [OBS](https://obsproject.com/) of vMix.
 2. Download deze repository als ZIP, of clone hem.
-3. Voer `runelite-patch/setup-runelite-windows.bat` uit. Hiermee wordt upstream [Guide Overlay](https://github.com/RunelitePlugin/guide-overlay) opgehaald in een aparte map en krijgt die de lokale `StreamSyncExport`-patch.
+3. Voer `runelite-patch/setup-runelite-windows.bat` uit. Hiermee wordt [HCIMAtlas-GuideOverlay](https://github.com/master00J/HCIMAtlas-GuideOverlay) opgehaald in `%USERPROFILE%\Documents\HCIMAtlas-GuideOverlay` (met stream-export en de 2026 auto-complete-patches).
 4. Start de gegenereerde `START_HCIM_ATLAS_RUNE_LITE.bat` in die aparte map; importeer `guide/HCIM_ATLAS_VOLLEDIGE_ROUTE.json` en eventueel `guide/HCIM_ATLAS_PINNEN_VOLLEDIGE_ROUTE.json` via Guide Overlay.
 5. Start `bridge/start-overlay.bat`, open `http://127.0.0.1:38877/control` voor instellingen.
 6. Voeg `http://127.0.0.1:38877/overlay` als **Browser Source** van 1920×1080 toe. Voeg je webcam als aparte bron *onder* de framebrowserbron toe op de positie van het rechter webcamkader.
