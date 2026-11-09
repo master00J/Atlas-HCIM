@@ -314,7 +314,7 @@ def episode_4(r):
     r.insert_after(E4, 'Bank 118', 'Head South to Library', [
         'Kourend Library shortcut: with 52 Agility you can jump down from the middle floor and with 62 Agility from the top floor',
     ])
-    r.insert_after(E4, 'Bank 130', 'Open the pen in the north-east corner of the cow farm and fight the bull [The Ides of Milk]', [
+    r.insert_before(E4, 'Bank 130', 'Open the pen in the north-east corner of the cow farm and fight the bull [The Ides of Milk]', [
         'HCIM: Brutus\'s special attacks scale with your HP and cannot be prayed against; step 2 tiles sideways when he snorts or growls and leave through the south-west gate if it goes wrong',
     ])
     r.insert_after(E4, 'Bank 130', 'Speak to Cassius to complete the Ides of Milk', [
@@ -413,6 +413,33 @@ def parse_endgame(md_text):
     return {'title': title or ENDGAME_TITLE, 'chapters': chapters}
 
 
+# Ordinary 'Route note' prose is useful in the source guide, but a Guide Overlay
+# import treats every sentence as a clickable step. Drop non-actionable
+# commentary from the in-game route; keep dangerous-area warnings as deliberate
+# manual acknowledgement checkpoints before the associated activity.
+SAFETY_NOTE_CLUES = (
+    'hcim warning', 'stronghold of security', 'wilderness', 'deadly',
+    'dangerous', 'damage', 'safespot', 'safe positioning', 'blackjacking',
+    'watch out', ' hp', 'health', 'escape', 'food slots', 'risk', 'pkers',
+    'ice warriors',
+)
+
+
+def remove_context_notes(guide):
+    for chapter in guide['chapters']:
+        for section in chapter['sections']:
+            cleaned = []
+            for st in section['steps']:
+                txt = text_of(st)
+                if txt.startswith('Route note — ') and not any(
+                    clue in txt.lower() for clue in SAFETY_NOTE_CLUES
+                ):
+                    continue
+                cleaned.append(st)
+            section['steps'] = cleaned
+    return guide
+
+
 DUTCH = re.compile(r'\b(?:Routeadvies|LET OP|voor|zodat|wanneer|je|jouw|niet|bewaar|haal|eerst|alleen|gevaarlijk|veilig)\b', re.I)
 
 
@@ -440,6 +467,8 @@ def build(write=True):
     route = Route(base)
     for patch in (episode_1, episode_2, episode_3, episode_4, episode_5, episode_6_to_8, episode_10_to_12):
         patch(route)
+
+    remove_context_notes(base)
 
     endgame = validate(parse_endgame(ENDGAME_MD.read_text('utf8')))
     endgame['title'] = ENDGAME_TITLE
