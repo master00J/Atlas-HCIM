@@ -64,6 +64,8 @@ python guide-tools/build_atlas.py  # -> guide/HCIM_ATLAS_*.json, pins en auditra
 - `guide/source/verified_npc_pins.json`: pins voor NPC's die Guide Overlay niet of verkeerd vindt (nieuwe NPC's, of een naam die meerdere NPC's delen), met de tegel uit Quest Helper. Opnieuw maken met `guide-tools/quest_helper_pins.py`; handmatige pins staan in `MANUAL_PINS` in `build_atlas.py`.
 - CI-job `guide-overlay-parser` importeert de route met de echte Guide Overlay-parsers (vaste commit) en faalt als een nieuwe stap geen quest-/skillvoorwaarde of NPC-doel oplevert. Het rapport per stap staat als artifact bij de run.
 
+**Pijlen zonder pin-import:** elke pin staat ook als `location` bij de stap in het guide-bestand. De HCIM Atlas-versie van Guide Overlay ([HCIMAtlas-GuideOverlay](https://github.com/master00J/HCIMAtlas-GuideOverlay)) leest die rechtstreeks; je hoeft `HCIM_ATLAS_PINNEN_VOLLEDIGE_ROUTE.json` dan niet meer via het klembord te importeren. Dat bestand blijft alleen nodig voor de gewone Guide Overlay uit de Plugin Hub.
+
 Let op: Guide Overlay bewaart voortgang per stap-tekst en sectie. Gewijzigde of verschoven stappen tellen als nieuw, dus begin met deze versie als nieuwe guide.
 
 ## Repo-structuur
