@@ -155,7 +155,7 @@
     {
       "path": "guide-tools/reports/HCIM_ATLAS_AUDIT_VOLLEDIGE_ROUTE.csv",
       "bytes": 609624,
-      "sha256": "a1c66e56548a16069faed76db4b3453881e648edf9406f73215c2c74fe4ed4ae"
+      "sha256": "214cdb426741aee960f4e75e7ce751f17ffd3982261a05c659296c88c589a21e"
     },
     {
       "path": "guide-tools/reports/HCIM_ATLAS_COVERAGE.json",
@@ -165,12 +165,12 @@
     {
       "path": "guide-tools/route_2026.py",
       "bytes": 35103,
-      "sha256": "9fe58833e32490d504f76f21a76e00a27bb5ad8d16391c96d08af3aa341126c9"
+      "sha256": "0cc917d21375d3bd5c4cba8da825e855d9b9dcc63e738b670558f9c97eda864d"
     },
     {
       "path": "guide-tools/test_atlas.py",
-      "bytes": 11382,
-      "sha256": "662b6fcdf0498368598058d08d6e12666dbc0dd2adb498a9d1fa5303ff37f973"
+      "bytes": 11783,
+      "sha256": "71302cdf9d3dfdf582d7f6bd5ecdce2a11314476ab3cd1c9e0a0f07b297ca60f"
     },
     {
       "path": "guide/HCIM_ATLAS_ENDGAME.json",
@@ -185,12 +185,12 @@
     {
       "path": "guide/HCIM_ATLAS_PINNEN_VOLLEDIGE_ROUTE.json",
       "bytes": 53798,
-      "sha256": "3616c9c9fd18d86df7e5870ecf4b1840031c4d2684bd54617f66d26c6e0e16a4"
+      "sha256": "d61f6e2506f64a53ffea9b9b85842db97a6a48f430f0f8d12b36d1d123ebe535"
     },
     {
       "path": "guide/HCIM_ATLAS_VOLLEDIGE_ROUTE.json",
       "bytes": 687782,
-      "sha256": "db3c88c69e5cd34e76768b6eed2cfd40bcf490d3f400c8c14f13b06f4c6988a5"
+      "sha256": "d191b580d9515fe2e82988fae6fc1175cbaa0261f9d46ca0457b7536af4950b5"
     },
     {
       "path": "guide/OSRS_HCIM_GuideOverlay_ENDGAME_2026.json",
@@ -200,7 +200,7 @@
     {
       "path": "guide/OSRS_HCIM_GuideOverlay_VOLLEDIGE_ROUTE_2026.json",
       "bytes": 687783,
-      "sha256": "af90088520ad6f141b79e5ebfc505bd910dc67652fc7aeba2b496e71b8e39431"
+      "sha256": "d55209e8e0d1566802462dd0b2cd2c2e1a149d06855da86a2eee847ada15022f"
     },
     {
       "path": "guide/goal-rules.json",
@@ -220,7 +220,7 @@
     {
       "path": "guide/source/verified_npc_pins.json",
       "bytes": 18053,
-      "sha256": "822630378a7442c6f0ec4a99faa68ac6a62a4829e58217ef5241264466dc6354"
+      "sha256": "1f121424d0b150b919f6f50debe3fe82175c84776b74f41485eb4d64a2cef44c"
     },
     {
       "path": "package.json",

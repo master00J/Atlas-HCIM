@@ -128,6 +128,11 @@ class Route2026Tests(unittest.TestCase):
     for s in c['sections']:
      self.assertIsNone(dutch.search(s['title']),s['title'])
      for t in texts(s):self.assertIsNone(dutch.search(t),t)
+ def test_new_talk_steps_keep_the_npc_name_clean(self):
+  # Guide Overlay drops the NPC target when "by" or "just" follows the name.
+  base=set(all_texts(json.loads((ROOT/'guide'/'source'/'B0aty_HCIM_Guide_V3_base.json').read_text('utf8'))))
+  bad=[t for t in all_texts(self.route) if t not in base and re.search(r"\b[Tt]alk to (?:the )?(?:[A-Z][\w'’]*\s)+(?:by|just)\b",t)]
+  self.assertFalse(bad)
  def test_new_steps_fit_guide_overlay_splitter(self):
   base=json.loads((ROOT/'guide'/'source'/'B0aty_HCIM_Guide_V3_base.json').read_text('utf8'))
   old=set(all_texts(base))

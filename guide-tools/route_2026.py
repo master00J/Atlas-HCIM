@@ -222,7 +222,7 @@ def episode_2(r):
               'Withdraw: Coins, Enchanted Quill, Enchanted Scroll, Stew, Pickaxe, Chronicle, Axe, Tinderbox, Shortbow, Bronze Arrows, Air Runes, Mind Runes, 10x Food (22 Inventory Slots)')
     r.insert_after(E2, 'Bank 29', 'Head to Varlamore', [
         "Route note — Twilight's Promise moved here from Episode 6: it gives 3,000 Thieving, the Civitas illa Fortis Teleport and the Quetzal Transport System, which shortens this trip and every later Varlamore trip.",
-        "Talk to Ennius Tullus by the fountain just west of where the quetzal lands and start Twilight's Promise",
+        "Talk to Ennius Tullus at the fountain just west of where the quetzal lands and start Twilight's Promise",
         "Let the guards deal with the level 34 cultists in the Teomat [Twilight's Promise]",
         "HCIM: Mezan in the Colosseum is level 81 with a max hit of 8; switch between Magic and Ranged every 3 attacks so he never prays, and eat early [Twilight's Promise]",
         "Complete Twilight's Promise",
