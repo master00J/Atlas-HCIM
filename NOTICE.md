@@ -8,6 +8,7 @@
 - De tekst van de OSRS Wiki is, tenzij anders vermeld, beschikbaar onder [Creative Commons Attribution-NonCommercial-ShareAlike 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/). Behoud naamsvermelding en dezelfde voorwaarden bij afgeleide verspreiding van die tekst.
 - De gids is mogelijk gewijzigd na het exporteren; zie de originele wikigids voor updates.
 - De 2026-bijwerking (`guide-tools/route_2026.py`, `guide/source/endgame_2026_en.md`) gebruikt feiten uit de OSRS Wiki-pagina's over Quest Month (3 november 2026), Mudfoot's Big Adventure, The Writing's on the Wall, Pandemonium, Troubled Tortugans, The Red Reef, Fallen From Grace en The Fractured Archive, onder dezelfde CC BY-NC-SA 3.0-voorwaarden.
+- `guide/source/verified_npc_pins.json` bevat tegelcoördinaten van quest-NPC's, afgeleid uit de stapdata van [Quest Helper](https://github.com/Zoinkwiz/quest-helper) (BSD-2-Clause, © Zoinkwiz en bijdragers) met `guide-tools/quest_helper_pins.py`. Er is geen Quest Helper-code overgenomen.
 - `guide-tools/overlay-harness/AtlasGuideReportTest.java` wordt alleen in CI naast een checkout van [Guide Overlay](https://github.com/RunelitePlugin/guide-overlay) (BSD-2-Clause) gecompileerd en gebruikt diens parserklassen; het bevat geen code van Guide Overlay.
 
 ## RuneLite / Guide Overlay

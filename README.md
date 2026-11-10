@@ -61,6 +61,7 @@ python guide-tools/build_atlas.py  # -> guide/HCIM_ATLAS_*.json, pins en auditra
 - `guide/source/B0aty_HCIM_Guide_V3_base.json`: Episodes 1–12 zoals ze uit B0aty's wikiroute in Atlas kwamen.
 - `guide-tools/route_2026.py`: elke wijziging, verankerd op de exacte B0aty-tekst; een gewijzigde base faalt luid in plaats van stil op de verkeerde plaats te patchen.
 - `guide/source/endgame_2026_en.md`: de endgame-hoofdstukken (`##` hoofdstuk, `###` sectie, `-` stap).
+- `guide/source/verified_npc_pins.json`: pins voor NPC's die Guide Overlay niet of verkeerd vindt (nieuwe NPC's, of een naam die meerdere NPC's delen), met de tegel uit Quest Helper. Opnieuw maken met `guide-tools/quest_helper_pins.py`; handmatige pins staan in `MANUAL_PINS` in `build_atlas.py`.
 - CI-job `guide-overlay-parser` importeert de route met de echte Guide Overlay-parsers (vaste commit) en faalt als een nieuwe stap geen quest-/skillvoorwaarde of NPC-doel oplevert. Het rapport per stap staat als artifact bij de run.
 
 Let op: Guide Overlay bewaart voortgang per stap-tekst en sectie. Gewijzigde of verschoven stappen tellen als nieuw, dus begin met deze versie als nieuwe guide.

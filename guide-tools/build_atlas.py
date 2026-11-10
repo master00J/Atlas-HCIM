@@ -211,6 +211,41 @@ def candidate_pin(text):
         place['name']='Lumbridge Castle bank (2e verdieping)'
     return (place,'explicit_location')
 
+# Hand-made pins for steps the plugin cannot place and Quest Helper has no single
+# answer for. (section, start of step text, x, y, plane, label). Every coordinate
+# comes from Quest Helper's step data or the place list above; none are guessed.
+MANUAL_PINS=[
+ ('Starting Out',"Talk to Captain Harlan outside the General Store",3212,3246,0,'Lumbridge General Store (Harlan stands outside)'),
+ ('Starting Out',"Talk to Captain Harlan (1) and complete",3212,3246,0,'Lumbridge General Store (Harlan stands outside)'),
+ ('Bank 9',"Unequip your weapon and the Chronicle, then talk to Will",3025,3208,0,'Will and Anne, Port Sarim dock'),
+ ('Bank 28',"Run south-west to Land's End and talk to Betty",1504,3415,0,"Land's End (Betty is at the northernmost house)"),
+ ('Bank 28',"Run north-east and talk to Betty at the house north-west of the Tithe Farm",1802,3503,0,'Tithe Farm (the house is north-west of it)'),
+ ('Bank 28',"Talk to Betty again and accept her transport",1802,3503,0,'Tithe Farm (the house is north-west of it)'),
+ ('Bank 60B',"Ardy Cloak to the Monastery and talk to Effigy",2637,3218,0,'Effigy, Tower of Life'),
+ ('Bank 87',"Talk to Aris in Varrock Square to claim",3204,3424,0,"Aris's tent, Varrock Square"),
+ ('Sailing A — 1 to 30 Sailing (optional)',"Talk to Squawking Steve Beanie",3050,2966,0,'Steve Beanie, The Pandemonium bar'),
+]
+VERIFIED_PINS=DATA/'source'/'verified_npc_pins.json'
+
+def npc_pins(data):
+    """key -> pin for the Quest Helper derived and hand-made NPC pins. Fails on a
+    pin whose step no longer exists, so a route edit can never leave a stale pin."""
+    by_text={};by_section={}
+    for ch,sec,idx,step,t,key in steps_in(data):
+        by_text[(ch['title'],sec['title'],t)]=key
+        by_section.setdefault(sec['title'],[]).append((t,key))
+    out={}
+    if VERIFIED_PINS.exists():
+        for p in json.loads(VERIFIED_PINS.read_text('utf8'))['pins']:
+            key=by_text.get((p['chapter'],p['section'],p['text']))
+            if key is None: raise ValueError('Stale verified pin (rerun quest_helper_pins.py): '+p['section']+' / '+p['text'])
+            out[key]=dict(name=p['npc'],x=p['x'],y=p['y'],plane=p['plane'],status='Quest Helper: '+p['reason'])
+    for section,prefix,x,y,plane,label in MANUAL_PINS:
+        hits=[k for t,k in by_section.get(section,[]) if t.startswith(prefix)]
+        if len(hits)!=1: raise ValueError(f'Manual pin matches {len(hits)} steps: {section} / {prefix}')
+        out[hits[0]]=dict(name=label,x=x,y=y,plane=plane,status='handmatig, coordinaat uit Quest Helper/plaatslijst')
+    return out
+
 def categorize(t):
     if NOTE.search(t): return 'note/handmatig'
     if re.search(r'^Withdraw:|^Deposit |^Bank |^Bank at',t,re.I):return 'bank-items of bankactie'
@@ -237,16 +272,19 @@ def build(source_file,dest_file,pins_file,audit_file,guide_id):
     dest_file.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf8')
     pins={'schemaVersion':1,'guides':{guide_id:{}}}
     audit=[]; seenkeys=set(); n=0
+    npc=npc_pins(data) if guide_id==GUIDE_ID else {}
     for ch,sec,idx,step,t,key in steps_in(data):
         n+=1
         if key in seenkeys: raise ValueError('Duplicate key: '+key)
         seenkeys.add(key)
         place,reason=candidate_pin(t)
+        if key in npc:
+            place,reason=npc[key],npc[key]['status']
         if place:
             pins['guides'][guide_id][key]={'waypoints':[{'id':'manual:'+guide_id+':'+key+':0','label':place['name'],'x':place['x'],'y':place['y'],'plane':place['plane'],'radius':5}]}
         audit.append({'chapter':ch['title'],'section':sec['title'],'step':idx,'key':key,'type':categorize(t),
                       'risk_scan':'review_handmatig' if RISK.search(t) else '',
-                      'pin_status':'gecontroleerde plaatsbron' if place else reason,
+                      'pin_status':place.get('status','gecontroleerde plaatsbron') if place else reason,
                       'destination':place['name'] if place else '',
                       'worldpoint':f"{place['x']},{place['y']},{place['plane']}" if place else '',
                       'text':t})

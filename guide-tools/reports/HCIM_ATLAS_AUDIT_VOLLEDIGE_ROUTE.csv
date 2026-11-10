@@ -1,8 +1,8 @@
 ﻿chapter,section,step,key,type,risk_scan,pin_status,destination,worldpoint,text
 Episode 1 - Banks 1 through 24:,Starting Out,1,C1.S1#299484d#0,handmatig of contextueel,,not_safe_to_pin,,,All Settings - Disable level-up
 Episode 1 - Banks 1 through 24:,Starting Out,2,C1.S1#c504d190#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to the Cook in the Lumbridge Castle kitchen and start Cook's Assistant (keep the Pot and Bucket from Tutorial Island)
-Episode 1 - Banks 1 through 24:,Starting Out,3,C1.S1#9da1bfa0#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Captain Harlan outside the General Store north of the castle and start Mudfoot's Big Adventure (1)
-Episode 1 - Banks 1 through 24:,Starting Out,4,C1.S1#827c72f1#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Cassius at the pond south of the windmill and start The Ides of Milk
+Episode 1 - Banks 1 through 24:,Starting Out,3,C1.S1#9da1bfa0#0,NPC/object/item; controleer highlight,,"handmatig, coordinaat uit Quest Helper/plaatslijst",Lumbridge General Store (Harlan stands outside),"3212,3246,0",Talk to Captain Harlan outside the General Store north of the castle and start Mudfoot's Big Adventure (1)
+Episode 1 - Banks 1 through 24:,Starting Out,4,C1.S1#827c72f1#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Cassius,"3171,3277,0",Talk to Cassius at the pond south of the windmill and start The Ides of Milk
 Episode 1 - Banks 1 through 24:,Starting Out,5,C1.S1#72cbe348#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Cross the River Lum and talk to Gillie Groats in the cow field just north of the gate [The Ides of Milk]
 Episode 1 - Banks 1 through 24:,Starting Out,6,C1.S1#312e75e2#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Seth Groats in the farmhouse next to the chicken coop [The Ides of Milk]
 Episode 1 - Banks 1 through 24:,Starting Out,7,C1.S1#c46aef0f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Search the shelf on the south wall of the farmhouse for The Groats Principles [The Ides of Milk]
@@ -12,15 +12,15 @@ Episode 1 - Banks 1 through 24:,Starting Out,10,C1.S1#d4d8deaa#0,NPC/object/item
 Episode 1 - Banks 1 through 24:,Starting Out,11,C1.S1#3607ba33#0,handmatig of contextueel,,not_safe_to_pin,,,Confront the outlaw walking outside the Lumbridge General Store [Mudfoot's Big Adventure]
 Episode 1 - Banks 1 through 24:,Starting Out,12,C1.S1#45f3d408#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Mudfoot again at the chicken field south of the Lumbridge windmill [Mudfoot's Big Adventure]
 Episode 1 - Banks 1 through 24:,Starting Out,13,C1.S1#b2fe82a3#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill the Ranger Outlaw (level 6) with the Bronze dagger on stab and take his Shortbow & 80 Bronze arrows [Mudfoot's Big Adventure]
-Episode 1 - Banks 1 through 24:,Starting Out,14,C1.S1#f753e415#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Cassius to hand over The Groats Principles and get a Milk sample [The Ides of Milk]
-Episode 1 - Banks 1 through 24:,Starting Out,15,C1.S1#f85ddaca#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Drink the Milk sample (1 damage, no poison) and talk to Cassius again for a new Milk sample [The Ides of Milk]"
+Episode 1 - Banks 1 through 24:,Starting Out,14,C1.S1#f753e415#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Cassius,"3171,3277,0",Talk to Cassius to hand over The Groats Principles and get a Milk sample [The Ides of Milk]
+Episode 1 - Banks 1 through 24:,Starting Out,15,C1.S1#f85ddaca#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Cassius,"3171,3277,0","Drink the Milk sample (1 damage, no poison) and talk to Cassius again for a new Milk sample [The Ides of Milk]"
 Episode 1 - Banks 1 through 24:,Starting Out,16,C1.S1#e08b4e7b#0,handmatig of contextueel,,not_safe_to_pin,,,"Pick Grain next to the windmill, put it in the hopper on the top floor and pull the lever [Cook's Assistant]"
 Episode 1 - Banks 1 through 24:,Starting Out,17,C1.S1#fb9af045#0,handmatig of contextueel,,not_safe_to_pin,,,Use the Pot on the flour bin on the ground floor for a Pot of flour [Cook's Assistant]
 Episode 1 - Banks 1 through 24:,Starting Out,18,C1.S1#44edf197#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Wield the Shortbow and kill the Mage Outlaw south of the H.A.M Hideout, then take his Staff, Air runes & Mind runes [Mudfoot's Big Adventure]"
 Episode 1 - Banks 1 through 24:,Starting Out,19,C1.S1#d929e0eb#0,handmatig of contextueel,,not_safe_to_pin,,,"Wield the Staff and go to the Lumbridge graveyard behind the church; if you left the fight area, fetch Mudfoot from outside the H.A.M Hideout first"
 Episode 1 - Banks 1 through 24:,Starting Out,20,C1.S1#30309dc2#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Kill the Warrior Outlaw with Wind Strike, because he prays Protect from Melee after your first hit, and take his Iron scimitar & Iron kiteshield [Mudfoot's Big Adventure]"
 Episode 1 - Banks 1 through 24:,Starting Out,21,C1.S1#d5324bcf#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Father Aereck in the church and start The Restless Ghost
-Episode 1 - Banks 1 through 24:,Starting Out,22,C1.S1#c8b9c49b#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Captain Harlan (1) and complete Mudfoot's Big Adventure
+Episode 1 - Banks 1 through 24:,Starting Out,22,C1.S1#c8b9c49b#0,NPC/object/item; controleer highlight,,"handmatig, coordinaat uit Quest Helper/plaatslijst",Lumbridge General Store (Harlan stands outside),"3212,3246,0",Talk to Captain Harlan (1) and complete Mudfoot's Big Adventure
 Episode 1 - Banks 1 through 24:,Starting Out,23,C1.S1#1e6e45d4#0,handmatig of contextueel,,not_safe_to_pin,,,Use all 4 combat lamps from Mudfoot on Hitpoints
 Episode 1 - Banks 1 through 24:,Starting Out,24,C1.S1#f161f8df#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Sell the Bronze dagger, Bronze sword, Wooden shield & one Shortbow to the General Store and buy a Spade, Chisel & Hammer"
 Episode 1 - Banks 1 through 24:,Starting Out,25,C1.S1#69066178#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to the Cook and complete Cook's Assistant
@@ -65,7 +65,7 @@ Episode 1 - Banks 1 through 24:,Bank 2,11,C1.S3#a9cc04c7#0,handmatig of contextu
 Episode 1 - Banks 1 through 24:,Bank 2,12,C1.S3#7684f169#0,route/locatie,,compound_task,,,Head West to Port Sarim and talk to Veos to complete X Marks The Spot.
 Episode 1 - Banks 1 through 24:,Bank 2,13,C1.S3#5e31fb21#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Destroy the lamp. You can collect this later as you can't bank it.
 Episode 1 - Banks 1 through 24:,Bank 2,14,C1.S3#2a06981b#0,route/locatie,,multiple_locations,,,Travel to Port Piscarilius via Veos
-Episode 1 - Banks 1 through 24:,Bank 2,15,C1.S3#37ba222e#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Veos (4,1) [Client of Kourend]"
+Episode 1 - Banks 1 through 24:,Bank 2,15,C1.S3#37ba222e#0,NPC/object/item; controleer highlight,,Quest Helper: plugin points at another place,Veos,"1824,3690,0","Talk to Veos (4,1) [Client of Kourend]"
 Episode 1 - Banks 1 through 24:,Bank 2,16,C1.S3#88eaf472#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take the Minecart to Shayzien East (option B)
 Episode 1 - Banks 1 through 24:,Bank 2,17,C1.S3#4182d981#0,handmatig of contextueel,,not_safe_to_pin,,,Open Minimap & follow the path South-West to Shayzien
 Episode 1 - Banks 1 through 24:,Bank 2,18,C1.S3#903859f8#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take the Beer
@@ -178,7 +178,7 @@ Episode 1 - Banks 1 through 24:,Bank 9,4,C1.S10#26bd0fa6#0,route/locatie,,compou
 Episode 1 - Banks 1 through 24:,Bank 9,5,C1.S10#648f3856#0,route/locatie,,multi_sentence,,,"Head South-West and buy a Harpoon, 50 Bait (non-packs) and 10 Feather packs. Take Apron from the wall & wear."
 Episode 1 - Banks 1 through 24:,Bank 9,6,C1.S10#691122b2#0,handmatig of contextueel,,not_safe_to_pin,,,Make 454 Headless Arrows
 Episode 1 - Banks 1 through 24:,Bank 9,7,C1.S10#b5641753#0,handmatig of contextueel,,not_safe_to_pin,,,Check that you have at least two free inventory slots before Pandemonium
-Episode 1 - Banks 1 through 24:,Bank 9,8,C1.S10#da252471#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Unequip your weapon and the Chronicle, then talk to Will (or Anne) on the dock east of the Port Sarim Food Store to start Pandemonium"
+Episode 1 - Banks 1 through 24:,Bank 9,8,C1.S10#da252471#0,NPC/object/item; controleer highlight,,"handmatig, coordinaat uit Quest Helper/plaatslijst","Will and Anne, Port Sarim dock","3025,3208,0","Unequip your weapon and the Chronicle, then talk to Will (or Anne) on the dock east of the Port Sarim Food Store to start Pandemonium"
 Episode 1 - Banks 1 through 24:,Bank 9,9,C1.S10#8296aac2#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Pandemonium (follow Quest Helper)
 Episode 1 - Banks 1 through 24:,Bank 9,10,C1.S10#84752c5b#0,handmatig of contextueel,,not_safe_to_pin,,,Wield the Chronicle again
 Episode 1 - Banks 1 through 24:,Bank 9,11,C1.S10#5314da90#0,note/handmatig,,not_safe_to_pin,,,"OPTIONAL: once you have 4 Sailing, do one courier task between Port Sarim and The Pandemonium"
@@ -435,15 +435,15 @@ Episode 2 - Banks 24 through 75:,Bank 28,14,C2.S4#7850a2d0#0,route/locatie,,comp
 Episode 2 - Banks 24 through 75:,Bank 28,15,C2.S4#bcdc2b9b#0,route/locatie,,compound_task,,,"Walk to the Hosidius General Store, talk to Horace (3,2)"
 Episode 2 - Banks 24 through 75:,Bank 28,16,C2.S4#78a3f785#0,bank-items of bankactie,,unresolved_location,,,Bank West side of the Square and deposit everything
 Episode 2 - Banks 24 through 75:,Bank 28,17,C2.S4#d4a5cfcf#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Confirm 22 Agility and 20 Thieving (neither boostable) before starting The Writing's on the Wall
-Episode 2 - Banks 24 through 75:,Bank 28,18,C2.S4#558bdcfe#0,route/locatie,,compound_task,,,Run south-west to Land's End and talk to Betty outside the northernmost house to start The Writing's on the Wall
+Episode 2 - Banks 24 through 75:,Bank 28,18,C2.S4#558bdcfe#0,route/locatie,,"handmatig, coordinaat uit Quest Helper/plaatslijst",Land's End (Betty is at the northernmost house),"1504,3415,0",Run south-west to Land's End and talk to Betty outside the northernmost house to start The Writing's on the Wall
 Episode 2 - Banks 24 through 75:,Bank 28,19,C2.S4#27c4627a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Sergeant Hudson and inspect the body parts on the bed, the shelves and the blood on the wall [The Writing's on the Wall]"
 Episode 2 - Banks 24 through 75:,Bank 28,20,C2.S4#7cacf5e3#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Lan the Butcher in the house south-west of the bank, search his bed and use the bloody knife on him [The Writing's on the Wall]"
 Episode 2 - Banks 24 through 75:,Bank 28,21,C2.S4#2fd65f65#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Hugor in the eastern house, inspect your clues and talk to Betty and Sergeant Hudson again [The Writing's on the Wall]"
-Episode 2 - Banks 24 through 75:,Bank 28,22,C2.S4#9c25b6a0#0,route/locatie,,compound_task,,,Run north-east and talk to Betty at the house north-west of the Tithe Farm [The Writing's on the Wall]
+Episode 2 - Banks 24 through 75:,Bank 28,22,C2.S4#9c25b6a0#0,route/locatie,,"handmatig, coordinaat uit Quest Helper/plaatslijst",Tithe Farm (the house is north-west of it),"1802,3503,0",Run north-east and talk to Betty at the house north-west of the Tithe Farm [The Writing's on the Wall]
 Episode 2 - Banks 24 through 75:,Bank 28,23,C2.S4#6bda1762#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Climb through the west window, open the door for Betty and search the basement and the bookshelf upstairs [The Writing's on the Wall]"
 Episode 2 - Banks 24 through 75:,Bank 28,24,C2.S4#a3710d07#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Search the compost bin north of the house and inspect the head [The Writing's on the Wall]
 Episode 2 - Banks 24 through 75:,Bank 28,25,C2.S4#60944e24#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Joyce in the potato field west of the house and the monk just south of it [The Writing's on the Wall]
-Episode 2 - Banks 24 through 75:,Bank 28,26,C2.S4#4f74d87f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Betty again and accept her transport to Port Piscarilius [The Writing's on the Wall]
+Episode 2 - Banks 24 through 75:,Bank 28,26,C2.S4#4f74d87f#0,NPC/object/item; controleer highlight,,"handmatig, coordinaat uit Quest Helper/plaatslijst",Tithe Farm (the house is north-west of it),"1802,3503,0",Talk to Betty again and accept her transport to Port Piscarilius [The Writing's on the Wall]
 Episode 2 - Banks 24 through 75:,Bank 28,27,C2.S4#8fdb3089#0,handmatig of contextueel,,not_safe_to_pin,,,"Remove the plank north of the prison, climb the wall and sneak into the north-western house past the guards [The Writing's on the Wall]"
 Episode 2 - Banks 24 through 75:,Bank 28,28,C2.S4#3507113b#0,route/locatie,,gecontroleerde plaatsbron,Shayzien,"1480,3635,0",Head to the War Tent in the Shayzien Encampment [The Writing's on the Wall]
 Episode 2 - Banks 24 through 75:,Bank 28,29,C2.S4#52e58416#0,handmatig of contextueel,,not_safe_to_pin,,,"Watch the cutscene and investigate the next victim's house: shelves, body and blood on the wall [The Writing's on the Wall]"
@@ -462,7 +462,7 @@ Episode 2 - Banks 24 through 75:,Bank 29,5,C2.S5#79b9e406#0,handmatig of context
 Episode 2 - Banks 24 through 75:,Bank 29,6,C2.S5#56def3d8#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy inventory of sardines north for Kittens
 Episode 2 - Banks 24 through 75:,Bank 29,7,C2.S5#b8b22581#0,bank-items of bankactie,,unresolved_location,,,Bank these at Piscarllius
 Episode 2 - Banks 24 through 75:,Bank 29,8,C2.S5#76195868#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Queen of Thieves
-Episode 2 - Banks 24 through 75:,Bank 29,9,C2.S5#5366e86a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Trade Warrens General Store [Kourend Easy Diary]
+Episode 2 - Banks 24 through 75:,Bank 29,9,C2.S5#5366e86a#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Warrens General Store,"1775,10148,0",Trade Warrens General Store [Kourend Easy Diary]
 Episode 2 - Banks 24 through 75:,Bank 29,10,C2.S5#7d07efc8#0,handmatig of contextueel,,not_safe_to_pin,,,Chronicle to Varrock
 Episode 2 - Banks 24 through 75:,Bank 29,11,C2.S5#373c1e37#0,quest/event; controleer autocheck,review_handmatig,not_safe_to_pin,,,"Start Dragon Slayer (2,1) [Varock Medium Diary]"
 Episode 2 - Banks 24 through 75:,Bank 29,12,C2.S5#f8f89abb#0,handmatig of contextueel,,not_safe_to_pin,,,Jump over the Fence south of Varrock [Varrock Easy Diary]
@@ -474,7 +474,7 @@ Episode 2 - Banks 24 through 75:,Bank 29,17,C2.S5#408de94f#0,NPC/object/item; co
 Episode 2 - Banks 24 through 75:,Bank 29,18,C2.S5#1645c623#0,handmatig of contextueel,,not_safe_to_pin,,,Cut trees heading towards the Varlamore Quetzin
 Episode 2 - Banks 24 through 75:,Bank 29,19,C2.S5#bfd30d6d#0,handmatig of contextueel,,not_safe_to_pin,,,Finish 15 Woodcutting & light all the logs
 Episode 2 - Banks 24 through 75:,Bank 29,20,C2.S5#d1fb96cc#0,route/locatie,,gecontroleerde plaatsbron,Civitas illa Fortis,"1686,3113,0",Head to Varlamore
-Episode 2 - Banks 24 through 75:,Bank 29,21,C2.S5#dc89ed21#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Ennius Tullus (or Furia Tullus) in front of the Sunrise Palace and start Twilight's Promise
+Episode 2 - Banks 24 through 75:,Bank 29,21,C2.S5#5b4d69b0#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Ennius Tullus,"1687,3141,0",Talk to Ennius Tullus by the fountain just west of where the quetzal lands and start Twilight's Promise
 Episode 2 - Banks 24 through 75:,Bank 29,22,C2.S5#2e311fac#0,handmatig of contextueel,,not_safe_to_pin,,,Let the guards deal with the level 34 cultists in the Teomat [Twilight's Promise]
 Episode 2 - Banks 24 through 75:,Bank 29,23,C2.S5#4f5b7938#0,note/handmatig,review_handmatig,not_safe_to_pin,,,"HCIM: Mezan in the Colosseum is level 81 with a max hit of 8; switch between Magic and Ranged every 3 attacks so he never prays, and eat early [Twilight's Promise]"
 Episode 2 - Banks 24 through 75:,Bank 29,24,C2.S5#4168c6de#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Twilight's Promise
@@ -525,15 +525,15 @@ Episode 2 - Banks 24 through 75:,Bank 31,6,C2.S7#63419283#0,NPC/object/item; con
 Episode 2 - Banks 24 through 75:,Bank 31,7,C2.S7#8f78fd2#0,handmatig of contextueel,,not_safe_to_pin,,,Fill the Watering Cans at Camelot Fountain
 Episode 2 - Banks 24 through 75:,Bank 31,8,C2.S7#b4e3c32f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect a Bucket of Wax at the Bees [Merlin's Crystal] (Drop Insect Repellant)
 Episode 2 - Banks 24 through 75:,Bank 31,9,C2.S7#3910c035#0,route/locatie,,compound_task,,,Head North into the Camelot Castle and start Merlins Crystal by talking to King Arthur (1)
-Episode 2 - Banks 24 through 75:,Bank 31,10,C2.S7#d60bc51c#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Sir Gawain (3)
-Episode 2 - Banks 24 through 75:,Bank 31,11,C2.S7#bc3f15c9#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Sir Lancelot (3)
+Episode 2 - Banks 24 through 75:,Bank 31,10,C2.S7#d60bc51c#0,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,Sir Gawain,"2758,3504,0",Talk to Sir Gawain (3)
+Episode 2 - Banks 24 through 75:,Bank 31,11,C2.S7#bc3f15c9#0,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,Sir Lancelot,"2760,3511,1",Talk to Sir Lancelot (3)
 Episode 2 - Banks 24 through 75:,Bank 31,12,C2.S7#f5e00783#0,handmatig of contextueel,,not_safe_to_pin,,,Hide in the Crate by the Candle Seller
 Episode 2 - Banks 24 through 75:,Bank 31,13,C2.S7#3b15cdeb#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill Mordred (Go up and down the stairs)
 Episode 2 - Banks 24 through 75:,Bank 31,14,C2.S7#2172bb26#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill a bat outside Keep La Faye & take the bones [Merlin's Crystal]
 Episode 2 - Banks 24 through 75:,Bank 31,15,C2.S7#f2a3e373#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Sherlock [Kandarin Easy Diary]
 Episode 2 - Banks 24 through 75:,Bank 31,16,C2.S7#4fb69d3a#0,handmatig of contextueel,,not_safe_to_pin,,,Drop Food for inventory space
 Episode 2 - Banks 24 through 75:,Bank 31,17,C2.S7#5af8a503#0,handmatig of contextueel,,not_safe_to_pin,,,Pick 5 Flax [Kandarin Easy Diary][Mournings End Pt 2]
-Episode 2 - Banks 24 through 75:,Bank 31,18,C2.S7#7d3c18a8#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Candle maker and obtain a Black Candle [Merlin's Crystal]
+Episode 2 - Banks 24 through 75:,Bank 31,18,C2.S7#7d3c18a8#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Candle,"2797,3440,0",Talk to Candle maker and obtain a Black Candle [Merlin's Crystal]
 Episode 2 - Banks 24 through 75:,Bank 31,19,C2.S7#9c91e8c3#0,bank-items of bankactie,,multi_sentence,,,Bank at Camelot Bank. Deposit All
 Episode 2 - Banks 24 through 75:,Bank 32,1,C2.S8#a5acc0cb#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Food, 4 Flax"
 Episode 2 - Banks 24 through 75:,Bank 32,2,C2.S8#461d53a3#0,note/handmatig,,not_safe_to_pin,,,OPTIONAL: Hop to Foresty World with Forestry kit. Cut a regular tree every 3 laps to qualify for Forestry events. Complete any that spawn that are worth. (You will also get more MoG doing this)
@@ -578,7 +578,7 @@ Episode 2 - Banks 24 through 75:,Bank 34,15,C2.S10#443801e9#0,handmatig of conte
 Episode 2 - Banks 24 through 75:,Bank 34,16,C2.S10#f83ccce2#0,bank-items of bankactie,,gecontroleerde plaatsbron,Varrock East Bank,"3253,3420,0",Bank at Varrock East Bank
 Episode 2 - Banks 24 through 75:,Bank 34,17,C2.S10#c35d33a1#0,handmatig of contextueel,,not_safe_to_pin,,,Do Mahogany Home contract if Varrock
 Episode 2 - Banks 24 through 75:,Bank 35,1,C2.S11#632ea212#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Chaos Runes, Air Staff, Leather Gloves, 10x Empty Bucket, Barcrawl, Unstamped Letter (16 Inventory Slots)"
-Episode 2 - Banks 24 through 75:,Bank 35,2,C2.S11#60b3b819#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Haig Halen to continue Digsite (1)
+Episode 2 - Banks 24 through 75:,Bank 35,2,C2.S11#60b3b819#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Haig Halen,"3258,3449,0",Talk to Haig Halen to continue Digsite (1)
 Episode 2 - Banks 24 through 75:,Bank 35,3,C2.S11#2e8c637c#0,handmatig of contextueel,,not_safe_to_pin,,,Home teleport to Lumbridge
 Episode 2 - Banks 24 through 75:,Bank 35,4,C2.S11#52daf3bb#0,route/locatie,,gecontroleerde plaatsbron,Shantay Pass,"3304,3117,0",Head to the Shantay Pass
 Episode 2 - Banks 24 through 75:,Bank 35,5,C2.S11#dfcdd3a4#0,handmatig of contextueel,,not_safe_to_pin,,,Continue The Feud (Recommend food as bandit can hit 10s)
@@ -641,7 +641,7 @@ Episode 2 - Banks 24 through 75:,Bank 39A,2,C2.S15#96e18931#0,note/handmatig,,no
 Episode 2 - Banks 24 through 75:,Bank 39A,3,C2.S15#7b365464#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Buy 5,300 Feathers from the Shilo Village fishing shop. Go up the ladder and buy a ticket from Seravel (1)"
 Episode 2 - Banks 24 through 75:,Bank 39A,4,C2.S15#8d5959d#0,quest/event; controleer autocheck,,not_safe_to_pin,,,"Start One Small Favour by talking to Yanni Salika (2,5,1) [One Small Favour]"
 Episode 2 - Banks 24 through 75:,Bank 39B,1,C2.S16#493ee063#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Teleport Runes, Coins, Barcrawl Card, Bread, Bat Bones, Lit Black Candle, Steel Pickaxe, Silver Ore, Sickle Mould, Ship Ticket, Blunt axe (17 Inventory Slots)"
-Episode 2 - Banks 24 through 75:,Bank 39B,2,C2.S16#c64048ee#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Jungle Forester (1,1) to continue One Small Favor"
+Episode 2 - Banks 24 through 75:,Bank 39B,2,C2.S16#c64048ee#0,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,Jungle Forester,"2867,2942,0","Talk to Jungle Forester (1,1) to continue One Small Favor"
 Episode 2 - Banks 24 through 75:,Bank 39B,3,C2.S16#518ec72b#0,route/locatie,,gecontroleerde plaatsbron,Port Khazard,"2653,3166,0",Head West & take the Lady of the Waves to Port Khazard [Karamja Medium Diary]
 Episode 2 - Banks 24 through 75:,Bank 39B,4,C2.S16#ceec58f5#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy your 100 Soda Ash/Sand if you haven't yet
 Episode 2 - Banks 24 through 75:,Bank 39B,5,C2.S16#7f4d8b1a#0,route/locatie,,gecontroleerde plaatsbron,Falador,"2964,3378,0",Teleport to Falador [Falador Medium Diary]
@@ -649,7 +649,7 @@ Episode 2 - Banks 24 through 75:,Bank 39B,6,C2.S16#39394144#0,NPC/object/item; c
 Episode 2 - Banks 24 through 75:,Bank 39B,7,C2.S16#2fefa401#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy a steel Mace from Flynn's Mace Market [In Search of Myreque]
 Episode 2 - Banks 24 through 75:,Bank 39B,8,C2.S16#d538cb20#0,handmatig of contextueel,,not_safe_to_pin,,,Complete the Barcrawl in Rising Sun Inn
 Episode 2 - Banks 24 through 75:,Bank 39B,9,C2.S16#e7a5fc19#0,handmatig of contextueel,,not_safe_to_pin,,,Make a Silver Sickle
-Episode 2 - Banks 24 through 75:,Bank 39B,10,C2.S16#c3941af#0,route/locatie,,compound_task,,,Run to Taverley and talk to Lady of the Lake (3)
+Episode 2 - Banks 24 through 75:,Bank 39B,10,C2.S16#c3941af#0,route/locatie,,Quest Helper: NPC missing from the spawn database,Lady of the Lake,"2924,3404,0",Run to Taverley and talk to Lady of the Lake (3)
 Episode 2 - Banks 24 through 75:,Bank 39B,11,C2.S16#257f8cfb#0,handmatig of contextueel,,not_safe_to_pin,,,"Right click House Teleport spell in spellbook and chose Outside House, then head east to Port Sarim"
 Episode 2 - Banks 24 through 75:,Bank 39B,12,C2.S16#b9d1cc7e#0,route/locatie,,unresolved_location,,,Enter Jewellery Shop to get Excalibur Grum's Gold Exchange [Merlin's Crystal]
 Episode 2 - Banks 24 through 75:,Bank 39B,13,C2.S16#6c30f699#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Brian (3,2,4) [One Small Favour]"
@@ -674,7 +674,7 @@ Episode 2 - Banks 24 through 75:,Bank 41,1,C2.S18#6ef441dd#0,bank-items of banka
 Episode 2 - Banks 24 through 75:,Bank 41,2,C2.S18#158296c4#0,route/locatie,,multi_sentence,,,"Head to the Museum, Take the Cleaning Kit and clean Uncleaned finds until you obtain a Ruby Necklace & the 5 unique items. (You should get 78 Kudos)"
 Episode 2 - Banks 24 through 75:,Bank 41,3,C2.S18#a7425374#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Historian Minas to obtain 103 Kudos. Use lamps on Herblore
 Episode 2 - Banks 24 through 75:,Bank 41,4,C2.S18#9a17c8d0#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Information clerk (1)
-Episode 2 - Banks 24 through 75:,Bank 41,5,C2.S18#6c6e8fb8#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Haig Halen for Diary step & Bone Voyage (1,1)"
+Episode 2 - Banks 24 through 75:,Bank 41,5,C2.S18#6c6e8fb8#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Haig Halen,"3258,3449,0","Talk to Haig Halen for Diary step & Bone Voyage (1,1)"
 Episode 2 - Banks 24 through 75:,Bank 41,6,C2.S18#e18ff416#0,bank-items of bankactie,,unresolved_location,,,Bank at East Bank
 Episode 2 - Banks 24 through 75:,Bank 42,1,C2.S19#ced993e8#0,bank-items of bankactie,,not_safe_to_pin,,,Withdraw: Steel Pickaxe
 Episode 2 - Banks 24 through 75:,Bank 42,2,C2.S19#f38bc55e#0,route/locatie,,multi_sentence,,,Head to Aubury and teleport to the essence mine. Mine 2 Inventories of Essence
@@ -737,7 +737,7 @@ Episode 2 - Banks 24 through 75:,Bank 47,7,C2.S24#ef1b2865#0,NPC/object/item; co
 Episode 2 - Banks 24 through 75:,Bank 47,8,C2.S24#f0c4b06c#0,bank-items of bankactie,,gecontroleerde plaatsbron,Draynor Village Bank,"3092,3245,0",Bank the seeds and steel axe at the Draynor Bank
 Episode 2 - Banks 24 through 75:,Bank 47,9,C2.S24#7a8132bb#0,note/handmatig,,not_safe_to_pin,,,NOTE: You can stop by Port Sarim rune shop Betty's Magic Emporium to buy some runes to cast crumble undead if you're low on runes
 Episode 2 - Banks 24 through 75:,Bank 47,10,C2.S24#b3a29926#0,route/locatie,,unresolved_location,,,Travel to Entrana [Falador Easy Diary]
-Episode 2 - Banks 24 through 75:,Bank 47,11,C2.S24#4005d12b#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to High Priest (3) [Holy Grail]
+Episode 2 - Banks 24 through 75:,Bank 47,11,C2.S24#4005d12b#0,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,High Priest,"2851,3348,0",Talk to High Priest (3) [Holy Grail]
 Episode 2 - Banks 24 through 75:,Bank 47,12,C2.S24#88fc4541#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect a Kebab & Egg North-East [Mournings End Pt 2]
 Episode 2 - Banks 24 through 75:,Bank 47,13,C2.S24#9601d4ce#0,handmatig of contextueel,,not_safe_to_pin,,,Continue Lost City
 Episode 2 - Banks 24 through 75:,Bank 47,14,C2.S24#2262ca90#0,handmatig of contextueel,,not_safe_to_pin,,,Safespot the Tree Spirit behind a mushroom
@@ -829,7 +829,7 @@ Episode 2 - Banks 24 through 75:,Bank 56,5,C2.S33#289c6adb#0,route/locatie,,unre
 Episode 2 - Banks 24 through 75:,Bank 56,6,C2.S33#23fda724#0,handmatig of contextueel,,not_safe_to_pin,,,Logout or hop worlds to leave the Trawler after finishing the diary step
 Episode 2 - Banks 24 through 75:,Bank 56,7,C2.S33#5cb088f5#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take cat out of ardy south bank
 Episode 2 - Banks 24 through 75:,Bank 56,8,C2.S33#63bd003c#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Elena and complete Biohazard
-Episode 2 - Banks 24 through 75:,Bank 56,9,C2.S33#9a2a23c8#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to King Lathas to start Underground Pass
+Episode 2 - Banks 24 through 75:,Bank 56,9,C2.S33#9a2a23c8#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,King Lathas,"2578,3293,1",Talk to King Lathas to start Underground Pass
 Episode 2 - Banks 24 through 75:,Bank 56,10,C2.S33#b8957321#0,route/locatie,,compound_task,,,Enter Combat Training Camp to complete Ardougne Easy Diary
 Episode 2 - Banks 24 through 75:,Bank 56,11,C2.S33#d45e3940#0,route/locatie,,compound_task,,,"Head West and talk to Jorral (1,1) (You can skip this walk if you plan to make Necklace's of Passage later - BEFORE GHOST'S AHOY)[Making History]"
 Episode 2 - Banks 24 through 75:,Bank 56,12,C2.S33#38aa0f0a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Two-pints for Ardougne Cloak (1)
@@ -871,7 +871,7 @@ Episode 2 - Banks 24 through 75:,Bank 60,10,C2.S37#5d5744d9#0,bank-items of bank
 Episode 2 - Banks 24 through 75:,Bank 60,11,C2.S37#6c1f94a1#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,"(if you are 26 construction from passive MH contracts, skip this step else do it)"
 Episode 2 - Banks 24 through 75:,Bank 60B,1,C2.S38#47f4b2d0#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Hammer, Saw, Beer, Teleport Runes (5 Inventory Slots)"
 Episode 2 - Banks 24 through 75:,Bank 60B,2,C2.S38#b16d3ed3#0,handmatig of contextueel,,not_safe_to_pin,,,"Tower of Life needs 10 Construction (not boostable); if you are lower, do Beginner Mahogany Homes contracts from Bank 61 until 10 Construction first"
-Episode 2 - Banks 24 through 75:,Bank 60B,3,C2.S38#3fccadfe#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Ardy Cloak to the Monastery and talk to Effigy east of it to start Tower of Life
+Episode 2 - Banks 24 through 75:,Bank 60B,3,C2.S38#3fccadfe#0,NPC/object/item; controleer highlight,,"handmatig, coordinaat uit Quest Helper/plaatslijst","Effigy, Tower of Life","2637,3218,0",Ardy Cloak to the Monastery and talk to Effigy east of it to start Tower of Life
 Episode 2 - Banks 24 through 75:,Bank 60B,4,C2.S38#51eaff15#0,quest/event; controleer autocheck,,not_safe_to_pin,,,"Complete Tower of Life (1,000 Construction, 500 Crafting and 500 Thieving XP)"
 Episode 2 - Banks 24 through 75:,Bank 60B,5,C2.S38#97a7f9f5#0,bank-items of bankactie,,unresolved_location,,,Bank anywhere and deposit all
 Episode 2 - Banks 24 through 75:,Bank 61,1,C2.S39#a1105772#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Hammer, Saw, Nails, 2x Steel Bar, Teleport Runes, Invent of Planks (28 Inventory Slots)"
@@ -1029,7 +1029,7 @@ Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),1,C3
 Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),2,C3.S2#a3abe755#0,handmatig of contextueel,,not_safe_to_pin,,,"Do two courier tasks at a time to the same port, or tasks that lie on each other's route"
 Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),3,C3.S2#b937baac#0,handmatig of contextueel,,not_safe_to_pin,,,Chart every sea charting spot you pass for one-off XP and faster rapids later
 Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),4,C3.S2#7bb421fc#0,handmatig of contextueel,,not_safe_to_pin,,,Train to 12 Sailing with courier tasks and sea charting
-Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),5,C3.S2#581c66d0#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Talk to Squawking Steve Beanie in the pub on The Pandemonium and start Prying Times (needs 30 Smithing and The Knight's Sword)
+Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),5,C3.S2#581c66d0#0,skilldoel; controleer autocheck,,"handmatig, coordinaat uit Quest Helper/plaatslijst","Steve Beanie, The Pandemonium bar","3050,2966,0",Talk to Squawking Steve Beanie in the pub on The Pandemonium and start Prying Times (needs 30 Smithing and The Knight's Sword)
 Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),6,C3.S2#b63a8a29#0,quest/event; controleer autocheck,,not_safe_to_pin,,,"Complete Prying Times (crowbar, 800 Sailing, 1,000 Smithing and 25 oak sawmill coupons)"
 Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),7,C3.S2#3a919ac2#0,handmatig of contextueel,,not_safe_to_pin,,,Train to 15 Sailing
 Episode 3 - Banks 76 through 104B:,Sailing A — 1 to 30 Sailing (optional),8,C3.S2#db5928b1#0,handmatig of contextueel,,not_safe_to_pin,,,"Get the skiff for 15,000 coins and build a cargo hold and a bronze salvaging hook"
@@ -1167,7 +1167,7 @@ Episode 3 - Banks 76 through 104B:,Bank 83,17,C3.S10#1f6d7961#0,handmatig of con
 Episode 3 - Banks 76 through 104B:,Bank 83,18,C3.S10#3ff31310#0,handmatig of contextueel,,not_safe_to_pin,,,Do Thorvald's task fourth
 Episode 3 - Banks 76 through 104B:,Bank 83,19,C3.S10#8d835bba#0,handmatig of contextueel,,not_safe_to_pin,,,Do Peer the Seer's task last.
 Episode 3 - Banks 76 through 104B:,Bank 83,20,C3.S10#9c64b060#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Fremmenik Trials
-Episode 3 - Banks 76 through 104B:,Bank 83,21,C3.S10#ca466a85#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Mord Gunnars to start Fremennik Isles (3)
+Episode 3 - Banks 76 through 104B:,Bank 83,21,C3.S10#ca466a85#0,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,Mord Gunnars,"2644,3709,0",Talk to Mord Gunnars to start Fremennik Isles (3)
 Episode 3 - Banks 76 through 104B:,Bank 83,22,C3.S10#4de7cb72#0,bank-items of bankactie,,gecontroleerde plaatsbron,Jatizso,"2420,3780,0",Bank all at Jatiso
 Episode 3 - Banks 76 through 104B:,Bank 84,1,C3.S11#15fc212#0,bank-items of bankactie,,not_safe_to_pin,,,Withdraw: Coins
 Episode 3 - Banks 76 through 104B:,Bank 84,2,C3.S11#d1c19ad9#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy 5x Raw Tuna from Flosi's Fishmongers
@@ -1209,7 +1209,7 @@ Episode 3 - Banks 76 through 104B:,Bank 86,11,C3.S13#94f2f1dd#0,bank-items of ba
 Episode 3 - Banks 76 through 104B:,Bank 87,1,C3.S14#f355edae#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: 3x Silverlight keys, Teleport Runes"
 Episode 3 - Banks 76 through 104B:,Bank 87,2,C3.S14#6b6823c#0,route/locatie,,gecontroleerde plaatsbron,Varrock,"3212,3424,0",Teleport to Varrock
 Episode 3 - Banks 76 through 104B:,Bank 87,3,C3.S14#e0bcf33a#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Demon Slayer
-Episode 3 - Banks 76 through 104B:,Bank 87,4,C3.S14#1ade04d1#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,"Talk to Aris in Varrock Square to claim the 2 Demon Slayer lamps (1,000 combat XP each) and use them on Prayer (Ranged once you have 43 Prayer)"
+Episode 3 - Banks 76 through 104B:,Bank 87,4,C3.S14#1ade04d1#0,skilldoel; controleer autocheck,,"handmatig, coordinaat uit Quest Helper/plaatslijst","Aris's tent, Varrock Square","3204,3424,0","Talk to Aris in Varrock Square to claim the 2 Demon Slayer lamps (1,000 combat XP each) and use them on Prayer (Ranged once you have 43 Prayer)"
 Episode 3 - Banks 76 through 104B:,Bank 88,1,C3.S15#ca8a4426#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Blast Spells, Pestle & Mortar, Desert Robes, Black Wizard Hat, Ring of Duelling, ring of recoil, Silverlight, Vial, Silver Bar (14 Inventory Slots)"
 Episode 3 - Banks 76 through 104B:,Bank 88,2,C3.S15#64bef353#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Start Shadow of the Storm
 Episode 3 - Banks 76 through 104B:,Bank 88,3,C3.S15#b05a0a0c#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take the Magic carpet to the Ruins of Uzer
@@ -1277,7 +1277,7 @@ Episode 3 - Banks 76 through 104B:,Bank 95,2,C3.S22#b7f65f07#0,route/locatie,,ge
 Episode 3 - Banks 76 through 104B:,Bank 95,3,C3.S22#23f18052#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill an Ice Fiend
 Episode 3 - Banks 76 through 104B:,Bank 95,4,C3.S22#5e514845#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Rolad [Between a Rock]
 Episode 3 - Banks 76 through 104B:,Bank 95,5,C3.S22#27ec5bd4#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy an Ammo Mould [Between a Rock]
-Episode 3 - Banks 76 through 104B:,Bank 95,6,C3.S22#9d5f95a0#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill Scorpions for Book Page 1 [Between a Rock]
+Episode 3 - Banks 76 through 104B:,Bank 95,6,C3.S22#9d5f95a0#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Scorpions,"3043,9796,0",Kill Scorpions for Book Page 1 [Between a Rock]
 Episode 3 - Banks 76 through 104B:,Bank 95,7,C3.S22#f4c7e567#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Search Mine Carts for Book Page 2 [Between a Rock]
 Episode 3 - Banks 76 through 104B:,Bank 95,8,C3.S22#a170d416#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Mine Clay for Book Page 3 [Between a Rock]
 Episode 3 - Banks 76 through 104B:,Bank 95,9,C3.S22#de496bc9#0,route/locatie,,unresolved_location,,,Return to Rolad [Between a Rock]
@@ -1347,7 +1347,7 @@ Episode 3 - Banks 76 through 104B:,Bank 100,6,C3.S27#e811193d#0,route/locatie,,g
 Episode 3 - Banks 76 through 104B:,Bank 100,7,C3.S27#f9ab90ef#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Checkal [Below Ice Mountain]
 Episode 3 - Banks 76 through 104B:,Bank 100,8,C3.S27#b5e642d7#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Atlas [Below Ice Mountain]
 Episode 3 - Banks 76 through 104B:,Bank 100,9,C3.S27#788c0cdb#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Collect a Cooked meat & Beer
-Episode 3 - Banks 76 through 104B:,Bank 100,10,C3.S27#f9ab90ef#1,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Checkal [Below Ice Mountain]
+Episode 3 - Banks 76 through 104B:,Bank 100,10,C3.S27#f9ab90ef#1,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,Checkal,"3087,3415,0",Talk to Checkal [Below Ice Mountain]
 Episode 3 - Banks 76 through 104B:,Bank 100,11,C3.S27#f96fe160#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy Steel & Mithril Full Helmet [Song of the Elves][Warriors Guild]
 Episode 3 - Banks 76 through 104B:,Bank 100,12,C3.S27#4058ac24#0,handmatig of contextueel,,not_safe_to_pin,,,"Bless both Symbols at Monastery by talking to Brother Jered (1, 1) [Animal Magnetism]"
 Episode 3 - Banks 76 through 104B:,Bank 100,13,C3.S27#bdff7aae#0,handmatig of contextueel,,not_safe_to_pin,,,"Catch the Scorpion, it should be upstairs around the ladder [Scorpion Catcher] (Use the cage on the scorpion)"
@@ -1547,7 +1547,7 @@ Episode 4 - Banks 105 through 150,Bank 111,5,C4.S8#8c4e7a6b#0,route/locatie,,gec
 Episode 4 - Banks 105 through 150,Bank 111,6,C4.S8#ebe90c14#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill Chronozon
 Episode 4 - Banks 105 through 150,Bank 111,7,C4.S8#2c8b0f23#0,handmatig of contextueel,,not_safe_to_pin,,,Safe Spot by the Earth Obelisk (Make sure no spiders are trapped here)
 Episode 4 - Banks 105 through 150,Bank 111,8,C4.S8#b5dfb115#0,route/locatie,,gecontroleerde plaatsbron,Ardougne,"2661,3300,0",Teleport to Ardougne
-Episode 4 - Banks 105 through 150,Bank 111,9,C4.S8#7b05ec3a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Silver Merchant (2) [Making History]
+Episode 4 - Banks 105 through 150,Bank 111,9,C4.S8#7b05ec3a#0,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,Silver Merchant,"2658,3316,0",Talk to Silver Merchant (2) [Making History]
 Episode 4 - Banks 105 through 150,Bank 111,10,C4.S8#d18708a8#0,route/locatie,,dangerous_area,,,Teleport With Wizard Comperty [Enter the Abyss]
 Episode 4 - Banks 105 through 150,Bank 111,11,C4.S8#b6e2ef00#0,bank-items of bankactie,,gecontroleerde plaatsbron,Ardougne South Bank,"2652,3283,0",Bank at Ardy South Bank
 Episode 4 - Banks 105 through 150,Bank 112,1,C4.S9#43845ce6#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Teleport Runes, Ardy Cloak, Dramen Staff, Spade, Pickaxe, Cannonball Mould, Scrying Orb, Gold Bar, Scroll, Yellow Dye, Swamp Tar, Rope, Butterfly Net, Bird Snare, 3x Crest Part, Teasing Stick, Axe, Knife (19 Inventory Slots)"
@@ -1596,7 +1596,7 @@ Episode 4 - Banks 105 through 150,Bank 113,9,C4.S10#62aced9#1,NPC/object/item; c
 Episode 4 - Banks 105 through 150,Bank 113,10,C4.S10#a8530d8e#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Sir Tiffy Cashien (2,1) [Wanted!]"
 Episode 4 - Banks 105 through 150,Bank 113,11,C4.S10#28aee182#0,handmatig of contextueel,,not_safe_to_pin,,,Use Contact on the Commorb (1) [Wanted!]
 Episode 4 - Banks 105 through 150,Bank 113,12,C4.S10#774a9a4f#0,route/locatie,,gecontroleerde plaatsbron,Taverley,"2894,3454,0",Head to Taverley
-Episode 4 - Banks 105 through 150,Bank 113,13,C4.S10#7d502bf8#0,route/locatie,,compound_task,,,Enter the White Wolf Tunnel and talk to Khorvak [Between a Rock]
+Episode 4 - Banks 105 through 150,Bank 113,13,C4.S10#7d502bf8#0,route/locatie,,Quest Helper: NPC missing from the spawn database,Khorvak,"2867,9876,0",Enter the White Wolf Tunnel and talk to Khorvak [Between a Rock]
 Episode 4 - Banks 105 through 150,Bank 113,14,C4.S10#626a4fbd#0,route/locatie,,gecontroleerde plaatsbron,Lumbridge,"3222,3218,0",Teleport to Lumbridge
 Episode 4 - Banks 105 through 150,Bank 113,15,C4.S10#7ef96c1c#0,handmatig of contextueel,,not_safe_to_pin,,,Use Trolley on Statue and place in Varrock [Garden of Tranquility]
 Episode 4 - Banks 105 through 150,Bank 113,16,C4.S10#f045c37#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Garden of Tranquility
@@ -1648,11 +1648,11 @@ Episode 4 - Banks 105 through 150,Bank 117,15,C4.S14#1ab5dca7#0,handmatig of con
 Episode 4 - Banks 105 through 150,Bank 117,16,C4.S14#5d21fda7#0,handmatig of contextueel,,not_safe_to_pin,,,Keep 1 Unpowered Orb [Legend's Quest]
 Episode 4 - Banks 105 through 150,Bank 117,17,C4.S14#cee1ba62#0,handmatig of contextueel,,not_safe_to_pin,,,Keep 2 Lantern Lense [Hand in the Sand][Falador Medium Diary]
 Episode 4 - Banks 105 through 150,Bank 117,18,C4.S14#e345b7ac#0,handmatig of contextueel,,not_safe_to_pin,,,Use Lantern Lense on Bullseye Lantern
-Episode 4 - Banks 105 through 150,Bank 117,19,C4.S14#25dec9bc#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Marley by the Yew Trees [Below Ice Mountain]
+Episode 4 - Banks 105 through 150,Bank 117,19,C4.S14#25dec9bc#0,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,Marley,"3088,3470,0",Talk to Marley by the Yew Trees [Below Ice Mountain]
 Episode 4 - Banks 105 through 150,Bank 118,1,C4.S15#b47eeb0b#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Teleport Runes, Coins, Death Runes, Ardy Cloak, Dramen Staff, games necklace, Pickaxe, Vial of Water, Tarromin, Limpwurt Root, Rope, Facemask, Kharedst Memoirs, Hammer, Saw, 3 Planks, 10+ Nails, Rune Sword, Fly Fishing Rod, Feathers, Spade (27 Inventory Slots) + Range Combat Gear"
 Episode 4 - Banks 105 through 150,Bank 118,2,C4.S15#69809001#0,route/locatie,,unresolved_location,,,Minigame Teleport to Tithe Farm
 Episode 4 - Banks 105 through 150,Bank 118,3,C4.S15#75032ec5#0,route/locatie,,unresolved_location,,,Head North
-Episode 4 - Banks 105 through 150,Bank 118,4,C4.S15#ece1c942#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Lord Kandur (2,1) [Depths of Despair]"
+Episode 4 - Banks 105 through 150,Bank 118,4,C4.S15#ece1c942#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Lord Kandur,"1782,3572,0","Talk to Lord Kandur (2,1) [Depths of Despair]"
 Episode 4 - Banks 105 through 150,Bank 118,5,C4.S15#e7d6cdf0#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Chef Olivia [Depths of Despair]
 Episode 4 - Banks 105 through 150,Bank 118,6,C4.S15#38b85550#0,handmatig of contextueel,,not_safe_to_pin,,,Ardy Cloak - CIS
 Episode 4 - Banks 105 through 150,Bank 118,7,C4.S15#40cb1a69#0,route/locatie,,unresolved_location,,,Head South to Library
@@ -1661,7 +1661,7 @@ Episode 4 - Banks 105 through 150,Bank 118,9,C4.S15#54893dbd#0,NPC/object/item; 
 Episode 4 - Banks 105 through 150,Bank 118,10,C4.S15#ec9bd96#0,handmatig of contextueel,,not_safe_to_pin,,,Find ‘Soul Journey’ book & read it [Bear Your Soul] (Use Kourend Library Plug in to speed this up)
 Episode 4 - Banks 105 through 150,Bank 118,11,C4.S15#f57530f0#0,handmatig of contextueel,,not_safe_to_pin,,,Hand a book in Library [Kourend Easy Diary]
 Episode 4 - Banks 105 through 150,Bank 118,12,C4.S15#7549af8d#0,route/locatie,,unresolved_location,,,Head South
-Episode 4 - Banks 105 through 150,Bank 118,13,C4.S15#8d26b8fa#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Mori (1,2,1) [Ascent of Arceuus]"
+Episode 4 - Banks 105 through 150,Bank 118,13,C4.S15#8d26b8fa#0,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,Mori,"1698,3742,0","Talk to Mori (1,2,1) [Ascent of Arceuus]"
 Episode 4 - Banks 105 through 150,Bank 118,14,C4.S15#51648c8e#0,route/locatie,,gecontroleerde plaatsbron,Kourend Castle,"1643,3673,0",Teleport to Kourend Castle
 Episode 4 - Banks 105 through 150,Bank 118,15,C4.S15#eb3fb4c4#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Councillor Andrews (2)
 Episode 4 - Banks 105 through 150,Bank 118,16,C4.S15#5e4dc5de#0,handmatig of contextueel,,not_safe_to_pin,,,Pray at the Altar in the castle (Top floor go upstairs) [Kourend Easy Diary]
@@ -1669,9 +1669,9 @@ Episode 4 - Banks 105 through 150,Bank 118,17,C4.S15#37dde0ae#0,handmatig of con
 Episode 4 - Banks 105 through 150,Bank 118,18,C4.S15#8f2f6e45#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Mincart to Lovakengj (7)
 Episode 4 - Banks 105 through 150,Bank 118,19,C4.S15#35ea8485#0,route/locatie,,compound_task,,,Head North East and make a Strength Potion in the Pub (Vial Tarromin Limpwurt) [Kourend Easy Diary]
 Episode 4 - Banks 105 through 150,Bank 118,20,C4.S15#66e303ef#0,route/locatie,,unresolved_location,,,Head West
-Episode 4 - Banks 105 through 150,Bank 118,21,C4.S15#164aeae1#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Lady Vulcana Lovakengj (1,3) [Forsaken Tower]"
+Episode 4 - Banks 105 through 150,Bank 118,21,C4.S15#164aeae1#0,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,Lady Vulcana Lovakengj,"1483,3747,0","Talk to Lady Vulcana Lovakengj (1,3) [Forsaken Tower]"
 Episode 4 - Banks 105 through 150,Bank 118,22,C4.S15#9caaf1c9#0,route/locatie,,gecontroleerde plaatsbron,Shayzien,"1480,3635,0",Return to Minecart & take to Shayzien East (B)
-Episode 4 - Banks 105 through 150,Bank 118,23,C4.S15#1a54785#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Phileas Rimor (2,1) [Tales of the Righteous]"
+Episode 4 - Banks 105 through 150,Bank 118,23,C4.S15#1a54785#0,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,Phileas Rimor,"1542,3570,0","Talk to Phileas Rimor (2,1) [Tales of the Righteous]"
 Episode 4 - Banks 105 through 150,Bank 118,24,C4.S15#37dde0ae#1,handmatig of contextueel,review_handmatig,not_safe_to_pin,,,Games necklace - Wintertodt
 Episode 4 - Banks 105 through 150,Bank 118,25,C4.S15#6bcef47b#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Ignisia [Forsaken Tower]
 Episode 4 - Banks 105 through 150,Bank 118,26,C4.S15#8f467ea2#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Undor (4) [Forsaken Tower]
@@ -1757,7 +1757,7 @@ Episode 4 - Banks 105 through 150,Bank 121,3,C4.S18#1ff942e1#0,route/locatie,,ge
 Episode 4 - Banks 105 through 150,Bank 121,4,C4.S18#682b70a2#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Gerrant (3) [Heroes Quest]
 Episode 4 - Banks 105 through 150,Bank 121,5,C4.S18#bdfac855#0,handmatig of contextueel,,not_safe_to_pin,,,Climb down Ratpits entrance [Falador Medium Diary]
 Episode 4 - Banks 105 through 150,Bank 121,6,C4.S18#6868701b#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Felkrash [Ratcatchers]
-Episode 4 - Banks 105 through 150,Bank 121,7,C4.S18#e979db1b#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Exit the rat pits & talk to The Face [Ratcatchers]
+Episode 4 - Banks 105 through 150,Bank 121,7,C4.S18#e979db1b#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Face,"3019,3232,0",Exit the rat pits & talk to The Face [Ratcatchers]
 Episode 4 - Banks 105 through 150,Bank 121,8,C4.S18#b7f65f07#0,route/locatie,,gecontroleerde plaatsbron,Falador,"2964,3378,0",Teleport to Falador
 Episode 4 - Banks 105 through 150,Bank 121,9,C4.S18#f5bbba16#0,handmatig of contextueel,,not_safe_to_pin,,,Fill a bowl on the pump
 Episode 4 - Banks 105 through 150,Bank 121,10,C4.S18#eb051e38#0,route/locatie,,sub_location_not_mapped,,,Head West to Taverley Dungeon
@@ -1897,7 +1897,7 @@ Episode 4 - Banks 105 through 150,Bank 130,5,C4.S27#6b6823c#0,route/locatie,,gec
 Episode 4 - Banks 105 through 150,Bank 130,6,C4.S27#f3493989#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Horvik (3,3) [One Small Favour]"
 Episode 4 - Banks 105 through 150,Bank 130,7,C4.S27#2532c169#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Buy Steel, Black Platebody from Horvik [Song of the Elves][Kings Ransom]"
 Episode 4 - Banks 105 through 150,Bank 130,8,C4.S27#7cbe62b5#0,bank-items of bankactie,,unresolved_location,,,Bank and Deposit steel and black platebody and grab a fly fishing rod + feathers
-Episode 4 - Banks 105 through 150,Bank 130,9,C4.S27#84e13a64#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to the Cook in Blue moon Inn (1) [Below Ice Mountain]
+Episode 4 - Banks 105 through 150,Bank 130,9,C4.S27#84e13a64#0,NPC/object/item; controleer highlight,,Quest Helper: plugin points at another place,Cook,"3230,3401,0",Talk to the Cook in Blue moon Inn (1) [Below Ice Mountain]
 Episode 4 - Banks 105 through 150,Bank 130,10,C4.S27#baf8a17e#0,handmatig of contextueel,,not_safe_to_pin,,,Make a Steak Sandwich
 Episode 4 - Banks 105 through 150,Bank 130,11,C4.S27#5c3f8258#0,handmatig of contextueel,,not_safe_to_pin,,,Craft a coif in the Lumbridge Cow Pen [Lumbridge Medium Diary]
 Episode 4 - Banks 105 through 150,Bank 130,12,C4.S27#76c38844#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Kill a cow and take the cowhide [Mournings End Pt 1]
@@ -1908,7 +1908,7 @@ Episode 4 - Banks 105 through 150,Bank 130,16,C4.S27#b63aaf07#0,handmatig of con
 Episode 4 - Banks 105 through 150,Bank 130,17,C4.S27#e54b1eb8#0,note/handmatig,,not_safe_to_pin,,,"HCIM: Brutus's special attacks hit up to 19 and cannot be prayed against; when he snorts step 2 tiles to the side or 1 tile back, when he growls step 2 tiles to the side, and start the fight with full HP [The Ides of Milk]"
 Episode 4 - Banks 105 through 150,Bank 130,18,C4.S27#4e0ccde0#0,handmatig of contextueel,,not_safe_to_pin,,,Open the pen in the north-east corner of the cow farm and fight the bull [The Ides of Milk]
 Episode 4 - Banks 105 through 150,Bank 130,19,C4.S27#afa8665f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Speak to Gillie Groats [The Ides of Milk]
-Episode 4 - Banks 105 through 150,Bank 130,20,C4.S27#7b5d810c#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Speak to Cassius to complete the Ides of Milk
+Episode 4 - Banks 105 through 150,Bank 130,20,C4.S27#7b5d810c#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Cassius,"3171,3277,0",Speak to Cassius to complete the Ides of Milk
 Episode 4 - Banks 105 through 150,Bank 130,21,C4.S27#6d522bad#0,handmatig of contextueel,,not_safe_to_pin,,,"Use the 1,000 XP combat lamp from The Ides of Milk on Prayer or Ranged"
 Episode 4 - Banks 105 through 150,Bank 130,22,C4.S27#f0e2152#0,route/locatie,,multi_sentence,,,Head south to H.A.M. Hideout
 Episode 4 - Banks 105 through 150,Bank 130,23,C4.S27#821c284#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Johanhus Ulsbrecht (4) [One Small Favour]
@@ -1920,9 +1920,9 @@ Episode 4 - Banks 105 through 150,Bank 130,28,C4.S27#7b4185b1#0,handmatig of con
 Episode 4 - Banks 105 through 150,Bank 130,29,C4.S27#b5dfb115#0,route/locatie,,gecontroleerde plaatsbron,Ardougne,"2661,3300,0",Teleport to Ardougne
 Episode 4 - Banks 105 through 150,Bank 130,30,C4.S27#99476d4d#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Boaty to Brimhaven
 Episode 4 - Banks 105 through 150,Bank 130,31,C4.S27#abfb4bc5#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take Cart to Shilo Village
-Episode 4 - Banks 105 through 150,Bank 130,32,C4.S27#94259d62#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Jungle forester (1) [One Small Favour]
+Episode 4 - Banks 105 through 150,Bank 130,32,C4.S27#94259d62#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Jungle,"2861,2942,0",Talk to Jungle forester (1) [One Small Favour]
 Episode 4 - Banks 105 through 150,Bank 130,33,C4.S27#9bb08e66#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,YOU SHOULD BE CLOSE TO 30 HERBLORE HERE. GET IT BEFORE YOU CONTINUE
-Episode 4 - Banks 105 through 150,Bank 130,34,C4.S27#1a4b70cf#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Yanni to Complete One Small Favour [Lamps on Herblore]
+Episode 4 - Banks 105 through 150,Bank 130,34,C4.S27#1a4b70cf#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Yanni,"2836,2983,0",Talk to Yanni to Complete One Small Favour [Lamps on Herblore]
 Episode 4 - Banks 105 through 150,Bank 131,1,C4.S28#7adc477b#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Pickaxe, Guam, Swamp Tar, Pestle & Mortar, Chisel (5 Inventory Slots)"
 Episode 4 - Banks 105 through 150,Bank 131,2,C4.S28#16d7f63c#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Mine Gem Rocks until 4x Red Topaz [Karamja Medium Diary][Legends Quest]
 Episode 4 - Banks 105 through 150,Bank 131,3,C4.S28#19b3f27#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Mine Gem Rocks until 5x+ Jades [Necklaces of Passage][Legends Quest]
@@ -2113,10 +2113,10 @@ Episode 4 - Banks 105 through 150,Bank 148,11,C4.S45#95242f47#0,handmatig of con
 Episode 4 - Banks 105 through 150,Bank 148,12,C4.S45#63a1e36d#0,handmatig of contextueel,,not_safe_to_pin,,,[Pick the Scarecrow back up & use on Falador Flower Patch whenever doing a farm run. NOT NOW]
 Episode 4 - Banks 105 through 150,Bank 148,13,C4.S45#b7f65f07#0,route/locatie,,gecontroleerde plaatsbron,Falador,"2964,3378,0",Teleport to Falador
 Episode 4 - Banks 105 through 150,Bank 148,14,C4.S45#8843f78f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy an Asgarnian Ale
-Episode 4 - Banks 105 through 150,Bank 148,15,C4.S45#7bb6f2a6#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Burntof [Below Ice Mountain]
+Episode 4 - Banks 105 through 150,Bank 148,15,C4.S45#7bb6f2a6#0,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,Burntof,"2956,3367,0",Talk to Burntof [Below Ice Mountain]
 Episode 4 - Banks 105 through 150,Bank 148,16,C4.S45#1321d001#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Repair a Motherload Mine wheel [Falador Easy Diary]
 Episode 4 - Banks 105 through 150,Bank 148,17,C4.S45#66372246#0,route/locatie,,multiple_locations,,,Minigame teleport to Soul Wars Edgeville
-Episode 4 - Banks 105 through 150,Bank 148,18,C4.S45#ff0e60be#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Marley [Below Ice Mountain]
+Episode 4 - Banks 105 through 150,Bank 148,18,C4.S45#ff0e60be#0,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,Marley,"3088,3470,0",Talk to Marley [Below Ice Mountain]
 Episode 4 - Banks 105 through 150,Bank 148,19,C4.S45#f2c59e2d#0,route/locatie,,dangerous_area,,,Enter the Abyss [Eat a jangerberry for 1 prayer point to 1 tick flick melee prayer]
 Episode 4 - Banks 105 through 150,Bank 148,20,C4.S45#19617be8#0,handmatig of contextueel,,not_safe_to_pin,,,Craft a Water Rune [Lumbridge Easy Diary]
 Episode 4 - Banks 105 through 150,Bank 148,21,C4.S45#b7f65f07#1,route/locatie,,gecontroleerde plaatsbron,Falador,"2964,3378,0",Teleport to Falador
@@ -2136,7 +2136,7 @@ Episode 4 - Banks 105 through 150,Bank 149,4,C4.S46#26180bab#0,handmatig of cont
 Episode 4 - Banks 105 through 150,Bank 149,5,C4.S46#fdbbe828#0,handmatig of contextueel,,not_safe_to_pin,,,Safespot the Demons
 Episode 4 - Banks 105 through 150,Bank 149,6,C4.S46#6af73f98#0,handmatig of contextueel,,not_safe_to_pin,,,Attack Kalrag while standing in the square between the 2 corpses on the east wall. If a spider hits you it is very easy to corner trap them on the corpses.
 Episode 4 - Banks 105 through 150,Bank 149,7,C4.S46#f53f7d59#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Underground Pass
-Episode 4 - Banks 105 through 150,Bank 149,8,C4.S46#bf628bad#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to King Lathas to start Regicide (1,1)"
+Episode 4 - Banks 105 through 150,Bank 149,8,C4.S46#bf628bad#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,King Lathas,"2578,3293,1","Talk to King Lathas to start Regicide (1,1)"
 Episode 4 - Banks 105 through 150,Bank 149,9,C4.S46#1b56ef7e#0,handmatig of contextueel,,not_safe_to_pin,,,Upgrade the Iban Staff [Ardougne Medium Diary]
 Episode 4 - Banks 105 through 150,Bank 149,10,C4.S46#c65719cd#0,route/locatie,,gecontroleerde plaatsbron,Tree Gnome Stronghold,"2465,3495,0",Leave and take the Spirit Tree to Gnome Stronghold(2)
 Episode 4 - Banks 105 through 150,Bank 150,1,C4.S47#6fc164f5#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Teleport Runes, Antipoisons, Monk Robes, Holy Symbol, Prayer Potion (2), Damaged Book, Ball of Wool, Ardy Cloak 1, Mithril Seeds, Axe, Tinderbox, Big Fishing Net, Gold Bar, Strange Fruits(Optional) (11 Inventory Slots)+Food"
@@ -2191,20 +2191,20 @@ Episode 5 - Banks 151 through 175,Bank 151,11,C5.S1#6217fca1#0,route/locatie,,un
 Episode 5 - Banks 151 through 175,Bank 152,1,C5.S2#863bf0b6#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Teleport Runes, Coins, Vial, Knife, Rope, Dragon Bones (10 Inventory Slots) + Combat gear"
 Episode 5 - Banks 151 through 175,Bank 152,2,C5.S2#9ebfac03#0,route/locatie,,gecontroleerde plaatsbron,Castle Wars,"2440,3089,0",Teleport to Castle Wars
 Episode 5 - Banks 151 through 175,Bank 152,3,C5.S2#66bffa9d#0,route/locatie,,unresolved_location,,,Head to Yanille
-Episode 5 - Banks 151 through 175,Bank 152,4,C5.S2#9d5b0b35#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Bert (2,1) [Hand in the Sand]"
+Episode 5 - Banks 151 through 175,Bank 152,4,C5.S2#9d5b0b35#0,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,Bert,"2551,3099,0","Talk to Bert (2,1) [Hand in the Sand]"
 Episode 5 - Banks 151 through 175,Bank 152,5,C5.S2#74a40562#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy 2x beer in the Dragon's Inn
 Episode 5 - Banks 151 through 175,Bank 152,6,C5.S2#a1e8bd8f#0,handmatig of contextueel,,not_safe_to_pin,,,Give beer to the Guard Captain [Hand in the Sand]
 Episode 5 - Banks 151 through 175,Bank 152,7,C5.S2#fd8a881d#0,handmatig of contextueel,,not_safe_to_pin,,,Ring the bell at the Wizards Guild
 Episode 5 - Banks 151 through 175,Bank 152,8,C5.S2#e22aa38e#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Zavistic Rarve (2) [Hand in the Sand]
 Episode 5 - Banks 151 through 175,Bank 152,9,C5.S2#ce4f7e20#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take the Northern Yanille shortcut
 Episode 5 - Banks 151 through 175,Bank 152,10,C5.S2#e05f737d#0,route/locatie,,unresolved_location,,,Head west and climb the Trellis
-Episode 5 - Banks 151 through 175,Bank 152,11,C5.S2#b786b730#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Watchtower Wizard (1,1,1) [Watchtower Quest]"
+Episode 5 - Banks 151 through 175,Bank 152,11,C5.S2#b786b730#0,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,Watchtower Wizard,"2546,3114,2","Talk to Watchtower Wizard (1,1,1) [Watchtower Quest]"
 Episode 5 - Banks 151 through 175,Bank 152,12,C5.S2#1a416779#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Search far North-West bush for Fingernails [Watchtower Quest]
-Episode 5 - Banks 151 through 175,Bank 152,13,C5.S2#1dac81ab#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Watchtower Wizard (1,1) [Watchtower Quest]"
+Episode 5 - Banks 151 through 175,Bank 152,13,C5.S2#1dac81ab#0,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,Watchtower Wizard,"2546,3114,2","Talk to Watchtower Wizard (1,1) [Watchtower Quest]"
 Episode 5 - Banks 151 through 175,Bank 152,14,C5.S2#78605757#0,handmatig of contextueel,,not_safe_to_pin,,,Cut webs to enter Yanille Agility Dungeon
 Episode 5 - Banks 151 through 175,Bank 152,15,C5.S2#69ccb659#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,kill a Bat in the dungeon. Take the bones.
 Episode 5 - Banks 151 through 175,Bank 152,16,C5.S2#ebac374c#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take the Yanille Shortcut
-Episode 5 - Banks 151 through 175,Bank 152,17,C5.S2#2de3df07#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Bert to get the Rota [Hand in the Sand]
+Episode 5 - Banks 151 through 175,Bank 152,17,C5.S2#2de3df07#0,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,Bert,"2551,3099,0",Talk to Bert to get the Rota [Hand in the Sand]
 Episode 5 - Banks 151 through 175,Bank 152,18,C5.S2#7b174465#0,route/locatie,,unresolved_location,,,Head West to the Ogres
 Episode 5 - Banks 151 through 175,Bank 152,19,C5.S2#4f8e907d#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Og (1) [Watchtower Quest]
 Episode 5 - Banks 151 through 175,Bank 152,20,C5.S2#a10c2618#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Grew (1) [Watchtower Quest]
@@ -2223,7 +2223,7 @@ Episode 5 - Banks 151 through 175,Bank 153,6,C5.S3#76f2b446#0,route/locatie,,unr
 Episode 5 - Banks 151 through 175,Bank 153,7,C5.S3#7f00c01d#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Og [Watchtower Quest]
 Episode 5 - Banks 151 through 175,Bank 153,8,C5.S3#38f52045#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take a Jangerberry [Watchtower Quest]
 Episode 5 - Banks 151 through 175,Bank 153,9,C5.S3#19c75b38#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Grew [Watchtower Quest]
-Episode 5 - Banks 151 through 175,Bank 153,10,C5.S3#56194acf#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Bert [Hand in the Sand]
+Episode 5 - Banks 151 through 175,Bank 153,10,C5.S3#56194acf#0,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,Bert,"2551,3099,0",Talk to Bert [Hand in the Sand]
 Episode 5 - Banks 151 through 175,Bank 153,11,C5.S3#b225ef1c#0,route/locatie,,unresolved_location,,,Return to Watchtower Wizard
 Episode 5 - Banks 151 through 175,Bank 153,12,C5.S3#178ff9f7#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take lit candle [Watchtower Quest]
 Episode 5 - Banks 151 through 175,Bank 153,13,C5.S3#a8458e2d#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Zavistic Rarve [Hand in the Sand]
@@ -2248,7 +2248,7 @@ Episode 5 - Banks 151 through 175,Bank 154,4,C5.S4#ae9fdc2c#0,route/locatie,,unr
 Episode 5 - Banks 151 through 175,Bank 154,5,C5.S4#eeec614d#0,route/locatie,,unresolved_location,,,Return to Yanille
 Episode 5 - Banks 151 through 175,Bank 154,6,C5.S4#a8458e2d#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Zavistic Rarve [Hand in the Sand]
 Episode 5 - Banks 151 through 175,Bank 154,7,C5.S4#cef478ed#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Zavistic Rarve again [Hand in the Sand]
-Episode 5 - Banks 151 through 175,Bank 154,8,C5.S4#63a88fb1#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to the Watchtower Wizard
+Episode 5 - Banks 151 through 175,Bank 154,8,C5.S4#63a88fb1#0,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,Watchtower Wizard,"2546,3114,2",Talk to the Watchtower Wizard
 Episode 5 - Banks 151 through 175,Bank 154,9,C5.S4#554918c3#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Watchtower Quest
 Episode 5 - Banks 151 through 175,Bank 154,10,C5.S4#a04dc5ca#0,handmatig of contextueel,,not_safe_to_pin,,,Use Scroll to learn Watchtower Teleport
 Episode 5 - Banks 151 through 175,Bank 154,11,C5.S4#c22b5d55#0,route/locatie,,unresolved_location,,,Teleport Blessing - Kourend Woodland
@@ -2373,7 +2373,7 @@ Episode 5 - Banks 151 through 175,Bank 165,8,C5.S16#4be05f5#0,route/locatie,,sub
 Episode 5 - Banks 151 through 175,Bank 165,9,C5.S16#6ba2dd93#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Wise Old Man (3,2,5) [Recipe for Disaster]"
 Episode 5 - Banks 151 through 175,Bank 165,10,C5.S16#ba263e8a#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Ruantun for a Silver Pot [Desert Treasure]
 Episode 5 - Banks 151 through 175,Bank 165,11,C5.S16#5b4ad4e8#0,route/locatie,,unresolved_location,,,Head to Entrana
-Episode 5 - Banks 151 through 175,Bank 165,12,C5.S16#910b58de#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to High Priest on Entrana [Desert Treasure]
+Episode 5 - Banks 151 through 175,Bank 165,12,C5.S16#910b58de#0,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,High Priest,"2851,3350,0",Talk to High Priest on Entrana [Desert Treasure]
 Episode 5 - Banks 151 through 175,Bank 165,13,C5.S16#9ea45b6c#0,handmatig of contextueel,,not_safe_to_pin,,,Unlock the Balloon transport system to Castle Wars
 Episode 5 - Banks 151 through 175,Bank 165,14,C5.S16#eea40621#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Take the Balloon back to Entrana then back to Castle Wars [Ardougne Medium Diary]
 Episode 5 - Banks 151 through 175,Bank 165,15,C5.S16#41ad2761#0,route/locatie,,unresolved_location,,,Run North & Dig for Chest [Making History]
@@ -2534,12 +2534,12 @@ Episode 6 - Bank 176 through Combat Achievements,Bank 176,62,C6.S1#9e8d8d91#0,qu
 Episode 6 - Bank 176 through Combat Achievements,Bank 176,63,C6.S1#d9b51f77#0,handmatig of contextueel,,not_safe_to_pin,,,"Sailing B (optional, Sailing 30-52): do it now that you have 51+ Slayer"
 Episode 6 - Bank 176 through Combat Achievements,Bank 176,64,C6.S1#f9fa7c24#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Train to 45 Sailing with The Tempor Tantrum or AFK salvaging during farm and birdhouse timers
 Episode 6 - Bank 176 through Combat Achievements,Bank 176,65,C6.S1#3c1acd77#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,"Troubled Tortugans needs 45 Sailing, 51 Slayer, 48 Construction, 45 Hunter, 40 Woodcutting and 34 Crafting; bring an axe, hammer, saw, food and combat gear"
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,66,C6.S1#926a3a7c#0,route/locatie,,compound_task,,,Sail to the Remote Island north-west of The Great Conch and talk to the Injured Tortugan to start Troubled Tortugans
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,66,C6.S1#926a3a7c#0,route/locatie,,Quest Helper: NPC missing from the spawn database,Injured Tortugan,"2962,2605,0",Sail to the Remote Island north-west of The Great Conch and talk to the Injured Tortugan to start Troubled Tortugans
 Episode 6 - Bank 176 through Combat Achievements,Bank 176,67,C6.S1#5611052a#0,note/handmatig,,not_safe_to_pin,,,HCIM: the Shellbane Gryphon is level 235; wear the Tortugan shield (cape slot) for the whole fight and pray Protect from Melee or Missiles
 Episode 6 - Bank 176 through Combat Achievements,Bank 176,68,C6.S1#4db6cdc6#0,note/handmatig,,not_safe_to_pin,,,"HCIM: keep 40+ kg equipped or put trees or eggs between you and the charge, step away from the orange orb and keep moving during the whirlwinds [Troubled Tortugans]"
 Episode 6 - Bank 176 through Combat Achievements,Bank 176,69,C6.S1#d4376351#0,quest/event; controleer autocheck,,not_safe_to_pin,,,"Complete Troubled Tortugans (10,000 Sailing, 8,000 Slayer and The Great Conch with fairy ring CJQ)"
 Episode 6 - Bank 176 through Combat Achievements,Bank 176,70,C6.S1#f2ba953f#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Train to 52 Sailing (The Red Reef also needs 48 Smithing)
-Episode 6 - Bank 176 through Combat Achievements,Bank 176,71,C6.S1#b248571f#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Elder Raley at his house just south of the Summer Shore bank on The Great Conch and start The Red Reef
+Episode 6 - Bank 176 through Combat Achievements,Bank 176,71,C6.S1#b248571f#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Elder Raley,"3186,2405,0",Talk to Elder Raley at his house just south of the Summer Shore bank on The Great Conch and start The Red Reef
 Episode 6 - Bank 176 through Combat Achievements,Bank 176,72,C6.S1#ca27ea72#0,note/handmatig,,not_safe_to_pin,,,"HCIM: pray Protect from Missiles when the two pirate ships at Last Light appear and Protect from Melee against the six pirates; your boat sinking is safe, but dying yourself is a real death"
 Episode 6 - Bank 176 through Combat Achievements,Bank 176,73,C6.S1#8ac111fb#0,note/handmatig,,not_safe_to_pin,,,"HCIM: Black Eye Bethel (level 191) can disable your protection prayers with her special, so step away from her charged attacks [The Red Reef]"
 Episode 6 - Bank 176 through Combat Achievements,Bank 176,74,C6.S1#9c8a4769#0,handmatig of contextueel,,not_safe_to_pin,,,Move off the blue particles under you during the giant lobster fight [The Red Reef]
@@ -2640,7 +2640,7 @@ Episode 9 - Bank 177 through 179,Bank 178,10,C9.S2#77735619#0,NPC/object/item; c
 Episode 9 - Bank 177 through 179,Bank 178,11,C9.S2#5c5b005c#0,bank-items of bankactie,,gecontroleerde plaatsbron,Hunter Guild,"1557,3048,0",Bank at Hunter Guild
 Episode 9 - Bank 177 through 179,Bank 179,1,C9.S3#c46011a5#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Coins, Butterfly net/Magic Net"
 Episode 9 - Bank 177 through 179,Bank 179,2,C9.S3#8a44e92d#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Buy 27 Butterfly Jars from Imia North-East
-Episode 9 - Bank 177 through 179,Bank 179,3,C9.S3#34cc4489#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to Guildmaster Apatura (2,1) [At First Light]"
+Episode 9 - Bank 177 through 179,Bank 179,3,C9.S3#34cc4489#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Guildmaster Apatura,"1554,3033,0","Talk to Guildmaster Apatura (2,1) [At First Light]"
 Episode 9 - Bank 177 through 179,Bank 179,4,C9.S3#2788b4a#0,handmatig of contextueel,,not_safe_to_pin,,,Continue At First Light until needing to go to Guild Hunter Fox
 Episode 9 - Bank 177 through 179,Bank 179,5,C9.S3#4d7ff276#0,route/locatie,,unresolved_location,,,Go down the stairs and catch Moonlight Moths to the South
 Episode 9 - Bank 177 through 179,Bank 179,6,C9.S3#183c0a68#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Moonlight Moths restore 22 prayer per inventory slot and you can catch over 400/hour so these are excellent prayer
@@ -2682,7 +2682,7 @@ Episode 10 - Bank 180 through Inferno,Bank 183,14,C10.S4#f213e3bf#0,bank-items o
 Episode 10 - Bank 180 through Inferno,Bank 184,1,C10.S5#31e2b8de#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Bow of Faerdhinen & Crystal Armour, Teleport Runes, Tinderbox, Coins, Guam Leaf, Marrentil, Pestle & Mortar, Hammer, Costume Needle, Axe, Pickaxe, Spade, Sapphire Lantern (16 Inventory Spaces)"
 Episode 10 - Bank 180 through Inferno,Bank 184,2,C10.S5#38b8554d#0,handmatig of contextueel,,not_safe_to_pin,,,Ardy Cloak - CIP
 Episode 10 - Bank 180 through Inferno,Bank 184,3,C10.S5#861d094a#0,route/locatie,,gecontroleerde plaatsbron,Rellekka,"2639,3710,0",Take boat to Relleka
-Episode 10 - Bank 180 through Inferno,Bank 184,4,C10.S5#1bcf41b4#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Brundt [Lunar Diplomacy]
+Episode 10 - Bank 180 through Inferno,Bank 184,4,C10.S5#1bcf41b4#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Brundt,"2658,3667,0",Talk to Brundt [Lunar Diplomacy]
 Episode 10 - Bank 180 through Inferno,Bank 184,5,C10.S5#e39fcba7#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Lunar Diplomacy
 Episode 10 - Bank 180 through Inferno,Bank 184,6,C10.S5#b8cd2213#0,handmatig of contextueel,,not_safe_to_pin,,,Wield Seal of Passage
 Episode 10 - Bank 180 through Inferno,Bank 184,7,C10.S5#698a7f54#0,bank-items of bankactie,,safety_avoidance,,,Bank at Lunar Bank (DO NOT DEPOSIT ALL ARMOUR SETS)
@@ -2696,7 +2696,7 @@ Episode 10 - Bank 180 through Inferno,Bank 186,3,C10.S7#2732d279#0,route/locatie
 Episode 10 - Bank 180 through Inferno,Bank 186,4,C10.S7#e59ece58#0,route/locatie,,unresolved_location,,,Take Carpet to Polnivneach
 Episode 10 - Bank 180 through Inferno,Bank 186,5,C10.S7#326da584#0,handmatig of contextueel,,not_safe_to_pin,,,Complete a lap of Pollnivneach Agility Course [Desert Hard Diary]
 Episode 10 - Bank 180 through Inferno,Bank 186,6,C10.S7#e77b6572#0,route/locatie,,unresolved_location,,,Take Carpet to Sophanem
-Episode 10 - Bank 180 through Inferno,Bank 186,7,C10.S7#165ea876#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,"Talk to High Priest [1,4] [Contact!]"
+Episode 10 - Bank 180 through Inferno,Bank 186,7,C10.S7#165ea876#0,NPC/object/item; controleer highlight,,Quest Helper: several NPCs share this name,High Priest,"3281,2772,0","Talk to High Priest [1,4] [Contact!]"
 Episode 10 - Bank 180 through Inferno,Bank 186,8,C10.S7#2b282f51#0,handmatig of contextueel,,not_safe_to_pin,,,Continue Contact until you pick up the Keris
 Episode 10 - Bank 180 through Inferno,Bank 186,9,C10.S7#f77417f7#0,route/locatie,,compound_task,,,Return to the maze & kill the ranger Locus Rider nearby [Desert Hard Diary]
 Episode 10 - Bank 180 through Inferno,Bank 186,10,C10.S7#e9b60308#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Contact!
@@ -2758,7 +2758,7 @@ Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen 
 Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,2,C10.S14#bb797405#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Train to 53 Mining
 Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,3,C10.S14#4333835a#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,Train to 62 Sailing
 Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,4,C10.S14#faa3d974#0,skilldoel; controleer autocheck,,not_safe_to_pin,,,"Fallen From Grace needs 62 Sailing, 60 Crafting, 53 Mining and 47 Runecraft (none boostable) and your own raft or skiff, not a sloop"
-Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,5,C10.S14#a69f1d4e#0,route/locatie,,compound_task,,,Sail to Wyrmscraig and talk to Cormac in the centre hut of Auchrie to start Fallen From Grace
+Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,5,C10.S14#a69f1d4e#0,route/locatie,,Quest Helper: NPC missing from the spawn database,Cormac,"2576,2255,0",Sail to Wyrmscraig and talk to Cormac in the centre hut of Auchrie to start Fallen From Grace
 Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,6,C10.S14#3ae21e20#0,note/handmatig,,not_safe_to_pin,,,"HCIM: the Mad Angel (level 270) is weak to crush; pray Protect from Melee, stand 2+ tiles behind her for the dust cleave and switch to Protect from Magic for the lightning [Fallen From Grace]"
 Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,7,C10.S14#b9e385e9#0,note/handmatig,,not_safe_to_pin,,,HCIM: you can climb the church pew to escape the Mad Angel at any time [Fallen From Grace]
 Episode 10 - Bank 180 through Inferno,Sailing C — 52 to 62 Sailing and Fallen From Grace,8,C10.S14#465f5399#0,quest/event; controleer autocheck,,not_safe_to_pin,,,"Complete Fallen From Grace (10,000 Crafting, 12,500 Sailing, 5,000 Mining and 5,000 Runecraft)"
@@ -2905,25 +2905,25 @@ Episode 12 - Bank 204 through Zulrah,Bank 204,2,C12.S1#3af3d17a#0,route/locatie,
 Episode 12 - Bank 204 through Zulrah,Bank 204,3,C12.S1#bd7a59f6#0,route/locatie,,unresolved_location,,,Head to the building North-East of the Quetzals
 Episode 12 - Bank 204 through Zulrah,Bank 204,4,C12.S1#a7b51834#0,handmatig of contextueel,,not_safe_to_pin,,,Inspect Empty Display Case (1) [Ethically Acquired Antiques]
 Episode 12 - Bank 204 through Zulrah,Bank 204,5,C12.S1#755b4935#0,handmatig of contextueel,,not_safe_to_pin,,,Continue Ethically Acquired Antiques until repairing the Sail
-Episode 12 - Bank 204 through Zulrah,Bank 204,6,C12.S1#5d35ef55#0,route/locatie,,compound_task,,,Head South and talk to Emelio (1) [Meat and Greet]
+Episode 12 - Bank 204 through Zulrah,Bank 204,6,C12.S1#5d35ef55#0,route/locatie,,Quest Helper: NPC missing from the spawn database,Emelio,"1753,3074,0",Head South and talk to Emelio (1) [Meat and Greet]
 Episode 12 - Bank 204 through Zulrah,Bank 204,7,C12.S1#87770c32#0,route/locatie,,unresolved_location,,,Head back to the Trader Crewmember
 Episode 12 - Bank 204 through Zulrah,Bank 204,8,C12.S1#97857043#0,handmatig of contextueel,,not_safe_to_pin,,,Continue Ethically Acquired Antiques until shaming Haig Halen [Ethically Acquired Antiques]
 Episode 12 - Bank 204 through Zulrah,Bank 204,9,C12.S1#3af3d17a#1,route/locatie,,multiple_locations,,,Teleport to Civitas Illa Fortis
-Episode 12 - Bank 204 through Zulrah,Bank 204,10,C12.S1#ad142c40#0,route/locatie,,compound_task,,,Head South & talk to Spice Merchant (2) [Meat and Greet]
+Episode 12 - Bank 204 through Zulrah,Bank 204,10,C12.S1#ad142c40#0,route/locatie,,Quest Helper: NPC missing from the spawn database,Spice Merchant,"1685,3101,0",Head South & talk to Spice Merchant (2) [Meat and Greet]
 Episode 12 - Bank 204 through Zulrah,Bank 204,11,C12.S1#ebce489e#0,handmatig of contextueel,,not_safe_to_pin,,,Open the box code 2546
 Episode 12 - Bank 204 through Zulrah,Bank 204,12,C12.S1#43931254#0,handmatig of contextueel,,not_safe_to_pin,,,AJP Fairy Ring
 Episode 12 - Bank 204 through Zulrah,Bank 204,13,C12.S1#cdd35e31#0,route/locatie,,compound_task,,,Head South-West & talk to Guildmaster Fox[At First Light]
 Episode 12 - Bank 204 through Zulrah,Bank 204,14,C12.S1#55ef4b2b#0,handmatig of contextueel,,not_safe_to_pin,,,Continue At First Light until you need to head to Atza
 Episode 12 - Bank 204 through Zulrah,Bank 204,15,C12.S1#c5e5f6e3#0,route/locatie,,unresolved_location,,,Head North-West to Ortus Farm
-Episode 12 - Bank 204 through Zulrah,Bank 204,16,C12.S1#6bedf31c#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Alba [Meat and Greet]
+Episode 12 - Bank 204 through Zulrah,Bank 204,16,C12.S1#6bedf31c#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Alba,"1587,3126,0",Talk to Alba [Meat and Greet]
 Episode 12 - Bank 204 through Zulrah,Bank 204,17,C12.S1#aaf99340#0,handmatig of contextueel,,not_safe_to_pin,,,Continue Meat and Greet until you need to return to Emilio
 Episode 12 - Bank 204 through Zulrah,Bank 204,18,C12.S1#49e21e72#0,route/locatie,,gecontroleerde plaatsbron,Civitas illa Fortis,"1686,3113,0",Teleport to Civitis Illa Fortis
 Episode 12 - Bank 204 through Zulrah,Bank 204,19,C12.S1#bd7a59f6#1,route/locatie,,unresolved_location,,,Head to the building North-East of the Quetzals
-Episode 12 - Bank 204 through Zulrah,Bank 204,20,C12.S1#ed7a81db#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Curator Herminius to complete Ethically Acquired Antiques (4)
+Episode 12 - Bank 204 through Zulrah,Bank 204,20,C12.S1#ed7a81db#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Curator Herminius,"1712,3163,0",Talk to Curator Herminius to complete Ethically Acquired Antiques (4)
 Episode 12 - Bank 204 through Zulrah,Bank 204,21,C12.S1#adb43644#0,route/locatie,,unresolved_location,,,Head South-East back to Emelio
 Episode 12 - Bank 204 through Zulrah,Bank 204,22,C12.S1#d167eaff#0,handmatig of contextueel,,not_safe_to_pin,,,Continue & Complete Meat and Greet
 Episode 12 - Bank 204 through Zulrah,Bank 204,23,C12.S1#66e303ef#0,route/locatie,,unresolved_location,,,Head West
-Episode 12 - Bank 204 through Zulrah,Bank 204,24,C12.S1#1f06183e#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Atza [At First Light]
+Episode 12 - Bank 204 through Zulrah,Bank 204,24,C12.S1#1f06183e#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Atza,"1696,3063,0",Talk to Atza [At First Light]
 Episode 12 - Bank 204 through Zulrah,Bank 204,25,C12.S1#ff248796#0,handmatig of contextueel,,not_safe_to_pin,,,Continue At First Light until needing to go to Guildmaster Fox
 Episode 12 - Bank 204 through Zulrah,Bank 204,26,C12.S1#43931254#1,handmatig of contextueel,,not_safe_to_pin,,,AJP Fairy Ring
 Episode 12 - Bank 204 through Zulrah,Bank 204,27,C12.S1#570558ad#0,handmatig of contextueel,,not_safe_to_pin,,,Continue & Complete At First Light
@@ -2950,21 +2950,21 @@ Episode 12 - Bank 204 through Zulrah,Bank 206,5,C12.S3#3a5468ef#0,NPC/object/ite
 Episode 12 - Bank 204 through Zulrah,Bank 206,6,C12.S3#a56ef875#1,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Servius [The Final Dawn]
 Episode 12 - Bank 204 through Zulrah,Bank 206,7,C12.S3#22f3b221#0,bank-items of bankactie,,unresolved_location,,,Bank North
 Episode 12 - Bank 204 through Zulrah,Bank 207,1,C12.S4#a3494ce0#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Combat Gear, Antifire Shield, Dramen Staff, Saw, 2x plank, Food & Potions"
-Episode 12 - Bank 204 through Zulrah,Bank 207,2,C12.S4#4c38aeff#0,route/locatie,,compound_task,,,"Head North & talk to Alan (1,1) [Scrambled!]"
+Episode 12 - Bank 204 through Zulrah,Bank 207,2,C12.S4#4c38aeff#0,route/locatie,,Quest Helper: plugin points at another NPC with this name,Alan,"1247,3167,0","Head North & talk to Alan (1,1) [Scrambled!]"
 Episode 12 - Bank 204 through Zulrah,Bank 207,3,C12.S4#6c7b0511#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Scrambled!
 Episode 12 - Bank 204 through Zulrah,Bank 207,4,C12.S4#803a833#0,handmatig of contextueel,,not_safe_to_pin,,,Fairy Ring - AIS
 Episode 12 - Bank 204 through Zulrah,Bank 207,5,C12.S4#5c58006d#0,route/locatie,,unresolved_location,,,Head North over the bridge & bank
 Episode 12 - Bank 204 through Zulrah,Bank 208,1,C12.S5#cd5efab#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Combat Gear, Axe, Knife, 4x Willow Longbow, 5x Maple Logs, 4x Maple Longbow (u), Fishing Rod, Hammer"
 Episode 12 - Bank 204 through Zulrah,Bank 208,2,C12.S5#42036fa#0,route/locatie,,unresolved_location,,,Head West to the pub
 Episode 12 - Bank 204 through Zulrah,Bank 208,3,C12.S5#396c5792#0,handmatig of contextueel,,not_safe_to_pin,,,Check Noticeboard (1) [Shadows of Custodia]
-Episode 12 - Bank 204 through Zulrah,Bank 208,4,C12.S5#e0517f70#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Marcus [Shadows of Custodia]
-Episode 12 - Bank 204 through Zulrah,Bank 208,5,C12.S5#590b32b2#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Bartender [Shadows of Custodia]
+Episode 12 - Bank 204 through Zulrah,Bank 208,4,C12.S5#e0517f70#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Marcus,"1394,3354,0",Talk to Marcus [Shadows of Custodia]
+Episode 12 - Bank 204 through Zulrah,Bank 208,5,C12.S5#590b32b2#0,NPC/object/item; controleer highlight,,Quest Helper: plugin points at another NPC with this name,Bartender,"1391,3354,0",Talk to Bartender [Shadows of Custodia]
 Episode 12 - Bank 204 through Zulrah,Bank 208,6,C12.S5#6977bd7#0,route/locatie,,unresolved_location,,,Head North-West
-Episode 12 - Bank 204 through Zulrah,Bank 208,7,C12.S5#5e865687#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Ranulph [Vale Totems]
+Episode 12 - Bank 204 through Zulrah,Bank 208,7,C12.S5#5e865687#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Ranulph,"1365,3366,0",Talk to Ranulph [Vale Totems]
 Episode 12 - Bank 204 through Zulrah,Bank 208,8,C12.S5#1df866c7#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Vale Totems
 Episode 12 - Bank 204 through Zulrah,Bank 208,9,C12.S5#e2a33f49#0,note/handmatig,,not_safe_to_pin,,,OPTIONAL: When training crafting you can build the 2 totems East & South-West of the bank and rebuild these for passivish Fletching Experience while bank standing Crafting. Fletch the unstrung bows on the way to them
 Episode 12 - Bank 204 through Zulrah,Bank 208,10,C12.S5#68f3e25#0,route/locatie,,unresolved_location,,,Head North-East
-Episode 12 - Bank 204 through Zulrah,Bank 208,11,C12.S5#23f4d183#0,NPC/object/item; controleer highlight,,not_safe_to_pin,,,Talk to Ictus [Shadows of Custodia]
+Episode 12 - Bank 204 through Zulrah,Bank 208,11,C12.S5#23f4d183#0,NPC/object/item; controleer highlight,,Quest Helper: NPC missing from the spawn database,Ictus,"1409,3375,0",Talk to Ictus [Shadows of Custodia]
 Episode 12 - Bank 204 through Zulrah,Bank 208,12,C12.S5#6ede56e8#0,quest/event; controleer autocheck,,not_safe_to_pin,,,Complete Shadows of Custodia]
 Episode 12 - Bank 204 through Zulrah,Bank 208,13,C12.S5#b6767449#0,bank-items of bankactie,,unresolved_location,,,Bank North-East
 Episode 12 - Bank 204 through Zulrah,Bank 209,1,C12.S6#922b08d5#0,bank-items of bankactie,,not_safe_to_pin,,,"Withdraw: Combat Gear (Melee & Range), Food & Potions, Teleport Runes"

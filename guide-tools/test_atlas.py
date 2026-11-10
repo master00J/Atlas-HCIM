@@ -134,4 +134,36 @@ class Route2026Tests(unittest.TestCase):
   new=[t for t in all_texts(self.route) if t not in old]
   self.assertGreater(len(new),100)
   for t in new:self.assertLessEqual(len(t),300,t)
+class NpcPinTests(unittest.TestCase):
+ @classmethod
+ def setUpClass(cls):
+  cls.route=json.loads((ROOT/'guide'/'HCIM_ATLAS_VOLLEDIGE_ROUTE.json').read_text('utf8'))
+  cls.pins=json.loads((ROOT/'guide'/'HCIM_ATLAS_PINNEN_VOLLEDIGE_ROUTE.json').read_text('utf8'))['guides'][GUIDE_ID]
+  cls.by_text={}
+  for ch,sec,idx,step,t,key in steps_in(cls.route):cls.by_text.setdefault((sec['title'],t),key)
+ def pin(self,section,start):
+  keys=[k for (s,t),k in self.by_text.items() if s==section and t.startswith(start)]
+  self.assertEqual(len(keys),1,(section,start))
+  self.assertIn(keys[0],self.pins,(section,start))
+  w=self.pins[keys[0]]['waypoints'][0];return (w['x'],w['y'],w['plane'])
+ def test_new_npcs_get_quest_helper_tiles(self):
+  self.assertEqual(self.pin('Starting Out','Talk to Cassius at the pond'),(3171,3277,0))
+  self.assertEqual(self.pin('Bank 29','Talk to Ennius Tullus'),(1687,3141,0))
+  self.assertEqual(self.pin('Sailing C — 52 to 62 Sailing and Fallen From Grace','Sail to Wyrmscraig'),(2576,2255,0))
+ def test_shared_names_point_at_the_right_npc(self):
+  # "Betty" is also the Port Sarim rune seller and "Veos" also stands in Port Sarim.
+  x,y,_=self.pin('Bank 28',"Run south-west to Land's End and talk to Betty")
+  self.assertLess(x,1600)
+  self.assertEqual(self.pin('Bank 2','Talk to Veos (4,1)'),(1824,3690,0))
+  self.assertEqual(self.pin('Bank 130','Talk to the Cook in Blue moon Inn'),(3230,3401,0))
+ def test_verified_pins_are_sourced_and_never_in_the_wilderness(self):
+  verified=json.loads((ROOT/'guide'/'source'/'verified_npc_pins.json').read_text('utf8'))['pins']
+  self.assertGreater(len(verified),40)
+  for p in verified:
+   self.assertTrue(p['source'].startswith('Quest Helper'),p)
+   self.assertNotRegex(p['text'],r'(?i)wilderness')
+   # Wilderness is north of y=3520 on the surface between x=2944 and x=3392.
+   self.assertFalse(p['plane']==0 and 2944<=p['x']<=3392 and 3520<p['y']<4000,p)
+ def test_pin_file_fits_the_plugin_limit(self):
+  self.assertLess((ROOT/'guide'/'HCIM_ATLAS_PINNEN_VOLLEDIGE_ROUTE.json').stat().st_size,120000)
 if __name__=='__main__':unittest.main(verbosity=2)

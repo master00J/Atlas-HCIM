@@ -24,8 +24,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 8120,
-      "sha256": "1a138ae29897438d77fe1272fb627cb0492955c995f0f30e8bdc9ebbcbbdd2c9"
+      "bytes": 8417,
+      "sha256": "d0b59e2e26ac3c1e3152956803140ec04afb8109455166cdc34c6529a6d6ded5"
     },
     {
       "path": "START_HIER.md",
@@ -134,13 +134,18 @@
     },
     {
       "path": "guide-tools/build_atlas.py",
-      "bytes": 15438,
-      "sha256": "e0fd3228d4adb4bee6675879391a4e520c4d55e83b3028cf36ef3497f66bb645"
+      "bytes": 18160,
+      "sha256": "0a0b608422ff78576491d729efd9dc87865bd6a1bd0a383e6d6f71c571f6f2c7"
     },
     {
       "path": "guide-tools/overlay-harness/AtlasGuideReportTest.java",
       "bytes": 15074,
       "sha256": "cc878b3605a8e2beb6dfc84c67e09e0ca8d2a89004c4454f2361c8ec109e9b76"
+    },
+    {
+      "path": "guide-tools/quest_helper_pins.py",
+      "bytes": 7203,
+      "sha256": "0334c8b4d5af08bf374e6a122481a1619aff9d0b048379ce4cfece33b6fe5e7c"
     },
     {
       "path": "guide-tools/reports/HCIM_ATLAS_AUDIT_ENDGAME.csv",
@@ -149,23 +154,23 @@
     },
     {
       "path": "guide-tools/reports/HCIM_ATLAS_AUDIT_VOLLEDIGE_ROUTE.csv",
-      "bytes": 605781,
-      "sha256": "8bf7c5276ed1e9fb02aa6b8e8bb6db469091cbac6a441f57f6e267f1eda1487b"
+      "bytes": 609624,
+      "sha256": "a1c66e56548a16069faed76db4b3453881e648edf9406f73215c2c74fe4ed4ae"
     },
     {
       "path": "guide-tools/reports/HCIM_ATLAS_COVERAGE.json",
-      "bytes": 751,
-      "sha256": "04200da7a0f0f35352ef9557f15220462af052767a0ac364a2c289d6ee6be115"
+      "bytes": 1059,
+      "sha256": "72f71800660f420c1cf514aef507c09ec3a8897b897b12117c4780b28e244bcc"
     },
     {
       "path": "guide-tools/route_2026.py",
-      "bytes": 35099,
-      "sha256": "83ff0152476135b88aadf40b1321ff152e1c005305f35c4022b6452cc99f75a8"
+      "bytes": 35103,
+      "sha256": "9fe58833e32490d504f76f21a76e00a27bb5ad8d16391c96d08af3aa341126c9"
     },
     {
       "path": "guide-tools/test_atlas.py",
-      "bytes": 9313,
-      "sha256": "9c804af02e5011410c1310c7838165a188c8eb94387906a7fadeaf18723bce2a"
+      "bytes": 11382,
+      "sha256": "662b6fcdf0498368598058d08d6e12666dbc0dd2adb498a9d1fa5303ff37f973"
     },
     {
       "path": "guide/HCIM_ATLAS_ENDGAME.json",
@@ -179,13 +184,13 @@
     },
     {
       "path": "guide/HCIM_ATLAS_PINNEN_VOLLEDIGE_ROUTE.json",
-      "bytes": 44008,
-      "sha256": "173441f043a4e0ef32fc6cfece0b968c721a99a90d82b3341f37e86630001036"
+      "bytes": 53798,
+      "sha256": "3616c9c9fd18d86df7e5870ecf4b1840031c4d2684bd54617f66d26c6e0e16a4"
     },
     {
       "path": "guide/HCIM_ATLAS_VOLLEDIGE_ROUTE.json",
-      "bytes": 687778,
-      "sha256": "280c8e7a78bb02f68c39872408e609e8c94a37ba80719bd4801894d7866c5cf1"
+      "bytes": 687782,
+      "sha256": "db3c88c69e5cd34e76768b6eed2cfd40bcf490d3f400c8c14f13b06f4c6988a5"
     },
     {
       "path": "guide/OSRS_HCIM_GuideOverlay_ENDGAME_2026.json",
@@ -194,8 +199,8 @@
     },
     {
       "path": "guide/OSRS_HCIM_GuideOverlay_VOLLEDIGE_ROUTE_2026.json",
-      "bytes": 687779,
-      "sha256": "3e77d31c08a448fcb636d3a18eeb73259703a3c9e7f8261dc104374adda3e6d9"
+      "bytes": 687783,
+      "sha256": "af90088520ad6f141b79e5ebfc505bd910dc67652fc7aeba2b496e71b8e39431"
     },
     {
       "path": "guide/goal-rules.json",
@@ -211,6 +216,11 @@
       "path": "guide/source/endgame_2026_en.md",
       "bytes": 36542,
       "sha256": "b81e0240776f22ee2deb070f12564c02e33d0e8687e7fde19f6d1b84592a0820"
+    },
+    {
+      "path": "guide/source/verified_npc_pins.json",
+      "bytes": 18053,
+      "sha256": "822630378a7442c6f0ec4a99faa68ac6a62a4829e58217ef5241264466dc6354"
     },
     {
       "path": "package.json",
