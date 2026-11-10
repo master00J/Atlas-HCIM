@@ -14,4 +14,15 @@ assert.equal(resolveGoal({chapter:'Episode 12 - Bank 204 through Zulrah',section
 assert.equal(resolveGoal({chapter:'Endgame — eigen voorbereiding per expeditie',section:'E03 — Zulrah: gecontroleerde supply- en unique-farm'}).ruleId,'endgame-e03');
 assert.equal(resolveGoal({chapter:'Een nieuwe episode',section:'E24 — Sailing'}).ruleId,'section-fallback');
 assert.equal(resolveGoal({chapter:'18. Totale skillprogressie',section:'Overzicht'}).ruleId,'maxing');
-console.log('PASS: 12 goal resolver checks');
+assert.equal(resolveGoal({chapter:'Episode 3 - Banks 76 through 104B:',section:'Sailing A — 1 to 30 Sailing (optional)'}).ruleId,'sailing-a');
+assert.equal(resolveGoal({chapter:'Episode 3 - Banks 76 through 104B:',section:'Bank 76'}).ruleId,'sote-requirements');
+assert.equal(resolveGoal({chapter:'Episode 10 - Bank 180 through Inferno',section:'Sailing C — 52 to 62 Sailing and Fallen From Grace'}).ruleId,'sailing-c');
+assert.equal(resolveGoal({chapter:'Episode 2 - Banks 24 through 75:',section:'Bank 60B'}).ruleId,'post-fairy-quests');
+assert.equal(resolveGoal({chapter:'Endgame — preparation per expedition',section:'E04 — Slayer 85–95: systematic upgrades'}).ruleId,'endgame-e04');
+assert.equal(resolveGoal({chapter:'Endgame — preparation per expedition',section:'E06 — Bowfa crossroads: Gauntlet or an alternative'}).ruleId,'endgame-e06');
+assert.equal(resolveGoal({chapter:'Endgame — preparation per expedition',section:'E07 — Chambers of Xeric: the first raid'}).ruleId,'endgame-e07');
+assert.equal(resolveGoal({chapter:'Endgame — preparation per expedition',section:'E08 — Tombs of Amascut: fang and shadow route'}).ruleId,'endgame-e08');
+assert.equal(resolveGoal({chapter:'Endgame — preparation per expedition',section:'E13 — The Fractured Archive: the fourth raid (2026)'}).ruleId,'endgame-e13');
+assert.equal(resolveGoal({chapter:'Endgame — preparation per expedition',section:'E15 — New 2026 content in recommended order'}).ruleId,'endgame-e15');
+assert.equal(resolveGoal({chapter:'14. Quest cape route, 2026 quests and the hard quest bosses',section:'The big quest lines'}).ruleId,'quest-cape');
+console.log('PASS: 23 goal resolver checks');

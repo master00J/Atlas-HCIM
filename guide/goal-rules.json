@@ -33,6 +33,12 @@
       "goal": "Questvereisten & vroege skillprogressie"
     },
     {
+      "id": "sailing-a",
+      "chapterPrefix": "Episode 3",
+      "sectionPrefix": "Sailing",
+      "goal": "Sailing 1 → 30 (optioneel blok A)"
+    },
+    {
       "id": "sote-requirements",
       "chapterPrefix": "Episode 3",
       "goal": "Song of the Elves: vereisten voorbereiden"
@@ -68,6 +74,12 @@
       "goal": "Midgame PvM-unlocks voorbereiden"
     },
     {
+      "id": "sailing-c",
+      "chapterPrefix": "Episode 10",
+      "sectionPrefix": "Sailing",
+      "goal": "Sailing 52 → 62 en Fallen From Grace"
+    },
+    {
       "id": "inferno-prep",
       "chapterPrefix": "Episode 10",
       "goal": "Inferno-voorbereiding en eerste endgame"
@@ -98,25 +110,79 @@
       "id": "endgame-e03",
       "chapterPrefix": "Endgame",
       "sectionPrefix": "E03",
-      "goal": "Zulrah: upgrades verzamelen"
+      "goal": "Zulrah: gecontroleerde supply- en unique-farm"
     },
     {
       "id": "endgame-e04",
       "chapterPrefix": "Endgame",
       "sectionPrefix": "E04",
-      "goal": "Gear & supply-upgrades"
+      "goal": "Slayer 85–95 en uitrustingsupgrades"
     },
     {
       "id": "endgame-e05",
       "chapterPrefix": "Endgame",
       "sectionPrefix": "E05",
-      "goal": "God Wars-voorbereiding"
+      "goal": "God Wars Dungeon: voorbereiding"
     },
     {
       "id": "endgame-e06",
       "chapterPrefix": "Endgame",
       "sectionPrefix": "E06",
-      "goal": "Raids: Chambers of Xeric"
+      "goal": "Bowfa / Gauntlet: risico en alternatieven"
+    },
+    {
+      "id": "endgame-e07",
+      "chapterPrefix": "Endgame",
+      "sectionPrefix": "E07",
+      "goal": "Chambers of Xeric: eerste raid"
+    },
+    {
+      "id": "endgame-e08",
+      "chapterPrefix": "Endgame",
+      "sectionPrefix": "E08",
+      "goal": "Tombs of Amascut: fang en shadow"
+    },
+    {
+      "id": "endgame-e09",
+      "chapterPrefix": "Endgame",
+      "sectionPrefix": "E09",
+      "goal": "Theatre of Blood: teamtraining"
+    },
+    {
+      "id": "endgame-e10",
+      "chapterPrefix": "Endgame",
+      "sectionPrefix": "E10",
+      "goal": "Inferno & Fortis Colosseum"
+    },
+    {
+      "id": "endgame-e11",
+      "chapterPrefix": "Endgame",
+      "sectionPrefix": "E11",
+      "goal": "Desert Treasure II en late bosses"
+    },
+    {
+      "id": "endgame-e12",
+      "chapterPrefix": "Endgame",
+      "sectionPrefix": "E12",
+      "goal": "Yama, Doom of Mokhaiotl en nieuwe PvM"
+    },
+    {
+      "id": "endgame-e13",
+      "chapterPrefix": "Endgame",
+      "sectionPrefix": "E13",
+      "goal": "Fractured Archive: HCIM-veiligheid"
+    },
+    {
+      "id": "endgame-e14",
+      "chapterPrefix": "Endgame",
+      "sectionPrefix": "E14",
+      "goal": "Elite diaries, Sailing en max cape"
+    },
+    {
+      "id": "endgame-e15",
+      "chapterPrefix": "Endgame",
+      "sectionPrefix": "E15",
+      "goal": "Nieuwe OSRS-content van 2026"
     },
     {
       "id": "gear-ladder",
@@ -157,11 +223,6 @@
       "id": "maxing",
       "chapterPrefix": "18.",
       "goal": "Skills richting 99 en Max cape"
-    },
-    {
-      "id": "starter-routes",
-      "chapterPrefix": "19.",
-      "goal": "Eerste bankroutes afronden"
     },
     {
       "id": "first-100",

@@ -9,13 +9,13 @@
     },
     {
       "path": ".github/workflows/ci.yml",
-      "bytes": 504,
-      "sha256": "74d1e7dd13471e4cd6fbc9829664debf9b518f11ed8f5c3c5b0966f2bd44c123"
+      "bytes": 3068,
+      "sha256": "5c35a65caa42d766dab2b043504f19dddefbeb504509b947c4dad678705b7352"
     },
     {
       "path": ".gitignore",
-      "bytes": 276,
-      "sha256": "fc37eb808153791f0b37c795418605319e337b49c1a040a111ed910e62988609"
+      "bytes": 416,
+      "sha256": "05149056b70a0a40e7a1be0c1b89244ba5a677cc86b6b2e50a3d370b0a898b5e"
     },
     {
       "path": "PUBLICEER_GITHUB.bat",
@@ -24,13 +24,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 4413,
-      "sha256": "dbecd83891b782aef6225a36356962ca3506821a2c287f159d7846ad1a2aabc6"
+      "bytes": 8835,
+      "sha256": "a977499641ade14ec5a46b1e7194981a558161b23faa0350d0c5e8222a4f62d5"
     },
     {
       "path": "START_HIER.md",
-      "bytes": 9105,
-      "sha256": "18ab46de724145477eb693ad853e323180b7b2578f907a4a10ade0e5ce8d5f5f"
+      "bytes": 9024,
+      "sha256": "a2f3375568fb6c471d8fe9b31993b3675bb8e9eb96b8b943686abfc8e9bb0825"
     },
     {
       "path": "assets/control.html",
@@ -99,8 +99,8 @@
     },
     {
       "path": "docs/GITHUB_PUBLICEREN.md",
-      "bytes": 1797,
-      "sha256": "08b8de9cda881191689c04047619dcafe4160a1d6d1a507341f55b22753abf92"
+      "bytes": 861,
+      "sha256": "5b1d6fdb4381817934a82e01e2d366129fddff097be39cc79ca1fa6c434c8270"
     },
     {
       "path": "docs/earlier-guides/OSRS_HCIM_Bank_per_Bank_Detailroute_2026.html",
@@ -133,9 +133,49 @@
       "sha256": "62f39b23a0f429e0bbdf472ad5cecc9409ae3a2e997357a10fece4a9579cf855"
     },
     {
+      "path": "guide-tools/build_atlas.py",
+      "bytes": 18521,
+      "sha256": "e16b0b04832b2fa66991ab6f32103a1d6025065cbf9c9abf442aab540807b349"
+    },
+    {
+      "path": "guide-tools/overlay-harness/AtlasGuideReportTest.java",
+      "bytes": 15940,
+      "sha256": "18a1c30c38c45b6176caee84bb97b1ac46cbccbd458e1350bdaa2b1984fbd4be"
+    },
+    {
+      "path": "guide-tools/quest_helper_pins.py",
+      "bytes": 7203,
+      "sha256": "0334c8b4d5af08bf374e6a122481a1619aff9d0b048379ce4cfece33b6fe5e7c"
+    },
+    {
+      "path": "guide-tools/reports/HCIM_ATLAS_AUDIT_ENDGAME.csv",
+      "bytes": 81084,
+      "sha256": "1d33ab1fb2fb913d8947d11b1baa3cb314147f5b6ee5685c766b7c27efd79555"
+    },
+    {
+      "path": "guide-tools/reports/HCIM_ATLAS_AUDIT_VOLLEDIGE_ROUTE.csv",
+      "bytes": 609624,
+      "sha256": "214cdb426741aee960f4e75e7ce751f17ffd3982261a05c659296c88c589a21e"
+    },
+    {
+      "path": "guide-tools/reports/HCIM_ATLAS_COVERAGE.json",
+      "bytes": 1059,
+      "sha256": "72f71800660f420c1cf514aef507c09ec3a8897b897b12117c4780b28e244bcc"
+    },
+    {
+      "path": "guide-tools/route_2026.py",
+      "bytes": 35103,
+      "sha256": "0cc917d21375d3bd5c4cba8da825e855d9b9dcc63e738b670558f9c97eda864d"
+    },
+    {
+      "path": "guide-tools/test_atlas.py",
+      "bytes": 12384,
+      "sha256": "8dfd60c084d3f1fa8cfaa73a6e1f2caf019bbba8b03cbfeb497fc65ae1ce21c6"
+    },
+    {
       "path": "guide/HCIM_ATLAS_ENDGAME.json",
-      "bytes": 86885,
-      "sha256": "bf80066802e2de10558655d0c4ae9998353a80e174228b3caf9d999619cfde72"
+      "bytes": 80791,
+      "sha256": "e100b668c4b40511e61311116352497c82250e4f64932a968a11826562857a27"
     },
     {
       "path": "guide/HCIM_ATLAS_PINNEN_ENDGAME.json",
@@ -144,48 +184,43 @@
     },
     {
       "path": "guide/HCIM_ATLAS_PINNEN_VOLLEDIGE_ROUTE.json",
-      "bytes": 43860,
-      "sha256": "75339ff1f0c91f475803beda341c378fc5be14c3a7e7b0166501101dd185e377"
+      "bytes": 53798,
+      "sha256": "d61f6e2506f64a53ffea9b9b85842db97a6a48f430f0f8d12b36d1d123ebe535"
     },
     {
       "path": "guide/HCIM_ATLAS_VOLLEDIGE_ROUTE.json",
-      "bytes": 671990,
-      "sha256": "4e250bd17db960c0f8288b74e04d2ada24a64cb8cb4d41961c1f7485b8eaa6f1"
+      "bytes": 758510,
+      "sha256": "7fd9bb6aa030197f335f22e9292eefc255159157252646e7273f92ef21726619"
     },
     {
       "path": "guide/OSRS_HCIM_GuideOverlay_ENDGAME_2026.json",
-      "bytes": 86898,
-      "sha256": "8d501fe06cbd8d78280cf1d5edfe3be3160453f35c876885d8a96acd30b53dec"
+      "bytes": 80792,
+      "sha256": "9de1f4d8e303c7942c85187d75029cb006a1f8d0adccc946997670f5cee5fbf2"
+    },
+    {
+      "path": "guide/OSRS_HCIM_GuideOverlay_VOLLEDIGE_ROUTE_2026.json",
+      "bytes": 687783,
+      "sha256": "d55209e8e0d1566802462dd0b2cd2c2e1a149d06855da86a2eee847ada15022f"
     },
     {
       "path": "guide/goal-rules.json",
-      "bytes": 4465,
-      "sha256": "cd9a5f7b36199f4e0cd2b6e48f9b48a0e64eb9ad1891370721c044e86247abd2"
+      "bytes": 6105,
+      "sha256": "3a9ad5400b00223e3542dae91b0900ea0194c00857c129d186d628b195e627de"
     },
     {
-      "path": "guide-tools/build_atlas.py",
-      "bytes": 15416,
-      "sha256": "63b75e81f1828fd273c57f8d1121127dff9be3ac2d9024a41d85faec2d5e83e9"
+      "path": "guide/source/B0aty_HCIM_Guide_V3_base.json",
+      "bytes": 585182,
+      "sha256": "e5c3c0c3ca7805bab2f7e482b5cdc6e1d49097d89eb4b5854e87457698a2317b"
     },
     {
-      "path": "guide-tools/reports/HCIM_ATLAS_AUDIT_ENDGAME.csv",
-      "bytes": 88810,
-      "sha256": "d2e7ce67176591b66f71a687dc34cb05246cd2939d13d2ada8ccbaadf26234be"
+      "path": "guide/source/endgame_2026_en.md",
+      "bytes": 36542,
+      "sha256": "b81e0240776f22ee2deb070f12564c02e33d0e8687e7fde19f6d1b84592a0820"
     },
     {
-      "path": "guide-tools/reports/HCIM_ATLAS_AUDIT_VOLLEDIGE_ROUTE.csv",
-      "bytes": 592767,
-      "sha256": "34a4de79c7b6f3abebbd97e3fe3dfb6a6db0c4136aab88031c6028d483fb4ff0"
-    },
-    {
-      "path": "guide-tools/reports/HCIM_ATLAS_COVERAGE.json",
-      "bytes": 806,
-      "sha256": "1321d9a7c8e848a9e901a536ed108c6455da0da54f5f9130725e008d5f17a271"
-    },
-    {
-      "path": "guide-tools/test_atlas.py",
-      "bytes": 2897,
-      "sha256": "52099d83263ba5ab21d3749a9ad4b1f8aa3f8e19de5ee3900767aee01470b7e3"
+      "path": "guide/source/verified_npc_pins.json",
+      "bytes": 18053,
+      "sha256": "1f121424d0b150b919f6f50debe3fe82175c84776b74f41485eb4d64a2cef44c"
     },
     {
       "path": "package.json",
@@ -214,13 +249,13 @@
     },
     {
       "path": "runelite-patch/setup-runelite-windows.ps1",
-      "bytes": 4025,
-      "sha256": "6118ca816efd13accbff244bb69204aeeb61ff82f514c080c76f7b95b12df888"
+      "bytes": 4493,
+      "sha256": "cfe87c947c98c0ef15965353c8b1cc7bb7fa4110f858c18277b423e786e5d3f7"
     },
     {
       "path": "scripts/publish-github.ps1",
-      "bytes": 3090,
-      "sha256": "3a0c95e9073028d458706e3f31487ca99f0515ba45ecf66add35ed8485aed314"
+      "bytes": 1557,
+      "sha256": "ea33924d708ec57ca5ebe634626c436ee12c4a1dca2c41465749df1e666d1d38"
     },
     {
       "path": "tests/java-stub/com/hcimguide/ExportSmokeTest.java",
@@ -244,8 +279,8 @@
     },
     {
       "path": "tests/test-goals.js",
-      "bytes": 1446,
-      "sha256": "ef29d324ab6161294ac379ace97d338c00ad43b6f72d062ec4ac2276cecb3c1e"
+      "bytes": 3087,
+      "sha256": "611ac2b5d7871dc9d76b71604579816d28427d2b67c74441215200787dc3aac6"
     },
     {
       "path": "tests/test-live.js",
