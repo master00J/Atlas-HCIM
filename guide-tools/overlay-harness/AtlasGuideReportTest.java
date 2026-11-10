@@ -47,6 +47,9 @@ public class AtlasGuideReportTest
 	private static final Pattern TALK = Pattern.compile("^(?:Talk to|Kill) ");
 	private static final Pattern QUEST_WORDS = Pattern.compile("\\b(?:[Ss]tart|[Cc]omplete)\\s+([A-Z][A-Za-z'’ &-]{2,45})");
 
+	/** One line per actionable step the plugin cannot point at: status, reason, candidates, section, key, text. */
+	private static final StringBuilder UNRESOLVED = new StringBuilder();
+
 	@Test
 	public void reportAtlasGuide() throws IOException
 	{
@@ -152,6 +155,7 @@ public class AtlasGuideReportTest
 		}
 		md.insert(md.indexOf("## New steps"), locations + "\n");
 
+		Files.write(out.resolve("unresolved.tsv"), UNRESOLVED.toString().getBytes(StandardCharsets.UTF_8));
 		Files.write(out.resolve("steps.tsv"), tsv.toString().getBytes(StandardCharsets.UTF_8));
 		Files.write(out.resolve("report.md"), md.toString().getBytes(StandardCharsets.UTF_8));
 		System.out.println(md.substring(0, md.indexOf("## New steps")));
@@ -197,6 +201,10 @@ public class AtlasGuideReportTest
 			}
 			if (unresolved(plan))
 			{
+				UNRESOLVED.append(pinned ? "pinned" : "open").append('\t').append(plan.getReason().displayName())
+					.append('\t').append(String.join(", ", plan.getUnresolvedCandidates()))
+					.append('\t').append(bank.getTitle()).append('\t').append(step.getKey())
+					.append('\t').append(step.getText().replace('\t', ' ')).append('\n');
 				n[1]++;
 				reasons.merge(plan.getReason().displayName(), 1, Integer::sum);
 				if (!pinned)

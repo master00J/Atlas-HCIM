@@ -23,16 +23,28 @@ jobs:
       - run: python guide-tools/route_2026.py && git diff --exit-code -- guide/OSRS_HCIM_GuideOverlay_VOLLEDIGE_ROUTE_2026.json guide/OSRS_HCIM_GuideOverlay_ENDGAME_2026.json
       - run: python guide-tools/build_atlas.py > /dev/null && git diff --exit-code -- guide/HCIM_ATLAS_VOLLEDIGE_ROUTE.json guide/HCIM_ATLAS_ENDGAME.json guide/HCIM_ATLAS_PINNEN_VOLLEDIGE_ROUTE.json guide/HCIM_ATLAS_PINNEN_ENDGAME.json
   guide-overlay-parser:
-    # Imports the route with the real Guide Overlay parsers (pinned commit) and
-    # fails when a new step's wording would not drive a quest/skill condition or
-    # an NPC target in game. The full per-step report is uploaded as an artifact.
+    # Imports the route with the real Guide Overlay parsers and fails when a new
+    # step's wording would not drive a quest/skill condition or an NPC target in
+    # game. Runs against the build we actually play with (the HCIM Atlas fork)
+    # and against upstream Guide Overlay, so the route keeps working on both.
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: atlas-fork
+            repository: master00J/HCIMAtlas-GuideOverlay
+            ref: main
+          - name: upstream
+            repository: RunelitePlugin/guide-overlay
+            ref: 1e7b4f4503d99bc440b6fa29707b0523aad3aab1
+    name: guide-overlay-parser (${{ matrix.name }})
     steps:
       - uses: actions/checkout@v4
       - uses: actions/checkout@v4
         with:
-          repository: RunelitePlugin/guide-overlay
-          ref: 1e7b4f4503d99bc440b6fa29707b0523aad3aab1
+          repository: ${{ matrix.repository }}
+          ref: ${{ matrix.ref }}
           path: guide-overlay
       - uses: actions/setup-java@v4
         with:
@@ -54,8 +66,11 @@ jobs:
         if: always()
         run: |
           cat atlas-report/report.md
+          echo '=== UNRESOLVED TSV ==='
+          cat atlas-report/unresolved.tsv
+          echo '=== END UNRESOLVED ==='
       - if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: guide-overlay-parse-report
+          name: guide-overlay-parse-report-${{ matrix.name }}
           path: atlas-report/

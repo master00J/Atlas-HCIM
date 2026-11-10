@@ -9,8 +9,8 @@
     },
     {
       "path": ".github/workflows/ci.yml",
-      "bytes": 2512,
-      "sha256": "e48d12aaa341dbb8922124e22f83b159f1ae4055b5ec2d076923f15f842a48b1"
+      "bytes": 3068,
+      "sha256": "5c35a65caa42d766dab2b043504f19dddefbeb504509b947c4dad678705b7352"
     },
     {
       "path": ".gitignore",
@@ -24,13 +24,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 7880,
-      "sha256": "e261a7c9e661e5855673fa7276d468d3b68b324023c4dd08487e4c15c69698aa"
+      "bytes": 8120,
+      "sha256": "1a138ae29897438d77fe1272fb627cb0492955c995f0f30e8bdc9ebbcbbdd2c9"
     },
     {
       "path": "START_HIER.md",
-      "bytes": 9105,
-      "sha256": "18ab46de724145477eb693ad853e323180b7b2578f907a4a10ade0e5ce8d5f5f"
+      "bytes": 9058,
+      "sha256": "b008c20fa873d4312acf91fd399c81c3f581afe440c95b1088d0920eeb6b13aa"
     },
     {
       "path": "assets/control.html",
@@ -139,8 +139,8 @@
     },
     {
       "path": "guide-tools/overlay-harness/AtlasGuideReportTest.java",
-      "bytes": 14456,
-      "sha256": "b06a3855b3d23dc0c3ce7458bbfd96b68a42c99b7afc54122e0f5c491e9fd9fa"
+      "bytes": 15074,
+      "sha256": "cc878b3605a8e2beb6dfc84c67e09e0ca8d2a89004c4454f2361c8ec109e9b76"
     },
     {
       "path": "guide-tools/reports/HCIM_ATLAS_AUDIT_ENDGAME.csv",
@@ -239,8 +239,8 @@
     },
     {
       "path": "runelite-patch/setup-runelite-windows.ps1",
-      "bytes": 4025,
-      "sha256": "6118ca816efd13accbff244bb69204aeeb61ff82f514c080c76f7b95b12df888"
+      "bytes": 4493,
+      "sha256": "cfe87c947c98c0ef15965353c8b1cc7bb7fa4110f858c18277b423e786e5d3f7"
     },
     {
       "path": "scripts/publish-github.ps1",
