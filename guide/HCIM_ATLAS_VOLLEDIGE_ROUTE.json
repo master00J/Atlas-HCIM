@@ -26,14 +26,28 @@
                 {
                   "text": "Talk to Captain Harlan outside the General Store north of the castle and start Mudfoot's Big Adventure (1)"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3246,
+                "plane": 0,
+                "label": "Lumbridge General Store (Harlan stands outside)",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Talk to Cassius at the pond south of the windmill and start The Ides of Milk"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3171,
+                "y": 3277,
+                "plane": 0,
+                "label": "Cassius",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -103,14 +117,28 @@
                 {
                   "text": "Talk to Cassius to hand over The Groats Principles and get a Milk sample [The Ides of Milk]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3171,
+                "y": 3277,
+                "plane": 0,
+                "label": "Cassius",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Drink the Milk sample (1 damage, no poison) and talk to Cassius again for a new Milk sample [The Ides of Milk]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3171,
+                "y": 3277,
+                "plane": 0,
+                "label": "Cassius",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -159,7 +187,14 @@
                 {
                   "text": "Talk to Captain Harlan (1) and complete Mudfoot's Big Adventure"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3246,
+                "plane": 0,
+                "label": "Lumbridge General Store (Harlan stands outside)",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -229,7 +264,14 @@
                 {
                   "text": "Bank at Lumbridge castle top floor and deposit all"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3208,
+                "y": 3219,
+                "plane": 2,
+                "label": "Lumbridge Castle bank (2e verdieping)",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -325,7 +367,14 @@
                 {
                   "text": "Head to the Wizards Tower"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3113,
+                "y": 3179,
+                "plane": 0,
+                "label": "Wizards' Tower",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -374,7 +423,14 @@
                 {
                   "text": "Bank at Draynor and Deposit all"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3092,
+                "y": 3245,
+                "plane": 0,
+                "label": "Draynor Village Bank",
+                "radius": 5
+              }
             }
           ]
         },
@@ -435,7 +491,14 @@
                 {
                   "text": "Bank at Draynor and deposit the Garlic & Cheese"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3092,
+                "y": 3245,
+                "plane": 0,
+                "label": "Draynor Village Bank",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -484,7 +547,14 @@
                 {
                   "text": "Talk to Veos (4,1) [Client of Kourend]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1824,
+                "y": 3690,
+                "plane": 0,
+                "label": "Veos",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -631,7 +701,14 @@
                 {
                   "text": "Bank at Varrock West Bank and deposit all"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3185,
+                "y": 3441,
+                "plane": 0,
+                "label": "Varrock West Bank",
+                "radius": 5
+              }
             }
           ]
         },
@@ -825,7 +902,14 @@
                 {
                   "text": "Bank at Varrock East bank and Deposit all"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3253,
+                "y": 3420,
+                "plane": 0,
+                "label": "Varrock East Bank",
+                "radius": 5
+              }
             }
           ]
         },
@@ -970,7 +1054,14 @@
                 {
                   "text": "Bank at Varrock East bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3253,
+                "y": 3420,
+                "plane": 0,
+                "label": "Varrock East Bank",
+                "radius": 5
+              }
             }
           ]
         },
@@ -982,7 +1073,14 @@
                 {
                   "text": "Travel east to Regulus Cento & travel to Varlamore"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1686,
+                "y": 3113,
+                "plane": 0,
+                "label": "Civitas illa Fortis",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -1099,7 +1197,14 @@
                 {
                   "text": "Travel with Antonia to Aldarin"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1392,
+                "y": 2940,
+                "plane": 0,
+                "label": "Aldarin",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -1207,7 +1312,14 @@
                 {
                   "text": "Head to the Wizards Tower"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3113,
+                "y": 3179,
+                "plane": 0,
+                "label": "Wizards' Tower",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -1310,7 +1422,14 @@
                 {
                   "text": "Unequip your weapon and the Chronicle, then talk to Will (or Anne) on the dock east of the Port Sarim Food Store to start Pandemonium"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3025,
+                "y": 3208,
+                "plane": 0,
+                "label": "Will and Anne, Port Sarim dock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -1338,7 +1457,14 @@
                 {
                   "text": "Take Ship to Karamja (Seamen dressed in blue)"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2918,
+                "y": 3176,
+                "plane": 0,
+                "label": "Karamja",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -1387,7 +1513,14 @@
                 {
                   "text": "Take boat back to Port Sarim [Karamja Easy Diary]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3047,
+                "y": 3236,
+                "plane": 0,
+                "label": "Port Sarim",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -1499,7 +1632,14 @@
                 {
                   "text": "Bank at Falador West Bank and deposit all"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2946,
+                "y": 3369,
+                "plane": 0,
+                "label": "Falador West Bank",
+                "radius": 5
+              }
             }
           ]
         },
@@ -1698,7 +1838,14 @@
                 {
                   "text": "Head to Edgeville"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3087,
+                "y": 3496,
+                "plane": 0,
+                "label": "Edgeville",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -1726,7 +1873,14 @@
                 {
                   "text": "Head to the Grand Tree"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2465,
+                "y": 3495,
+                "plane": 0,
+                "label": "Tree Gnome Stronghold",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -1796,7 +1950,14 @@
                 {
                   "text": "Bank at Ardougne South Bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2652,
+                "y": 3283,
+                "plane": 0,
+                "label": "Ardougne South Bank",
+                "radius": 5
+              }
             }
           ]
         },
@@ -1843,7 +2004,14 @@
                 {
                   "text": "Head to Port Sarim"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3047,
+                "y": 3236,
+                "plane": 0,
+                "label": "Port Sarim",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -1885,7 +2053,14 @@
                 {
                   "text": "Teleport to Falador with Teletab"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -1906,7 +2081,14 @@
                 {
                   "text": "Walk back to Falador after you get the sword."
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -1927,7 +2109,14 @@
                 {
                   "text": "Head to Al Kharid"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3293,
+                "y": 3163,
+                "plane": 0,
+                "label": "Al Kharid",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -1955,7 +2144,14 @@
                 {
                   "text": "Head to Shantay Pass"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3304,
+                "y": 3117,
+                "plane": 0,
+                "label": "Shantay Pass",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -2065,7 +2261,14 @@
                 {
                   "text": "Bank at Shantay pass and deposit all"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3304,
+                "y": 3117,
+                "plane": 0,
+                "label": "Shantay Pass",
+                "radius": 5
+              }
             }
           ]
         },
@@ -2091,7 +2294,14 @@
                 {
                   "text": "Return to Minigame teleport location and take the green portal east to Castle Wars"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2440,
+                "y": 3089,
+                "plane": 0,
+                "label": "Castle Wars",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -2152,7 +2362,14 @@
                 {
                   "text": "Head to Port Khazard"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2653,
+                "y": 3166,
+                "plane": 0,
+                "label": "Port Khazard",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -2335,7 +2552,14 @@
                 {
                   "text": "Head North to Barbarian Assault"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2520,
+                "y": 3571,
+                "plane": 0,
+                "label": "Barbarian Outpost",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -2602,7 +2826,14 @@
                 {
                   "text": "Minigame teleport to Castle Wars"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2440,
+                "y": 3089,
+                "plane": 0,
+                "label": "Castle Wars",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -2637,7 +2868,14 @@
                 {
                   "text": "Head west and take the boat to Brimhaven"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2774,
+                "y": 3177,
+                "plane": 0,
+                "label": "Brimhaven",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -2658,7 +2896,14 @@
                 {
                   "text": "Return to Ardougne via Captain Barnaby [Karamja Easy Diary]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -2672,7 +2917,14 @@
                 {
                   "text": "Bank at Ardougne South Bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2652,
+                "y": 3283,
+                "plane": 0,
+                "label": "Ardougne South Bank",
+                "radius": 5
+              }
             }
           ]
         },
@@ -2761,7 +3013,14 @@
                 {
                   "text": "Take Boat to Ardougne & bank at the South Bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             }
           ]
         },
@@ -2848,14 +3107,28 @@
                 {
                   "text": "Minigame Teleport to Soul Wars"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2210,
+                "y": 2857,
+                "plane": 0,
+                "label": "Soul Wars",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Leave portal to Edgeville"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3087,
+                "y": 3496,
+                "plane": 0,
+                "label": "Edgeville",
+                "radius": 5
+              }
             }
           ]
         }
@@ -2879,7 +3152,14 @@
                 {
                   "text": "Head East and take Grand Exchange Shortcut"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3164,
+                "y": 3487,
+                "plane": 0,
+                "label": "Grand Exchange",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -2914,7 +3194,14 @@
                 {
                   "text": "Charter to Brimhaven [Karamja Medium Diary]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2774,
+                "y": 3177,
+                "plane": 0,
+                "label": "Brimhaven",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -3031,7 +3318,14 @@
                 {
                   "text": "Bank at Draynor"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3092,
+                "y": 3245,
+                "plane": 0,
+                "label": "Draynor Village Bank",
+                "radius": 5
+              }
             }
           ]
         },
@@ -3146,7 +3440,14 @@
                 {
                   "text": "Head west to the Minecart and travel to Lovakengj"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1504,
+                "y": 3816,
+                "plane": 0,
+                "label": "Lovakengj",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -3209,7 +3510,14 @@
                 {
                   "text": "Run south-west to Land's End and talk to Betty outside the northernmost house to start The Writing's on the Wall"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1504,
+                "y": 3415,
+                "plane": 0,
+                "label": "Land's End (Betty is at the northernmost house)",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -3237,7 +3545,14 @@
                 {
                   "text": "Run north-east and talk to Betty at the house north-west of the Tithe Farm [The Writing's on the Wall]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1802,
+                "y": 3503,
+                "plane": 0,
+                "label": "Tithe Farm (the house is north-west of it)",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -3265,7 +3580,14 @@
                 {
                   "text": "Talk to Betty again and accept her transport to Port Piscarilius [The Writing's on the Wall]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1802,
+                "y": 3503,
+                "plane": 0,
+                "label": "Tithe Farm (the house is north-west of it)",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -3279,7 +3601,14 @@
                 {
                   "text": "Head to the War Tent in the Shayzien Encampment [The Writing's on the Wall]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1480,
+                "y": 3635,
+                "plane": 0,
+                "label": "Shayzien",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -3403,7 +3732,14 @@
                 {
                   "text": "Trade Warrens General Store [Kourend Easy Diary]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1775,
+                "y": 10148,
+                "plane": 0,
+                "label": "Warrens General Store",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -3480,14 +3816,28 @@
                 {
                   "text": "Head to Varlamore"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1686,
+                "y": 3113,
+                "plane": 0,
+                "label": "Civitas illa Fortis",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Talk to Ennius Tullus at the fountain just west of where the quetzal lands and start Twilight's Promise"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1687,
+                "y": 3141,
+                "plane": 0,
+                "label": "Ennius Tullus",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -3564,7 +3914,14 @@
                 {
                   "text": "Head to Aldarin"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1392,
+                "y": 2940,
+                "plane": 0,
+                "label": "Aldarin",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -3674,7 +4031,14 @@
                 {
                   "text": "Head West to Brimhaven Agility Arena"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2774,
+                "y": 3177,
+                "plane": 0,
+                "label": "Brimhaven",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -3751,7 +4115,14 @@
                 {
                   "text": "Charter to Catherby"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2804,
+                "y": 3434,
+                "plane": 0,
+                "label": "Catherby",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -3854,14 +4225,28 @@
                 {
                   "text": "Talk to Sir Gawain (3)"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2758,
+                "y": 3504,
+                "plane": 0,
+                "label": "Sir Gawain",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Talk to Sir Lancelot (3)"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2760,
+                "y": 3511,
+                "plane": 1,
+                "label": "Sir Lancelot",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -3910,7 +4295,14 @@
                 {
                   "text": "Talk to Candle maker and obtain a Black Candle [Merlin's Crystal]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2797,
+                "y": 3440,
+                "plane": 0,
+                "label": "Candle",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -4025,7 +4417,14 @@
                 {
                   "text": "Head to Catherby"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2804,
+                "y": 3434,
+                "plane": 0,
+                "label": "Catherby",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -4060,7 +4459,14 @@
                 {
                   "text": "Head East to Al Kharid"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3293,
+                "y": 3163,
+                "plane": 0,
+                "label": "Al Kharid",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -4102,7 +4508,14 @@
                 {
                   "text": "Head to Shantay Pass"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3304,
+                "y": 3117,
+                "plane": 0,
+                "label": "Shantay Pass",
+                "radius": 5
+              }
             }
           ]
         },
@@ -4135,7 +4548,14 @@
                 {
                   "text": "Take Carpet to Pollnivneach"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3359,
+                "y": 2970,
+                "plane": 0,
+                "label": "Pollnivneach",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -4156,7 +4576,14 @@
                 {
                   "text": "Bank at Nardah when out of food/waterskins"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3424,
+                "y": 2918,
+                "plane": 0,
+                "label": "Nardah",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -4219,7 +4646,14 @@
                 {
                   "text": "Bank at Varrock East Bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3253,
+                "y": 3420,
+                "plane": 0,
+                "label": "Varrock East Bank",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -4245,7 +4679,14 @@
                 {
                   "text": "Talk to Haig Halen to continue Digsite (1)"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3258,
+                "y": 3449,
+                "plane": 0,
+                "label": "Haig Halen",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -4259,7 +4700,14 @@
                 {
                   "text": "Head to the Shantay Pass"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3304,
+                "y": 3117,
+                "plane": 0,
+                "label": "Shantay Pass",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -4273,7 +4721,14 @@
                 {
                   "text": "Travel to Pollnivneach via Magic Carpet"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3359,
+                "y": 2970,
+                "plane": 0,
+                "label": "Pollnivneach",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -4336,7 +4791,14 @@
                 {
                   "text": "Bank at Varrock East Bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3253,
+                "y": 3420,
+                "plane": 0,
+                "label": "Varrock East Bank",
+                "radius": 5
+              }
             }
           ]
         },
@@ -4397,7 +4859,14 @@
                 {
                   "text": "Head South to Al Kharid"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3293,
+                "y": 3163,
+                "plane": 0,
+                "label": "Al Kharid",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -4467,7 +4936,14 @@
                 {
                   "text": "Bank at Emir's Arena bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3316,
+                "y": 3235,
+                "plane": 0,
+                "label": "Emir's Arena",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -4500,7 +4976,14 @@
                 {
                   "text": "Head to Pollnivneach"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3359,
+                "y": 2970,
+                "plane": 0,
+                "label": "Pollnivneach",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -4521,7 +5004,14 @@
                 {
                   "text": "Teleport to Ardougne [Ardougne Medium Diary]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -4711,14 +5201,28 @@
                 {
                   "text": "Talk to Jungle Forester (1,1) to continue One Small Favor"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2867,
+                "y": 2942,
+                "plane": 0,
+                "label": "Jungle Forester",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Head West & take the Lady of the Waves to Port Khazard [Karamja Medium Diary]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2653,
+                "y": 3166,
+                "plane": 0,
+                "label": "Port Khazard",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -4732,7 +5236,14 @@
                 {
                   "text": "Teleport to Falador [Falador Medium Diary]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -4767,7 +5278,14 @@
                 {
                   "text": "Run to Taverley and talk to Lady of the Lake (3)"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2924,
+                "y": 3404,
+                "plane": 0,
+                "label": "Lady of the Lake",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -4795,7 +5313,14 @@
                 {
                   "text": "Teleport to Varrock [Varrock Medium Diary]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -4823,7 +5348,14 @@
                 {
                   "text": "Teleport to Camelot"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2757,
+                "y": 3479,
+                "plane": 0,
+                "label": "Camelot",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -4898,7 +5430,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -4912,7 +5451,14 @@
                 {
                   "text": "Bank at Varrock East Bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3253,
+                "y": 3420,
+                "plane": 0,
+                "label": "Varrock East Bank",
+                "radius": 5
+              }
             }
           ]
         },
@@ -4952,7 +5498,14 @@
                 {
                   "text": "Talk to Haig Halen for Diary step & Bone Voyage (1,1)"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3258,
+                "y": 3449,
+                "plane": 0,
+                "label": "Haig Halen",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -5341,7 +5894,14 @@
                 {
                   "text": "Bank at Draynor"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3092,
+                "y": 3245,
+                "plane": 0,
+                "label": "Draynor Village Bank",
+                "radius": 5
+              }
             }
           ]
         },
@@ -5402,7 +5962,14 @@
                 {
                   "text": "Bank the seeds and steel axe at the Draynor Bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3092,
+                "y": 3245,
+                "plane": 0,
+                "label": "Draynor Village Bank",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -5423,7 +5990,14 @@
                 {
                   "text": "Talk to High Priest (3) [Holy Grail]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2851,
+                "y": 3348,
+                "plane": 0,
+                "label": "High Priest",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -5458,7 +6032,14 @@
                 {
                   "text": "Teleport to Lumbridge [Lumbridge Medium Diary]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3222,
+                "y": 3218,
+                "plane": 0,
+                "label": "Lumbridge",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -5472,7 +6053,14 @@
                 {
                   "text": "Bank at Draynor"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3092,
+                "y": 3245,
+                "plane": 0,
+                "label": "Draynor Village Bank",
+                "radius": 5
+              }
             }
           ]
         },
@@ -5540,7 +6128,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -5596,7 +6191,14 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -5610,7 +6212,14 @@
                 {
                   "text": "Teleport to Lumbridge"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3222,
+                "y": 3218,
+                "plane": 0,
+                "label": "Lumbridge",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -5643,7 +6252,14 @@
                 {
                   "text": "Head West and enter HAM Hideout [Lumbridge Easy Diary]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3166,
+                "y": 3251,
+                "plane": 0,
+                "label": "H.A.M. Hideout",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -5746,7 +6362,14 @@
                 {
                   "text": "Return to Draynor"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3105,
+                "y": 3251,
+                "plane": 0,
+                "label": "Draynor Village",
+                "radius": 5
+              }
             }
           ]
         },
@@ -5828,7 +6451,14 @@
                 {
                   "text": "Bank at Zanaris, Deposit all"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2412,
+                "y": 4434,
+                "plane": 0,
+                "label": "Zanaris",
+                "radius": 5
+              }
             }
           ]
         },
@@ -5847,7 +6477,14 @@
                 {
                   "text": "Teleport to Lumbridge"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3222,
+                "y": 3218,
+                "plane": 0,
+                "label": "Lumbridge",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -5875,7 +6512,14 @@
                 {
                   "text": "Teleport to Ardougne"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -5957,7 +6601,14 @@
                 {
                   "text": "Bank at Camelot Bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2757,
+                "y": 3479,
+                "plane": 0,
+                "label": "Camelot",
+                "radius": 5
+              }
             }
           ]
         },
@@ -6112,7 +6763,14 @@
                 {
                   "text": "Talk to King Lathas to start Underground Pass"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2578,
+                "y": 3293,
+                "plane": 1,
+                "label": "King Lathas",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -6182,7 +6840,14 @@
                 {
                   "text": "Bank at Varrock West Bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3185,
+                "y": 3441,
+                "plane": 0,
+                "label": "Varrock West Bank",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -6236,7 +6901,14 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -6302,7 +6974,14 @@
                 {
                   "text": "Teleport to Lumbridge"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3222,
+                "y": 3218,
+                "plane": 0,
+                "label": "Lumbridge",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -6316,7 +6995,14 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -6377,7 +7063,14 @@
                 {
                   "text": "Take Minecart to Hosidius West"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1744,
+                "y": 3597,
+                "plane": 0,
+                "label": "Hosidius",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -6431,7 +7124,14 @@
                 {
                   "text": "Ardy Cloak to the Monastery and talk to Effigy east of it to start Tower of Life"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2637,
+                "y": 3218,
+                "plane": 0,
+                "label": "Effigy, Tower of Life",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -6546,7 +7246,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -6670,7 +7377,14 @@
                 {
                   "text": "Bank at the small island North of Fossil Island"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3740,
+                "y": 3808,
+                "plane": 0,
+                "label": "Fossil Island",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -6841,7 +7555,14 @@
                 {
                   "text": "Minigame teleport to Giants Foundry"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3361,
+                "y": 3148,
+                "plane": 0,
+                "label": "Giants' Foundry",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -6902,7 +7623,14 @@
                 {
                   "text": "Minigame Teleport to Blast Furnace"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1940,
+                "y": 4963,
+                "plane": 0,
+                "label": "Blast Furnace",
+                "radius": 5
+              }
             }
           ]
         },
@@ -6968,7 +7696,14 @@
                 {
                   "text": "Head to Edgeville Bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3087,
+                "y": 3496,
+                "plane": 0,
+                "label": "Edgeville",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -7050,14 +7785,28 @@
                 {
                   "text": "Teleport to Ardy"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Take boat to Brimhaven"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2774,
+                "y": 3177,
+                "plane": 0,
+                "label": "Brimhaven",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -7240,7 +7989,14 @@
                 {
                   "text": "Teleport to Camelot"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2757,
+                "y": 3479,
+                "plane": 0,
+                "label": "Camelot",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -7322,7 +8078,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -7343,7 +8106,14 @@
                 {
                   "text": "Enter Cooks Guild"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3143,
+                "y": 3444,
+                "plane": 0,
+                "label": "Cooks' Guild",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -7378,7 +8148,14 @@
                 {
                   "text": "Enter Farming Guild [Kourend Medium Diary]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1248,
+                "y": 3726,
+                "plane": 0,
+                "label": "Farming Guild",
+                "radius": 5
+              }
             }
           ]
         },
@@ -7470,7 +8247,14 @@
                 {
                   "text": "Head South of the Farming Guild"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1248,
+                "y": 3726,
+                "plane": 0,
+                "label": "Farming Guild",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -7622,7 +8406,14 @@
                 {
                   "text": "Talk to Squawking Steve Beanie in the pub on The Pandemonium and start Prying Times (needs 30 Smithing and The Knight's Sword)"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3050,
+                "y": 2966,
+                "plane": 0,
+                "label": "Steve Beanie, The Pandemonium bar",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -7781,14 +8572,28 @@
                 {
                   "text": "Teleport to Lumbridge"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3222,
+                "y": 3218,
+                "plane": 0,
+                "label": "Lumbridge",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Run to Draynor Manor"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3108,
+                "y": 3352,
+                "plane": 0,
+                "label": "Draynor Manor",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -7802,7 +8607,14 @@
                 {
                   "text": "Teleport to Ardougne"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -7879,7 +8691,14 @@
                 {
                   "text": "Bank at Camelot Bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2757,
+                "y": 3479,
+                "plane": 0,
+                "label": "Camelot",
+                "radius": 5
+              }
             }
           ]
         },
@@ -7924,7 +8743,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -7980,7 +8806,14 @@
                 {
                   "text": "Head to Barbarian Village"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3082,
+                "y": 3421,
+                "plane": 0,
+                "label": "Barbarian Village",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -8069,7 +8902,14 @@
                 {
                   "text": "Teleport to Emir's Arena using the Duelling Ring"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3316,
+                "y": 3235,
+                "plane": 0,
+                "label": "Emir's Arena",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -8118,7 +8958,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -8181,7 +9028,14 @@
                 {
                   "text": "Teleport & Bank at Camelot"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2757,
+                "y": 3479,
+                "plane": 0,
+                "label": "Camelot",
+                "radius": 5
+              }
             }
           ]
         },
@@ -8247,7 +9101,14 @@
                 {
                   "text": "Teleport to Lumbridge"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3222,
+                "y": 3218,
+                "plane": 0,
+                "label": "Lumbridge",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -8268,7 +9129,14 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -8282,14 +9150,28 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Head North-East of Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -8380,7 +9262,14 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -8469,7 +9358,14 @@
                 {
                   "text": "Teleport to Camelot"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2757,
+                "y": 3479,
+                "plane": 0,
+                "label": "Camelot",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -8516,7 +9412,14 @@
                 {
                   "text": "Head towards Relleka"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2639,
+                "y": 3710,
+                "plane": 0,
+                "label": "Rellekka",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -8628,14 +9531,28 @@
                 {
                   "text": "Talk to Mord Gunnars to start Fremennik Isles (3)"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2644,
+                "y": 3709,
+                "plane": 0,
+                "label": "Mord Gunnars",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Bank all at Jatiso"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2420,
+                "y": 3780,
+                "plane": 0,
+                "label": "Jatizso",
+                "radius": 5
+              }
             }
           ]
         },
@@ -8680,7 +9597,14 @@
                 {
                   "text": "Teleport to Barbarian Assault"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2520,
+                "y": 3571,
+                "plane": 0,
+                "label": "Barbarian Outpost",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -8729,7 +9653,14 @@
                 {
                   "text": "Take boat to Keldagrim"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2838,
+                "y": 10197,
+                "plane": 0,
+                "label": "Keldagrim",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -8778,7 +9709,14 @@
                 {
                   "text": "Minigame Teleport to Giants Foundry"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3361,
+                "y": 3148,
+                "plane": 0,
+                "label": "Giants' Foundry",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -8902,7 +9840,14 @@
                 {
                   "text": "Teleport to Castle Wars"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2440,
+                "y": 3089,
+                "plane": 0,
+                "label": "Castle Wars",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -8928,7 +9873,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -8942,7 +9894,14 @@
                 {
                   "text": "Talk to Aris in Varrock Square to claim the 2 Demon Slayer lamps (1,000 combat XP each) and use them on Prayer (Ranged once you have 43 Prayer)"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3204,
+                "y": 3424,
+                "plane": 0,
+                "label": "Aris's tent, Varrock Square",
+                "radius": 5
+              }
             }
           ]
         },
@@ -9036,7 +9995,14 @@
                 {
                   "text": "Teleport to Lumbridge"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3222,
+                "y": 3218,
+                "plane": 0,
+                "label": "Lumbridge",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -9071,7 +10037,14 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -9127,7 +10100,14 @@
                 {
                   "text": "Teleport to Ardougne"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -9167,7 +10147,14 @@
                 {
                   "text": "Teleport to Camelot"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2757,
+                "y": 3479,
+                "plane": 0,
+                "label": "Camelot",
+                "radius": 5
+              }
             }
           ]
         },
@@ -9305,7 +10292,14 @@
                 {
                   "text": "Teleport to Camelot"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2757,
+                "y": 3479,
+                "plane": 0,
+                "label": "Camelot",
+                "radius": 5
+              }
             }
           ]
         },
@@ -9338,7 +10332,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -9385,7 +10386,14 @@
                 {
                   "text": "Bank at Grand Exchange"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3164,
+                "y": 3487,
+                "plane": 0,
+                "label": "Grand Exchange",
+                "radius": 5
+              }
             }
           ]
         },
@@ -9430,7 +10438,14 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -9458,7 +10473,14 @@
                 {
                   "text": "Kill Scorpions for Book Page 1 [Between a Rock]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3043,
+                "y": 9796,
+                "plane": 0,
+                "label": "Scorpions",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -9493,7 +10515,14 @@
                 {
                   "text": "Teleport to Lumbridge"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3222,
+                "y": 3218,
+                "plane": 0,
+                "label": "Lumbridge",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -9575,7 +10604,14 @@
                 {
                   "text": "Bank at Port Phasmatys and deposit all"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3660,
+                "y": 3524,
+                "plane": 0,
+                "label": "Port Phasmatys",
+                "radius": 5
+              }
             }
           ]
         },
@@ -9713,7 +10749,14 @@
                 {
                   "text": "Bank at Port Phasmatys and deposit all"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3660,
+                "y": 3524,
+                "plane": 0,
+                "label": "Port Phasmatys",
+                "radius": 5
+              }
             }
           ]
         },
@@ -9767,7 +10810,14 @@
                 {
                   "text": "Return to Port Phasmatys"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3660,
+                "y": 3524,
+                "plane": 0,
+                "label": "Port Phasmatys",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -9938,14 +10988,28 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Head to Barbarian Village"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3082,
+                "y": 3421,
+                "plane": 0,
+                "label": "Barbarian Village",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -9973,7 +11037,14 @@
                 {
                   "text": "Talk to Checkal [Below Ice Mountain]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3087,
+                "y": 3415,
+                "plane": 0,
+                "label": "Checkal",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -10097,14 +11168,28 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Go to the Estate agent and move your house to Pollnivneach"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3359,
+                "y": 2970,
+                "plane": 0,
+                "label": "Pollnivneach",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -10153,7 +11238,14 @@
                 {
                   "text": "Head South to Nardah"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3424,
+                "y": 2918,
+                "plane": 0,
+                "label": "Nardah",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -10270,7 +11362,14 @@
                 {
                   "text": "Teleport to Ardougne"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -10331,7 +11430,14 @@
                 {
                   "text": "Head to Canifis"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3496,
+                "y": 3487,
+                "plane": 0,
+                "label": "Canifis",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -10352,7 +11458,14 @@
                 {
                   "text": "Head to Morton"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3488,
+                "y": 3289,
+                "plane": 0,
+                "label": "Mort'ton",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -10392,7 +11505,14 @@
                 {
                   "text": "Run South East and take the Rowboat to Mort'ton"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3488,
+                "y": 3289,
+                "plane": 0,
+                "label": "Mort'ton",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -10575,7 +11695,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -10610,7 +11737,14 @@
                 {
                   "text": "Teleport to Ardougne"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -10659,7 +11793,14 @@
                 {
                   "text": "Head to Draynor"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3105,
+                "y": 3251,
+                "plane": 0,
+                "label": "Draynor Village",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -10706,7 +11847,14 @@
                 {
                   "text": "Head to Falador Allotment Patch"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -10734,7 +11882,14 @@
                 {
                   "text": "Head South to Lady Lumbridge"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3222,
+                "y": 3218,
+                "plane": 0,
+                "label": "Lumbridge",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -10776,7 +11931,14 @@
                 {
                   "text": "Minigame teleport to Soul Wars (If spider bops you, just teleport anywhere)"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2210,
+                "y": 2857,
+                "plane": 0,
+                "label": "Soul Wars",
+                "radius": 5
+              }
             }
           ]
         },
@@ -10872,14 +12034,28 @@
                 {
                   "text": "Teleport to Ardougne"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Head to Ardougne Allotment Patch"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -10900,14 +12076,28 @@
                 {
                   "text": "Teleport to Camelot"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2757,
+                "y": 3479,
+                "plane": 0,
+                "label": "Camelot",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Head to Catherby Allotment Patch"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2804,
+                "y": 3434,
+                "plane": 0,
+                "label": "Catherby",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11029,7 +12219,14 @@
                 {
                   "text": "Teleport to Emir's Arena"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3316,
+                "y": 3235,
+                "plane": 0,
+                "label": "Emir's Arena",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11057,7 +12254,14 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11078,7 +12282,14 @@
                 {
                   "text": "Head south and enter the Dwarven Mine"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3019,
+                "y": 3450,
+                "plane": 0,
+                "label": "Dwarven Mine",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11092,7 +12303,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11209,7 +12427,14 @@
                 {
                   "text": "Teleport to Burthorpe"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2898,
+                "y": 3553,
+                "plane": 0,
+                "label": "Burthorpe",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11251,7 +12476,14 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11286,7 +12518,14 @@
                 {
                   "text": "Teleport to Ardougne"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11300,7 +12539,14 @@
                 {
                   "text": "Teleport to Ardougne"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11314,7 +12560,14 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11342,7 +12595,14 @@
                 {
                   "text": "Teleport to Emir's Arena"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3316,
+                "y": 3235,
+                "plane": 0,
+                "label": "Emir's Arena",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11356,7 +12616,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11403,14 +12670,28 @@
                 {
                   "text": "Minigame teleport to Soul Wars"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2210,
+                "y": 2857,
+                "plane": 0,
+                "label": "Soul Wars",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Take portal to Edgeville"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3087,
+                "y": 3496,
+                "plane": 0,
+                "label": "Edgeville",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11431,14 +12712,28 @@
                 {
                   "text": "Teleport to Ardougne"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Talk to Silver Merchant (2) [Making History]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2658,
+                "y": 3316,
+                "plane": 0,
+                "label": "Silver Merchant",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11452,7 +12747,14 @@
                 {
                   "text": "Bank at Ardy South Bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2652,
+                "y": 3283,
+                "plane": 0,
+                "label": "Ardougne South Bank",
+                "radius": 5
+              }
             }
           ]
         },
@@ -11478,7 +12780,14 @@
                 {
                   "text": "Head to Ardougne Zoo"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2611,
+                "y": 3277,
+                "plane": 0,
+                "label": "Ardougne Zoo",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11527,7 +12836,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11660,7 +12976,14 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11688,7 +13011,14 @@
                 {
                   "text": "Head to Keldagrim"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2838,
+                "y": 10197,
+                "plane": 0,
+                "label": "Keldagrim",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11735,7 +13065,14 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11784,21 +13121,42 @@
                 {
                   "text": "Head to Taverley"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2894,
+                "y": 3454,
+                "plane": 0,
+                "label": "Taverley",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Enter the White Wolf Tunnel and talk to Khorvak [Between a Rock]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2867,
+                "y": 9876,
+                "plane": 0,
+                "label": "Khorvak",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Teleport to Lumbridge"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3222,
+                "y": 3218,
+                "plane": 0,
+                "label": "Lumbridge",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11826,7 +13184,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11859,7 +13224,14 @@
                 {
                   "text": "Head to Varrock Sewer"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3236,
+                "y": 3458,
+                "plane": 0,
+                "label": "Varrock Sewers",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11908,7 +13280,14 @@
                 {
                   "text": "Teleport to Ardougne"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11929,7 +13308,14 @@
                 {
                   "text": "Teleport to Ardougne"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11976,7 +13362,14 @@
                 {
                   "text": "Teleport to Emir's Arena"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3316,
+                "y": 3235,
+                "plane": 0,
+                "label": "Emir's Arena",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -11990,7 +13383,14 @@
                 {
                   "text": "Take boat to Ruins of Unkah (South of Al Kharid bank)"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3293,
+                "y": 3163,
+                "plane": 0,
+                "label": "Al Kharid",
+                "radius": 5
+              }
             }
           ]
         },
@@ -12105,7 +13505,14 @@
                 {
                   "text": "Head into Rogues Den"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3046,
+                "y": 4972,
+                "plane": 1,
+                "label": "Rogues' Den",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -12175,7 +13582,14 @@
                 {
                   "text": "Talk to Marley by the Yew Trees [Below Ice Mountain]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3088,
+                "y": 3470,
+                "plane": 0,
+                "label": "Marley",
+                "radius": 5
+              }
             }
           ]
         },
@@ -12208,7 +13622,14 @@
                 {
                   "text": "Talk to Lord Kandur (2,1) [Depths of Despair]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1782,
+                "y": 3572,
+                "plane": 0,
+                "label": "Lord Kandur",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -12271,14 +13692,28 @@
                 {
                   "text": "Talk to Mori (1,2,1) [Ascent of Arceuus]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1698,
+                "y": 3742,
+                "plane": 0,
+                "label": "Mori",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Teleport to Kourend Castle"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1643,
+                "y": 3673,
+                "plane": 0,
+                "label": "Kourend Castle",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -12327,21 +13762,42 @@
                 {
                   "text": "Talk to Lady Vulcana Lovakengj (1,3) [Forsaken Tower]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1483,
+                "y": 3747,
+                "plane": 0,
+                "label": "Lady Vulcana Lovakengj",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Return to Minecart & take to Shayzien East (B)"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1480,
+                "y": 3635,
+                "plane": 0,
+                "label": "Shayzien",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Talk to Phileas Rimor (2,1) [Tales of the Righteous]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1542,
+                "y": 3570,
+                "plane": 0,
+                "label": "Phileas Rimor",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -12691,7 +14147,14 @@
                 {
                   "text": "Teleport to POH (Should be Hosidius)"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1744,
+                "y": 3597,
+                "plane": 0,
+                "label": "Hosidius",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -12815,7 +14278,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -12850,7 +14320,14 @@
                 {
                   "text": "Minigame teleport to Blast Furnace"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1940,
+                "y": 4963,
+                "plane": 0,
+                "label": "Blast Furnace",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -12876,7 +14353,14 @@
                 {
                   "text": "Teleport to Camelot"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2757,
+                "y": 3479,
+                "plane": 0,
+                "label": "Camelot",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -12890,7 +14374,14 @@
                 {
                   "text": "Teleport to Burthorpe"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2898,
+                "y": 3553,
+                "plane": 0,
+                "label": "Burthorpe",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -12930,7 +14421,14 @@
                 {
                   "text": "Teleport to Ardy->Rimmington Boat"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -12958,14 +14456,28 @@
                 {
                   "text": "Exit the rat pits & talk to The Face [Ratcatchers]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3019,
+                "y": 3232,
+                "plane": 0,
+                "label": "Face",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -13091,7 +14603,14 @@
                 {
                   "text": "Teleport to Camelot"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2757,
+                "y": 3479,
+                "plane": 0,
+                "label": "Camelot",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -13126,7 +14645,14 @@
                 {
                   "text": "Bank at Camelot Bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2757,
+                "y": 3479,
+                "plane": 0,
+                "label": "Camelot",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -13152,7 +14678,14 @@
                 {
                   "text": "Teleport to Emir's Arena using the Duelling Ring"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3316,
+                "y": 3235,
+                "plane": 0,
+                "label": "Emir's Arena",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -13194,7 +14727,14 @@
                 {
                   "text": "Teleport to Ardougne"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -13250,7 +14790,14 @@
                 {
                   "text": "Teleport to Lumbridge"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3222,
+                "y": 3218,
+                "plane": 0,
+                "label": "Lumbridge",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -13271,7 +14818,14 @@
                 {
                   "text": "Teleport to Varrock [You will need to buy black armour if Black Arm gang]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -13306,7 +14860,14 @@
                 {
                   "text": "Head to Brimhaven"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2774,
+                "y": 3177,
+                "plane": 0,
+                "label": "Brimhaven",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -13334,7 +14895,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -13367,7 +14935,14 @@
                 {
                   "text": "Teleport to Burthorpe"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2898,
+                "y": 3553,
+                "plane": 0,
+                "label": "Burthorpe",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -13435,7 +15010,14 @@
                 {
                   "text": "Teleport to Burthorpe"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2898,
+                "y": 3553,
+                "plane": 0,
+                "label": "Burthorpe",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -13583,7 +15165,14 @@
                 {
                   "text": "Teleport to Camelot"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2757,
+                "y": 3479,
+                "plane": 0,
+                "label": "Camelot",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -13597,7 +15186,14 @@
                 {
                   "text": "Teleport to Camelot"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2757,
+                "y": 3479,
+                "plane": 0,
+                "label": "Camelot",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -13611,7 +15207,14 @@
                 {
                   "text": "Enter Ranging Guild [Kandarin Medium Diary]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2654,
+                "y": 3441,
+                "plane": 0,
+                "label": "Ranging Guild",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -13653,7 +15256,14 @@
                 {
                   "text": "Teleport to Ardougne"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -13681,7 +15291,14 @@
                 {
                   "text": "Teleport to Lumbridge"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3222,
+                "y": 3218,
+                "plane": 0,
+                "label": "Lumbridge",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -13854,7 +15471,14 @@
                 {
                   "text": "Teleport to Ardougne"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -13868,7 +15492,14 @@
                 {
                   "text": "Bank at Ardougne North Bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2616,
+                "y": 3332,
+                "plane": 0,
+                "label": "Ardougne North Bank",
+                "radius": 5
+              }
             }
           ]
         },
@@ -13908,7 +15539,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -13955,7 +15593,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -13983,7 +15628,14 @@
                 {
                   "text": "Talk to the Cook in Blue moon Inn (1) [Below Ice Mountain]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3230,
+                "y": 3401,
+                "plane": 0,
+                "label": "Cook",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -14060,7 +15712,14 @@
                 {
                   "text": "Speak to Cassius to complete the Ides of Milk"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3171,
+                "y": 3277,
+                "plane": 0,
+                "label": "Cassius",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -14102,7 +15761,14 @@
                 {
                   "text": "Take Boat to Musa Point"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2918,
+                "y": 3176,
+                "plane": 0,
+                "label": "Karamja",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -14123,7 +15789,14 @@
                 {
                   "text": "Teleport to Ardougne"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -14144,7 +15817,14 @@
                 {
                   "text": "Talk to Jungle forester (1) [One Small Favour]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2861,
+                "y": 2942,
+                "plane": 0,
+                "label": "Jungle",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -14158,7 +15838,14 @@
                 {
                   "text": "Talk to Yanni to Complete One Small Favour [Lamps on Herblore]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2836,
+                "y": 2983,
+                "plane": 0,
+                "label": "Yanni",
+                "radius": 5
+              }
             }
           ]
         },
@@ -14299,7 +15986,14 @@
                 {
                   "text": "Take Boat to Brimhaven"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2774,
+                "y": 3177,
+                "plane": 0,
+                "label": "Brimhaven",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -14395,7 +16089,14 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -14606,7 +16307,14 @@
                 {
                   "text": "Take boat back to Brimhaven"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2774,
+                "y": 3177,
+                "plane": 0,
+                "label": "Brimhaven",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -14756,7 +16464,14 @@
                 {
                   "text": "Teleport to Emir's Arena"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3316,
+                "y": 3235,
+                "plane": 0,
+                "label": "Emir's Arena",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -14875,7 +16590,14 @@
                 {
                   "text": "Take boat to Port Sarim"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3047,
+                "y": 3236,
+                "plane": 0,
+                "label": "Port Sarim",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -14969,14 +16691,28 @@
                 {
                   "text": "Walk south to Land's End"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1504,
+                "y": 3415,
+                "plane": 0,
+                "label": "Land's End",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Take boat to Port Sarim"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3047,
+                "y": 3236,
+                "plane": 0,
+                "label": "Port Sarim",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -15004,14 +16740,28 @@
                 {
                   "text": "Return to Port Sarim"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3047,
+                "y": 3236,
+                "plane": 0,
+                "label": "Port Sarim",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Take boat to Lands End"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1504,
+                "y": 3415,
+                "plane": 0,
+                "label": "Land's End",
+                "radius": 5
+              }
             }
           ]
         },
@@ -15044,7 +16794,14 @@
                 {
                   "text": "Teleport to Lumbridge"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3222,
+                "y": 3218,
+                "plane": 0,
+                "label": "Lumbridge",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -15065,7 +16822,14 @@
                 {
                   "text": "Bank at Draynor Bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3092,
+                "y": 3245,
+                "plane": 0,
+                "label": "Draynor Village Bank",
+                "radius": 5
+              }
             }
           ]
         },
@@ -15112,7 +16876,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -15166,7 +16937,14 @@
                 {
                   "text": "Head to Barbarian Village"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3082,
+                "y": 3421,
+                "plane": 0,
+                "label": "Barbarian Village",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -15187,7 +16965,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -15215,7 +17000,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -15229,7 +17021,14 @@
                 {
                   "text": "Teleport to Varrock."
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -15257,7 +17056,14 @@
                 {
                   "text": "Teleport to Burthorpe"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2898,
+                "y": 3553,
+                "plane": 0,
+                "label": "Burthorpe",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -15398,7 +17204,14 @@
                 {
                   "text": "Take boat to Relleka"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2639,
+                "y": 3710,
+                "plane": 0,
+                "label": "Rellekka",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -15571,7 +17384,14 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -15585,7 +17405,14 @@
                 {
                   "text": "Talk to Burntof [Below Ice Mountain]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2956,
+                "y": 3367,
+                "plane": 0,
+                "label": "Burntof",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -15606,7 +17433,14 @@
                 {
                   "text": "Talk to Marley [Below Ice Mountain]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3088,
+                "y": 3470,
+                "plane": 0,
+                "label": "Marley",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -15627,7 +17461,14 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -15648,7 +17489,14 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -15683,7 +17531,14 @@
                 {
                   "text": "Teleport to Lumbridge"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3222,
+                "y": 3218,
+                "plane": 0,
+                "label": "Lumbridge",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -15709,7 +17564,14 @@
                 {
                   "text": "Teleport to Ardougne and Head West"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -15751,7 +17613,14 @@
                 {
                   "text": "Talk to King Lathas to start Regicide (1,1)"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2578,
+                "y": 3293,
+                "plane": 1,
+                "label": "King Lathas",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -15765,7 +17634,14 @@
                 {
                   "text": "Leave and take the Spirit Tree to Gnome Stronghold(2)"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2465,
+                "y": 3495,
+                "plane": 0,
+                "label": "Tree Gnome Stronghold",
+                "radius": 5
+              }
             }
           ]
         },
@@ -15861,7 +17737,14 @@
                 {
                   "text": "Bank at the Grand Tree"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2465,
+                "y": 3495,
+                "plane": 0,
+                "label": "Tree Gnome Stronghold",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -15910,7 +17793,14 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -15924,7 +17814,14 @@
                 {
                   "text": "Teleport to Ardougne"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -16060,7 +17957,14 @@
                 {
                   "text": "Teleport to Grand Exchange via spellbook > Spirit tree (2)"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3164,
+                "y": 3487,
+                "plane": 0,
+                "label": "Grand Exchange",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -16142,7 +18046,14 @@
                 {
                   "text": "Teleport to Castle Wars"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2440,
+                "y": 3089,
+                "plane": 0,
+                "label": "Castle Wars",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -16156,7 +18067,14 @@
                 {
                   "text": "Talk to Bert (2,1) [Hand in the Sand]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2551,
+                "y": 3099,
+                "plane": 0,
+                "label": "Bert",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -16205,7 +18123,14 @@
                 {
                   "text": "Talk to Watchtower Wizard (1,1,1) [Watchtower Quest]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2546,
+                "y": 3114,
+                "plane": 2,
+                "label": "Watchtower Wizard",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -16219,7 +18144,14 @@
                 {
                   "text": "Talk to Watchtower Wizard (1,1) [Watchtower Quest]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2546,
+                "y": 3114,
+                "plane": 2,
+                "label": "Watchtower Wizard",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -16247,7 +18179,14 @@
                 {
                   "text": "Talk to Bert to get the Rota [Hand in the Sand]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2551,
+                "y": 3099,
+                "plane": 0,
+                "label": "Bert",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -16310,7 +18249,14 @@
                 {
                   "text": "Teleport to Ardougne & bank at South Bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             }
           ]
         },
@@ -16350,7 +18296,14 @@
                 {
                   "text": "Teleport to Castle Wars"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2440,
+                "y": 3089,
+                "plane": 0,
+                "label": "Castle Wars",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -16385,7 +18338,14 @@
                 {
                   "text": "Talk to Bert [Hand in the Sand]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2551,
+                "y": 3099,
+                "plane": 0,
+                "label": "Bert",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -16504,7 +18464,14 @@
                 {
                   "text": "Teleport to Castle Wars"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2440,
+                "y": 3089,
+                "plane": 0,
+                "label": "Castle Wars",
+                "radius": 5
+              }
             }
           ]
         },
@@ -16565,7 +18532,14 @@
                 {
                   "text": "Talk to the Watchtower Wizard"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2546,
+                "y": 3114,
+                "plane": 2,
+                "label": "Watchtower Wizard",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -16708,7 +18682,14 @@
                 {
                   "text": "Teleport to Ardougne & head to Underground Pass"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -16743,7 +18724,14 @@
                 {
                   "text": "Teleport to Falador & bank at the East Bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -16771,7 +18759,14 @@
                 {
                   "text": "Bank at Ardy South Bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2652,
+                "y": 3283,
+                "plane": 0,
+                "label": "Ardougne South Bank",
+                "radius": 5
+              }
             }
           ]
         },
@@ -16790,7 +18785,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -16804,7 +18806,14 @@
                 {
                   "text": "Teleport to Lumbridge"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3222,
+                "y": 3218,
+                "plane": 0,
+                "label": "Lumbridge",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -16837,14 +18846,28 @@
                 {
                   "text": "Take boat to Brimhaven"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2774,
+                "y": 3177,
+                "plane": 0,
+                "label": "Brimhaven",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Charter to Port Tyras"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2142,
+                "y": 3122,
+                "plane": 0,
+                "label": "Port Tyras",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -16900,7 +18923,14 @@
                 {
                   "text": "Bank at Lletya"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2330,
+                "y": 3172,
+                "plane": 0,
+                "label": "Lletya",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -16926,7 +18956,14 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -16954,7 +18991,14 @@
                 {
                   "text": "Teleport to Ferox to reset stats"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3151,
+                "y": 3635,
+                "plane": 0,
+                "label": "Ferox Enclave",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -16987,14 +19031,28 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Head to Taverley"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2894,
+                "y": 3454,
+                "plane": 0,
+                "label": "Taverley",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -17029,7 +19087,14 @@
                 {
                   "text": "Teleport Crystal to Lletya"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2330,
+                "y": 3172,
+                "plane": 0,
+                "label": "Lletya",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -17118,7 +19183,14 @@
                 {
                   "text": "Bank at Lletya"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2330,
+                "y": 3172,
+                "plane": 0,
+                "label": "Lletya",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -17254,7 +19326,14 @@
                 {
                   "text": "Teleport to Ardougne"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -17308,7 +19387,14 @@
                 {
                   "text": "Teleport to Lumbridge"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3222,
+                "y": 3218,
+                "plane": 0,
+                "label": "Lumbridge",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -17383,7 +19469,14 @@
                 {
                   "text": "Head to the Smokey well West of Polnivneach"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3309,
+                "y": 2962,
+                "plane": 0,
+                "label": "Smoke Dungeon",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -17411,7 +19504,14 @@
                 {
                   "text": "Bank at Canifis"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3496,
+                "y": 3487,
+                "plane": 0,
+                "label": "Canifis",
+                "radius": 5
+              }
             }
           ]
         },
@@ -17437,7 +19537,14 @@
                 {
                   "text": "Teleport to Lumbridge"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3222,
+                "y": 3218,
+                "plane": 0,
+                "label": "Lumbridge",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -17500,7 +19607,14 @@
                 {
                   "text": "Talk to High Priest on Entrana [Desert Treasure]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2851,
+                "y": 3350,
+                "plane": 0,
+                "label": "High Priest",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -17713,7 +19827,14 @@
                 {
                   "text": "Head to Bandit Camp"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3173,
+                "y": 2982,
+                "plane": 0,
+                "label": "Bandit Camp",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -17734,7 +19855,14 @@
                 {
                   "text": "Teleport to Ardougne"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -17807,7 +19935,14 @@
                 {
                   "text": "Teleport to Trollheim"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2891,
+                "y": 3678,
+                "plane": 0,
+                "label": "Trollheim",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -17868,7 +20003,14 @@
                 {
                   "text": "Bank at Edgeville"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3087,
+                "y": 3496,
+                "plane": 0,
+                "label": "Edgeville",
+                "radius": 5
+              }
             }
           ]
         },
@@ -17894,7 +20036,14 @@
                 {
                   "text": "Bank at Edgeville"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3087,
+                "y": 3496,
+                "plane": 0,
+                "label": "Edgeville",
+                "radius": 5
+              }
             }
           ]
         },
@@ -17941,7 +20090,14 @@
                 {
                   "text": "Teleport to Lumbridge"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3222,
+                "y": 3218,
+                "plane": 0,
+                "label": "Lumbridge",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -18051,7 +20207,14 @@
                 {
                   "text": "Teleport to Lumbridge"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3222,
+                "y": 3218,
+                "plane": 0,
+                "label": "Lumbridge",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -18253,7 +20416,14 @@
                 {
                   "text": "Teleport to Kourend Castle"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1643,
+                "y": 3673,
+                "plane": 0,
+                "label": "Kourend Castle",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -18393,7 +20563,14 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -18596,14 +20773,28 @@
                 {
                   "text": "Teleport to Varrock"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3212,
+                "y": 3424,
+                "plane": 0,
+                "label": "Varrock",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Head to Varlamore"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1686,
+                "y": 3113,
+                "plane": 0,
+                "label": "Civitas illa Fortis",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -18687,7 +20878,14 @@
                 {
                   "text": "Sail to the Remote Island north-west of The Great Conch and talk to the Injured Tortugan to start Troubled Tortugans"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2962,
+                "y": 2605,
+                "plane": 0,
+                "label": "Injured Tortugan",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -18722,7 +20920,14 @@
                 {
                   "text": "Talk to Elder Raley at his house just south of the Summer Shore bank on The Great Conch and start The Red Reef"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3186,
+                "y": 2405,
+                "plane": 0,
+                "label": "Elder Raley",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -19354,7 +21559,14 @@
                 {
                   "text": "Teleport to Kourend Castle"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1643,
+                "y": 3673,
+                "plane": 0,
+                "label": "Kourend Castle",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -19429,7 +21641,14 @@
                 {
                   "text": "Head to Hunter Guild"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1557,
+                "y": 3048,
+                "plane": 0,
+                "label": "Hunter Guild",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -19443,7 +21662,14 @@
                 {
                   "text": "Bank at Hunter Guild"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1557,
+                "y": 3048,
+                "plane": 0,
+                "label": "Hunter Guild",
+                "radius": 5
+              }
             }
           ]
         },
@@ -19469,7 +21695,14 @@
                 {
                   "text": "Talk to Guildmaster Apatura (2,1) [At First Light]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1554,
+                "y": 3033,
+                "plane": 0,
+                "label": "Guildmaster Apatura",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -19549,7 +21782,14 @@
                 {
                   "text": "Head to Fossil Island"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3740,
+                "y": 3808,
+                "plane": 0,
+                "label": "Fossil Island",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -19631,7 +21871,14 @@
                 {
                   "text": "Minigame teleport to Blast Furnace"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1940,
+                "y": 4963,
+                "plane": 0,
+                "label": "Blast Furnace",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -19676,7 +21923,14 @@
                 {
                   "text": "Minigame Teleport to Blast Furnace"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1940,
+                "y": 4963,
+                "plane": 0,
+                "label": "Blast Furnace",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -19704,7 +21958,14 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -19786,14 +22047,28 @@
                 {
                   "text": "Take boat to Relleka"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2639,
+                "y": 3710,
+                "plane": 0,
+                "label": "Rellekka",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Talk to Brundt [Lunar Diplomacy]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2658,
+                "y": 3667,
+                "plane": 0,
+                "label": "Brundt",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -19873,7 +22148,14 @@
                 {
                   "text": "Head South to Shantay Pass"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3304,
+                "y": 3117,
+                "plane": 0,
+                "label": "Shantay Pass",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -19901,7 +22183,14 @@
                 {
                   "text": "Talk to High Priest [1,4] [Contact!]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3281,
+                "y": 2772,
+                "plane": 0,
+                "label": "High Priest",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -19929,7 +22218,14 @@
                 {
                   "text": "Head to Nardah"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3424,
+                "y": 2918,
+                "plane": 0,
+                "label": "Nardah",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -19957,7 +22253,14 @@
                 {
                   "text": "Bank at Nardah"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3424,
+                "y": 2918,
+                "plane": 0,
+                "label": "Nardah",
+                "radius": 5
+              }
             }
           ]
         },
@@ -19976,7 +22279,14 @@
                 {
                   "text": "Head to Pollnivneach and train thieving until 71 (Blackjack Bandits until 65 then Menaphites to 71)"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3359,
+                "y": 2970,
+                "plane": 0,
+                "label": "Pollnivneach",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -20234,7 +22544,14 @@
                 {
                   "text": "Teleport to Ardougne"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2661,
+                "y": 3300,
+                "plane": 0,
+                "label": "Ardougne",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -20295,7 +22612,14 @@
                 {
                   "text": "Teleport to Castle Wars via Jewellry Box"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2440,
+                "y": 3089,
+                "plane": 0,
+                "label": "Castle Wars",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -20323,7 +22647,14 @@
                 {
                   "text": "Teleport to Castle Wars via Jewellry Box"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2440,
+                "y": 3089,
+                "plane": 0,
+                "label": "Castle Wars",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -20370,7 +22701,14 @@
                 {
                   "text": "Sail to Wyrmscraig and talk to Cormac in the centre hut of Auchrie to start Fallen From Grace"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2576,
+                "y": 2255,
+                "plane": 0,
+                "label": "Cormac",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -20494,7 +22832,14 @@
                 {
                   "text": "Teleport to Falador"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2964,
+                "y": 3378,
+                "plane": 0,
+                "label": "Falador",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -20508,7 +22853,14 @@
                 {
                   "text": "Teleport to Burthorpe and head to the Heroes Guild"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2898,
+                "y": 3553,
+                "plane": 0,
+                "label": "Burthorpe",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -20578,7 +22930,14 @@
                 {
                   "text": "Bank at Edgeville Bank"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3087,
+                "y": 3496,
+                "plane": 0,
+                "label": "Edgeville",
+                "radius": 5
+              }
             }
           ]
         },
@@ -20644,7 +23003,14 @@
                 {
                   "text": "Teleport on your Karamja Gloves"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2918,
+                "y": 3176,
+                "plane": 0,
+                "label": "Karamja",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -20665,7 +23031,14 @@
                 {
                   "text": "Minigame Teleport to Blast Furnace"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1940,
+                "y": 4963,
+                "plane": 0,
+                "label": "Blast Furnace",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -20877,14 +23250,28 @@
                 {
                   "text": "Enter the Nature Grotto & pray piety on the Altar [Morytania Hard Diary]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3441,
+                "y": 3337,
+                "plane": 0,
+                "label": "Nature Grotto",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Head to the Haunted Mine"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3440,
+                "y": 3232,
+                "plane": 0,
+                "label": "Haunted Mine",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -20905,7 +23292,14 @@
                 {
                   "text": "Head to the Slayer Tower and climb both of the Spike climbs [Morytania Hard Diary]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3428,
+                "y": 3535,
+                "plane": 0,
+                "label": "Morytania Slayer Tower",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -20933,7 +23327,14 @@
                 {
                   "text": "Enter Port Phasmatys"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3660,
+                "y": 3524,
+                "plane": 0,
+                "label": "Port Phasmatys",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -20975,7 +23376,14 @@
                 {
                   "text": "Teleport to Lletya"
                 }
-              ]
+              ],
+              "location": {
+                "x": 2330,
+                "y": 3172,
+                "plane": 0,
+                "label": "Lletya",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -21010,7 +23418,14 @@
                 {
                   "text": "Bank at Shantay Pass"
                 }
-              ]
+              ],
+              "location": {
+                "x": 3304,
+                "y": 3117,
+                "plane": 0,
+                "label": "Shantay Pass",
+                "radius": 5
+              }
             }
           ]
         },
@@ -21125,7 +23540,14 @@
                 {
                   "text": "Teleport to Piscarillius with Book of the Dead"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1804,
+                "y": 3739,
+                "plane": 0,
+                "label": "Port Piscarilius",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -21139,7 +23561,14 @@
                 {
                   "text": "Teleport to Hosidius with Book of the Dead"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1744,
+                "y": 3597,
+                "plane": 0,
+                "label": "Hosidius",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -21153,7 +23582,14 @@
                 {
                   "text": "Teleport to Hosidius again"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1744,
+                "y": 3597,
+                "plane": 0,
+                "label": "Hosidius",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -21167,7 +23603,14 @@
                 {
                   "text": "Teleport to Shayzien"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1480,
+                "y": 3635,
+                "plane": 0,
+                "label": "Shayzien",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -21188,7 +23631,14 @@
                 {
                   "text": "Teleport to Shayzien"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1480,
+                "y": 3635,
+                "plane": 0,
+                "label": "Shayzien",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -21230,7 +23680,14 @@
                 {
                   "text": "Bank at Shayzien Chest"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1480,
+                "y": 3635,
+                "plane": 0,
+                "label": "Shayzien",
+                "radius": 5
+              }
             }
           ]
         },
@@ -21469,7 +23926,14 @@
                 {
                   "text": "Head South and talk to Emelio (1) [Meat and Greet]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1753,
+                "y": 3074,
+                "plane": 0,
+                "label": "Emelio",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -21497,7 +23961,14 @@
                 {
                   "text": "Head South & talk to Spice Merchant (2) [Meat and Greet]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1685,
+                "y": 3101,
+                "plane": 0,
+                "label": "Spice Merchant",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -21539,7 +24010,14 @@
                 {
                   "text": "Talk to Alba [Meat and Greet]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1587,
+                "y": 3126,
+                "plane": 0,
+                "label": "Alba",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -21553,7 +24031,14 @@
                 {
                   "text": "Teleport to Civitis Illa Fortis"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1686,
+                "y": 3113,
+                "plane": 0,
+                "label": "Civitas illa Fortis",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -21567,7 +24052,14 @@
                 {
                   "text": "Talk to Curator Herminius to complete Ethically Acquired Antiques (4)"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1712,
+                "y": 3163,
+                "plane": 0,
+                "label": "Curator Herminius",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -21595,7 +24087,14 @@
                 {
                   "text": "Talk to Atza [At First Light]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1696,
+                "y": 3063,
+                "plane": 0,
+                "label": "Atza",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -21726,7 +24225,14 @@
                 {
                   "text": "Bank at Cam Torum"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1435,
+                "y": 9596,
+                "plane": 0,
+                "label": "Cam Torum",
+                "radius": 5
+              }
             }
           ]
         },
@@ -21799,7 +24305,14 @@
                 {
                   "text": "Head North & talk to Alan (1,1) [Scrambled!]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1247,
+                "y": 3167,
+                "plane": 0,
+                "label": "Alan",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -21853,14 +24366,28 @@
                 {
                   "text": "Talk to Marcus [Shadows of Custodia]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1394,
+                "y": 3354,
+                "plane": 0,
+                "label": "Marcus",
+                "radius": 5
+              }
             },
             {
               "content": [
                 {
                   "text": "Talk to Bartender [Shadows of Custodia]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1391,
+                "y": 3354,
+                "plane": 0,
+                "label": "Bartender",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -21874,7 +24401,14 @@
                 {
                   "text": "Talk to Ranulph [Vale Totems]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1365,
+                "y": 3366,
+                "plane": 0,
+                "label": "Ranulph",
+                "radius": 5
+              }
             },
             {
               "content": [
@@ -21902,7 +24436,14 @@
                 {
                   "text": "Talk to Ictus [Shadows of Custodia]"
                 }
-              ]
+              ],
+              "location": {
+                "x": 1409,
+                "y": 3375,
+                "plane": 0,
+                "label": "Ictus",
+                "radius": 5
+              }
             },
             {
               "content": [

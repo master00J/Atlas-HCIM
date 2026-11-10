@@ -9,8 +9,8 @@
     },
     {
       "path": ".github/workflows/ci.yml",
-      "bytes": 3068,
-      "sha256": "5c35a65caa42d766dab2b043504f19dddefbeb504509b947c4dad678705b7352"
+      "bytes": 3087,
+      "sha256": "0e0d36d74b5869b30fb113155652d5672f450b45b138a3d600bdf3f15bde83f6"
     },
     {
       "path": ".gitignore",
@@ -134,13 +134,13 @@
     },
     {
       "path": "guide-tools/build_atlas.py",
-      "bytes": 18160,
-      "sha256": "0a0b608422ff78576491d729efd9dc87865bd6a1bd0a383e6d6f71c571f6f2c7"
+      "bytes": 18521,
+      "sha256": "e16b0b04832b2fa66991ab6f32103a1d6025065cbf9c9abf442aab540807b349"
     },
     {
       "path": "guide-tools/overlay-harness/AtlasGuideReportTest.java",
-      "bytes": 15074,
-      "sha256": "cc878b3605a8e2beb6dfc84c67e09e0ca8d2a89004c4454f2361c8ec109e9b76"
+      "bytes": 15940,
+      "sha256": "18a1c30c38c45b6176caee84bb97b1ac46cbccbd458e1350bdaa2b1984fbd4be"
     },
     {
       "path": "guide-tools/quest_helper_pins.py",
@@ -169,8 +169,8 @@
     },
     {
       "path": "guide-tools/test_atlas.py",
-      "bytes": 11783,
-      "sha256": "71302cdf9d3dfdf582d7f6bd5ecdce2a11314476ab3cd1c9e0a0f07b297ca60f"
+      "bytes": 12384,
+      "sha256": "8dfd60c084d3f1fa8cfaa73a6e1f2caf019bbba8b03cbfeb497fc65ae1ce21c6"
     },
     {
       "path": "guide/HCIM_ATLAS_ENDGAME.json",
@@ -189,8 +189,8 @@
     },
     {
       "path": "guide/HCIM_ATLAS_VOLLEDIGE_ROUTE.json",
-      "bytes": 687782,
-      "sha256": "d191b580d9515fe2e82988fae6fc1175cbaa0261f9d46ca0457b7536af4950b5"
+      "bytes": 758510,
+      "sha256": "7fd9bb6aa030197f335f22e9292eefc255159157252646e7273f92ef21726619"
     },
     {
       "path": "guide/OSRS_HCIM_GuideOverlay_ENDGAME_2026.json",

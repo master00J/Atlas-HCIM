@@ -60,6 +60,10 @@ class AtlasTests(unittest.TestCase):
                   ('OSRS_HCIM_GuideOverlay_ENDGAME_2026.json','HCIM_ATLAS_ENDGAME.json')]:
    source=json.loads((ROOT/'guide'/src).read_text('utf8'))
    built=json.loads((ROOT/'guide'/out).read_text('utf8'))
+   # the build only adds the per-step "location"; text and order stay the source's
+   for ch in built['chapters']:
+    for sec in ch['sections']:
+     for st in sec['steps']:st.pop('location',None)
    self.assertEqual(source['chapters'],built['chapters'],out)
   self.assertGreater(steps(json.loads((ROOT/'guide'/'HCIM_ATLAS_VOLLEDIGE_ROUTE.json').read_text('utf8'))),3200)
  def test_2026_source_is_reproducible(self):
@@ -169,6 +173,14 @@ class NpcPinTests(unittest.TestCase):
    self.assertNotRegex(p['text'],r'(?i)wilderness')
    # Wilderness is north of y=3520 on the surface between x=2944 and x=3392.
    self.assertFalse(p['plane']==0 and 2944<=p['x']<=3392 and 3520<p['y']<4000,p)
+ def test_every_pin_is_also_a_location_in_the_guide(self):
+  located={}
+  for ch,sec,idx,step,t,key in steps_in(self.route):
+   if 'location' in step:located[key]=step['location']
+  self.assertEqual(set(located),set(self.pins))
+  for key,loc in located.items():
+   w=self.pins[key]['waypoints'][0]
+   self.assertEqual((loc['x'],loc['y'],loc['plane'],loc['label']),(w['x'],w['y'],w['plane'],w['label']))
  def test_pin_file_fits_the_plugin_limit(self):
   self.assertLess((ROOT/'guide'/'HCIM_ATLAS_PINNEN_VOLLEDIGE_ROUTE.json').stat().st_size,120000)
 if __name__=='__main__':unittest.main(verbosity=2)

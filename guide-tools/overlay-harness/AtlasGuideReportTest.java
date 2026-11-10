@@ -144,7 +144,9 @@ public class AtlasGuideReportTest
 			NpcLocationStore npcs = new NpcLocationStore(new Gson());
 			npcs.load();
 			locations.append("- NPC database: ").append(downloadNpcDatabase(npcs)).append('\n');
-			Map<String, StepLocationPlan> plans = StepLocationPlanner.buildPlans(guide, targets, places, transports, npcs::lookup);
+			Map<String, StepLocationPlan> plans = new HashMap<>(
+				StepLocationPlanner.buildPlans(guide, targets, places, transports, npcs::lookup));
+			locations.append("- Tiles read from the guide file (\"location\" per step): ").append(applyAuthored(guide, plans)).append('\n');
 			Files.write(out.resolve("location-audit.md"),
 				LocationAudit.toMarkdown("hcim-atlas", guide, plans).getBytes(StandardCharsets.UTF_8));
 			summariseLocations(guide, plans, readPinKeys(), baseTexts, locations, orphanPins);
@@ -163,6 +165,30 @@ public class AtlasGuideReportTest
 		assertTrue("New steps whose wording Guide Overlay does not act on:\n" + String.join("\n", misses), misses.isEmpty());
 		assertTrue("Pins whose step key does not exist in the imported guide (they would never show):\n"
 			+ String.join("\n", orphanPins), orphanPins.isEmpty());
+	}
+
+	/**
+	 * The HCIM Atlas build reads a tile per step from the guide file; upstream
+	 * Guide Overlay has no such class. Looked up by name so this test compiles
+	 * against both.
+	 */
+	private static String applyAuthored(Guide guide, Map<String, StepLocationPlan> plans)
+	{
+		try
+		{
+			java.lang.reflect.Method apply = Class.forName("com.hcimguide.AuthoredLocation")
+				.getDeclaredMethod("apply", Guide.class, Map.class);
+			apply.setAccessible(true);
+			return String.valueOf(apply.invoke(null, guide, plans));
+		}
+		catch (ClassNotFoundException e)
+		{
+			return "not supported by this build (use the pin import)";
+		}
+		catch (ReflectiveOperationException e)
+		{
+			throw new IllegalStateException(e);
+		}
 	}
 
 	/** Mirrors LocationAudit's definition of an unresolved actionable step. */

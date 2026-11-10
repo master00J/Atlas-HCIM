@@ -269,7 +269,6 @@ def steps_in(data):
 def build(source_file,dest_file,pins_file,audit_file,guide_id):
     data=json.loads(source_file.read_text('utf8'))
     data['title']='HCIM Atlas 2026 — In-game route + endgame' if guide_id==GUIDE_ID else 'HCIM Atlas Endgame 2026'
-    dest_file.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf8')
     pins={'schemaVersion':1,'guides':{guide_id:{}}}
     audit=[]; seenkeys=set(); n=0
     npc=npc_pins(data) if guide_id==GUIDE_ID else {}
@@ -282,12 +281,17 @@ def build(source_file,dest_file,pins_file,audit_file,guide_id):
             place,reason=npc[key],npc[key]['status']
         if place:
             pins['guides'][guide_id][key]={'waypoints':[{'id':'manual:'+guide_id+':'+key+':0','label':place['name'],'x':place['x'],'y':place['y'],'plane':place['plane'],'radius':5}]}
+            # The same tile inside the guide itself: the HCIM Atlas build of Guide
+            # Overlay reads "location" per step, so it needs no pin import. Upstream
+            # Guide Overlay ignores the field and keeps using the pin file.
+            step['location']={'x':place['x'],'y':place['y'],'plane':place['plane'],'label':place['name'],'radius':5}
         audit.append({'chapter':ch['title'],'section':sec['title'],'step':idx,'key':key,'type':categorize(t),
                       'risk_scan':'review_handmatig' if RISK.search(t) else '',
                       'pin_status':place.get('status','gecontroleerde plaatsbron') if place else reason,
                       'destination':place['name'] if place else '',
                       'worldpoint':f"{place['x']},{place['y']},{place['plane']}" if place else '',
                       'text':t})
+    dest_file.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf8')
     pins_file.write_text(json.dumps(pins,ensure_ascii=False,separators=(',',':')),encoding='utf8')
     if len(pins_file.read_text('utf8'))>120000:raise ValueError('Too many pins for Guide Overlay config sync')
     with audit_file.open('w',newline='',encoding='utf-8-sig') as f:
