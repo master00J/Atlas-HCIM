@@ -1,0 +1,24 @@
+<!doctype html><html lang="nl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>HCIM ATLAS · Live Stream Overlay</title>
+<style>
+*{box-sizing:border-box}html,body{width:100%;height:100%;margin:0;overflow:hidden;background:transparent;color:#f2e8d4;font-family:'Trebuchet MS','Segoe UI',Arial,sans-serif}
+#board{position:absolute;inset:0;aspect-ratio:1672/941;width:100%;height:100%;overflow:hidden}.art{position:absolute;inset:0;width:100%;height:100%;object-fit:fill;pointer-events:none}
+.field{position:absolute;overflow:hidden;text-shadow:0 2px 4px #000,0 0 12px #000;line-height:1.17;overflow-wrap:anywhere;display:flex;align-items:center}
+#goalText{left:79.7%;top:14.9%;width:17.5%;height:10%;font-size:clamp(12px,1.43vw,29px);font-weight:800}
+#stepText{left:79.7%;top:35.6%;width:17.5%;height:13.8%;font-size:clamp(11px,1.22vw,25px);font-weight:650}
+#chapterText{left:80%;top:51.7%;width:17%;height:2.5%;font-size:clamp(9px,.75vw,15px);color:#9cc9e9;white-space:nowrap;text-overflow:ellipsis}
+#percentText{left:80%;top:63.9%;width:16%;height:4.2%;font-size:clamp(12px,1.55vw,32px);color:#8bdcff;font-weight:800;text-align:center;justify-content:center}
+#stepCount{left:80.5%;top:82%;width:16%;height:2.9%;font-size:clamp(10px,.92vw,19px);justify-content:center;text-align:center;color:#fbecd0}
+.statusCover{position:absolute;left:1.15%;top:91.1%;width:24.0%;height:5.7%;background:linear-gradient(180deg,#202125,#111418);border:2px solid #41434a;border-radius:10px;display:flex;align-items:center;justify-content:space-around;padding:0 1%;font-size:clamp(9px,1vw,19px);font-weight:bold;box-shadow:0 2px 11px #000;white-space:nowrap}
+#hcStatus{color:#ff857d}#deathCount{color:#eee2ca}body[data-hardcore="alive"] #hcStatus{color:#fa6b5b}body[data-hardcore="lost"] #hcStatus{color:#ff2c2c}
+#milestoneText{left:34%;top:91.7%;width:44%;height:4%;font-size:clamp(11px,1.15vw,23px);font-weight:700}
+#overallFill{position:absolute;left:79.3%;top:70.1%;height:0.85%;max-width:16.8%;background:linear-gradient(90deg,#007fb4,#4fdbff);border-radius:9px;box-shadow:0 0 8px #41e5ff}
+.milestone{position:absolute;width:3.75%;height:7%;display:grid;place-items:center;color:#7b8188;font-size:clamp(12px,1.25vw,26px);text-shadow:0 1px 5px #000}.milestone.unlocked{color:#70dbff;text-shadow:0 0 13px #31caff,0 1px 4px #000}
+#liveIndicator{position:absolute;left:51%;top:2.5%;font-size:clamp(10px,.75vw,15px);color:#a8cbe0;opacity:.9}
+body[data-connection="offline"] #liveIndicator{color:#dfb0a3}body[data-connection="offline"] #percentText{color:#aaa}
+</style></head><body data-connection="offline"><main id="board"><img class="art" src="/assets/stream-frame.png" alt=""><div id="liveIndicator">○ OFFLINE</div>
+<div class="field" id="goalText">Wacht op RuneLite...</div><div class="field" id="stepText">RuneLite-guide niet verbonden</div><div class="field" id="chapterText"></div>
+<div class="field" id="percentText">--</div><div id="overallFill" data-span="16.8"></div><div class="field" id="stepCount">Wachten op gegevens</div>
+<div class="milestone" data-milestone="0" style="left:79%;top:69%">◆</div><div class="milestone" data-milestone="1" style="left:83.8%;top:69%">◆</div><div class="milestone" data-milestone="2" style="left:88.4%;top:69%">◆</div><div class="milestone" data-milestone="3" style="left:93%;top:69%">◆</div><div class="milestone" data-milestone="4" style="left:82%;top:77%">◆</div><div class="milestone" data-milestone="5" style="left:91%;top:77%">◆</div>
+<div class="statusCover"><span id="hcStatus">HCIM STATUS ONBEKEND</span><span id="deathCount">0 deaths</span></div>
+<div class="field" id="milestoneText">RuneLite offline · controleer de koppeling</div>
+</main><script src="/assets/live.js"></script></body></html>
