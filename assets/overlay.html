@@ -1,24 +1,79 @@
-<!doctype html><html lang="nl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>HCIM ATLAS · Live Stream Overlay</title>
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>HCIM Atlas · Compact Stream Overlay</title>
 <style>
-*{box-sizing:border-box}html,body{width:100%;height:100%;margin:0;overflow:hidden;background:transparent;color:#f2e8d4;font-family:'Trebuchet MS','Segoe UI',Arial,sans-serif}
-#board{position:absolute;inset:0;aspect-ratio:1672/941;width:100%;height:100%;overflow:hidden}.art{position:absolute;inset:0;width:100%;height:100%;object-fit:fill;pointer-events:none}
-.field{position:absolute;overflow:hidden;text-shadow:0 2px 4px #000,0 0 12px #000;line-height:1.17;overflow-wrap:anywhere;display:flex;align-items:center}
-#goalText{left:79.7%;top:14.9%;width:17.5%;height:10%;font-size:clamp(12px,1.43vw,29px);font-weight:800}
-#stepText{left:79.7%;top:35.6%;width:17.5%;height:13.8%;font-size:clamp(11px,1.22vw,25px);font-weight:650}
-#chapterText{left:80%;top:51.7%;width:17%;height:2.5%;font-size:clamp(9px,.75vw,15px);color:#9cc9e9;white-space:nowrap;text-overflow:ellipsis}
-#percentText{left:80%;top:63.9%;width:16%;height:4.2%;font-size:clamp(12px,1.55vw,32px);color:#8bdcff;font-weight:800;text-align:center;justify-content:center}
-#stepCount{left:80.5%;top:82%;width:16%;height:2.9%;font-size:clamp(10px,.92vw,19px);justify-content:center;text-align:center;color:#fbecd0}
-.statusCover{position:absolute;left:1.15%;top:91.1%;width:24.0%;height:5.7%;background:linear-gradient(180deg,#202125,#111418);border:2px solid #41434a;border-radius:10px;display:flex;align-items:center;justify-content:space-around;padding:0 1%;font-size:clamp(9px,1vw,19px);font-weight:bold;box-shadow:0 2px 11px #000;white-space:nowrap}
-#hcStatus{color:#ff857d}#deathCount{color:#eee2ca}body[data-hardcore="alive"] #hcStatus{color:#fa6b5b}body[data-hardcore="lost"] #hcStatus{color:#ff2c2c}
-#milestoneText{left:34%;top:91.7%;width:44%;height:4%;font-size:clamp(11px,1.15vw,23px);font-weight:700}
-#overallFill{position:absolute;left:79.3%;top:70.1%;height:0.85%;max-width:16.8%;background:linear-gradient(90deg,#007fb4,#4fdbff);border-radius:9px;box-shadow:0 0 8px #41e5ff}
-.milestone{position:absolute;width:3.75%;height:7%;display:grid;place-items:center;color:#7b8188;font-size:clamp(12px,1.25vw,26px);text-shadow:0 1px 5px #000}.milestone.unlocked{color:#70dbff;text-shadow:0 0 13px #31caff,0 1px 4px #000}
-#liveIndicator{position:absolute;left:51%;top:2.5%;font-size:clamp(10px,.75vw,15px);color:#a8cbe0;opacity:.9}
-body[data-connection="offline"] #liveIndicator{color:#dfb0a3}body[data-connection="offline"] #percentText{color:#aaa}
-</style></head><body data-connection="offline"><main id="board"><img class="art" src="/assets/stream-frame.png" alt=""><div id="liveIndicator">○ OFFLINE</div>
-<div class="field" id="goalText">Wacht op RuneLite...</div><div class="field" id="stepText">RuneLite-guide niet verbonden</div><div class="field" id="chapterText"></div>
-<div class="field" id="percentText">--</div><div id="overallFill" data-span="16.8"></div><div class="field" id="stepCount">Wachten op gegevens</div>
-<div class="milestone" data-milestone="0" style="left:79%;top:69%">◆</div><div class="milestone" data-milestone="1" style="left:83.8%;top:69%">◆</div><div class="milestone" data-milestone="2" style="left:88.4%;top:69%">◆</div><div class="milestone" data-milestone="3" style="left:93%;top:69%">◆</div><div class="milestone" data-milestone="4" style="left:82%;top:77%">◆</div><div class="milestone" data-milestone="5" style="left:91%;top:77%">◆</div>
-<div class="statusCover"><span id="hcStatus">HCIM STATUS ONBEKEND</span><span id="deathCount">0 deaths</span></div>
-<div class="field" id="milestoneText">RuneLite offline · controleer de koppeling</div>
-</main><script src="/assets/live.js"></script></body></html>
+:root{--line:rgba(222,186,112,.48);--gold:#f3d99c;--text:#f7f2e7;--muted:#b8c2cb;--cyan:#6ed9f4}
+*{box-sizing:border-box}
+html,body{margin:0;width:100%;height:100%;overflow:hidden;background:transparent;color:var(--text);font-family:'Trebuchet MS','Segoe UI',Arial,sans-serif}
+#board{position:absolute;inset:0;overflow:hidden;pointer-events:none;background:transparent}
+.hud{position:absolute;border:1px solid var(--line);border-radius:9px;background:linear-gradient(110deg,rgba(12,17,22,.87),rgba(12,18,24,.75));box-shadow:0 4px 16px rgba(0,0,0,.45),inset 0 1px rgba(255,255,255,.09)}
+#brand{left:1.4%;top:1.4%;width:21%;height:6.9%;padding:.54% .95%;display:flex;flex-direction:column;justify-content:center;gap:5px}
+.logo{display:flex;align-items:center;gap:10px;white-space:nowrap;font-weight:900;letter-spacing:.075em;font-size:clamp(13px,1.18vw,26px)}
+.helm{color:#ff6259;font-size:1.15em;text-shadow:0 0 14px #ff443955}
+.small{color:var(--muted);font-size:clamp(9px,.68vw,15px);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+#chapterText{display:inline-block;max-width:100%;color:#a5c3d4}
+#details{left:24%;top:1.4%;width:53%;height:6.9%;display:grid;grid-template-columns:44% 56%;align-items:stretch;overflow:hidden}
+.item{min-width:0;display:flex;flex-direction:column;justify-content:center;padding:6px 14px}
+.item+.item{border-left:1px solid rgba(242,203,132,.24)}
+.kicker{text-transform:uppercase;letter-spacing:.12em;font-size:clamp(8px,.56vw,12px);font-weight:800;color:#e9ca8c;white-space:nowrap}
+.value{margin-top:4px;line-height:1.17;overflow:hidden;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;line-clamp:2;overflow-wrap:anywhere;text-shadow:0 1px 3px #000;font-size:clamp(10px,1.02vw,20px);font-weight:700}
+#stepText{font-size:clamp(10px,.9vw,19px)}
+#footStatus{left:1.4%;bottom:1.4%;width:22%;height:3.9%;display:flex;align-items:center;justify-content:space-between;gap:9px;padding:0 13px;font-size:clamp(9px,.7vw,15px);font-weight:800;white-space:nowrap}
+#hcStatus{overflow:hidden;text-overflow:ellipsis;color:#ffc2b9}
+#deathCount{color:#dedbd3}
+body[data-hardcore="alive"] #hcStatus{color:#ff756d}
+body[data-hardcore="lost"] #hcStatus{color:#ff3838}
+#footProgress{left:29%;bottom:1.4%;width:43%;height:4%;padding:6px 13px 5px;display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:12px}
+#progressLabel{font-size:clamp(8px,.7vw,15px);font-weight:800;white-space:nowrap;color:#eacb90}
+#progressCenter{min-width:0;display:flex;flex-direction:column;justify-content:center;gap:4px}
+#stepCount{font-size:clamp(8px,.6vw,13px);color:#e6e7e7;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
+#track{height:5px;width:100%;border-radius:9px;background:rgba(7,12,17,.95);border:1px solid rgba(109,148,170,.3);overflow:hidden}
+#overallFill{width:0;height:100%;background:linear-gradient(90deg,#379ace,#80edff);border-radius:8px;box-shadow:0 0 9px #45ceff}
+#percentText{font-size:clamp(11px,.86vw,18px);font-weight:900;color:var(--cyan);white-space:nowrap}
+#liveIndicator{position:absolute;right:1.4%;bottom:1.6%;font-size:clamp(9px,.66vw,14px);font-weight:900;letter-spacing:.07em;color:#8ff4c6;text-shadow:0 1px 3px #000}
+body[data-connection="offline"] #liveIndicator{color:#d9aaa4}
+body[data-connection="offline"] #percentText{color:#aaa}
+@media(max-width:900px){
+  #brand{width:23%}
+  #details{left:25%;width:57%;grid-template-columns:42% 58%}
+  .item{padding:4px 7px}
+  #footStatus{width:26%;padding:0 6px}
+  #footProgress{left:28%;width:51%;gap:6px;padding:4px 6px}
+}
+</style>
+</head>
+<body data-connection="offline">
+<main id="board" aria-label="Compacte HCIM Atlas streamoverzicht">
+  <section id="brand" class="hud">
+    <div class="logo"><span class="helm">◆</span> HCIM ATLAS</div>
+    <span id="chapterText" class="small">RuneLite verbinden...</span>
+  </section>
+  <section id="details" class="hud">
+    <div class="item">
+      <span class="kicker">Current Goal</span>
+      <span class="value" id="goalText">Wacht op RuneLite...</span>
+    </div>
+    <div class="item">
+      <span class="kicker">Current Step</span>
+      <span class="value" id="stepText">RuneLite-guide niet verbonden</span>
+    </div>
+  </section>
+  <section id="footStatus" class="hud">
+    <span id="hcStatus">HCIM STATUS ONBEKEND</span>
+    <span id="deathCount">0 deaths</span>
+  </section>
+  <section id="footProgress" class="hud">
+    <span id="progressLabel">ROUTE</span>
+    <div id="progressCenter">
+      <div id="stepCount">Wachten op gegevens</div>
+      <div id="track"><div id="overallFill" data-span="100"></div></div>
+    </div>
+    <span id="percentText">--</span>
+  </section>
+  <span id="liveIndicator">○ OFFLINE</span>
+</main>
+<script src="/assets/live.js"></script>
+</body></html>
