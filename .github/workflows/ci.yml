@@ -12,6 +12,7 @@ jobs:
           node-version: '22'
       - run: node tests/test-live.js
       - run: node tests/test-goals.js
+      - run: node tests/test-overlay-layout.js
   guide:
     runs-on: ubuntu-latest
     steps:
