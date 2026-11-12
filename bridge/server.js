@@ -56,7 +56,7 @@ let previous='';
 function broadcast(){const cur=JSON.stringify(state());if(cur!==previous){previous=cur;for(const s of subscribers)sendEvent(s,cur);}}
 let healthCheck=setInterval(broadcast,1000);healthCheck.unref();
 function staticFile(res, filename, type){const f=path.join(STATIC,filename);try{const st=fs.statSync(f);res.writeHead(200,{'Content-Type':type,'Content-Length':st.size,'Cache-Control':'public, max-age=3600','X-Content-Type-Options':'nosniff'});fs.createReadStream(f).pipe(res);}catch(_){res.writeHead(404);res.end('Not found');}}
-const routes={'/':'control.html','/control':'control.html','/overlay':'overlay.html','/widget':'widget.html'};
+const routes={'/':'control.html','/control':'control.html','/overlay':'overlay.html','/overlay-classic':'overlay-classic.html','/webcam-frame':'webcam-frame.html','/widget':'widget.html'};
 const contentType=(file)=>file.endsWith('.css')?'text/css; charset=utf-8':file.endsWith('.js')?'text/javascript; charset=utf-8':file.endsWith('.png')?'image/png':'text/html; charset=utf-8';
 const server=http.createServer((req,res)=>{
  const url=new URL(req.url,'http://'+HOST+':'+PORT);
@@ -94,6 +94,8 @@ server.listen(PORT,HOST,()=>{
  console.log('HCIM ATLAS LIVE STREAM');
  console.log('Bediening: http://'+HOST+':'+PORT+'/control');
  console.log('OBS / vMix: http://'+HOST+':'+PORT+'/overlay');
+ console.log('Legacy:     http://'+HOST+':'+PORT+'/overlay-classic');
+ console.log('Webcam:     http://'+HOST+':'+PORT+'/webcam-frame');
  console.log('Widget:     http://'+HOST+':'+PORT+'/widget');
  console.log('Bronbestand: '+INPUT);
  console.log('Status: '+(demo?'DEMONSTRATIE (geen RuneLite-data)':'Wacht op RuneLite-export'));
