@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node bridge/server.js",
     "demo": "node bridge/server.js --demo --port 38878",
-    "test": "node tests/test-live.js && node tests/test-goals.js && python guide-tools/test_atlas.py"
+    "test": "node tests/test-live.js && node tests/test-goals.js && node tests/test-overlay-layout.js && python guide-tools/test_atlas.py"
   },
   "engines": {
     "node": ">=18"
