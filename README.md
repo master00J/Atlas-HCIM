@@ -27,6 +27,19 @@ Dit project staat op [master00J/Atlas-HCIM](https://github.com/master00J/Atlas-H
 6. Voeg `http://127.0.0.1:38877/overlay` als **Browser Source** van 1920×1080 toe. Voeg je webcam als aparte bron *onder* de framebrowserbron toe op de positie van het rechter webcamkader.
 7. Wil je alleen het voortgangspaneel, gebruik `/widget`.
 
+## Nieuwe compacte HUD (OBS/vMix)
+
+De standaardbrowserbron `http://127.0.0.1:38877/overlay` is nu **volledig transparant in het speelveld**. Alleen een kleine titel bovenaan, Current Goal / Current Step in een dunne bovenbalk en HCIM-status / voortgang langs de onderrand blijven zichtbaar. Er wordt geen paginavullende PNG meer over OSRS gelegd.
+
+- **Compact** (aanbevolen): `/overlay` als 1920 × 1080 Browser Source.
+- **Oude klassieke layout**: `/overlay-classic` (behoudt de oude grote grafische achtergrond).
+- **Webcam-frame**: `/webcam-frame` als transparante bron van 420 × 236, boven een afzonderlijke webcambron plaatsen en naar wens boven de inventory positioneren. Er zit geen webcamvideo in dit frame.
+- **Los voortgangspaneel**: `/widget` voor scenes waar een groter voortgangswidget wél past.
+
+De URL’s staan ook in `/control`. Dezelfde `assets/live.js` en bestaande serverstatus sturen beide overlayvarianten aan; er is **geen verandering aan de RuneLite sync of de Current Goal regels**.
+
+> De in-game Guide Overlay-HUD is iets anders dan deze OBS-layout. De compacte in-game modus wordt apart ontwikkeld in `master00J/HCIMAtlas-GuideOverlay`.
+
 ## Current Goal versus Current Step
 
 `Current Step` komt uit de eerste niet-voltooide stap uit Guide Overlay. `Current Goal` wordt **op de lokale server** gekoppeld aan de actieve guidefase, op basis van `chapter`, `section` en eventuele banknummers. De regels staan in [`guide/goal-rules.json`](guide/goal-rules.json).
